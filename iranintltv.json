@@ -8,67 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "سخنگوی فرماندهی مرکزی آمریکا در گفت‌وگو با الجزیره اعلام کرد پاسخ‌های مثبتی از سوی مالکان کشتی‌ها و شرکت‌های بیمه درباره «پروژه آزادی» دریافت شده و واشینگتن مسیری امن با پوشش امنیتی در تنگه هرمز فراهم کرده است.\u003cbr/\u003e\u003cbr/\u003eاو افزود این پروژه شامل تمامی کشتی‌های تجاری عبوری از تنگه هرمز است و هدف آن ایجاد مسیر و چتر امنیتی برای کشتیرانی در این آبراه است.\u003cbr/\u003e\u003cbr/\u003eسخنگوی سنتکام تاکید کرد فرماندهان آمریکا در منطقه از اختیارات کامل برای حفاظت از کشتی‌های تجاری برخوردارند و مسیری امن برای کشتی‌هایی از بیش از ۸۰ کشور فراهم شده است.\u003cbr/\u003e\u003cbr/\u003eاو همچنین گفت نیروهای آمریکا بر تشدید محاصره بنادر ایران و حمایت از پروژه آزادی متمرکز هستند و این محاصره موثر بوده است.\u003cbr/\u003e\u003ca href=\"https://iranintl.com/202605059660\" target=\"_blank\" rel=\"noopener\"\u003ehttps://iranintl.com/202605059660\u003c/a\u003e",
-      "date": "2026-05-05T18:15:35Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Iran International ایران اینترنشنال",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/GYW3RRDXWnJ-DCBBObEDcDBg0UYViFWXU53sQCCDmQl46yAouqPKI9wcjRnd_ibDgIAvFYCC50wV_pEYd25LceAYbW1Pb1WeXE0520bBMB4quM1-jIv8bcXuWu-jxcXhM_vTBobVGEYc9Qkk02P6GnT2Bc3W-tO-d6wt78LciqCvJPREcFFxTVrL0x1-ajCXQTN4vnRSMA8GrYnbmu7jImvXJJbK8QWsPhH1HfWyV51JheefjlLONyd2MGr_4aEZ_gPzqxLahBDX-1iv6kVJHxb3w5TVNBOgkya03vHH4N9UjmzNo0RpID_WvqBnv6RSM-7nJPn47PbN6Bw8vZanJg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "رسانه‌های جمهوری اسلامی ویدیویی منتشر کرده‌اند که نشان می‌دهد روز سه‌شنبه در محدوده تالاب میقان اراک آتش‌سوزی رخ داده است.",
-      "date": "2026-05-05T18:32:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Iran International ایران اینترنشنال",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/BQ4qQGYGDElMGkPWg47TtG10AeW-2OfSWwhcsU3NrdYGGX1ZP5uBWy0J1kzofAGQFTE6n-l3VXS_iKd3osOjBKMIpe7o7ba2ZNx_gAeCukgnTLcW4c84bb766J6dV3MX1AiGp5agoW6IGWfM3FdCwA35iH2Dlp6wLtNyZN26Xdw8f-OGVCnuGANUZYnHC5O7ivxJ5cEFHEn-G5lFKZH8zsW3XNW0RqQtWxs7ILxmR-GZ--wQ_OvGvdR4L1kP8_y8GcGRb7prk1h5OD3N4rP5rz_YK9oI2wJwQMwdzMpzwddhLWnD_coDsmO1nzV1gGE1t3AgGwV9zrEmteSEFM85nw",
-          "width": 1080
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "۲۴ با فرداد فرحزاد، سه‌شنبه ۱۵ اردیبهشت\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/iranintltv\" target=\"_blank\"\u003e@iranintltv\u003c/a\u003e",
-      "date": "2026-05-05T18:35:12Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Iran International ایران اینترنشنال",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/gquH9-q-r7_y05P0B99yeAMF4HucPR5ddKdkLJ2iJxtCBcaYvrHGjGGhMkTTv3cbCLFN-Q66QQeaJdxUwmY1I4pAGoGUszxWjzlouXK-44MUDHIYnK1kzfeuLSEFzjuA_Gq_jdH0jmQJNxHWHKhA-4SrCRes6WrHrHQrA60B2cfYLFGmuy_FrZ9cNaNwlj5hQoi849jQnPY_mbCEv0VrhBNSjnJhypBd-wVMmvE2ZgLSlGw44YsV-XGoovy46NtA_a3Xyh--geGy1YKMIzytZIOCsv5NgdvZ4eJRwbHq1AE80LZ5lZ5carAgJNqGtqFeajE0S8UtSZcVeq_6B9iCZQ",
-          "width": 426
-        }
-      ]
-    },
-    {
-      "id": 0,
       "message": "سخنگوی قرارگاه مرکزی خاتم‌الانبیا در بیانیه‌ای اعلام کرد: «نیروهای مسلح جمهوری اسلامی روزهای گذشته هیچ گونه عملیات موشکی و پهپادی علیه کشور امارات متحده عربی انجام نداده‌اند و چنانچه اقدامی صورت می‌گرفت، با قاطعیت و صراحت آن را اعلام می‌کردیم.»\u003cbr/\u003eدر این بیانیه آمده است: «کشور امارات متحده عربی امروز به یکی از پایگاه‌های اصلی آمریکایی و اسرائیلی به عنوان دشمنان جهان اسلام و عامل اصلی ناامنی در منطقه، تبدیل گردیده است.»\u003cbr/\u003eسخنگوی قرارگاه مرکزی خاتم‌الانبیا افزود: «چنانچه تاکنون در برابر جوسازی و کمک شما به دشمنان امت اسلامی و ایران، کوتاه آمده‌ایم، صرفا به خاطر امنیت و رعایت حال برادران و خواهران مسلمان خود در آن کشور بوده و هشدار می‌دهیم اگر از خاک امارات متحده عربی، اقدامی علیه جزایر ایرانی، بنادر و سواحل کشور ما صورت پذیرد،  پاسخ کوبنده و پشیمان‌کننده خواهیم داد.»\u003cbr/\u003e\u003ca href=\"https://iranintl.com/202605056810\" target=\"_blank\" rel=\"noopener\"\u003ehttps://iranintl.com/202605056810\u003c/a\u003e",
       "date": "2026-05-05T18:38:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30500,
+      "views": 38200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -86,7 +30,7 @@
       "date": "2026-05-05T18:53:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25000,
+      "views": 34800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -104,7 +48,7 @@
       "date": "2026-05-05T19:02:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21600,
+      "views": 31300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -123,7 +67,7 @@
       "date": "2026-05-05T19:03:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22600,
+      "views": 32200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -141,7 +85,7 @@
       "date": "2026-05-05T19:10:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20400,
+      "views": 31800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -160,7 +104,7 @@
       "date": "2026-05-05T19:11:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20400,
+      "views": 31200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -179,7 +123,7 @@
       "date": "2026-05-05T19:20:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17000,
+      "views": 29900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -197,7 +141,7 @@
       "date": "2026-05-05T19:23:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14800,
+      "views": 27800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -209,7 +153,7 @@
       "date": "2026-05-05T19:27:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13700,
+      "views": 27300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -228,7 +172,7 @@
       "date": "2026-05-05T19:28:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15900,
+      "views": 30300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -246,7 +190,7 @@
       "date": "2026-05-05T19:28:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15800,
+      "views": 30300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -265,7 +209,7 @@
       "date": "2026-05-05T19:35:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14600,
+      "views": 30500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -283,7 +227,7 @@
       "date": "2026-05-05T19:39:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12500,
+      "views": 30200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -302,7 +246,7 @@
       "date": "2026-05-05T19:50:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8930,
+      "views": 30400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -320,7 +264,7 @@
       "date": "2026-05-05T19:54:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5700,
+      "views": 29800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -339,7 +283,7 @@
       "date": "2026-05-05T19:56:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4490,
+      "views": 29700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -351,7 +295,7 @@
       "date": "2026-05-05T20:01:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1110,
+      "views": 32500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -362,7 +306,63 @@
           "url": "https://cdn4.telesco.pe/file/F3nzScAMlZ8zELtdNcMbg3xNSuvp_iYTubmGc1auNin6mHL49yDNfAtzkjJoilC_heXyv_plgt4o3qjF8ShKu2zV86esc1ZvWL-atEsqCnxraKKmMJS9K81WVlg4H1H9sSxaZPDLEPBQTFN8V-urE9HLPYPENRf2a-nslpBDSHi3HRV1yKQhFy4ohImw5Mbz1UqSWYShW45vBJc6FvSxpye31Iojka3GYYDs14XM-_Fe5gC7LLLRrkFYb1vS4L2SydNaya2kPB3gH0JKd5ejGr58hxRk4eTyA_l34u4fkY8FlFTSv-Rj64PS5I1RUSRD_Wyv9q8WAl5zfqVxwX33NQ.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "مارکو روبیو، وزیر خارجه آمریکا در بخش دیگری از نشست خبری خود درباره مردم ایران گفت: «فکر می‌کنم رئیس‌جمهور ترامپ معتقد است که وضعیت مردم ایران زیر این رژیم واقعاً دلخراش است. من قبلاً هم گفتم کشوری را نمی‌شناسم که در آن فاصله و شکاف بین مردم و کسانی که کشور را اداره می‌کنند به این اندازه زیاد باشد.»\u003cbr/\u003e\u003cbr/\u003eاو افزود: «این کشور توسط روحانیون رادیکال شیعه اداره می‌شود، و این تصویر واقعی مردم ایران نیست. مردم ایران شاید شیعه باشند، اما رادیکال نیستند و روحانی هم نیستند. آن‌ها فقط یک زندگی عادی و طبیعی می‌خواهند؛ در بسیاری جهات کشوری بسیار مدرن با تاریخ و میراث فوق‌العاده.»\u003cbr/\u003e\u003cbr/\u003eوزیر خارجه آمریکا تاکید کرد: «مردم ایران هر روز قربانی این رژیم هستند. و رئیس‌جمهور نسبت به آنچه بر سر آن‌ها می‌آید همدلی عمیقی دارد.»\u003cbr/\u003e\u003ca href=\"https://iranintl.com/202605054722\" target=\"_blank\" rel=\"noopener\"\u003ehttps://iranintl.com/202605054722\u003c/a\u003e",
+      "date": "2026-05-05T20:29:34Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 24600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Iran International ایران اینترنشنال",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/LIbrE-ybWPatUzwwNgyQeEuswB2Y9xM1shdfTBqsSC73J7ZH_otcayHt5TnsAyX6OCQB9W6k7sumXqdNYoG_PxUCWlVkFWrcIc4fLeDgZlcApRf0NUvztiIhDB4qCR3Wuw8u3AvanSRRNY1BY345TxrKlxh8Jl9ngO5rQspJKBb4cMpkBgjIdHgawm3xmKzk-M_kf-ZKcQyYl4_sxWllCEd4pbZUKIS3QKa_kcM3kwz6_mt-cWU4VCDGOBHrQJ9BxPG-DhUewP1-V48SU6Poup1zzybslSk6nvkrxrn3Se4G8ZPLoS9egPmrjVHxRPTYs9O2hoaFznuqJd4jkLdjcQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "وزیر خارجه آمریکا گفت در چارچوب «پروژه آزادی تنگه هرمز» تمامی کشتی‌ها اسکورت خواهند شد و این اقدام ماهیتی دفاعی دارد. او تاکید کرد در صورت هرگونه حمله به نیروهای آمریکایی، پاسخ واشینگتن با «قدرت مرگبار» علیه جمهوری اسلامی داده خواهد شد.\u003cbr/\u003e\u003cbr/\u003eگفت‌وگو با امید معماریان، تحلیل‌گر سیاسی\u003cbr/\u003e\u003ca href=\"https://t.me/iranintltv\" target=\"_blank\"\u003e@iranintltv\u003c/a\u003e",
+      "date": "2026-05-05T20:45:52Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 19900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Iran International ایران اینترنشنال",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/RsndbmN35WjYkUCGYnKmOs7sb56Q8Tqqb6E_9U5BTM9iEMlNrCB3_xa_o68Zr2ndX3VZX-p11a3Rw49nCQ_06xCcraY3rzs9Z-4o53eTiCKb8OfGAn2h-3HMilbDL1-Fs40H1hHocoX2RsFcBPAlTnfiOVzV5YpLsXJlvV8VnikIX_afdeirebE0uJezxywvlmYAhAB0JDITFQCX0Km0P-RE1Zjrt8AlR-AWx5Yk916gTpnO-A0wv8CHcPNqxI-zLubMjxAW2IeqfvE8vpfylORepY0K_pgfDXKFtGsv_Q2wwHM9hpbaSGnDmRrdVncrdj1tVelFHX5vI0xagciHKQ",
+          "width": 426
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "پیت هگست، وزیر جنگ آمریکا در پی حملات جمهوری اسلامی به امارات و تشدید تنش‌ها در تنگه هرمز، در نشست خبری خود بر ادامه محاصره دریایی ایران تاکید کرد و هشدار داد این محاصره به‌صورت فزاینده و ساعت‌به‌ساعت تشدید خواهد شد.\u003cbr/\u003e\u003ca href=\"https://t.me/iranintltv\" target=\"_blank\"\u003e@iranintltv\u003c/a\u003e",
+      "date": "2026-05-05T20:51:15Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 18600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Iran International ایران اینترنشنال",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/kfIa2b4iAe4Hrz6FOmys3rHxl1599xEfIqoOvxKI9DL6ujVe7-mWzWnnY8luAYQp0VS1wznmOnDzHDDj4ZsCPuEU2Zx_JtdV9esr0DEH8FSDED4vUh4Y3i6XPbkH-PMQRKnsJT3ocN59yeb_lp4ZUUvotsvRsz7OzHf2IlXybcIwxNdFbIb0md0jjGj7gfuV02lUxocxif9m-VuqS44E-ybMMId49T0R9SmEC1rpJjXpZRiQf19QFFhk457NqdvHSyZXkzn6pV0nfKlot6YgtFUkunL_ncPWh7EIgc_54_Pbj97s4Nyj8dYI-eMhVgrNAjg7FXh2-oz0y_LeYaCg7w",
+          "width": 480
+        }
+      ]
     }
   ],
-  "last_updated": 1778011347
+  "last_updated": 1778016756
 }
