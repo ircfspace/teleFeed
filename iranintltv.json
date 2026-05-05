@@ -8,271 +8,11 @@
   "posts": [
     {
       "id": 0,
-      "message": "ویدیوی رسیده به ایران اینترنشنال نشان می‌دهد تعدادی از شهروندان ایرانی در لندن مقابل پارلمان بریتانیا در روز سه‌شنبه تجمع کردند. این ایرانیان به ادامه اعدام معترضان در ایران اعتراض کردند.",
-      "date": "2026-05-05T16:48:18Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Iran International ایران اینترنشنال",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/O3sAWkOX7ogmBuZ1vk7n2e1ZD7270qOOGP2u_ndHso9QHPFGQ1BV4c1sPbNbh5HXWgsFA3Qd5ft8aSoM9gZesMWOpR5Fd_oG4bm_4yWmKqGt_v0FpMGQwL3kbZhydTHjCmaNuAn582QYqOulZ4UCG40rOE6W_GG8-8awD5S7w4JXY0cQxc-FTEfZhgauiZyFZFK80QFDOqlgK2YZYse_-Jqy7Oc8tgg89YYJ8xE2d6D-DRYZwOHqPI57Mh8rAc0llom-m4ERh6ni6_eyA4zVUXetk5m5CiVLmW9bewJymRouNAlw2FBNLaFXkFnY2Q6E3hm4g3FPxV3z8KlJFuJg3g",
-          "width": 1080
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003eوزارت ورزش دولت جمهوری اسلامی با انتشار تصاویری از حضور عبدالحسین خسروپناه، دبیر شورای عالی انقلاب فرهنگی، و محمدحسین حسنخانی، معاون فرهنگی و توسعه ورزش همگانی وزیر ورزش، دو آخوند حکومتی، در تمرین تیم ملی فوتبال و دیدار آن‌ها با امیر قلعه‌نویی، سرمربی، و بازیکنان تیم ملی خبر داد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/iranintltvsport\" target=\"_blank\"\u003e@iranintltvsport\u003c/a\u003e",
-      "date": "2026-05-05T16:50:25Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Iran International ایران اینترنشنال",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/nBGM6PltONFL1d6XEOT9E4F-UjBusag0kg921lo2ipHtvqHn9uVz2e9X0tCIUWXR_A-Qg37-kembbVmbQTyBAk1km11UPwuDbx5miaWNB_GBpw1d6xV3dilm0W48sBmWYkuueHvUkKRl3E0pxmMBoF6BpmwpMZCn3W9aJvcZ5GrQ4FQHshU6ZXsRA3yaHVZEH-NFl4Oa5whRpF-XD_j5RAxCLnaor6gJI3_9fFEO45MM9JWejq4DftAFaqYUfVL4MYh2S5iC1cWYvK0CkPbKr9Pzb_dcn-clctlCwJmp_pGenGpAsmjgvszWNxNm4x9MdYqbhJ_rXOYzovxhZlLUDQ.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/YXgGNNUgbON8YA6nN_S2g_b5n5vrfO9SUjFwDcoQF2fVcDsS_P3CMt3qB1L1NBakdErTnXwBOSXZLBB3oV4uWp3BQJDWI3oowOi7i7BnPF29QnPhXrYCB97Pu4R_7X_PVj8fZmFEe1hyAwLAREFrgVWDNTTOdrGa2wK1DhDpfOWH_WE2fq36hWeWwWEHGIShJxLfETkMxIFos2viyYjcUd7LmtC8hbImuxZ1jYJmXUdIvKuJb_SMCH0u4JEX7S7cNYxfshxkaDPshORcLgi3KKk_RW4LjKmsU7edLWO3jb1aDJokRzhg2-Gd61EGdMt56LntvT_oY-B7hCyknxr_QQ.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ARVqm9ZtHwFxYbxanj7lbiaKXAO2elyr1QkT9Q7Y1goEL4h26XfJ4sEL0DWYrZexdFdXRhWufUQu-sln1EAADODja5nl9jrALr2DnooFRYpUzZ_tzRmGi242ke9yIhQEOvo3c4i6SKL5nJsakwI1O4B3RPF6PsAI8VZGZzAyKWPIlCawBrNGr5X-DwzTq5UvyhSX-zVcDzrcgAFutxXdSAZxo9O_Yvz_C-aGTMp4rjWpBZPBziyLv1fUXIG4aKOoxJGg2WP2_rYi3RPjWPaUuV63BvpK_uKlgJhXPqpCZAfIAh4r5POp60Iw7yDOvH3fhIcf6Wn1oSnZjbDLmlhoqw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "اسماعیل بقایی، سخنگوی وزارت خارجه جمهوری اسلامی، در واکنش به حذف تیک آبی حساب کاربری‌اش در شبکه اجتماعی ایکس نوشت: «این اقدام، سانسور و راهزنی دیجیتال با هدف سرکوب حقیقت درباره جنگ آمریکا علیه جمهوری اسلامی است.»\u003cbr/\u003eاو افزود این لغو تاییدیه با وجود پرداخت کامل اشتراک پرمیوم پلاس انجام شده است.\u003cbr/\u003e\u003ca href=\"https://iranintl.com/202605058571\" target=\"_blank\" rel=\"noopener\"\u003ehttps://iranintl.com/202605058571\u003c/a\u003e",
-      "date": "2026-05-05T16:54:15Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Iran International ایران اینترنشنال",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/YOFI4JSC5ufSK-_T0pgLurLHd1pBX1h16BCe5SFMjPlQEdQbPF-wwaFrj9K9MF2iNcbIdQttjDDdvMgEsSwUbaZ9vbSo4gq1osFl8PZ-plZbGvisBbtVbrf1QP6Z162BCrUMcSWyEk5mXEaM_Cwj6S25d5v3yLhVGZ2Y6wNiMVFkdnSo7RK3XMMtXgHuv4pbiC4wHQ4j51kH_GKocPn54CVfzR971Fs0EnqS-rMf-W_qRz2DJnwPfSnMn_pVuludAm1FaWb4DYIF1hBUTz1XmkIMJe55o944NGPmKH_DNfCswTkrrjzDLLTJ32aMqUp4NUvYMioq6HssE_cwxVdU6g.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "دوستان، با عرض پوزش، «برنامه با کامبیز حسینی» به‌دلیل هم‌زمانی با کنفرانس خبری مارکو روبیو، وزیر امور خارجهٔ آمریکا، امشب پخش نمی‌شود. \u003cbr/\u003e \u003cbr/\u003eفردا شب، ساعت ۱۱ به‌وقت تهران، با شما خواهیم بود.\u003cbr/\u003e\u003ca href=\"https://t.me/iranintltv\" target=\"_blank\"\u003e@iranintltv\u003c/a\u003e",
-      "date": "2026-05-05T17:02:53Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Iran International ایران اینترنشنال",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/jIwuqNMdOpv3TsulJOgIqHTjNY6B3_pZXnk-9CAhLcPaM8E2pKGmI6EIn_85u_iY4wJ6cdwg7KHXslnKJi_HJFuT4DDpdr0zoS3aavSjYlx1MHKFhG8ii5g5HdOZn0AWg5l3TGZIKG3VW-wD_6LeVb8ExsNUpto6ljme2eGBT0J6FSEix4PwfrYqCBra0i_aKcQEfvaxKPf7DLvPRsDbOEHTYu5gyCvUviNP2xPsM87ZVtBkftR3lE-s7Tax_WJIUdtfLfKXqYfC7PbGNMsDMBkVE7fu7IeUex54TbUD5qX5UkI367b3jUMQ_Qp530nFmmi5R90d-AcPxY7UW4uBqw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "شاهزاده رضا پهلوی در شبکه ایکس در پیامی خطاب به کشورهای عربی منطقه اعلام کرد خاورمیانه در یک نقطه عطف سرنوشت‌ساز قرار دارد.\u003cbr/\u003eاو افزود دو مسیر پیش‌روی منطقه است؛ نخست تداوم بقای جمهوری اسلامی که به ادامه خشونت و جنایت علیه مردم ایران و منطقه منجر می‌شود، و دوم حمایت از مردم ایران برای بازپس‌گیری کشورشان از یک نظام فاقد مشروعیت که می‌تواند به «بازگشت صلح و ثبات به منطقه» بینجامد.\u003cbr/\u003e\u003ca href=\"https://iranintl.com/202605055753\" target=\"_blank\" rel=\"noopener\"\u003ehttps://iranintl.com/202605055753\u003c/a\u003e",
-      "date": "2026-05-05T17:08:05Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Iran International ایران اینترنشنال",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/gtdPys74KAmWSZywNA0nnZGPgxC1y4PC57unjXMg0I1NSmOqqc3vQ96fe4H2Jm0SF4b8hyY-NEOWNLTKdigh1DJvSNF2Cfq9iAgXrA2eMJ1mAqcMROqmA8rft6QfJh-V_NupUu_jvPjExXeTCZTGBCxMAuHSaZXw1XELMwVd3qUO2GYmM7qJfu5zYmmCZ8PCfyNgabUkdJ_c2IvfqacqAt6-fCCljFsMpQBqapmdJzF3REOur3EUu4R3Ov3cETnRFahozFhbJpm6JoGw_MrgboE9iRl8tKNFND28xjEYmDLDnZVePMMlSl2OhNwFRh-JgHv0pK6wSpZl5We7BITrLA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "رییس ستاد مشترک ارتش آمریکا از بررسی گزینه عملیات زمینی علیه جمهوری اسلامی خبر داد. همزمان منابع اسرائیلی از هماهنگی با واشینگتن برای دور تازه حملات گزارش دادند.\u003cbr/\u003e\u003cbr/\u003eگفت‌وگو با سمیرا قرایی و بابک اسحاقی، خبرنگاران ایران‌اینترنشنال\u003cbr/\u003e\u003ca href=\"https://t.me/iranintltv\" target=\"_blank\"\u003e@iranintltv\u003c/a\u003e",
-      "date": "2026-05-05T17:16:36Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Iran International ایران اینترنشنال",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/RlIX-Zvd8XwHyIYLAqnFLSRxKwP_efd4RQM9WsC8yjyCMT6kR06w2sF4mC4JYiB3Q-4VnqOEb_MNzYVysbHQhRuYqNwfCCxlOaO9Oeq5WEmOjN_NnYpSTJtZaFJh4zEmy7XyvgaCWBhpNCI40thNoddCRJP2M7x5nmLdn7fdBtKs6vQM1uiMF_uqTxXFSIkJjw637mjee58ToJi9hDUx-PnsF1KkElnhkxp-nIN1wyYlBS4uKGawQTLfod7RmpTS7aqcXOUXb3T4OY_-wMmnFGddwSi_a1TxM0XyLWUYk6Mq3Kp9cxlNvLyPFjVLM_W2QhsU7Oe5sBxLCRPQ885y2g",
-          "width": 426
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "نیروی دریایی سپاه پاسداران روز سه‌شنبه در بیانیه‌ای خطاب به شناورهایی که قصد عبور از تنگه هرمز را دارند اعلام کرد تنها مسیر ایمن عبور از تنگه هرمز «کریدور اعلام‌شده از سوی جمهوری اسلامی» است و هرگونه انحراف با برخورد قاطع نیروی دریایی سپاه مواجه خواهد شد.\u003cbr/\u003e\u003ca href=\"https://iranintl.com/202605052960\" target=\"_blank\" rel=\"noopener\"\u003ehttps://iranintl.com/202605052960\u003c/a\u003e",
-      "date": "2026-05-05T17:20:14Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Iran International ایران اینترنشنال",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/nWF2WYQG3GKyhYDHP4zpDY2irzyX9nLh6LvW_SBqKIIfIOs29x8JvNmuzSVcjSqROXuB2bqZXhtA9Hr-8NHUhLX5QBNRu3xidO84CDq2c-kzivU8OgaimZFusmvFR5k-lMValNVFzXDpi49pujMrMV0h_mPD8bz4hHNVvG6sWdSxImdeq1fuRINXUndfmSPU9dRDYFYaIqKDKeBqqYaRk98Wjluzf9E4210d_WGbr2P9RnDrdyRq57wE5Hu_vo4H5rXxQTriLo2xXb3MXmyx32pCNSc8ok0Ng91yb2fDt2E-Nhh0b6XhNXUAoo3JDrjgsx43soBbadXIuS8uGJrW6w.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "یک شهروند در پیامی به ایران اینترنشنال از تجربه خود درباره واریز شدن پول به حساب بانکی‌اش پس از شرکت در تجمعات حکومتی روایت می‌کند. این در حالی است که مقام‌های حکومت و رسانه‌های آن پرداخت پول را بارها تکذیب کردند.",
-      "date": "2026-05-05T17:20:42Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Iran International ایران اینترنشنال",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/qk_p9qDTebMmvvpt32pD4h3lZPrB8KhGTFEIi2oL1qGbHAJN_MZ3dbZyKWbsdV1S6Alqrfmhv_VaYMrRGi1w_PvJcGHijl4jg19WQxO4WC0Xt8WNMD04UcyGKUg_-It6MVlqDaXWAn_NecWqDrgP82vugIVgujBGABSsKZhOutiDhgiOQkW2QRG4HVrYDdx6YMkT09ZG-Ip75E8BZyPsPxQEOz_Jrqxr-GjBR-ylbfzc-BwyKVjEJLI6rItLgOSqZeYXYiSZ5uWWRxsQcB5oI-vddm1SYTYE_QLO_gYFUOBEXCMV41pftbn2cFUhZXpY0bojZq547gkZmYKcGKX2_w",
-          "width": 1080
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "ابتکار آمریکا برای بازگشایی تنگه هرمز با ادعاها و تکذیب‌های متقابل همراه شده است؛ از ادعای جمهوری اسلامی درباره آسیب به ناو آمریکا و عقب‌نشینی بعدی تا گزارش سنتکام درباره انهدام شناورهای سپاه که از سوی تهران رد شد. در نهایت گزارش سی‌بی‌اس نشان می‌دهد واقعیت احتمالا ترکیبی از هر دو روایت است.\u003cbr/\u003e\u003cbr/\u003eگفت‌وگو با کوین آیر، کاپیتان بازنشسته نیروی دریایی آمریکا\u003cbr/\u003e\u003ca href=\"https://t.me/iranintltv\" target=\"_blank\"\u003e@iranintltv\u003c/a\u003e",
-      "date": "2026-05-05T17:55:24Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Iran International ایران اینترنشنال",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/JD3MB-b11tWkQtGIKOkcnBYTJtmALiWtGeg3EqqBe_ixLIMr43AhlYBOYvJCJTUJUEaHHP0QFV86-CqgFi4ereyXNENQMfPeft4yfzJBVd9fZ4ls-LWIMZLC80KkyMZlr6AO-3SloXKqxAmwHcuDDawlt93zF77_vim5Tkc6BPw9m2T4dNsLKQKP_lYkTom0fIMFJ0S8osKHgvQsdEhOoOhfObzPzg1eCxLLivCiMPBv7e_HKFH7zNfHqIdXJ0EyuPjNO_f3eCal1WFDxpl-nWnMd3I36wwFB8EDnPfgftRtXi4lTG4sqpKDU9adT_yvhM4vDmAD7QZrwIe1h_me7g",
-          "width": 426
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "مهدی مهدوی‌آزاد در برنامه «چشم‌انداز» گفت هنوز هیچ نشانه‌ای از پایان رسمی دوران علی خامنه‌ای دیده نمی‌شود اما همزمان گزارش‌ها از اختلافات جدی درون حاکمیت حکایت دارد. به گفته او برخی مقام‌های دولت با اقدامات «دیوانه‌وار» سپاه مخالفت کرده و این رویکردها را عامل کشاندن ایران به سمت بحران می‌دانند.\u003cbr/\u003e\u003ca href=\"https://t.me/iranintltv\" target=\"_blank\"\u003e@iranintltv\u003c/a\u003e",
-      "date": "2026-05-05T17:57:28Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Iran International ایران اینترنشنال",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/K9vYaw-Hlh2dZyMXkiQAp3c0WB5noe_BSe5o-eN5hDGCXYz2P892IGI3UqMskteBvmJQduN_G44gpV7sVkBRCoqdwSV01aahEDxqgmtYi0uw1uR-tHkMGPIIqdZ_WGm_04omBvPIZ37NqOlGjBIJOuX3xQoqRY8SPb2Zp-o4795HI1PM733AlOHmUox0xUQ_vXk1FP6hE-8xrXpjVbnUsmbpBBWSCBtTn70m9mWcPTvTjzFOfc_kHex90AVYooKELWxmpmrvDaIk4wK9KyazkQKmFgXhGZ9a0o4apf6nKGQwCvrXq_qzWPNLasc1VKQCr9F_LpYIDsnAxEmvnDukJw",
-          "width": 480
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "مسعود پزشکیان در گفت‌وگو با نخست‌وزیر عراق گفت جمهوری اسلامی در چارچوب قوانین بین‌المللی آماده گفت‌وگو است، اما زیر بار زور نمی‌رود.\u003cbr/\u003e\u003cbr/\u003eاو از نخست‌وزیر عراق خواست در تماس با مقام‌های آمریکایی توصیه کند تهدید نظامی را از منطقه بردارند.\u003cbr/\u003e\u003cbr/\u003eپزشکیان همچنین گفت «قدرت» جمهوری اسلامی پشتوانه‌ای برای مسلمانان و شیعیان است.\u003cbr/\u003e\u003ca href=\"https://iranintl.com/202605052660\" target=\"_blank\" rel=\"noopener\"\u003ehttps://iranintl.com/202605052660\u003c/a\u003e",
-      "date": "2026-05-05T18:02:04Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Iran International ایران اینترنشنال",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/c0A6iHkmyFUNxFLVoBprYIJuwaQ5v-D9OBV3qsuvH0r6rp9l0R6ATzb_8x6yz23UZlXJWd2HfEe0yWKjRCEKHnVG1Wl49_NvzKIWkFkKQ4LNcJuaNt4A66ppY34trJVH-m1f4DB8gC96Ak9PkB_CltA-z3qweIdrU2MR78amEF2EZ736l5PcYs9J5PPRajB8rxymuPD38-Jkht-4Pg8g22odWrLWobeg9AheBsw470vQMaa70ej7KQE-xTsVLidNrxe3AHwb63WHulpVoHFS1rDVXLSBhDATgD1vPYb1WKx1aDpgCnF-wn9n2iL7NHiEK1NyHMeml-yIg2FzUYZP1A.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003eعلیرضا دبیر، رییس فدراسیون کشتی، در گفت‌وگویی با رییس اتحادیه جهانی کشتی مدعی شده است اگر آمریکا با تیم ملی کشتی زیر ۲۳ سال ایران رفتاری مشابه با تیم ملی فوتبال داشته باشد، تلاش می‌کند با همکاری «کشورهای صاحب کشتی» میزبانی مسابقات جهانی ۲۰۲۷ را از آمریکا بگیرد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eمسابقات جهانی کشتی زیر ۲۳ سال قرار است مهرماه امسال در آمریکا برگزار شود. آمریکا در سال‌های اخیر برای برخی ورزشکاران، اعضا و همراهان تیم‌های ملی کشتی ایران، از جمله شخص علیرضا دبیر، ویزا صادر نکرده است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eاز سوی دیگر، در ماه‌های گذشته ابهامات زیادی درباره صدور ویزا برای اعضای تیم ملی فوتبال مطرح شده است.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B9.png\u0026#39;)\"\u003e\u003cb\u003e🔹\u003c/b\u003e\u003c/i\u003eمارکو روبیو، وزیر خارجه آمریکا، در اظهارنظری گفته است ایالات متحده با حضور تیم ملی فوتبال ایران در مسابقات جام جهانی در این کشور مخالفتی ندارد، اما درباره همراهان تیم گفته: «آن‌ها نمی‌توانند یک مشت تروریست عضو سپاه را به‌عنوان روزنامه‌نگار یا مربی ورزشی وارد کشور ما کنند.»\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/iranintltvsport\" target=\"_blank\"\u003e@iranintltvsport\u003c/a\u003e",
-      "date": "2026-05-05T18:05:26Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Iran International ایران اینترنشنال",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/U-hSUXLYa1kCGXWTLrokab8fEFtTtocT7lKWjDF_ghxW20B3jB8KvuKdLafJslf509nWVhY6lAoxS6GcHwwdlrpEo47YSdWoz4E4Sob9NAQ5FKbD3rD5HRTXyreaQsIq-VaFlr9vE_wiofe3_0NSNkysqsYqrSfU9G-ds1sNKT2y9WPuVxghWbNaEVXzZdV03iQ-54D-HGTEDx-aRDL3LBEY2ZPlZCTq-YuxTmVOQFtmv7i2FcyqxKfuRIxJZp9vZiBHMyZKDjcDfOg3F8glJKzEgmS0zI7Nqwc-Y-6AVbpx9OoSDdsbGr_ZPzP9Cgynjy2kr203CdRPGu5xfvp6Ng.jpg"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "ویدیوی منتشرشده از مراسم مد و طراحی لباس مت‌گالا نشان می‌دهد سرگئی برین، از بنیان‌گذاران گوگل، در این مراسم روی لباس خود در حمایت از مردم ایران و انقلاب ملی یک پیکسل پرچم با نشان شیروخورشید را نصب کرده است.",
-      "date": "2026-05-05T18:09:24Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Iran International ایران اینترنشنال",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/ZOnp7EcILmXHTyc9N40CKOm4UUM4rBzjKaGB7lshNiK8oP8f5P4fN0jtvczt77_qoxbZ2-DIP_J3TUdAEnfjTLBwxzclg1xP5an8lJGKFgCmkzo-8ZrrB9HCLWU09HEkuuB6UvFGPrpCLA9Re5er6fxl7wV3NbNyjgKdgAXZLjyNJV9vs5_-2xYIp4mz6t5bxDRIYu-Ja7bhj9kxBNwm3Iqsj6_QTR9DkxUJLMB3IbYqe1-ZxxdnZPQK7AVYxTw9iEtyMYE8V2TbyFZstQnd2auYhRwnlKQv7SHKdk0jxqS6cfaZxmLMANWT2VY_lPkD5BmSUyrstdsaXlnA55EaFA",
-          "width": 1080
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EA7.png\u0026#39;)\"\u003e\u003cb\u003e🎧\u003c/b\u003e\u003c/i\u003eنسخه صوتی تیتراول با نیوشا صارمی: موج دوم حملات سپاه به امارات؛ ترامپ:جمهوری اسلامی شانسی ندارد،آنها مریض‌اند\u003cbr/\u003e\u003ca href=\"https://t.me/iranintlTV\" target=\"_blank\"\u003e@iranintlTV\u003c/a\u003e",
-      "date": "2026-05-05T18:09:39Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "Iran International ایران اینترنشنال"
-    },
-    {
-      "id": 0,
       "message": "سخنگوی فرماندهی مرکزی آمریکا در گفت‌وگو با الجزیره اعلام کرد پاسخ‌های مثبتی از سوی مالکان کشتی‌ها و شرکت‌های بیمه درباره «پروژه آزادی» دریافت شده و واشینگتن مسیری امن با پوشش امنیتی در تنگه هرمز فراهم کرده است.\u003cbr/\u003e\u003cbr/\u003eاو افزود این پروژه شامل تمامی کشتی‌های تجاری عبوری از تنگه هرمز است و هدف آن ایجاد مسیر و چتر امنیتی برای کشتیرانی در این آبراه است.\u003cbr/\u003e\u003cbr/\u003eسخنگوی سنتکام تاکید کرد فرماندهان آمریکا در منطقه از اختیارات کامل برای حفاظت از کشتی‌های تجاری برخوردارند و مسیری امن برای کشتی‌هایی از بیش از ۸۰ کشور فراهم شده است.\u003cbr/\u003e\u003cbr/\u003eاو همچنین گفت نیروهای آمریکا بر تشدید محاصره بنادر ایران و حمایت از پروژه آزادی متمرکز هستند و این محاصره موثر بوده است.\u003cbr/\u003e\u003ca href=\"https://iranintl.com/202605059660\" target=\"_blank\" rel=\"noopener\"\u003ehttps://iranintl.com/202605059660\u003c/a\u003e",
       "date": "2026-05-05T18:15:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19200,
+      "views": 32800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -290,7 +30,7 @@
       "date": "2026-05-05T18:32:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12300,
+      "views": 29400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -309,7 +49,7 @@
       "date": "2026-05-05T18:35:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10200,
+      "views": 28300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -328,7 +68,7 @@
       "date": "2026-05-05T18:38:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12100,
+      "views": 30500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -339,7 +79,290 @@
           "url": "https://cdn4.telesco.pe/file/Zkisdu0hYrhEDp9LPxCCVx9IdOs_X27BhwLbZyrthZnOakTkg-embZ-XN9Tx4fcBnzOErDMOm5NPMLJtEKB75U8bif2d7nNwjRG9sjEUdAmx6FOcQhH7JqPHUVw3GoRth79sUw2nxCSEhpH_PrOEfyetPP-LtIxbfEwVa4HfUh6lsee1ArNmCAfAPbo5uHQ_xVEbhQrs-XCnmRWiLCO4sGjZdKov91vpuEoLRCA9lh9OgcnDm7uSYRyT-2aTRhXfsMgeo-M_XKeW2T33NHuMXQDsD42xNtQsFL9BA-XauV7_tss0CYdjWIQ1hGNCyPGWFloiYihmc9YuYgCqe1LpAQ.jpg"
         }
       ]
+    },
+    {
+      "id": 0,
+      "message": "سخنگوی قرارگاه مرکزی خاتم‌الانبیا، امارات متحده عربی را یکی از «پایگاه‌های اصلی آمریکایی و اسرائیلی به عنوان دشمنان جهان اسلام و عامل اصلی ناامنی در منطقه» خواند و افزود: «هشدارمی‌دهیم اگر از خاک امارات، اقدامی علیه جزایر ایرانی، بنادر و سواحل کشور ما صورت پذیرد، پاسخ کوبنده و پشیمان‌کننده خواهیم داد.»\u003cbr/\u003e\u003ca href=\"https://iranintl.com/202605052674\" target=\"_blank\" rel=\"noopener\"\u003ehttps://iranintl.com/202605052674\u003c/a\u003e",
+      "date": "2026-05-05T18:53:22Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 25000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Iran International ایران اینترنشنال",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/eiLN8P15FmBC6g51kTF54pQYPq9Kdxe6QlTmt9SxTp5ceyRwDGhsR-HN-wlpSGpr6mYNfrwhiJPRbiwkcO4F8-uU0TO6XpGOPT2RG1B8qp-aEaorizL4gp2CStD6QuoJOb7c9uikzxyRJ0-VYRfz3bPZ7qQU986c-tp5lEz33fHnW4uS3sNGk-A_eI2rVInkPDq6UjQIdRsmyXlFmGRK-e9u6GV-OaGUypj1OJ6_IKBzxTWku-TThR4zLgDmB-fovXfZ0N2DvYpaVzhHsPldjJq-jxtPz1EejIkX2LcBXnwtBZn4r1W90i8L3ZUYlewjvXxM2nwuec3SQ526wsiylg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "برای دومین روز پیاپی، جمهوری اسلامی حملات موشکی و پهپادی به امارات را از سر گرفت. همزمان ترامپ این وضعیت را «درگیری کوچک» توصیف کرد و گفت ایران هیچ شانسی ندارد و اجازه دستیابی به سلاح هسته‌ای داده نخواهد شد. گفت‌وگو با فرزین ندیمی، پژوهشگر ارشد امور دفاعی و امنیتی",
+      "date": "2026-05-05T19:02:52Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 21600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Iran International ایران اینترنشنال",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/AJuBXxjBTdpkV7_Jf9MJQcSDW9EYUMmNZqGCWFxqcyxym_K1W1VDdygHAxCbo1AaqOIcNQOA1pjTmCdKp_TJ09r3WO0EKq2xBQFuia7-KX8TGAjqZ0rkeaKF7nyBuhZ77v_kUUg5spqMbtH2XTw08ZA96IAib2nGyCecwD3B5ZYCeRVqgcvWplaSZMHvM9f3lssgG-mPOYgxoS2s3bNiyFycQljqccJ5D8mFMKiNII387Q6FPnARqzUj8OpTWWiTAvoI5BQSz2g-hIC3Q1A7I01N54XxCaXFmUKOW0fX_RrQhqfoVJ8s4_FtHu_ncqMiz0XViyuON0Ark7EZKd83Jw",
+          "width": 1920
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "فرمانده جدید نیروی هوایی اسرائیل اعلام کرد این کشور در صورت لزوم آماده است «تمام ناوگان جنگنده‌های خود» را علیه جمهوری اسلامی به کار گیرد.\u003cbr/\u003eاو افزود که اسرائیل تحولات مربوط به تهران را به‌دقت زیر نظر دارد و در صورت نیاز، آماده اعزام کامل نیروی هوایی به سمت شرق است.\u003cbr/\u003e\u003ca href=\"https://iranintl.com/202605055300\" target=\"_blank\" rel=\"noopener\"\u003ehttps://iranintl.com/202605055300\u003c/a\u003e",
+      "date": "2026-05-05T19:03:49Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 22600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Iran International ایران اینترنشنال",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/CILGP6vY6HvmslkPEgJ98ucgmwP3OHK6Wjl2OZdT-yNclEpyUwbsdTdG960COX4NFQvc35zRZbq_y9kBDNxs3pNU5J_8t0_56XdCuk2sKqDGeAgO7psB-sEKVjlsgAeZ1eOANnqSXQR_2TfzU1Dpmytl3un3JDyubQcMvO33MJ6OFXiPx81fuM2P8F5hzTjOkOnH6mSJu0VIuaG6HA_tcqYSiSrh1KA7A2AcuJusRc12fQfWyV-S2rf1-AqLtIyJP6iHaSnXbQH81qv9q2y-_Oq52bf065IFbm-aR67qoh7xxRj7rkIG7EJwhZcYiZRnzKBKAeiTFoMXjcweKI8OiA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003eمهدی تاج، رییس فدراسیون فوتبال در گفتگویی با صدا و سیمای جمهوری اسلامی که ۱۵ اردیبهشت در حاشیه تجمعات شبانه هواداران حکومت در تهران انجام شده است، گفت که جیانی اینفانتینو، رییس فیفا باید تضمین بدهد که مشابه اتفاقی که برای او در فرودگاه ونکوور کانادا افتاد، برای تیم ملی نیفتد: «اینفانتینو باید تضمین جدی به ما بدهد؛ حق توهین به سپاه پاسداران ندارند. ضمانتی به ما داده شود که ماجرایی مثل کانادا پیش نیاید، اگر توهین کنند، تیم ممکن است برگردد.»\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/iranintltvsport\" target=\"_blank\"\u003e@iranintltvsport\u003c/a\u003e",
+      "date": "2026-05-05T19:10:20Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 20400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Iran International ایران اینترنشنال",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/nAAKyfyESIgiSZ-6DMDedjZ5JZs0mt08a2HuNWL836GJ_3txghljFW-DW8aqiyBSald4Wc7IiKgANkIbF_ebAw1Y1o5_KTA5aOPkWsmhsPsX565ndbeYdKvb9PmFJBqEcZFhGzXnOba10JLCfj8wQ1RxiA8_Uk3EWOa8GRxc8DG4h0po7_nAC4zRIjFcwBmVqM78JgisPDtIu1R6K-n5eip0vhbvvTG03FINFIi4ksEmfCvR2InW0vr6N4PTqD3LqUgF5br9RlnPJxFeGPBxrp0_Cs55lZgNSREJlacxuQdgJx8CFfdj_TS6KO1Hovl9aKDGJwZda8zH8ppKgg2dXQ",
+          "width": 256
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "با افزایش تنش‌ها، اسرائیل هیوم گزارش داده آمریکا و اسرائیل در حال بررسی گزینه‌های پاسخ به اقدامات ایران در هرمز هستند؛ از حملات هدفمند به پرتابگرها تا هدف قرار دادن زیرساخت‌های انرژی. گفت‌وگو با مرضیه حسینی، خبرنگار ایران اینترنشنال",
+      "date": "2026-05-05T19:11:14Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 20400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Iran International ایران اینترنشنال",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn1.telesco.pe/file/sshjzobQtF_WrdJxSPUdLpOV_5WFnuYmR_GuYxp2P99wus8gqyGaZNyr0rCxYm4HTZU8raH_D6QcvVln-VOkc0pBXGJwBU4o_N7ymHJKQngy27Cs5tR9G9qF48cwNN23Ot2Lt1uH6ipoL-a2DWgSOCieYJXb6o2iJPu9pLJMY-SeNt9DZKruNsy3jzp9xhS33NGENfjD_V615GMBDwoZZ4OerV3YQUwmPYNILPe7_S8cHEr4aj7e0onj5Vz0--37qrAHFTKPnIgzlNX6dHrsEKzdBX-MP6zFzSXxJlAV3usU5L8M85N3dvIuxFZtxM7mbohVvoj4dIoInrP5R328uQ",
+          "width": 1920
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "پرس‌تی‌وی، وابسته به صداوسیمای جمهوری اسلامی سه‌شنبه گزارش داد که تهران یک سازوکار جدید برای مدیریت عبور کشتی‌ها از تنگه هرمز ایجاد کرده است.\u003cbr/\u003e\u003cbr/\u003eجمهوری اسلامی به نیروی دریایی آمریکا هشدار داده است که از تنگه هرمز دور بماند و همچنین کشتی‌های تجاری باید هرگونه عبور را با نیروهای نظامی جمهوری اسلامی هماهنگ کنند.\u003cbr/\u003e\u003cbr/\u003eدر نقشه جدید جمهوری اسلامی از این تنگه، منطقه کنترل حکومت ایران گسترش یافته است.\u003cbr/\u003e\u003ca href=\"https://iranintl.com/202605055523\" target=\"_blank\" rel=\"noopener\"\u003ehttps://iranintl.com/202605055523\u003c/a\u003e",
+      "date": "2026-05-05T19:20:32Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 17000,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Iran International ایران اینترنشنال",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/tMBQVOjSeLKJOlGyLnFVhsultTlGLkMsJiMnFP0gg_TGZApsd4f_EaEwld5BlIo7RV9mh9_UelFrVJoSpX4XDOLdCLN9xQrq2AVqFjLGsAkrjQa8KxZZbDOMDlem87btiXJgm0kzoHCsMo9osFIW6tZ0eJXAPmBP59RDWpOWaZlSYLEdlYnKtVbIbtQSEDAIw1cd5ESEVCyWCSGHpTAa1xGUwZzWqIk8o8DC8IXNf4CftoJAJuUjJdDx-pVolaeq7wcHjyb8ykbzCO_iof2c-_nCo87lIUcqCe2ssno9YTtOxGDCtwoGbVfkytmBkuViMBjalY03M0soc8NNFDPm-Q.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EA7.png\u0026#39;)\"\u003e\u003cb\u003e🎧\u003c/b\u003e\u003c/i\u003eنسخه صوتی چشم‌انداز: پایان قلدری و باج‌گیری سپاه در تنگه هرمز؟!\u003cbr/\u003e\u003ca href=\"https://t.me/iranintlTV\" target=\"_blank\"\u003e@iranintlTV\u003c/a\u003e",
+      "date": "2026-05-05T19:23:14Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 14800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Iran International ایران اینترنشنال"
+    },
+    {
+      "id": 0,
+      "message": "ساناز موسوی از جمله جاویدنامان انقلاب ملی علیه جمهوری اسلامی در دی‌ماه بود. او با شلیک نیروهای حکومت در مشهد کشته شد. مراسم تدفین پیکر او تحت فشار امنیتی برگزار شد.",
+      "date": "2026-05-05T19:27:48Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 13700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Iran International ایران اینترنشنال",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/gIp_7zYOmdgzL4LOpQTG8ydkVK2R4XdiLIaFokfuDyGQNlaezID7DA5Fqn5KLHo_IUbabohZU9NY5xG-A3PS2NqiIqryFM2wo3Mq_rUZ3tRkn9QFn1sArYJUD1f5tfkXV-3wrf9ZTNEg0QZ2mPHxdTVoCRrMVv3FA8IZmzbS7JeN6CUo4kswG4AXxz_y2f0ytASX1SivXZJVTOL8wTsC-EbVai8-V1VdmXA6-2DkqYWg6IdhpzGa8Jr4wsDlG4uksB_hc616nUya3E7q3HEPFbQExj_vZxlLzVkG05S6PlcBUMbVsFA1tVU0QNHqVG6-3SF7OsfKwYyYn14FVwp0RA",
+          "width": 1080
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "مارکو روبیو، وزیر خارجه ایالات متحده در نشست خبری کاخ سفید اعلام کرد: «رئیس‌جمهور پروژه آزادی را اعلام کرد و هدف آن، به‌طور صریح، اگر بخواهیم درباره‌اش صحبت کنیم، نجات نزدیک به ۲۳ هزار غیرنظامی از ۸۷ کشور مختلف است که در داخل خلیج گرفتار شده‌اند و توسط رژیم ایران در خلیج فارس رها شده و عملا به حال خود گذاشته شده‌اند.»\u003cbr/\u003e\u003cbr/\u003eاو افزود: «آمریکا در حال استقرار تجهیزات برای گسترش چتر دفاعی بر فراز کشتیرانی تجاری در تنگه هرمز است».\u003cbr/\u003e\u003cbr/\u003eروبیو گفت که آمریکا به هدف قرار دادن پهپادها و قایق‌هایی که تهدیدی برای نیروهای آمریکایی هستند ادامه خواهد داد.\u003cbr/\u003e\u003cbr/\u003eروبیو با تایید این که نیروهای آمریکا ۷ قایق تندرو ایرانی را در تنگه هرمز نابود کرده‌اند، افزود: «۱۰ ملوان غیرنظامی در نتیجه درگیری در تنگه هرمز جان خود را از دست داده‌اند.»\u003cbr/\u003e\u003ca href=\"https://iranintl.com/202605053883\" target=\"_blank\" rel=\"noopener\"\u003ehttps://iranintl.com/202605053883\u003c/a\u003e",
+      "date": "2026-05-05T19:28:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 15900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Iran International ایران اینترنشنال",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/tKR9HPwCORpacI5L-fDlPFb8AJsvk6789yN9y4wf85ugMkHbSZo43bD7Uvkvw3n1z85d1y3mghDlL2P6zrne54MxfRvfoNgjCFQ2B4j4YcpKPViDYwT9Oz4r9Q1hLVa2LKXUUH2oGUBuHg_11AHOWeEXKnptJHApGDHjF8K58UTsyYDzOlnaoVI5khqTvs_QgmXH9YoRbiyHeDmKS1jQ4iBI0GaVLlPF1SyyjGSCONPtT0ljVZyi_j2236l7oe5p_pJMLQ8ZCgtkithpLX_t6Rsc4sBsRa7XnlerUF4EyQ8-7TS8ERVEUYFFYy4qA61UB-lauyjFm76KCrfYhp8CdA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "همزمان با افزایش نگرانی‌ها در بریتانیا، کی‌یر استارمر، نخست‌وزیر این کشور، از بررسی نقش دولت‌های خارجی در حملات علیه یهودیان خبر داد. گزارش‌ها حاکی است که جمهوری اسلامی به این اقدامات در خارج از مرزهای خود دامن می‌زند.\u003cbr/\u003e\u003cbr/\u003eگفت‌وگو با جی سولمون، روزنامه‌نگار\u003cbr/\u003e\u003ca href=\"https://t.me/iranintltv\" target=\"_blank\"\u003e@iranintltv\u003c/a\u003e",
+      "date": "2026-05-05T19:28:42Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 15800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Iran International ایران اینترنشنال",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/g-sfQCRdjvPU4q3bkwap1jp8TZ50kUZ9YQfww8urNiZQnCmJOvvEZACLXacVX-WVQssn5rL5Sg8oKsphJle9mIWpNh9rGkoL4wAYFP9GL7VUUlh2hMElTisrWaOGrpnztRNZGPPxJTJx3iiIfn5YjjSBSZwCGASZd2csaGp29ny5xr5xotym0suyoXTvkElZhBTbGYtslmWx-QW5J7ahc2V7BdrMVrWL6qTXZPNZctebehqIk2zOfrGPTO0cVTF4Bl377qsyVTdeAQae8_h75QFB04FTflzfVjud1h3AvZUYHOXclhsWdDuOo9n2B1H3rUKjP8UyOmUyNg3pxAgtlw",
+          "width": 426
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "مارکو روبیو، وزیر خارجه آمریکا، در نشست خبری کاخ سفید، با اشاره به «گروگان‌گیری و دزدی دریایی جمهوری اسلامی در تنگه هرمز»، گفت این رژیم پیش‌تر ده‌ها هزار شهروند خودش را به‌خاطر «جرم» اعتراض مسالمت‌آمیز به‌طرز وحشیانه‌ای سرکوب و قتل‌عام کرده، چون از کیفیت زندگی در ایران ناراضی بودند.\u003cbr/\u003e\u003ca href=\"https://iranintl.com/202605053797\" target=\"_blank\" rel=\"noopener\"\u003ehttps://iranintl.com/202605053797\u003c/a\u003e",
+      "date": "2026-05-05T19:35:08Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 14600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Iran International ایران اینترنشنال",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/JmrFihTl9KmHqv5aPkj5p1WnCIgFaetmc05AOMgbquHbXyrZbUCVb_Gg0uSRNT7tevTdMw5FDpOwrvgNaWnT7ZzQkkL8ks90SmchrE3PAKSgcXnXW8-WJC6J4k8zSYXTX_pHUGNJ5U7sfmhPsD04MwUbZrSdQUXS_CjSRb9B4fwAULbT-aeq_F0EWI8BogXDxXUpE6G6nNqQNirZpP4nRbSkSkqDtRE3y2PTI5v43OJCrAQzgY_nabDAF-8YH0SeP06PU3ezZC2q_zMoE7jUgKJD_oVSOFni1pd6Td9yQMFMB-nRJyLEmJc5q4ai8MazLe250YZia8IVZ8t6LqC5XQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "یک شهروند در روایتی که برای ایران اینترنشنال ارسال کرده می‌گوید به او و دوستانش به خاطر شرکت در تجمعات از سوی حکومت دو میلیون تومان در ازای هر نفر واریز شده است.",
+      "date": "2026-05-05T19:39:03Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 12500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Iran International ایران اینترنشنال",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/AHg0q46auvfAT_3XC7IXoSNV32K7ScSxC2rnP3YBhcVRVAWuGRh60pdz9F_c4zTCb80N0YooY5kvyfUOuFcujZd7mzlXxvlx2SijkS5gA9ClyJLOm2yWa5pUGi4pCrZead4PrOrObZifKtq0MKrWJ9NOn4Qn2zNGSMubk6ywppW25r_AKL7Q0C8KpbBc3LBP0uTY4Nim_cENq3ILwPD-3PXhi1YFmEQCvYPZ9Hw-Rc5NVXbrssj9LlsdrG9ttkfWSRGj2xr_sThgNi5VKOgAqcqf12IG1c84r5bXO_TB6mBBwZ7Bs8htP6Q79t1BtH_LCKOnhgLSGGEaY40TV3MVbw",
+          "width": 1080
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "مارکو روبیو، وزیر امور خارجه آمریکا گفت که ۱۰ ملوان غیرنظامی در نتیجه درگیری‌های جاری در تنگه هرمز جان خود را از دست داده‌اند.\u003cbr/\u003e\u003cbr/\u003eاو افزود: «در نتیجه، بسیاری از کشورها به‌صورت خصوصی و برخی به‌صورت علنی از آمریکا خواسته‌اند کمک کند تا کشتی‌هایشان آزاد شوند و آزادی کشتیرانی در تنگه هرمز و این شریان حیاتی تجارت جهانی بازگردانده شود.»\u003cbr/\u003e\u003cbr/\u003eوزیر خارجه آمریکا گفت: «بنابراین رییس‌جمهور ترامپ، مثل همیشه، وارد عمل شد و به این درخواست‌ها پاسخ داد. او به ارتش ایالات متحده دستور داده است که این کشتی‌های گرفتار را به سمت امنیت هدایت کند، یک حلقه حفاظتی ایجاد کند تا بتوانند در آن حرکت کنند، کالاهایشان را جابه‌جا کنند و از منطقه خطر خارج شوند.»\u003cbr/\u003e\u003cbr/\u003eروبیو تایید کرد که نیروهای آمریکا ۷ قایق تندرو ایرانی را در تنگه هرمز نابود کرده‌اند.\u003cbr/\u003e\u003cbr/\u003eاو گفت که آمریکا به پاک‌سازی مسیر عبور در تنگه هرمز برای بازگرداندن آزادی کشتیرانی ادامه خواهد داد.\u003cbr/\u003e\u003cbr/\u003eاو تاکید کرد: «ما در برابر رژیم‌های یاغی مانند رژیم تهران خواهیم ایستاد. و بدون هیچ شرم یا تردیدی از قدرت و توان خود برای اعمال قدرت نظامی در راستای منافع ملی‌مان استفاده خواهیم کرد.»\u003cbr/\u003ehttps://iranintl.c",
+      "date": "2026-05-05T19:50:05Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8930,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Iran International ایران اینترنشنال",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/CU_00iat-aC8ip0Ld31n6DWftQy0N4HTaRbKphPZAbxSjQTvnXGwHxjtAK4Jjbh1oDMwTW59BwYj0jgf5d0kdCrF-Mo-tbuqdBWTdjI4vT64ROWcMK_Vce6yi6jCw_6DC5n20VCbmkLxPcYIDvuDo-z4IovWBg0p_1u30-s0FNiB1OW_6kA0rSkIKwcU9TazuRrii59i460Ssx0dpp2h-xiHceVVx6hpuppOohgItbTSG3K3rUFUoyoOSoJoE3qdsTRw-hc3asiwXWVVYmatVKcgtXlbPjZOov4qupOcylSTuzY1yf9pVnIjSJJCHuBBAnbdbfYvAbAoauolaeDygg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "علی مطهری، نایب‌رییس پیشین مجلس، در مصاحبه‌ای گفت که علی لاریجانی، دبیر شورای عالی امنیت ملی جمهوری اسلامی، در حمله اسرائیل و آمریکا بدنش متلاشی و کشته شد.",
+      "date": "2026-05-05T19:54:22Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Iran International ایران اینترنشنال",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/YhQuT48M2DDE5OaJmrrY2X4b8RhSGq3wLrbkY3DIoIOwb2CRb8M2xP41j7AVW-rpTTkjbevYb_pFIGFfOXiV1f3fz8-fCzJ7_eXfHxaqv2Y9i7v0ZNo4t6Gmpf-3YJyih4-fAWJLiUTgE3gu78QgqG2kwfGWwQwJf5HhNVFd65sX6G3vddLJR-zuxkQkYu3vp4tCQG5oYptvDHfPoLp7nshyWfoiLTyN_NHm_KRFpcGW6Ws-gspmC7in8SGMAIoy9xIWoIK1B3WsyrU494jl4kxaYHuiq8m9pyvPPmtJc39hvCU0G2ejH-OoTZmarqul7qtfrp4_YmqhZj2Ye4M74w",
+          "width": 1080
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EA7.png\u0026#39;)\"\u003e\u003cb\u003e🎧\u003c/b\u003e\u003c/i\u003eنسخه صوتی ‌‌‏﻿﻿۲۴ با فرداد فرحزاد: ترامپ: جمهوری اسلامی باید پرچم سفید تسلیم را بالا ببرد\u003cbr/\u003e\u003ca href=\"https://t.me/iranintlTV\" target=\"_blank\"\u003e@iranintlTV\u003c/a\u003e",
+      "date": "2026-05-05T19:56:09Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4490,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Iran International ایران اینترنشنال"
+    },
+    {
+      "id": 0,
+      "message": "مارکو روبیو، وزیر خارجه آمریکا اعلام کرد که اقدامات این کشور علیه جمهوری اسلامی مستقیما منابع اصلی درآمدی رژیم را هدف قرار می‌دهد.\u003cbr/\u003e\u003cbr/\u003eاو درباره محاصره دریایی علیه جمهوری اسلامی گفت که این کار «به‌تنهایی روزانه تا ۵۰۰ میلیون دلار از درآمد ایران را از بین می‌برد.»\u003cbr/\u003e\u003cbr/\u003eروبیو گفت: «۹۰ درصد کل تجارت ایران متوقف شده و به زیرساخت نفتی آن آسیب دائمی وارد شده، به‌طوری که چاه‌ها مجبور به تعطیلی شده‌اند و باز هم، همه این‌ها در پاسخ به دزدی دریایی آن‌هاست.»\u003cbr/\u003e\u003cbr/\u003eوزیر خارجه آمریکا تاکید کرد: «نمی‌تواند چنین وضعیتی وجود داشته باشد که تنگه‌ای داشته باشید که هر کشتی عبوری را منفجر کنند و فقط کشتی‌های خودشان اجازه عبور داشته باشند. چنین چیزی ممکن نیست.»\u003cbr/\u003e\u003ca href=\"https://iranintl.com/202605059665\" target=\"_blank\" rel=\"noopener\"\u003ehttps://iranintl.com/202605059665\u003c/a\u003e",
+      "date": "2026-05-05T20:01:06Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1110,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Iran International ایران اینترنشنال",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/F3nzScAMlZ8zELtdNcMbg3xNSuvp_iYTubmGc1auNin6mHL49yDNfAtzkjJoilC_heXyv_plgt4o3qjF8ShKu2zV86esc1ZvWL-atEsqCnxraKKmMJS9K81WVlg4H1H9sSxaZPDLEPBQTFN8V-urE9HLPYPENRf2a-nslpBDSHi3HRV1yKQhFy4ohImw5Mbz1UqSWYShW45vBJc6FvSxpye31Iojka3GYYDs14XM-_Fe5gC7LLLRrkFYb1vS4L2SydNaya2kPB3gH0JKd5ejGr58hxRk4eTyA_l34u4fkY8FlFTSv-Rj64PS5I1RUSRD_Wyv9q8WAl5zfqVxwX33NQ.jpg"
+        }
+      ]
     }
   ],
-  "last_updated": 1778007080
+  "last_updated": 1778011347
 }
