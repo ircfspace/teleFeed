@@ -3,168 +3,16 @@
     "id": 0,
     "title": "تلویزیون منوتو",
     "username": "ManotoTV",
-    "photo_url": "https://cdn4.telesco.pe/file/c9Fsp7sR13Bmnl0jB71GXVXxEKu6DFcHZwt_F5EYk1p-DIYdlN3F-DoMfK5w-uEXZIJXulAP15TFNz5JdAx8no_c7M3vtAG8wUQCczeI1MiOfsTyWMiJKDNM-qQtEJd3z9rDqtgQ28_wYhgSrWBr6p0AejhMRy8g-Xg2BXXlIUh1_hqozd2v2lVhbi-9pPZLtcH4xNv3gEFPF9RB4ZxPcZcrS3dXEA5_b5YOZtNZO1fHzew-Ah5oAQqNJD-JWHZbAE4RlvufkFvaDH7_WbFN8t4l8reSt-7uOkW_IxXcF_CXVfzIK58j7Cjn3-87rQUP2uzHZ60sndWSyMwLfL4sGA.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/O2JqwTVnJSWwK66Cl7mzb3WZcLOf4KmBcOAFxtNGBK6u2HVInFXE1boc9zkcVbZ2nRftJQdLu8wdZalNMkl-8dfnAs6ehFbKWzUkh96cw4Vh57QAkq_xsTNWhLw6CQYaCg6eb8FRop2YuAox0AcQmCWZUlvJbf89Da5RwQ0wl5Dz2-oKqmAjrdUadcl-Cv_08Hw2rZRc64ENg-0dunAb4dHKTe285EhiFMU1szWoDZh96ivxPlxNw5o_8WOEPSvlQb-83DwF5XiBcbS2-EEhnWsQY6GdLhIHIgnjo7y22oS2w57ocJnXy9HMwvqapez2rWaX8vT8wWcJW9L3XF5DBw.jpg"
   },
   "posts": [
-    {
-      "id": 105111,
-      "message": "فعال شدن پدافند هوایی  در محدوده شهران، غرب تهران ـ پنجشنبه ۱۷ اردیبهشت ساعت ۲۳:۵۷",
-      "date": "2026-05-07T21:48:04Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "تلویزیون منوتو",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/Vd3CcfIt2_z8LFrap73N5UTnrko0PLGQqHBbdr7r_VaqU6LYlfY5gdZun9NZeTc94FrSLrTSd6I5Vm0GLq25jSNsPunKHFB9hc12hOPX0bG024dqwgRd7-LG71lKIVennBZBK5PREJVR4LbCg2-H1iSV3IwLDUXHpr9vacqygzqhHmAOvyOPsqGkmODvD1IkUXw_qmw4rtcHCb5EACf_I9VNQILKNLenp5gj5ZG-Z3lDND-0moYlNDy5zwzm3eI7jUSWVRIp7s6IzzE8nN6wPM4mrRcytaR5GiIeGZ1Iz_XQPg1bVXyBXKKwBVFbK_AnySp7OsBAqUW40p0D6pBFmA",
-          "width": 406
-        }
-      ]
-    },
-    {
-      "id": 105112,
-      "message": "‌\u003cbr/\u003eسخنگوی قرارگاه مرکزی «خاتم‌الانبیا» در بیانیه‌ای مدعی شد ارتش آمریکا با «نقض آتش‌بس» یک نفتکش ایرانی را در مسیر حرکت از آب‌های ساحلی ایران در منطقه جاسک به سمت تنگه هرمز هدف قرار داده است.\u003cbr/\u003e\u003cbr/\u003eاو همچنین مدعی شد یک کشتی دیگر در حال ورود به تنگه هرمز در نزدیکی بندر فجیره امارات نیز هدف حمله قرار گرفته و هم‌زمان «مناطق غیرنظامی» در سواحل بندر خمیر، سیریک و جزیره قشم با «همکاری برخی کشورهای منطقه» مورد تعرض هوایی قرار گرفته‌اند.\u003cbr/\u003e\u003cbr/\u003eاو  افزود نیروهای مسلح ایران نیز «بلافاصله» در اقدامی متقابل، شناورهای نظامی آمریکا در شرق تنگه هرمز و جنوب بندر چابهار را هدف قرار داده و «خسارات قابل توجهی» به آن‌ها وارد کرده‌اند.",
-      "date": "2026-05-07T21:48:11Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "تلویزیون منوتو",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/Nk1TcQAvQOBWGVhyWjFv8BuZkTzY6kSFv8hyDzbleg2nGbRZo8b4HZYV1YiNmL1hNmPfNueCN1zGDyS-VBsMeoof9gLsJ8kKhl7v2C_WxHkCbphzSQxMnevT_GTEvudXZPYxTFmVIBaFYaPrlIRtK8hPQvHLZdD3UFWdOUiNctPdRxDJ1XarIqlCIgn8drWj-t7IXzF0dDDbGtQI4nuzMQKwugknDWXTuy4nxU_yjf5YC0Lnt1sYdHPvJ8y6Z833FbNHrTQApNrEcJpR1-XYbDEx6wcnPivPqwW8IdJlDI9Rh-FF4vmC3t_AwpHx_DJToftwtkrBz5q8IQZgvnyK3A",
-          "width": 406
-        }
-      ]
-    },
-    {
-      "id": 105113,
-      "message": "فعالیت پدافند هوایی تهران، شامگاه پنجشنبه، ۱۷ اردیبهشت ۱۴۰۵",
-      "date": "2026-05-07T22:46:41Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9590,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "تلویزیون منوتو",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/JskNYwD_tJ59YhhKdtRiXMr7O7l1x9UGE1rj0ncw1vYqEkAqK9aBUzfJ2xEzV-mftsZg59akZU8t642J1uiVZwQnUZ3Askn1dB1q3RIhN2SKizWEEAMpt4nqh2aV50RKmspydObsmuKMA6Q6G-TAuzw82acIcmGR01M88qX4lSMlrYbmMC02OSvmgyNJRyQn71Q7X7lg1Z38C09oHTvTcokbJimOW6Ce9iOnHpaoO3FfEtxIybuhdxDpChmZ2gDVjekF_sdLEZ7I0y7fhlOFJkk4XsE_-u8N92Qsdx72t6dg8qvK5ljUkNZd9yt4eP4hgX0d5rmZcXpNvdHPBsEqiQ",
-          "width": 406
-        }
-      ]
-    },
-    {
-      "id": 105114,
-      "message": "‌\u003cbr/\u003eیک مقام آمریکایی به شبکه «ان‌بی‌سی نیوز» گفته نیروهای نظامی این کشور دست‌کم دو نقطه در ایران را هدف حمله قرار داده‌اند.\u003cbr/\u003e\u003cbr/\u003eبه گفته این مقام، این حملات در بندرعباس و جزیره قشم انجام شده و «ماهیت دفاعی» داشته است. او تأکید کرده این اقدام «به‌معنای ازسرگیری عملیات گسترده نظامی علیه ایران نیست».\u003cbr/\u003e\u003cbr/\u003eاین در حالی است که دونالد ترامپ پیش‌تر طرح «پروژه آزادی» برای اسکورت کشتی‌ها در تنگه هرمز را متوقف کرده بود. به گفته این مقام، با توجه به تداوم نگرانی‌های عربستان سعودی و دیگر متحدان منطقه‌ای، انتظار نمی‌رود این عملیات به‌زودی از سر گرفته شود.",
-      "date": "2026-05-07T22:46:48Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "تلویزیون منوتو",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/dXpxLftMC5WpJj9d7M7fL9UFZ-m3B2RvvFn4djgtOxtgEF_Y_61oqacQtO-0lz9jylQTt20Owbzv27bfpkCxhVd5Mb8hiaaQunV8NxfU8o2kryy3UWYD-jBDnNNGHi281bFPPWVJNgX6TCX_wZ-tG-FYx7CdAAvhQWr753LRhSpmFFB0njHxMd7tSrDFppvV5SkE1xIrKDJjtNVJndnxSBRhZygzTPyj6zESHY2N-06Y9B3f5i6ihtR_Hcu8UbtcTbyZHDE2tjj3Cibm0LQJAvLS8Gq1x12QnZveHvKyQiY6RpIeEj3iWCOChfjHGD4JKJ_KobIFJxSH89oYMGs4ow",
-          "width": 406
-        }
-      ]
-    },
-    {
-      "id": 105115,
-      "message": "‌\u003cbr/\u003eسنتکام، فرماندهی مرکزی آمریکا، اعلام کرد نیروهای این کشور در جریان عبور ناوشکن‌های نیروی دریایی آمریکا از تنگه هرمز، حملات «بدون تحریک» جمهوری اسلامی را رهگیری کرده و در پاسخ، حملات «دفاعی» انجام داده‌اند.\u003cbr/\u003e\u003cbr/\u003eدر بیانیه سنتکام آمده است که روز ۷ مه، هم‌زمان با عبور ناوشکن‌های «یو‌اس‌اس تروکستون»، «یو‌اس‌اس رافائل پرالتا» و «یو‌اس‌اس میسون» از این گذرگاه بین‌المللی به سمت دریای عمان، نیروهای جمهوری اسلامی با شلیک «چندین موشک، پهپاد و قایق‌های تندرو» این شناورها را هدف قرار دادند.\u003cbr/\u003e\u003cbr/\u003eسنتکام تأکید کرده است که «هیچ‌یک از تجهیزات آمریکا هدف اصابت قرار نگرفت» و نیروهای آمریکایی تمامی تهدیدهای ورودی را منهدم کردند.\u003cbr/\u003e\u003cbr/\u003eاین فرماندهی همچنین اعلام کرد در واکنش، تأسیسات نظامی جمهوری اسلامی که به گفته آن در حمله به نیروهای آمریکایی نقش داشته‌اند، از جمله «سایت‌های پرتاب موشک و پهپاد، مراکز فرماندهی و کنترل و همچنین مراکز اطلاعاتی، نظارتی و شناسایی» هدف قرار گرفته‌اند.",
-      "date": "2026-05-07T22:47:01Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "تلویزیون منوتو",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/BSmRg6YtHt1hxI13VC0shQ1SoaG316TeKW-r4ZL-7F2tj5g9UbmLQhkFF_xfuguCFAddZSBQ-rt1C9zFwhqfl2oRdToMHTmwuKn1CeAflkA9mcTiAaPCWLhHLYEwemd1ulYy04bT8pk1aRrPhxuf8znBetdkPJcgy894IqGOq9bLoOCRRY2XJel4LEP0XHa9gMsGNhI_WxhEOMtLNZ30D_ecgPN5F1R8JDy2BvCrMxKcn2_Dvmqt_ZGt32TjnX_nQysWEkGJ_m1r3dmIGFzxl2DjQd3lRyl_Wr5r6ZUGC0P0EqhxStFhGbGzNUn-mN1_juANkL6nkWKFV8MNnhEH0A",
-          "width": 406
-        }
-      ]
-    },
-    {
-      "id": 105116,
-      "message": "دونالد ترامپ، رئیس‌جمهوری آمریکا، در گفت‌وگو با خبرنگاران درباره ادامه آتش‌بس با جمهوری اسلامی گفت: «بله، آتش‌بس برقرار است.»\u003cbr/\u003eاو با اشاره به حملات اخیر افزود: «امروز با ما درگیر شدند و ما هم آن‌ها را نابود کردیم. این فقط یک درگیری کوچک بود.»\u003cbr/\u003eترامپ همچنین هشدار داد: «اگر آتش‌بسی در کار نباشد، لازم نیست کسی به شما خبر بدهد؛ فقط کافی است یک نور عظیم را ببینید که از ایران بیرون می‌آید.»\u003cbr/\u003eاو در پایان گفت جمهوری اسلامی «بهتر است خیلی سریع توافق را امضا کند.",
-      "date": "2026-05-08T05:46:37Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "تلویزیون منوتو",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/umUqbtqxLgjqSlVE6_jfQY91TjIlW3mfu9BH-1zv5wgY0mVGUqfy8POJ_h84_r70xx8CFq5YR512dbMQ95mKxyNaZZJZQNRkgINlxIsviUqbMqFQH-D2M4ao3ygxDiGOSSzNberksf4g2t0srT_9sZmXfwaeWbBjiYUN0YDqvGx0UZuMEjxh02bWCTkrZvZWSnLDehTujbQUeEVeivHRRMuJrq6XL47DbBzH5GfX2lTKdDP8rQJQYtEuJU3YXzCkMHP8DxK2-htc1F13zZrvpGgiLODOhL5rf8n-fA5zmzD4p3i8TmnEw2Ztx_6JuQyeA6yZ7wG7i_HKu43yRXy4Mw",
-          "width": 406
-        }
-      ]
-    },
-    {
-      "id": 105117,
-      "message": "وزیر خارجه پاکستان اعلام کرد با همتای ایرانی خود درباره بازگرداندن ۲۰ ملوان ایرانی از کشتی‌های توقیف‌شده در نزدیکی آب‌های سنگاپور گفت‌وگو کرده است.\u003cbr/\u003eاسحاق دار همچنین گفت از وزیر خارجه سنگاپور خواسته روند بازگشت این ملوانان را تسهیل کند و افزود اسلام‌آباد در هماهنگی با تهران، با مقام‌های آمریکا و سنگاپور برای بازگرداندن امن این افراد در تماس است.",
-      "date": "2026-05-08T05:46:46Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8210,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "تلویزیون منوتو",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/tPBfdtx9Hyzq45SvNOhIHPd5CGx4l7eFRgvhLYD8nj2YeCkhbLqKeuy556P5UBEfzjrKmf3ytFlMLDQS3mXq1Ryi6rNwNWN5FzF08H8AGVAP3ODlfkT9-t-DgjeOVkaRk0pzTYO4AguiLWb8ehbkpo9xecfEIdT0Z2aNljP-haXENZInO4F3fFZimghbnQTmDuUOLqdtSX6IvXbWGhlyqWokEzpu1YRej10snQgMnC-d2w2Fcv-Z3IpZFk-kfobeORjgUeiUwtGY2I-IScJhNUq_bAERJ1Ki8tJbn1yKztHmhOjy-5ELI8GE7Ec3yz7elJ8xaw9N4hQvrzgSomdUDA",
-          "width": 406
-        }
-      ]
-    },
-    {
-      "id": 105118,
-      "message": "دونالد ترامپ در پیامی در شبکه اجتماعی تروث سوشال اعلام کرد سه ناوشکن آمریکایی «با موفقیت کامل» از تنگه هرمز عبور کرده‌اند؛ در حالی که به گفته او، تحت حمله نیروهای ایرانی قرار داشتند.\u003cbr/\u003eترامپ مدعی شد هیچ آسیبی به ناوشکن‌های آمریکایی وارد نشده، اما «حمله‌کنندگان ایرانی به‌طور کامل نابود شدند» و چندین قایق تندرو نیز غرق شده‌اند.\u003cbr/\u003eاو همچنین گفت موشک‌های شلیک‌شده به سمت ناوشکن‌ها رهگیری و پهپادهای مهاجم در آسمان منهدم شده‌اند.\u003cbr/\u003eرئیس‌جمهوری آمریکا در ادامه رهبران جمهوری اسلامی را «دیوانه» توصیف کرد و هشدار داد اگر تهران توافق مورد نظر واشینگتن را «سریع» امضا نکند، آمریکا در آینده «بسیار شدیدتر و خشن‌تر» پاسخ دادیم.",
-      "date": "2026-05-08T06:45:47Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7080,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "تلویزیون منوتو",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/eu7-dmXi9SpBh4s9BA_CSVNb_g49qsKpCiSrS4PRcYjE48AsjNKfR5d42xBFi8RLtw-VIOZAWFBfGW6zvlSZRNpR5dS3TmQaWaqnX6x3Ktfqn1YC3-0aldZ_lEgfpZcAmYxxJxiwAqCHSlrUvDl0LenDLipBrxDRJSZwUE_OGLuj0YAUMltP9FBxRAwLBYMkFyPAp7NpsLrtP2p0AOOY4vAeqItgnU_gRqoIdXptWI1x1S9TZdmyKW5XjffH3QcQmgYSwROIZdct30oNhiRCKH6K-_EaOo_e4k1VWxNw0c4MAiS1sW-05BsTuTjMPNvhQdAVFwcPOSObPp94Fgsrgw",
-          "width": 406
-        }
-      ]
-    },
     {
       "id": 105119,
       "message": "در پی دستور ارتش اسرائیل برای تخلیه چند روستا در لبنان، یک نفر در حمله اسرائیل به خودرویی در مسیر میان کفرحمام و کفرشوبا کشته شد.\u003cbr/\u003eارتش اسرائیل همزمان از ساکنان روستاهای نُمیریه، طیر فلسه، حلوسیه، حلوسیه الفوقا، طورا و معرکه خواسته بود فوراً منطقه را ترک کنند و دست‌کم تا شعاع یک کیلومتری دور شوند.\u003cbr/\u003eآویخای ادرعی، سخنگوی عرب‌زبان ارتش اسرائیل، اعلام کرد این حملات در واکنش به «نقض توافق آتش‌بس از سوی حزب‌الله» انجام شده است",
       "date": "2026-05-08T07:27:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5850,
+      "views": 6700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -183,7 +31,7 @@
       "date": "2026-05-08T07:27:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6370,
+      "views": 7020,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -202,7 +50,7 @@
       "date": "2026-05-08T07:31:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6510,
+      "views": 7100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -221,7 +69,7 @@
       "date": "2026-05-08T08:14:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5840,
+      "views": 6630,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -240,7 +88,7 @@
       "date": "2026-05-08T08:29:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5640,
+      "views": 6600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -259,7 +107,7 @@
       "date": "2026-05-08T09:01:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4780,
+      "views": 5880,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -278,7 +126,7 @@
       "date": "2026-05-08T09:24:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4280,
+      "views": 5370,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -297,7 +145,7 @@
       "date": "2026-05-08T09:33:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4260,
+      "views": 5340,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -316,7 +164,7 @@
       "date": "2026-05-08T10:06:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3560,
+      "views": 4930,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -335,7 +183,7 @@
       "date": "2026-05-08T10:25:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3020,
+      "views": 4660,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -354,7 +202,7 @@
       "date": "2026-05-08T10:25:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3280,
+      "views": 5050,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -373,7 +221,7 @@
       "date": "2026-05-08T10:59:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1280,
+      "views": 3720,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -382,6 +230,158 @@
         {
           "type": "video",
           "url": "https://cdn4.telesco.pe/file/m8O_AEfNwXxEt7DdAknIBWF49SPMv326JrM5UvX4usfNNJCNhX_xOXoJhicChLum12SQcoiBcgXgm2HAptDwzOhiIw6LU9sh3J7nO4MUjz9ZsnLQz356Rz5nblgaB1jshM-C_BYAlERV5A7aQ-ofSB6dLfHsPrAjxIPWUzOsyOJHS6sOCdf2tUTDU-Ir4vD5VT33tBNVgNXRlL6K9D6AnsLuknr1wqL1NuaL55VMvv5dhCl9D6nro1rn_CG4qkNWtf1NIt2eZe64G0LDP2YpD9gohV2l9oRuV2EANRTyPVnUl4EIv6WPKs4-PP8WzWoF3t3R1RMDVawFSmLMllp-ZQ",
+          "width": 406
+        }
+      ]
+    },
+    {
+      "id": 105131,
+      "message": "عباس عراقچی، وزیر خارجه جمهوری‌اسلامی در شبکه اکس نوشته: هر وقت یک راه‌حل دیپلماتیک روی میز قرار می‌گیرد، آمریکا به‌جای آن به سراغ یک ماجراجویی نظامی بی‌پروا می‌رود. آیا این یک تاکتیک فشار خشن است؟ یا نتیجه این است که یک بازیگر مخرب دوباره رئیس‌جمهور آمریکا را به سمت یک باتلاق دیگر می‌کشاند؟»\u003cbr/\u003eهمزمان وزارت خارجه جمهوری‌اسلامی در بیانیه‌ای، آمریکا را به نقض آتش‌بس متهم و اعلام کرد ارتش آمریکا به دو نفتکش ایرانی در نزدیکی بندر جاسک و تنگه هرمز، همچنین حملات به چند نقطه ساحلی مشرف به تنگه هرمز حمله کرده است و «این حملات با پاسخ مقتدرانه و سیلی سنگین نیروهای مسلح جمهوری اسلامی ایران مواجه شد و متجاوزان در رسیدن به اهداف نامشروعشان ناکام ماندند.» در بیانیه وزارت خارجه جمهوری‌اسلامی آمده این حملات در ساعات پایانی پنج‌شنبه ۱۷ اردیبهشت و بامداد جمعه ۱۸ اردیبهشت انجام شده است.",
+      "date": "2026-05-08T11:32:18Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2870,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/ZcRNo0UyatjbTma_T9FeLB1nDnmEmmeLAcBJhn4-vHybqtMndDDKIqD7R4vRqPW0M_kuzTkNJCIeCwWOc34zEx41dlDbY0f2mEhRaauNeFgVCFtnb2r22v4e4EPFrMLY2NFogNnDgJi4j_0yCIeNqRNMU093w1AfoxsD6-NA_ZshUMnM65uvzStO2o6gVV88GyyQh-_YzrFjts61tM3A-Ux_jiUVdnI-XYTsIwU4854JWPl_2oSAwWhaqI1Bq6iiJ2JQ_7SiHC0L7bGZv2OIBKFg0x1yFPV9hyWH01YWA8AkJ8lDCFI3Ge75OSV7Bjbe-Na4nUslpiik00VB7XeXiA",
+          "width": 406
+        }
+      ]
+    },
+    {
+      "id": 105132,
+      "message": "عباس عراقچی، وزیر خارجه جمهوری‌اسلامی در شبکه اکس نوشته: «هر وقت یک راه‌حل دیپلماتیک روی میز قرار می‌گیرد، آمریکا به‌جای آن به سراغ یک ماجراجویی نظامی بی‌پروا می‌رود. آیا این یک تاکتیک فشار خشن است؟ یا نتیجه این است که یک بازیگر مخرب دوباره رئیس‌جمهور آمریکا را به سمت یک باتلاق دیگر می‌کشاند؟» عراقچی همراه با توییت خود نوشته: «سازمان سیا اشتباه می‌کند و ذخایر موشکی و ظرفیت پرتابگر‌های جمهوری‌اسلامی در مقایسه با ۹ اسفند (روز نخست حملات اسرائیل و آمریکا به ایران)، در سطح ۷۵ درصد نیست و رقم صحیح ۱۲۰ درصد است»",
+      "date": "2026-05-08T11:32:26Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2880,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/fy5mJMgag5QwexvfUsqX6EKDn1OhEWPC0yu63oa3dGEfmsShIX3Z_pGv9wzFbEb_wOHP3CKNeF3VwDEmVWMzNQsLmLSEsMBfqVK9xVOqHQubYxNRk-UyYqGVwivYwAr6eiuP0H6zOAGSX2VcYq7NdOYKtVyzs2jp5a7yzGvRV2S2lk24fI3hLNwjn-J-csFU2ByFUuhcsRnsLjpPSdhzgaePt4qT7ZeLJRpFL-PZ8mW7U84FlrDlOxZDJm4QUjmV7kfbxBxCsLlUI8c5vJdo9CtIoKMTilRZ5J3AoTc3sNJy-xazc94deCehiRKk3EGHkcsA83BEdUS2xHLcvcxtUg",
+          "width": 406
+        }
+      ]
+    },
+    {
+      "id": 105133,
+      "message": "وزارت خارجه جمهوری‌اسلامی در بیانیه‌ای، آمریکا را به نقض آتش‌بس متهم و اعلام کرد ارتش آمریکا به دو نفتکش ایرانی در نزدیکی بندر جاسک و تنگه هرمز، همچنین حملات به چند نقطه ساحلی مشرف به تنگه هرمز حمله کرده است و «این حملات با پاسخ مقتدرانه و سیلی سنگین نیروهای مسلح جمهوری اسلامی ایران مواجه شد و متجاوزان در رسیدن به اهداف نامشروعشان ناکام ماندند.» در بیانیه وزارت خارجه جمهوری‌اسلامی آمده این حملات در ساعات پایانی پنج‌شنبه ۱۷ اردیبهشت و بامداد جمعه ۱۸ اردیبهشت انجام شده است.",
+      "date": "2026-05-08T11:32:32Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3410,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/NruS6B7UrzC9VzPyxofXiq3ni-0BnJICrffEAztf8xlveUAyfxh_Iq1GBHWe_UrbL16QIz4zbF1ZA0_dfvFyzLkCwPgtfctqwZZzeWkBJ2pcqYfgQ2xqj27_2oEK2EWKF9w9wlpRynWvttaXjwVowm8OgTwyR-pUC0WEC2lf9sFadnkFJdNwLWWiwa9x-R4_kqlhl-eI7VJBx61vFc0b92cm_F3Gs_XH3wvkcWlm-wxizr_FdyDr6m_WbqG3P0hoGDZZHq_maMqIpjPaTKaGKg3hVILD9lV3zg-JMXTexhaIBYV5M-Gi8giR-JUVsNzY8gnjlBTf1F-PrWuWoiex-A",
+          "width": 406
+        }
+      ]
+    },
+    {
+      "id": 105134,
+      "message": "وزارت دفاع امارات متحده عربی اعلام کرد سامانه‌های پدافندی این کشور موفق شده‌اند دو موشک بالستیک و سه پهپاد شلیک‌شده از ایران را رهگیری و منهدم کنند و در این حادثه سه نفر به‌طور متوسط زخمی شده‌اند. این وزارتخانه در پستی در شبکه اجتماعی اکس نوشت: «از آغاز حملات آشکار ایران به امارات، سامانه‌های پدافندی در مجموع با ۵۵۱ موشک بالستیک، ۲۹ موشک کروز و ۲,۲۶۳ پهپاد درگیر شده‌اند.",
+      "date": "2026-05-08T11:32:40Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3710,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/uYDSOEdbU4Ib_QUALpHjxuCSaQuQwpzpzXKBZIeMaAY8AufC9RkjHw5ud8WOm2zmDXB-PGA1GJw-aCktFLNHuJfz_RcLLZHUMj4wu5nqk-229Pj4BXhYNDT_XfRrEFxdgbS3lK8o9th_roLAVs4My3FT0sND9zu30o4RYWfhnxPNYD8S85teLH7UNtWs6NEB3XEl12hwixqYxV8YpKewgKOLasTDp5dctgbSZT7vb7mxWfbFr5OxDBtfUfXhSykgDRWlBBMbHphFure_Lla7nKWXtjgkz77cBSoagdEb2OJNv4WAoRktOBGym0MYNKr4s4XFl77nTzmmenhjav7sSQ",
+          "width": 406
+        }
+      ]
+    },
+    {
+      "id": 105135,
+      "message": "تانکر ترکرز که به ردیابی نفتکش‌ها می‌پردازد گزارش داده است در دو روز گذشته، سه نفتکش متعلق به شرکت ملی نفتکش ایران که بدون محموله بوده‌اند، پس از بازگشت به سمت ایران و عبور از منطقه اقتصادی ویژه پاکستان ، از خط محاصره نیروی دریایی آمریکا عبور کرده‌اند. در این گزارش آمده این سه نفتکش در مجموع توان حمل ۵ میلیون بشکه نفت خام ایران را دارند.\u003cbr/\u003eهمچنین تأیید شده دو فروند از این سه نفتکش در تصاویر ماهواره‌ای مشاهده شده‌اند، در حالی که یک نفتکش دیگر احتمالا HASNA شب گذشته در در نزدیکی ساحل «شناس» عمان، حدود ۲۵۴ مایل دریایی معادل ۴۷۰ کیلومتری غرب خط محاصره دیده شده است. (تایید نشده)\u003cbr/\u003eدر ادامه گزارش آمده طبق اعلام سنتکام در تاریخ ۶ مه ۲۰۲۶: «پس از آنکه خدمه نفتکش HASNA از اجرای هشدارهای مکرر سر باز زدند، نیروهای آمریکایی با شلیک چند گلوله از توپ ۲۰ میلی‌متری جنگنده F/A-18 سوپر هورنت که از ناو آبراهام لینکلن بلند شده بود، سکان نفتکش را از کار انداختند. HASNA دیگر در مسیر حرکت به سمت ایران نیست.»",
+      "date": "2026-05-08T12:00:32Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2660,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/FzajR9D-RngkhSdSqkLUweQJz1MbVSQg81s74k8AaFyoZJh0l9dmdWUhT9kAP3O72aqVGVcvsscTNgi-PkWQITafbhIQhtkx5MbhoVILCgPhHVjD2mZGZs9tPKWD59KpL9pkbk-IQ1TNF47P0nC4UzLe5aZ85ovO9gwKc9F2wIL9yQFwe2_6FvZuqi7glU202Wh8PM7e0bKUlzgxA8TzRm-KgEoO6XifyWc_eC4CRm_oFEe2vlQmwsEeto5TfCKNTfz6VqTeylEKqL1Trh5eMQetGKff9AjAfmb-JoOWQEJEICxBBG5RGjuZID2rOoPhntlHzGm3px4ysBHZP2Toiw",
+          "width": 406
+        }
+      ]
+    },
+    {
+      "id": 105136,
+      "message": "جورجیا ملونی، نخست‌وزیر ایتالیا، امروز با مارکو روبیو، وزیر خارجه آمریکا، دیدار کرد؛ در شرایطی که روابط دولت او با دولت دونالد ترامپ به‌دلیل جنگ با ایران دچار تنش کم‌سابقه‌ای شده است. ملونی که پیش‌تر از نزدیک‌ترین متحدان ترامپ در اروپا محسوب می‌شد، گفته بود جنگی که در ۲۸ فوریه آغاز شده «غیرقانونی» است. او همچنین اظهارات انتقادی ترامپ علیه پاپ لئون چهاردهم را «غیرقابل قبول» توصیف کرده بود. مارکو روبیو در سفری دو روزه به ایتالیا حضور دارد. سفری که هدف آن کاهش تنش‌ها با پاپ پس از حملات بی‌سابقه ترامپ به او و همچنین رسیدگی به نارضایتی واشنگتن از مخالفت ایتالیا با حمایت از جنگ آمریکا و اسرائیل علیه ایران عنوان شده است.",
+      "date": "2026-05-08T12:26:54Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1400,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/tU80-5Rp3itVBV10ATXtuF9dU0surVNRcBcb2yxQ8qk3VGmAqvZPSjkFIBAJp53cvuuMusxBMwRy5bwZv2B4a5dMRCD9XLcIpBwzp31hgGHhvVTRz4guY3LiT1q6X9fTaGxwJXobwKnIUfcCoiK981eZBXI0GeA44neSViculc0KcR0VdS2oiSSXdlcbanKahYTEEY7alsLvVXC516CarWrtW-BvtzjCK6vOIaVrPnMTTCH8CI1iTyy9n3RGBABr3nhcB-CjW5C80096jQIFfmBQFy5jdynrvyQt_0aFZjRetEDzAntCVA6R_0fVo83MvtM72ACbdbD_GyYuEBPsOw",
+          "width": 406
+        }
+      ]
+    },
+    {
+      "id": 105137,
+      "message": "بررسی‌ها نشان می‌دهد نفتکش Ocean Koi توقیف شده توسط ارتش در نزدیکی تنگه هرمز، بخشی از «ناوگان سایه» جمهوری‌اسلامی بوده و از سال ۲۰۲۰ در حمل نفت ایران فعالیت داشته. آمریکا در فوریه ۲۰۲۶ آن را تحریم کرده بود. این نفتکش با پرچم باربادوس و مالک/اپراتور آن شرکت Ocean Kudos Shipping (مستقر در جزایر مارشال، با ارتباط چینی) ثبت شده است\u003cbr/\u003eطبق اعلام رسمی ارتش، تکاوران نیروی دریایی ارتش با «عملیات ویژه» این نفتکش را به دلیل «تلاش برای اختلال در صادرات نفت ایران و آسیب به منافع ملی» توقیف کردند. خبرگزاری مهر نیز گزارش داده محموله نفت روی آن متعلق به ایران بوده است. در بیانیه ارتش آمده کشتی به سواحل جنوبی ایران هدایت و به مقامات قضایی تحویل داده شده است.",
+      "date": "2026-05-08T12:26:59Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1640,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/WacM2TAevjsT0c1mZwWCUzShvvBo0KFmdMWD-tdSrd1h1JLbLhKRa1g4M2fNb-g0VIbHv3t2NstIz05cmZ2bkwRXCCvRcOMAQUk2Cx-lVqiIa-a0N1XiCKSRPSMCf05HbpPuSQiwapdOHmV1dZQSVYwspKMDQnVNTcej9ouMwP5GMb3rxzdQM4F3cPEpSHrwSsCeo6LTTSj_5kqw16genfCaud-A9POBv3nzEsIWePibHWxnXxFdh3CXXcViT67g4qOd5CXVAJVDYqTUkngQWkdGbRg_hWd-RE-kHdR9SqcFClyZ5TlPRORo6OinowEel8aXYqUoNBjp2IbVD-OIKg",
+          "width": 406
+        }
+      ]
+    },
+    {
+      "id": 105138,
+      "message": "مارکو روبیو، وزیر خارجه آمریکا، در رم اعلام کرد واشنگتن انتظار دارد امروز از جمهوری‌اسلامی درباره مذاکرات مربوط به پایان جنگ پاسخ دریافت کند. او گفت: «امیدوارم این یک پیشنهاد جدی باشد.»\u003cbr/\u003eروبیو همچنین افزود اگر گزارش‌ها درباره تلاش تهران برای ایجاد یک نهاد جدید جهت کنترل ترافیک کشتیرانی و دریافت عوارض در تنگه هرمز صحت داشته باشد، این موضوع برای آمریکا «غیرقابل قبول» خواهد بود.",
+      "date": "2026-05-08T12:27:06Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1810,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/SORwZJzEXAIGevUdTS1-tvKksUu52Uer9qa1I3V-ZJBQQoAWTYm9aUGkQ1QSzJa6kHwd4CK6CaUBm3hTJtdnzh9cOaXOvO45OopBe6DLaN0_Iwcehbhh7cSOQqq-RUMDad4LFnqEbp2TJJJVpbEmoqB-yXbWEsA6jJNwo19EWlXfoWsyQi8VxTk7-m6-F47q8WrshQwmtrHblKqGLZye5yL_U2nLdGNgh4Q2KaUqb8GPICwLTJT8Do7V5XqNeSd0--RoaZDBdSNilxPl3gb2DKR-raTKC-IZ4DqZC_G0XCplDZRju12aDO_sRQ33sxb36JMXH-jEj98x4poKdvWaJA",
           "width": 406
         }
       ]
