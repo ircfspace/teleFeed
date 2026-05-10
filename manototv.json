@@ -7,145 +7,12 @@
   },
   "posts": [
     {
-      "id": 105243,
-      "message": "راهپیمایی ایرانیان ساکن استکهلم سوئد، یکشنبه ۲۰ اردیبهشت ۱۴۰۵",
-      "date": "2026-05-10T14:26:06Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3170,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "تلویزیون منوتو",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/KdErnKCYWhkloBnGXRGxyuf9rRKY23gU0lfCUQbmPpSsqmvA-XSk8CTft6MQFo4bDYJrhVV9Q5VEpLs1cPcW9gSO3D7MaVhjCDqQAhA4Lz6UAbLUFZkkDqMo7-C4lIPCk5JP3EEVcYijig2TN971lHJ-icZ-NXnlfiAODSOBurOfF7YbntXnYO1lvcqHS4sx-9jKV3kQ0527GE8A-JnKt46X5A38LJ3QKFAOQxqLYOogvY3nPd6310mMvhQI3LW9vhzYQvplm5fn_ibwc8yLEiEAQjfkbSmbvqmWozZkuVZjN__c9pgPlNrbBlzt4eTroDGjGsByjuWmIm5XD3jWRg",
-          "width": 406
-        }
-      ]
-    },
-    {
-      "id": 105245,
-      "message": "ژنو | سوئیس؛ گردهمایی ایرانیان ـ گزارشگر ۲۰ اردیبهشت ۱۴۰۵",
-      "date": "2026-05-10T14:32:37Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3190,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "تلویزیون منوتو",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/ARDFduTUTASPvPbhEHiHQqElqM9OSXBWIwuLatIcunauLFTA2uF5R7PEKrFIMmwqyOEiauiNYJrfiiDflPlEbkgk0ZxYZZfsAxTFV8Ym4o3_dloucIevpvRmfkvob0y7ydR_5P2qVWHqV-7AmuCZB73quAA2v32zIJUcs-41kEVkHMv1pfhaytifuhtgLlxzBjBtGe5Bp7Tvz90NMQDGNhkKCdwIaPBfu6zw1aRm3_lU0R1F_feYtFDTFxEyLgCJtr_KPvPI07VF4WPuiGKBrro6yfMKIihthMfn97PKg9GKsSf5TWiozt1YJX-a5nbs-GQpSYzHGzdvAnVjnv8opg",
-          "width": 406
-        }
-      ]
-    },
-    {
-      "id": 105246,
-      "message": "اینسبروک | اتریش؛ گردهمایی ایرانیان ـ گزارشگر ۲۰ اردیبهشت ۱۴۰۵",
-      "date": "2026-05-10T14:32:51Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "تلویزیون منوتو",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/O2NDMnzO5ByJxx-JaSvH1mhX7Gw5veA8S_GOZbATayDiHqPs-j1bqqe-cB7QNfp3hg150K-kaovhESNq8cq72CMD3w-i6ni3J4qfV9bDe-bJMiC6RMSbg14Bas-dUluS5rNqag5zq9Xx2lzxuDfu63cy-2kOqPudzhE1XRYhKfHWxU1Mh7_zB9r9nLc1GxEv0QwvXPK0CdjIJVvFeRcOzVPhNuZIPIC1jQTm91h2qeyVb7tGtbf0CIHOGXmRlcja4CSJD3-kEGeUGZB7_j8ugwqQyZTlGcq7Byt8nz-MI69SyHQWhU4u3MT3VLg_kusTu_4B6CF1xrW2QFNUu1K5dQ",
-          "width": 406
-        }
-      ]
-    },
-    {
-      "id": 105247,
-      "message": "گزارشگر منوتو با ارسال ویدیویی از گرانی اقلام خوراکی در فروشگاه می‌گوید: \u003cbr/\u003e«سپاه ما رو به خواری و ذلت انداخته»",
-      "date": "2026-05-10T15:00:18Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2630,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "تلویزیون منوتو",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/UpC-usXsb39JlgAQsSFQZn5s-WTqx8PQJjUBsjfkfoE9e8GFX8bQo2ukmC0kNnh9BcjrrVjTvB_Ai33NCzc6fOgvmlG5H0s92J3N_QT6lr9aGxsZijilx-tpZlxVuSfZjq3HLV0pvdKZGK34WdbVhyGE7zDXsUDqJn6kk4RW0QqzBYDE6Pu9wLZC6Zg6lSN6kb0r8WRKvZuiISjaETY8SJFk-a_rYWUfAqHK7FABQZfBriZ4UKKB8XxUacze1cXBnd5by4SWHL4QwTAvKWrqmLjhXGEDdoeAcfXavdyJX3SZP_kkw48wXxlTgXgp2ZzlQl_grOosWgpCg_KqCWPOdQ",
-          "width": 406
-        }
-      ]
-    },
-    {
-      "id": 105248,
-      "message": "هلسینکی | فنلاند؛ گردهمایی ایرانیان ـ گزارشگر ۲۰ اردیبهشت ۱۴۰۵",
-      "date": "2026-05-10T15:01:46Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2830,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "تلویزیون منوتو",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/CQgV6zCOeTGwl4POUuSeF1MUBoOxqnYDAPbzL2K8oCLVOeiaWrXK6AI044kZXEpzJw50dYbkkSFwItI0xr7UbuPj2p1u_75qIP-_I6f90Wd5jYn2b3YACbqb24ZwH02EJl1-kgfDMo4FS2Dx9lxc3To8vYP0ih4IAQA5e3HRHCvbRLPuQEVDB84xwyfuqwsukG2r7tSU1LVHq30ppMMCa4M9QHa7KMFP63KsemryYfYVyBdcxhBSV3hhyiWG8CX_XTfXXEnEGPioaXmpyGGZ9UmDsfh6DISHDm9QMRCCQ1-6jsT00FDT-wNG0GBSBnnRtiTVeKbr-QlluEMQsS6z2Q",
-          "width": 406
-        }
-      ]
-    },
-    {
-      "id": 105249,
-      "message": "‌\u003cbr/\u003eمالمو | سوئد؛ گردهمایی ایرانیان ـ گزارشگر ۲۰ اردیبهشت ۱۴۰۵",
-      "date": "2026-05-10T15:25:56Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1980,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "تلویزیون منوتو",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/CTlpKrWklg5xPg7k-D1ZejyxCsB4quAH-q6P2eJ1eUKx2yLH8om4v-X8cq055tJCSPnORctkk7okfYu4VvDU_dMED0ViXw5L-hH9XaREGSSw7YZcpTge55kKAuHLkCjiO64WaoCzf9zH8VqmnBOhhO-6_C4qo4G9uj1NSfkO6ZAzwCYr_sDE94uP8lOGFmQM_RMsFxwIO-SgAd5AALBuiQFnXiDjRbojo8ypUp3uW3_-9rOKIj7L2PEZunYQMvV13pwJ8G4Zh0nbgHHik-IY_X2O5wP7W0wiAs3yCbLKG8IyyRPSkJGruUj0Vkv0ytcK-1RE_MWRVmoblQQ6zJtiyQ",
-          "width": 406
-        }
-      ]
-    },
-    {
-      "id": 105250,
-      "message": "هامبورگ | آلمان؛ گردهمایی ایرانیان ـ گزارشگر ۲۰ اردیبهشت ۱۴۰۵",
-      "date": "2026-05-10T15:26:20Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2170,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "تلویزیون منوتو",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://t.me/ManotoTV/105250",
-          "width": 320
-        }
-      ]
-    },
-    {
       "id": 105251,
       "message": "هانوفر | آلمان؛ گردهمایی ایرانیان ـ گزارشگر ۲۰ اردیبهشت ۱۴۰۵",
       "date": "2026-05-10T15:26:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2220,
+      "views": 2940,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -164,7 +31,7 @@
       "date": "2026-05-10T15:46:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1550,
+      "views": 2320,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -183,7 +50,7 @@
       "date": "2026-05-10T15:46:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1620,
+      "views": 2420,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -202,7 +69,7 @@
       "date": "2026-05-10T16:01:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1000,
+      "views": 1880,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -221,7 +88,7 @@
       "date": "2026-05-10T16:01:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1000,
+      "views": 1850,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -240,7 +107,7 @@
       "date": "2026-05-10T16:01:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1040,
+      "views": 1920,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -259,7 +126,7 @@
       "date": "2026-05-10T16:01:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1100,
+      "views": 1950,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -278,7 +145,7 @@
       "date": "2026-05-10T16:01:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1320,
+      "views": 2190,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -297,7 +164,7 @@
       "date": "2026-05-10T16:02:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1360,
+      "views": 2270,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -316,7 +183,7 @@
       "date": "2026-05-10T16:03:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1610,
+      "views": 2690,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -335,7 +202,7 @@
       "date": "2026-05-10T16:28:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 203,
+      "views": 1860,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -354,7 +221,7 @@
       "date": "2026-05-10T16:28:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 134,
+      "views": 2009,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -373,7 +240,7 @@
       "date": "2026-05-10T16:30:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1,
+      "views": 2170,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -382,6 +249,139 @@
         {
           "type": "video",
           "url": "https://cdn4.telesco.pe/file/Q6yOZ9RXjTruZbHU385NxdDvqOGoJTMtTdqK2dSRYTEKCcxfuqRGPtwF9620Zj-UWY5qGxZc-h3H06Bv551EhMCOgvHMPKtjUSxVWivprcubzqEpzZXA09-d-GYVcw0UiVBlONT7Iy64dYZXAbw8_KoWZPJQLVaPYM2PEyedQcjnkYB6fDmA7LzOn4zFlHMvVmbuG6SkFijWv8YJmrgMAs1mBmABPtMWpMa0y3yzjYtkw9-mxI7woZcQqGCcO0WvptSap57qQPhIP-JPnBtM3o7eITjgja0iqJWpZQPBWkyN_iIUtFHSjJjbK5aCIZlkQ53UCZ5GD84hlpJIS9TquA",
+          "width": 406
+        }
+      ]
+    },
+    {
+      "id": 105264,
+      "message": "بولونیا | ایتالیا؛ گردهمایی ایرانیان ـ گزارشگر ۲۰ اردیبهشت ۱۴۰۵",
+      "date": "2026-05-10T16:35:54Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1970,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/icCHa_5fjiictrqcwmdy7C6sxUvIV0wmZFt3KzAvXfOzZZMiqNj6unpjDiVZ2bcOVGljn8RdESn3PkHapopp6fEIOk0YJTfveVXLwINvn7Wn8uYBnZACfX_2h1lluMtdTI9EMZhjzEiFY4AHOCwWK8bsqp1IWWAZodjGx11RxBHyDIuCFQmJAq4iaHG9ipPtRWQH_TC_j0l7n0jJsZRMJTpvHFaUTtSoclu1w2vq8KkxEsCQWBYUojSzadDaRbd3DLcvx_On6iwG0jevZSKX58MFhEnV2GbGpzns_sm3Xis-aV2IKF5BL8VYhmRW46dAjExtddEJAGXa_nGbQE7tzw",
+          "width": 406
+        }
+      ]
+    },
+    {
+      "id": 105265,
+      "message": "نیس | فرانسه؛ گردهمایی ایرانیان ـ گزارشگر ۲۰ اردیبهشت ۱۴۰۵",
+      "date": "2026-05-10T17:04:03Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 975,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/Z9A-zqI45HZmhS3uD9iNw6nvP69TTUSas4YDaGZDrGDShiskDqocMl8B8Xv8AIUkuBZVptnbWJMU6qVWI77qwVE6qiIQujtE-cohJkiTmOwzznOprncvGRwHDmoksr7D5-Mb72myuzwIJJCMIkN97VZ4_qhEWW0bLbVdzCToRT3-aEayHCy92X5rtH9lq0YMMbl6uP6fW97Cqdr3VaJBZPAUPzMo3FXcBKTwyOrRH3l0d8bhhOP6WX4-zBiCWB0SFlRdF8oeIYsfC7PPFa7KtoU_UBNCgW0xRf7t3ArNCcSCwEKO6xjit2VguaC-moqF3lXt1bbm0aXuA2s-HTVOxw",
+          "width": 406
+        }
+      ]
+    },
+    {
+      "id": 105266,
+      "message": "فرانکفورت | آلمان؛ گردهمایی ایرانیان ـ گزارشگر ۲۰ اردیبهشت ۱۴۰۵",
+      "date": "2026-05-10T17:04:11Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1010,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/LlswMOHQziSTdKeP9Z5cHarIstIIwKJHMDdvXE0wyILKuV-an8OZbe4wmpPgj5Ev8avqqL6dw6YJNKIfLzRlYjZeaXhdoDDoF8EqtyWP-ecqPlvSvuCtn_3GCC27RdrxIw1c0VCPzr8dGncbEvidmMlkv3Cd4cmxR1rT3pxb6_gO0G5VVtB51Q3gry3CU23ZzmDjhkCVq7x5jaXGD9zVE5IErM8IDWr7YJerCE-5xmpViNIVaoiGgmzdDtsZAV5zB1U3tHGKhV6NfAl5Boh9I0v8m0Yn9C2S-Ro_BYVE5l_SpHSR5RGtU_3cZ73HoM-qtDxmaZ7EXZ5tT0RLQot1OA",
+          "width": 406
+        }
+      ]
+    },
+    {
+      "id": 105267,
+      "message": "دونالد ترامپ در مصاحبه با برنامه فول مژر با شریل اتکیسن گفت آمریکا مواد هسته‌ای و اورانیوم غنی‌شده ایران را زیر نظر دارد و در صورت نزدیک شدن افراد به محل آن، واشنگتن مطلع خواهد شد.\u003cbr/\u003e\u003cbr/\u003eاو گفت عملیات رزمی علیه ایران را پایان‌یافته نمی‌داند، هرچند به گفته او ایران «شکست خورده» است. ترامپ افزود آمریکا حدود ۷۰ درصد اهداف مورد نظر خود را زده و اهداف دیگری هم وجود دارد که ممکن است هدف قرار بگیرد.\u003cbr/\u003e\u003cbr/\u003eترامپ همچنین گفت واشنگتن نباید اجازه دهد ایران به سلاح هسته‌ای برسد و مدعی شد اگر حمله بمب‌افکن‌های بی‌دو آمریکا به تاسیسات هسته‌ای ایران انجام نمی‌شد، جمهوری اسلامی ظرف دو هفته به سلاح هسته‌ای دست پیدا می‌کرد.",
+      "date": "2026-05-10T17:04:26Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1070,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/EiF0HdONZaRsGQdre32aPSdXkW0w1DNRut11Aflc3XvIiO-CNEOLs2yDkccUhynzH-O0u4xT3RWvuVjqN7BQf9srDtUmpCSkKYMrwkqryYaZyYz2XVRigamZE7-7xTIaXdSz7n1qw7YMYW9nKdem_fov3fdKf_AWP4SRBCDMP6PgwUIpkL6fUQb8-o4V6uOGYv-TkPtFYV5iO3RPJ1txGVUzkzFP3L-43TrivLqNNYK-AErZKuz6d41c6Vcp6j5fONdhVK1X64Q9zIrXKsZjw3GaVIKB-ffk2aM2_HyV7URKEDe9XLvdk2C3d55V2rQrRo32YLioR5wXJ-KRIEe54g",
+          "width": 406
+        }
+      ]
+    },
+    {
+      "id": 105268,
+      "message": "‌\u003cbr/\u003eپورتو | پرتغال؛ گردهمایی ایرانیان ـ گزارشگر ۲۰ اردیبهشت ۱۴۰۵",
+      "date": "2026-05-10T17:05:34Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 999,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/P008L_smejGeba1hMTFY5k1zRdv7EaOYLN-wNN1RJQDtW3ZYX7Tc_wsW_fJgrR4N-DrXFCtrjE3pbVnTR4UiKy8aNsVm5vijyWLukLVYtFfxXGW4H_BAuGvD3ahxy8jQI0ukrsX73G8J9trHCd_VVDesw55Z-5y1LvMnZkkyF-Z7KltvfAzWvDKuA8NgUaVoPznlKyGmPOnJK7Ib_VdVpikpHVBEJq71J5OaxAv36P9Xmx6yID9kpAY15xkdanOj4NkFsPpwNO_1R84V1xR95RBU_R3sZGrT9R2NL7MWZ091QTRGF8iK1VCc2z1Ub3M5F_RF_RhDr-LiaRuObNjyTw",
+          "width": 406
+        }
+      ]
+    },
+    {
+      "id": 105269,
+      "message": "بنیامین نتانیاهو، نخست‌وزیر اسرائیل، در گفت‌وگو با برنامه شصت دقیقه شبکه سی‌بی‌اس گفت جنگ با ایران تمام نشده، زیرا به گفته او هنوز اورانیوم غنی‌شده، سایت‌های غنی‌سازی، نیروهای نیابتی مورد حمایت جمهوری اسلامی و برنامه موشک‌های بالستیک باقی مانده‌اند.\u003cbr/\u003e\u003cbr/\u003eنتانیاهو گفت بخش زیادی از توان ایران تضعیف شده، اما هنوز «کارهایی هست که باید انجام شود».\u003cbr/\u003e\u003cbr/\u003eاو درباره چگونگی خارج کردن اورانیوم با غنای بالا از ایران گفت در صورت وجود توافق، می‌توان وارد شد و آن را خارج کرد و این «بهترین راه» است.\u003cbr/\u003e\u003cbr/\u003eنتانیاهو در پاسخ به این پرسش که آیا بدون توافق می‌توان اورانیوم را با زور خارج کرد، از توضیح درباره گزینه‌ها و برنامه‌های نظامی خودداری کرد، اما این موضوع را «ماموریتی فوق‌العاده مهم» خواند.",
+      "date": "2026-05-10T17:05:41Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1250,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/ddYNg_DK0bc0rSFFecWtFLGPMbdsG5LsVxLhqIq8h-PI1cjZqpIavqX22w0gJUUmSIJ0rIYSpT9YTJ3PYdftYAIXo03gAF7qGFVK-83qr1BzJIcD1WEq9puLJFTuM5IXxYfsxeC2F8Dehw8dbUm7dSR4j1SgF583yHfuUL0HvAMAMGD8plYMBF_Mscy5640IBjGT7fKJvgRHLixG-Q4EdDBpE5x4u7ePHhfxyd41bTUI99hJEEnb97eNAqfkPDhEa20af_m8H4SqBaBR9ORF9lRClnZ_bjsG-XBVqrCyd_3UczCszjimV6x7W70QUgXOp3IGfGFGMKn20N0O1Y0YiQ",
+          "width": 406
+        }
+      ]
+    },
+    {
+      "id": 105270,
+      "message": "معاون وزیر خارجه جمهوری اسلامی در واکنش به احتمال اعزام ناوهای بریتانیایی و فرانسوی به تنگه هرمز گفت هرگونه استقرار ناوشکن‌ها در اطراف این تنگه با عنوان «حفاظت از کشتیرانی»، اقدامی برای تشدید بحران است.\u003cbr/\u003e\u003cbr/\u003eاو در پیامی در شبکه‌های اجتماعی نوشت حضور ناوهای جنگی فرانسه و بریتانیا در تنگه هرمز، به‌ویژه در صورت همراهی با اقدامات آمریکا، با «پاسخ فوری و قاطع» روبه‌رو خواهد شد.\u003cbr/\u003e\u003cbr/\u003eوزارت دفاع بریتانیا پیش‌تر اعلام کرده بود ناو جنگی اچ‌ام‌اس دراگون را برای آمادگی در یک تلاش چندملیتی احتمالی به منظور حفاظت از کشتیرانی در تنگه هرمز، به خاورمیانه اعزام می‌کند.",
+      "date": "2026-05-10T17:05:49Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1440,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/MIG0CMlyuXBeGwCBTJadn4zg6tWxr4adJq8d6jTK30q-0dQLRXzpncGhKg85BlC8Zh7FAcei4llz4iyur6Hg4OwBVUQVpPOp9L73hvkxhXWdmcepl4NzGgpdX0Ub7752BlkcUnINBVs3Usg67_pTwTiHptzSVfkTrMZkFpxcGoc4IFa-O3jsgPt-3uIOwgOM6err9KMLhCQx0niZ8LXDvhepRjeHUhvC505EPNu0mTJ4cHFJipRNeyK_I92JDi56uS7PtNprss878hjl-i7OILI-6fwjeog94SLe_jNoFYR8m-XHRbcamjtoTDTyCDK7l_5npUHmLz1t2BRZskXR_w",
           "width": 406
         }
       ]
