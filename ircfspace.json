@@ -3,82 +3,16 @@
     "id": 0,
     "title": "IRCF | اینترنت آزاد برای همه",
     "username": "ircfspace",
-    "photo_url": "https://cdn1.telesco.pe/file/uNNfEYullJEPaUvbV9moX-5okbMT2FreyG9gFI8waRu0rDNZ7oRQ7OFwT_xz45_oKo8xz63q5TLh71XJQwIpHiajP0-n-e52niVpM7w0d7gtVQATDa3EF7PaZ-ikjb3a80DEiegGT7kwVhGEZbfFQt1J1HTTOW-zF3is-9XWPR1iBbEIy98mdod1fJkOxyXCQaF6wN5pHxHTpq7mos6WtSrcz_jkwQs7Wx3xctQ8e06qvTLJJdYvel-Dd1qW0F4jWilqt-CWTnLRwScWbFHI-6HfoDwp3PO0PahIMs0ItaSxro74SeX_P731NyF7itA9YgW5hFi_bW4i94wwjqfLTg.jpg"
+    "photo_url": "https://cdn1.telesco.pe/file/tJW1BksJCWQChEUPzhaWxlMdNqnWuBbAXO58yuRD-wNgeSNnVKwAFCobIstRaqXPy4WL4ppXM-DVUm_NaXECl2dLMxNsmuN4HijjGRRBd-cykufcSc1_BXLqafQQ4oQtZMzrykyWvolp6jaJjCyU_P6ee134a_Wt4PVs90XVZJ9gyIj0N3KxHKRUf1cFTy-o_HTKvNUExXtNqm-KgLRZZk93yHj5NP7wmmWZhXbGk2RkF477abfQ5umReANtTr05sQcX_qR657IIujcfiCwrmwIalh9TzjK7dzZKDcswUAqe1JsZNs4tv7AgGeNTlqmB5QWU2Vc7lNrHgyGLoDUBgw.jpg"
   },
   "posts": [
-    {
-      "id": 2346,
-      "message": "نسخه ۱۶ از فیلترشکن \u003ca href=\"?q=%23MahsaNG\"\u003e#MahsaNG\u003c/a\u003e برای گوشی‌های اندروید در دسترس قرار گرفت.\u003cbr/\u003eدر این آپدیت هسته‌های MasterDNS، GooseRelay و FlowDriver اضافه شدن، قابلیت CDN-Fronting سایفون تعبیه شده که میتونه شانس اتصال رو در برخی محدودیت‌های شدید شبکه افزایش بده، امکان وارد کردن دستی HTTP Type لحاظ شده، یه سری از مشکلات رفع شدن و اسکنر DNS حالا IPهارو بصورت تصادفی بررسی می‌کنه تا نتایج بهتری ارائه بده.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9189.png\u0026#39;)\"\u003e\u003cb\u003e👉\u003c/b\u003e\u003c/i\u003e \u003ca href=\"http://github.com/GFW-knocker/MahsaNG/releases/latest\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/GFW-knocker/MahsaNG/releases/latest\u003c/a\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A1.png\u0026#39;)\"\u003e\u003cb\u003e💡\u003c/b\u003e\u003c/i\u003e \u003ca href=\"http://t.me/PersianGithubMirror/5051\" target=\"_blank\" rel=\"noopener\"\u003et.me/PersianGithubMirror/5051\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
-      "date": "2026-05-16T20:10:24Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 35200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "IRCF | اینترنت آزاد برای همه",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/koZvZkq_B9AO8dwNAQSj5UCGVibf1ct2tEQAOCx94qNJp_KcCC8tFMu1IFSPWvGjYJnxlrgmgTrJpDKSjc6Xgm5XAUlmaStOSkk91Ph0wSksO8ULIHyxG_AQ7lKdqFYBPwOsgMeUIMew8pkP9Drbrevqy-yyOE9wnKcSLDl_jwLhV2WEfDd9KkU1NmtqSFqcF1ZSE9FEjWjnVO-1uG0izeVM1HMqoA2EhQEGXJ5TMMfoIdWAoZH1axrL5yUNspjX1wkjvNJnRFmbBTHwasLF4HBA1RZj-JcekQF8eZMvfiQJYwK5bfoKmKZ5DgpGzP15IugUFbDJvTD28c1ihipMoA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 2347,
-      "message": "\u003cb\u003eاینترنت برای عده‌ای خاص، محدودیت و خفقان برای بقیه مردم\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eامروز هفتاد و نهمین روزیه که جمهوری اسلامی اینترنت رو به روی مردم خودش بسته، تا زیر سایه‌ی خاموشی دیجیتال، سرکوب، اعدام و پروپاگاندای خودش رو پیش ببره.\u003cbr/\u003eچندماه هست که هزاران کسب‌وکار اینترنتی لطمه دیدن یا نابود شدن، اقتصاد ضربه‌ی سنگینی خورده، تعدیل نیرو و تعطیلی‌ها بیشتر شده و مردم حتی برای ساده‌ترین ارتباطات روزمره هم با مشکل مواجهن. با اینحال هنوز هم بهانه‌ی امنیت رو تکرار می‌کنن!\u003cbr/\u003e\u003cbr/\u003eاین قطعی تکان‌دهنده معلوم نیست قراره چندروز یا چندماه دیگه ادامه پیدا کنه؛ اما همزمان جمهوری اسلامی با پروژه‌ی اینترنت‌پرو هم جیب خودش رو پر می‌کنه و هم به رفتارهای متناقضش ادامه میده؛ یعنی اینترنت آزاد برای عده‌ای خاص، محدودیت و خفقان برای بقیه مردم.\u003cbr/\u003e\u003cbr/\u003eدر این بین، عده‌ای در شبکه‌های اجتماعی تلاش می‌کنن با فضاسازی‌های ساختگی یا حتی ری‌اکشن‌های فیک، تصویری غیرواقعی و عادی از وضعیت کشور به دنیا نشون بدن؛ رفتاری که علاوه بر نبود بلوغ فکری و ناتوانی در درک عمق بحران و رنج واقعی مردم، برای خیلی‌ها نشانه‌ی هم‌پیالگی با ساختار سرکوب یا فعالیت‌های سازمان‌یافته‌ی سایبریه.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
-      "date": "2026-05-17T05:01:10Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "IRCF | اینترنت آزاد برای همه"
-    },
-    {
-      "id": 2348,
-      "message": "\u003cb\u003eسیمکارت‌های بدون فیلتر، حفره‌ی جاسوسی برای مسئولان!\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eدر رابطه با قطع سراسری اینترنت به بهانه امنیت و اعطای \u003ca href=\"?q=%23%D8%B3%DB%8C%D9%85%DA%A9%D8%A7%D8%B1%D8%AA_%D8%B3%D9%81%DB%8C%D8%AF\"\u003e#سیمکارت_سفید\u003c/a\u003e، سیتنا در مطلبی نوشته: طبق منطق فنی، وقتی با سیمکارت سفید و بدون فیلترشکن به اینستاگرام، واتس‌اپ یا سایر پلتفرم‌های خارجی وصل می‌شوید، هیچ لایه واسطه‌ای برای مخفی‌سازی وجود ندارد. یعنی دقیقاً در همان لحظه‌ای که یک مقام مسئول درحال چک کردن دایرکت‌های خود است، اپلیکیشن‌ها لوکیشن دقیق او را با کمترین خطا رصد می‌کنند. اگر نفوذ و ردیابی، خط قرمز امنیت ملی است، پس چطور با دسترسی‌های ویژه، عملاً موقعیت مکانی لحظه‌به‌لحظه خود را تقدیم سرورهای خارجی می‌کنند؟\u003cbr/\u003eتناقض وقتی اوج می‌گیرد که می‌بینیم مردم عادی برای اتصال به همان شبکه‌ها، مجبورند از کانفیگ و پروکسی استفاده کنند. این ابزارها با وجود تمام دردسرهایشان، حداقل یک لایه پوششی ایجاد می‌کنند که لوکیشن واقعی کاربر را تغییر می‌دهد. اینجاست که بوی یک تجارت کثیف بلند می‌شود!\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
-      "date": "2026-05-17T05:19:10Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "IRCF | اینترنت آزاد برای همه",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/UZf9lIzxITYmd1EerNJFPFTrAtq6PbKJ8bUR1vJNJLW9spvx2pXOmjzSkW5sfimuvnuR3hNMT3W6OxkPzkn2sO_NgoH3vAfYXZ-OO6cn5abFgWxE8g9Grjq_sM7EI4FYCzN_FUM1gNwHYiUbKE4rVHiSnIZodng3fJeEiIJyeS_6pLd_pVWYqvr-_ralMgIlUqv6D3-QeNOunvGnfsnYZzNSacuS7O9yU-X6QuSAU4eXc2BMyvzbZuqZ9G6R1ClF1TqQyDtLMShh5E8HgaAHteSJ8E45cqeYQ4UN5AXr-b42TfqmVX7eT0WDktXW6gRa3Km-LjH4LZs9TYvrLW5ycg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 2349,
-      "message": "مسعود پزشکیان بعد از ۷۹ روز قطع سراسری اینترنت در ایران، روز جهانی ارتباطات رو تبریک گفت! \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A1.png\u0026#39;)\"\u003e\u003cb\u003e🤡\u003c/b\u003e\u003c/i\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
-      "date": "2026-05-17T17:38:28Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "IRCF | اینترنت آزاد برای همه",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/pX32yHPxBBy0GJoohn30oG9UmwkaA75fHIh2ecHAIDy5fqoksk4oBrskqC5-QD_sO5GQ6TccldjfoRAQT89XTM3QEO3-WugMu6Xl93Z6rLdHEetnQUZzdcJT71jC3-HWEfzI176viXIp1QEIHKQ-gB1eQwuWv4ude6i28SH2-JdDeJHmYs4t4jYYQk5iu5Hpcwgei0XzoGAomUywMsoMShqulKtHjMz6ltHkzGvrrwOw2Ou-ZKwNBTican6aP1IayBGZAVKT7giI3ShGjo8C0gP8nH4515PxfeTHqSUImBiUy7o1Uhh7WGhbKRJDoXyEJElKH3PBatrodOUpKxC_qA.jpg"
-        }
-      ]
-    },
     {
       "id": 2350,
       "message": "باورم نمیشه قطع اینترنت به ۸۰ روز رسیده!\u003cbr/\u003eوقتی حکومتی برای حفظ خودش حاضر میشه یک کشور رو وارد خاموشی دیجیتال کنه، یعنی مردم هیچ اولویتی براش ندارن؛ وگرنه امروز وضعیت اینترنت، اقتصاد، مهاجرت، ناامیدی و زندگی روزمره‌ی مردم این نبود.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
       "date": "2026-05-18T05:51:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27100,
+      "views": 27500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -90,7 +24,7 @@
       "date": "2026-05-18T06:32:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 57700,
+      "views": 58300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -108,7 +42,7 @@
       "date": "2026-05-18T12:51:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26000,
+      "views": 27100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -126,7 +60,7 @@
       "date": "2026-05-18T12:54:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27200,
+      "views": 29300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -144,7 +78,7 @@
       "date": "2026-05-18T16:35:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25900,
+      "views": 26700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -162,7 +96,7 @@
       "date": "2026-05-18T16:37:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29100,
+      "views": 29700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -174,7 +108,7 @@
       "date": "2026-05-19T05:08:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23600,
+      "views": 24200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -192,7 +126,7 @@
       "date": "2026-05-19T05:20:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24100,
+      "views": 24800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -210,7 +144,7 @@
       "date": "2026-05-19T05:29:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30600,
+      "views": 31200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -222,7 +156,7 @@
       "date": "2026-05-20T05:26:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21500,
+      "views": 22400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -234,7 +168,7 @@
       "date": "2026-05-20T05:30:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21100,
+      "views": 21900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -252,7 +186,7 @@
       "date": "2026-05-21T04:54:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16200,
+      "views": 18300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -270,7 +204,7 @@
       "date": "2026-05-21T04:57:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15500,
+      "views": 17600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -282,7 +216,7 @@
       "date": "2026-05-21T05:01:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15700,
+      "views": 17700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -294,7 +228,7 @@
       "date": "2026-05-21T05:09:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15500,
+      "views": 18200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -312,7 +246,67 @@
       "date": "2026-05-21T16:22:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2200,
+      "views": 10200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "IRCF | اینترنت آزاد برای همه"
+    },
+    {
+      "id": 2367,
+      "message": "زارع‌پور، وزیر قطع‌ارتباطات دولت قبل گفته \u0026#34;جمع‌بندی رئیسی این بود که اینترنت به خاطر هیچ‌چیز نباید قطع بشه\u0026#34;، ولی یادش رفته که رئیسی با ۶ کلاس سواد حتی جمع و تفریقشم افتضاح بود.\u003cbr/\u003e\u003cblockquote\u003eجهت یادآوری واسه \u003ca href=\"?q=%23%D9%82%D9%88%D9%87_%D8%B9%D8%A7%D9%82%D9%84%D9%87\"\u003e#قوه_عاقله\u003c/a\u003e، اینستاگرام و واتس‌اپ توی دولت سیزدهم فیلتر شدن!\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
+      "date": "2026-05-21T16:34:37Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9450,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "IRCF | اینترنت آزاد برای همه",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/a6a5GPpMcady47JhSLAkY_k2RMw55OQc6RZMgQmfwf5rBlgssgdCuivLexj-fL6LR3ei94v18cdA9SUU-49mypjT4EeWAuy8UNUHFhRmgOj59eCwxD6BYJtHMrNA3Hq9vEzua9VI2TviMJHa6dzYJeyQB0Oy5j9lPTe4VTyqj-lBtkRp9jk0i5k_GXxwMYYpJDuey_YFBWBwCmwLXPcPKLQmvurKJMnO4N_Op-SwkqqXg81myiLzzWiV6fAvAlsMhSV7CXF_7MP_4vnL_oJ1Vm4CgaqL1gESsYZ6-mj58VvthiFR0ohmwddFWMI9Dw5CSrAZzofLuudaLJKPQUIdtw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2368,
+      "message": "محمدرضا فرزانگان، اقتصاددان حوزه خاورمیانه در دانشگاه فیلیپس ماربورگ آلمان، گفته است حدود ۱۰ میلیون شغل در ایران به‌طور مستقیم یا غیرمستقیم به اقتصاد دیجیتال وابسته هستند.\u003cbr/\u003eاو به وال‌استریت ژورنال گفته محدودیت گسترده اینترنت باعث کاهش بهره‌وری، تضعیف اعتماد کسب‌وکارها و افزایش نابرابری می‌شود؛ زیرا در چنین شرایطی تنها کاربران ثروتمندتر یا افرادی که به ارتباطات بهتر دسترسی دارند، می‌توانند اتصال پایدار و قابل اتکا داشته باشند. /دیجیاتو\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
+      "date": "2026-05-21T16:39:26Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9370,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "IRCF | اینترنت آزاد برای همه",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/iApS3g0GNaMQ5gwDVuZF7U14MWcYuyvfmYZTmZ5578i9H5rvON5A6HoWK1Ho3-PA2B3AwME_g1IVIBtAitZUmINvW3Q7LBWOqRExHFZ0KHjtvKdbpC6-7X0ySosl9jy58ecSIY22YqVRusnxTL5luMDlOGPO1m0K6AiVA647RQ5sU1bXX1kIXcT8aquW_zLXEIgMjQqQbLaXoj7GwuIxk_lxSkOPUfYAKPb5CnbUgrlGVD-oDrSSAP7HuFx-OGrPO-Wt26qWRNDgfVNxSU63QUcBF-8Ho0c4ShLUWEYhR65AG2EPYJHmoEyIoEWdFSlvLX0RPV8GxEBhzXQFkE7J3g.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2369,
+      "message": "کسانی که قبلاً کانفیگ می‌خریدن، الان ترجیح میدن دیگه نخرن، دلیلش هم تکراری شدن خبرهاست. دنبال کردن مجازی دیگه اون‌قدر براشون ارزش نداره که بخوان بابت هر گیگش خدا تومن پول بدن.\u003cbr/\u003eاز اون طرف، کسایی هم که سیم‌کارت پرو گرفتن، خیلی‌هاشون توی کسب‌وکار خودشون موندن. چون درسته اونها اینترنت دارن، ولی دیگه کسی نیست که بخواد تبلیغشون رو بخونه. تقریبا اون چرخه‌ای که باید بین محتوا، دیده شدن و فروش می‌چرخید، به بن بست خورده و کل سیستم رو از کار انداخته.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/C2A9.png\u0026#39;)\"\u003e\u003cb\u003e©\u003c/b\u003e\u003c/i\u003e NR2OH\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
+      "date": "2026-05-21T16:42:38Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9740,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "IRCF | اینترنت آزاد برای همه"
+    },
+    {
+      "id": 2370,
+      "message": "خیلی راحت آمارسازی میکنن و میگن ۹۰ درصد مردم با قطع اینترنت مشکلی ندارن؛ به همون راحتی که احتمالا قراره تعداد ثبت‌نامی‌های سامانه \u003ca href=\"?q=%23%D8%AC%D8%A7%D9%86%D9%81%D8%AF%D8%A7\"\u003e#جانفدا\u003c/a\u003e از کل جمعیت ایران بیشتر بشه!\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
+      "date": "2026-05-21T16:48:37Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8790,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
