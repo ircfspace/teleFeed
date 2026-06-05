@@ -3,40 +3,16 @@
     "id": 0,
     "title": "IRCF | اینترنت آزاد برای همه",
     "username": "ircfspace",
-    "photo_url": "https://cdn1.telesco.pe/file/ibyW33Fa3SfC1WksmgcN9gwX69KpCk2r_Yyu6G1lulKMoO0pqi1H95hY0eBrn_78-IdGYshkkBD0IJYPf7AgmxMFEoN5j7WQT2-WPDeQP5BGwfI_uyKQoUt5NvaGOK-nRZlRH5MTWEjmGvmVE3MQXD4qJYjkJlarkaEuddmBYpYdhSJnbdIQu5BcqcdriJ7KNnRaHE9QZ0nKR6TFSX2qYFwol9MVCA-mpFwpuPocQ49tSzzcis06_HrYxFl4Pf6Z8wqiTu84ixNFnxKbGugYrjJ3uC6qM6wge984jh6VHSwLAM7coHkz2C43NPF7gJdCYLMyvsud0MQDY-GiKXfffA.jpg"
+    "photo_url": "https://cdn1.telesco.pe/file/Tv1hj3mg13bXBauJvOC7uLXy8FEoDpPWwH_5zYmqDhMl6-jZrxsaKB5ocODde0HyZzXAt_z0IntsX33JJwIvmSRSofsdS-hC0LtcFl7NVgToUgYOqDmt_Yd1MAxoqpNp8vNFjxvDM7Jd57iT8-lj8paEjS6Q9ALFsHE51u92Qp8mIrgVuoq1FNRcEfPfFysQeayJiTx9ax-Ltq2GmFqMOSZiSx7J7vikWMcc-DQafmM6MM4fEbolu0bZx3x-14uXI8OEI_9AxqP3NCR1g6uh0fIOY7B3c4HbqJOha4i9MGepB8HYMmH3eWeWH7RXPwYXz-zIb3Ip0CXfDuWl7kSEdA.jpg"
   },
   "posts": [
-    {
-      "id": 2402,
-      "message": "تقریبا اکثر IPهای خارجی خاکستری هستند، یعنی در هر کانکشن شما مجاز هستید حداکثر ۶ پکت به سمت سرور خارجی بفرستید؛ این محدودیت به شدت سختگیرانه است و تقریبا هیچ سرویسی نمیتواند با این محدودیت کار کند. به طور مثال برای کانکشن‌های Https صرفا میتوان یک ریسپانس ساده Http را دریافت کرد و  شما حتی نمی‌توانید درخواست دیگری بفرستید.\u003cbr/\u003eبرای بعضی از IPهای خارجی خاکستری مثل IPهای CDNها و ...، SNIهای محدودی سفید شده، یعنی اگر شما یک درخواست TLS با یک SNI سفید به یک IP خاکستری ارسال کنید، آن کانکشن سفید میشود و می‌توانید به صورت نامحدود پکت ارسال کنید! به طور مثال با اینکه الان تمام IPهای کلودفلر خاکستری هستند، ولی اگر شما یک درخواست با SNI سفیدی مثل \u003ccode\u003ewww.speedtest.net\u003c/code\u003e ارسال کنید، کانکشن سفید شده و محدودیت ۶ پکت برداشته میشود.\u003cbr/\u003e\u003cbr/\u003eدر حال حاضر SNIهای سفید به صورت وایت‌لیست بسیار محدود هستند. با وجود میلیون‌ها وبسایت میتوان گفت عملا اینترنت همچنان قطع است و صرفا دسترسی به سرویسهای خاصی امکان پذیر است. حکومت برای بهبود کیفیت اینترنت مجبور است بسیاری از دامنه‌ها را بدون بررسی دقیق به لیست وایت‌لیست اضافه کند؛ به طور مثال الان تمام دامنه‌هایی که در لیست نیم‌بها ثبت شده‌اند همگی سفید هستند. نکته‌ی قابل تامل این است که اکثر این دامنه‌ها را فیلترشکن فروشها ثبت کرده‌اند (زیرا قبلا شما می‌توانستید صرفا با بالا آوردن یک وبسایت فیک و ثبت درخواست، دامنه خود را در لیست نیم‌بها ثبت کنید). بنابراین فیلترشکن فروش هایی که دامنه‌شان را در لیست نیم‌بها ثبت کرده‌اند حالا دارند سود خوبی به جیب می‌زنند. \u003cbr/\u003eاین سیاست‌های بستن و وایت‌لیست کردن اینترنت موجب رانت و فساد زیادی شده و شک نکنید که خشم خدا را در بر خواهد داشت.\u003cbr/\u003e\u003cbr/\u003eتکنیک SNI Spoofing باعث میشود که یک SNI فیک توسط فایروال دیده شود و کانکشن سفید شود و محدودیت ۶ پکت ارسال برداشته شود. روش اولی که منتشر شد اکنون در بسیاری از نت‌ها بسته شده (یعنی فایروال SNI اصلی را می‌بیند)، ولی طبق گزارشات همچنان بر روی ایرانسل و بسیاری از مناطق حاشیه‌ای برقرار است. روش دیگری که آن را Plan B نامیده‌ام، دیروز (با تشکر از دوستانی که نکات فنی خوبی را متذکر شدند و باعث جرقه ایده جدید شدند) با موفقیت تست شد، ولی به ۳ دلیل فعلا قصد انتشار ندارم؛ اول اینکه بسیاری از فیلترشکن‌های رایگان اکنون وصل میشوند (به طور مثال سایفون به راحتی با فستلی وصل میشود)، دوم اینکه همانطور که گفتم روش اول همچنان بر روی ایرانسل و بسیاری از مناطق فعال است، و سوم اینکه بسیاری از سرویس‌ها مثل اینستاگرام، واتس‌اپ، یوتیوب و ... به طور مستقیم با MITM در دسترس هستند.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/C2A9.png\u0026#39;)\"\u003e\u003cb\u003e©\u003c/b\u003e\u003c/i\u003e patterniha\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
-      "date": "2026-05-30T16:05:55Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "IRCF | اینترنت آزاد برای همه"
-    },
-    {
-      "id": 2403,
-      "message": "اینترنت در ایران آزاد و عادی نشده. بیشتر مسیرهای خارجی یا بسته‌اند یا نیمه‌بازند. فقط بعضی مقاصد و مسیرهای خاص اجازه عبور دارند. همین باعث شده فیلترشکن‌های معمولی خوب کار نکنند.\u003cbr/\u003eدر این میون بعضی از افرادی که دامنه‌ها و مسیرهای سفیدشده دارند، دسترسی می‌فروشند. نتیجه‌اش هم شده اینترنت نابرابر، رانتی و پر از راه‌حل‌های موقت. انگار که درب ساختمون رو کمی باز گذاشته باشن که هوا بیاد، اما اجازه ندن کسی ازش رد بشه.\u003cbr/\u003eبرای همینه که گوشیتون ممکنه نشون بده که اینترنت دارید، حتی شاید اولش سایت یا اپ مورد نظر رو باز کنه یا بهش واکنش نشون بده، اما در عمل از اینترنت خبری نیست.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/C2A9.png\u0026#39;)\"\u003e\u003cb\u003e©\u003c/b\u003e\u003c/i\u003e nimaclick\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
-      "date": "2026-05-30T16:07:38Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 40900,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "IRCF | اینترنت آزاد برای همه"
-    },
     {
       "id": 2404,
       "message": "اینترنت صرفا برای توقف روزشمار نت‌بلاکس وصل شده، یا هدفتون برقراری ارتباط بوده؟\u003cbr/\u003eچون با هرکی صحبت می‌کنم تقریبا ارتباط پایدار نداره ...\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/C2A9.png\u0026#39;)\"\u003e\u003cb\u003e©\u003c/b\u003e\u003c/i\u003e ArashNalchegar\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
       "date": "2026-05-30T16:10:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 40300,
+      "views": 40600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -48,7 +24,7 @@
       "date": "2026-05-31T07:01:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 41900,
+      "views": 42300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +42,7 @@
       "date": "2026-05-31T08:31:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 35600,
+      "views": 36100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +60,7 @@
       "date": "2026-05-31T08:45:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33200,
+      "views": 33600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -102,7 +78,7 @@
       "date": "2026-05-31T08:55:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32400,
+      "views": 32800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +96,7 @@
       "date": "2026-05-31T15:59:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 35400,
+      "views": 37400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -128,7 +104,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/IyDSDcYiWXkQU0RugxC-v0RI1QGiBDCTacJ707kvl2ixlHQvpuo75JresBptIUwCXQTjS3mKDeRdULxto6AM56vmWN0FaEPNzsOmHH7EKUeN6TLuArz7_N0VK63HEinDhckZYcSONfh0HUVy0ch6n0LAmgp_LLr4BJe9S6P3B-Q_hLLMmr8W1LVYkglQhHFIfRwpzGwlKr77IAYM8nvIK4Q4l9TFLYoPL6L_dbPv1-6KG_HDv22k9WtRm_Yc1qggSG4neUPH7vBOIj6u3A7l9VBKBJVEkBT0ZW1GRl1H5BInXf0VAnh6x4LWtq7QAY6DN2nfFsQz7HEtj4Nw603jPQ.jpg"
+          "url": "https://cdn1.telesco.pe/file/aiTVr2zHpB6LIuXdyBsGx10ElWcP-F-TafPKoiFgDo9xsQd8OlshARFPTh1tE1FQcZhBfXYvGN3jfP6P2TXbCcUWmSP8iTR53w2sfvhaPE2tV-zBaRNvLk_JgVyvk2yyBnEGGCe4f8DnziCBHCqAasBCcY3iCHRZWP2hihq1sJIaOv1CWJNhGpW-yG2AYg3ovR362TlLhIqaGkQGV16qg1GB7i5pAF_8oWJFbdFkLQ_kuGnLEjXRWeAMJR8W8XcSMESBTBDhCI5XC83ORIqkqs2lBktnFv88Qbal2Qnl1lKf_uVBjo0EmfebhYA0onHDC1zhsonkarJzYW4ACU9Aog.jpg"
         }
       ]
     },
@@ -138,7 +114,7 @@
       "date": "2026-05-31T16:07:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 41400,
+      "views": 44200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -150,7 +126,7 @@
       "date": "2026-06-02T04:09:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 88100,
+      "views": 89700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -162,7 +138,7 @@
       "date": "2026-06-02T04:14:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28000,
+      "views": 28400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -174,7 +150,7 @@
       "date": "2026-06-02T04:23:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29000,
+      "views": 29500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -192,7 +168,7 @@
       "date": "2026-06-02T04:37:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33800,
+      "views": 34600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -210,7 +186,7 @@
       "date": "2026-06-02T04:47:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 41100,
+      "views": 42900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -222,7 +198,7 @@
       "date": "2026-06-03T04:45:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30900,
+      "views": 31600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -234,7 +210,7 @@
       "date": "2026-06-04T04:51:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25500,
+      "views": 26700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -252,7 +228,7 @@
       "date": "2026-06-04T19:22:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20900,
+      "views": 22900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -264,7 +240,7 @@
       "date": "2026-06-04T19:29:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24000,
+      "views": 26600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -276,7 +252,7 @@
       "date": "2026-06-04T19:32:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21400,
+      "views": 23600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -288,7 +264,7 @@
       "date": "2026-06-04T19:40:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20600,
+      "views": 23400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -297,6 +273,42 @@
         {
           "type": "photo",
           "url": "https://cdn1.telesco.pe/file/s2jqackpSuQLA2wqicmOBAqz-Zb0ndX075nYz4S0u2xfHLqHAt9UtJngeTwCzgaV2LBcGlkOiePzll-8FM3twC_1oURPL6FI7ZgvtPq1Hud2ZHZmRQsE3k03goOnJSuPRICzwONvtf8oGnON3I8ExK1b_8nB5tXgNP_z21-Jd6T4tX0zuIo96VhRcJBM7Ho5udgp0pqsrPvwZn4oM8LTSFuHAe8k0H_kBbAaOFRqTZzw0UZf2G7eAXqgGPdbYtwbNDOd4Br_3Hj9-IdA3fwOmn2boGd2fZ_asLxayBLCIs8IFL8K9DnW-y5uogez8b06yKM7OTg6MVxQuMCQ7V5Npg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2422,
+      "message": "نسخه آیفون از فیلترشکن \u003ca href=\"?q=%23%D8%B4%DB%8C%D8%B1%D9%88%D8%AE%D9%88%D8%B1%D8%B4%DB%8C%D8%AF\"\u003e#شیروخورشید\u003c/a\u003e با نام AzadiTunnel در اپ‌استور منتشر شد.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9189.png\u0026#39;)\"\u003e\u003cb\u003e👉\u003c/b\u003e\u003c/i\u003e \u003ca href=\"http://apps.apple.com/ca/app/azaditunnel/id6776486891\" target=\"_blank\" rel=\"noopener\"\u003eapps.apple.com/ca/app/azaditunnel/id6776486891\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
+      "date": "2026-06-05T15:02:52Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9990,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "IRCF | اینترنت آزاد برای همه",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/Ms_X6bXJQcWYuuIqG6O5alX5Su1AK7oo4Chk_87iz35vF9T2I1URoaHUTfvXDQbgZWacwvKpQYE25xULWH9mswJlY68W1yg7k5AQXts1vfjYnIrGaztGV_9IO0jOlWRP7jIZdzc88UQzdjTbh8WdvwzvesG5HSjcDutBDPH9UU94Ui8HdylAttZFQlU_0vWWce4tKy0nhhpKtN1HKmXtdtD4sUooUkuX971QwI65qUweza1RSyLkBbQQg0GL_d-81waQbbRdKL6iZgN1ciKBkFMYQtNFExQpTskrnIV-mBMgEE2ngk7O3xSpmYsKbMI7fQt0X-RUIsIArH2UlI1ZYQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2423,
+      "message": "اپ GenyConnect یک کلاینت متن‌باز و رایگان برای شبکه‌های خصوصی و ارتباطات رمزنگاری‌شده هست، که با تمرکز بر کارایی، حفظ حریم خصوصی و مدیریت دقیق ترافیک شبکه طراحی شده و ضمن پشتیبانی از هسته ایکس‌ری، برای اندروید، ویندوز، لینوکس و مک در دسترسه.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9189.png\u0026#39;)\"\u003e\u003cb\u003e👉\u003c/b\u003e\u003c/i\u003e \u003ca href=\"http://github.com/genyleap/GenyConnect/releases\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/genyleap/GenyConnect/releases\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
+      "date": "2026-06-05T15:41:33Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5260,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "IRCF | اینترنت آزاد برای همه",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/RfKt0T7asBOBhr22Y_yDHkmgHVofg2hlowFTDOjB5nioZYGO7lWacVfv1iye4PwMJfVBstXlFTZ-NCeUyC65EBFc2RtJcmJUjPqBJEAIdaenT2_OHLP6q-oRfOKnK1aLbBT2EYLgwSBGXR1Y5KY96c7ugK2ZfjhS62EIoUelN1W3CranSevjeF_M8w6Zmr4EPUDJjaL-Sw77w9pTC8nytvVvlMqR15Og2w0s5hv9M4CpBWsZeMO1KZPV6730EGQMKdkRv9o4npwXaqz9X4--ky76KmXOpOG8FCG-U48t_CM-r_BzPy7OWZ-v8LDbSBV2tyfuuzrzmJZ5aIGMbDeXNA.jpg"
         }
       ]
     }
