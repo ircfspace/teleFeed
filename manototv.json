@@ -12,7 +12,7 @@
       "date": "2026-06-05T16:18:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33200,
+      "views": 34500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -58,7 +58,7 @@
       "date": "2026-06-07T11:46:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5940,
+      "views": 10200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -112,7 +112,7 @@
       "date": "2026-06-07T11:46:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5890,
+      "views": 10300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -141,6 +141,44 @@
         {
           "type": "video",
           "url": "https://cdn4.telesco.pe/file/Ze-i5yJAAwrYqSefrNIuj85WGZmC7MFDrPwGOxF4iwndwDbTIb7irl76uERvphorrABYmLU02lEcN62sruq_985XHNhV6cE__2tvfQbGAsrUHlGfAyAailWS0rJ8TjdZDJS30h8L7w3C1D7HoQWfvYIwbJc2NjI8WVgM_jtfVkaTiQ-FfomQ61NzGmwlEeL_sgIja5po0WBlNRa1_Wp-SyWMiswxEVSi0X07R5uh1DvC9k9jneBrP7zsuqdp3bYEJSEIE9oXuSpEbk5g4_dyTeOIWcorRgr2jMIdNywb9aUFNxIB1Q9hAUPgSWJ40b99LEI_Pg3jppbVOpA_nuGXRw"
+        }
+      ]
+    },
+    {
+      "id": 105950,
+      "message": "ویدئوی ارسالی یک گزارشگر منوتو درباره تورم و تجمعات حکومتی",
+      "date": "2026-06-07T13:26:59Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6370,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/QmwWsHZrPfIXeOtsFzONDqNnqMo1R_YQPB31jVkuFVGzHiP6mAdkwOcxOX25r0rByqXdbgkKcRBWREAgCZcsZ8EzY8c3OwTvHQ00FXF6P2iaR8Zf6PRDsrnp7_OFBQGMFOKDXenFmm5PW2uJTWi8ZyZysAERifrw64LO0e9JrwS93YBdhVaipBwoMg0B_dUqHbNnWhJ_HdKlh23bJu3ug4Rgwv6vnR5ioRcoexUoIhk0Iv78LcmNMD3OJBSxZfQavRQvdN42n1xlLAOcfIYOZDxekxeUy0sVjWxwLrARx5yJvJezSKflYQujFWdFfM3SwX271-DXBY1KOV1W2UFiIA",
+          "width": 406
+        }
+      ]
+    },
+    {
+      "id": 105951,
+      "message": "سخنرانی «من رویایی در سر دارم» مارتین لوتر کینگ جونیور، یکی از برجسته‌ترین نمونه‌های قدرت کلام در سیاست و تاریخ معاصر است. \u003cbr/\u003e\u003cbr/\u003eاهمیت این سخنرانی فقط در موضوع تبعیض نژادی یا تاریخ آمریکا خلاصه نمی‌شود، بلکه در این است که نشان داد یک سخنرانی می‌تواند مطالبه عدالت را از سطح اعتراض روزمره به سطح یک افق اخلاقی و جهانی برساند. \u003cbr/\u003e\u003cbr/\u003eلوتر کینگ با زبانی شاعرانه، روشن و عمیقا انسانی، سیاست را به پرسشی درباره کرامت، برابری و آینده مشترک انسان‌ها تبدیل کرد. «من رویایی در سر دارم» یادآور این است که سخن سیاسی، وقتی با ایمان به عدالت و امید به تغییر همراه شود، می‌تواند از مرز زمان و مکان فراتر برود و الهام‌بخش نسل‌هایی باشد که هنوز برای آزادی و برابری مبارزه می‌کنند.",
+      "date": "2026-06-07T13:39:50Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5950,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/F7QYKwFyiVjyYOooVAx5lt8te6mxYqEQ8UUfBPfKkJSjBl1VuzkE1rDxOSiVGRMsrv6pRAmvn8Z38gSBGxVMonvwG6NEg-g1dVJd08cx_RBz-th3q3AFLsFN05g8kiZpq8VAT8RKlyCOZZ-NIxTNUBABIsIlE-zKgt2JqR-6kQYeHFBd0bfWITL7AnaQo4dM3elP04NwZvE56N1w9ftyV69YEhhpMvEBoOgG0oV10vuTGzwcXC-SJ4W7OEOOMO8DNZSVGcHxB8z3GFk89pFpTnBGxYKOQQg36tJ6ReJtlxUBS9Wy5pmOrndusrRVxDxQSHGS6_pwD_KkWVzHAV61zw",
+          "width": 406
         }
       ]
     }
