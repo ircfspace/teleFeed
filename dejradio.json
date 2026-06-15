@@ -3,203 +3,16 @@
     "id": 0,
     "title": "DEJ",
     "username": "DEJradio",
-    "photo_url": "https://cdn4.telesco.pe/file/SgKXnbEGERwpsMcRxL9oQ1edM_XD9eqI_wtxRqsxO0BtHmbbxLOeScihHe9xo0SS72AhVkVXKeI9zKaR71RshM8yrWaJ-he0RIX67dQf3U2Smef_-Ch-h8t9VBRL64PXCbCJQnfpWysnIEyQ88lReTL0ecpT-ln3U0n3TurIdYHfyjAEzmkQAVGXyLh3pi33KQnX8XhNGwCuneqfEMqOdx9Ueqk_GwPp2uADDW2RKEBn7m7IuR7QIwGxV6By9vGzJ3TZ0pL6XhoXlm2rs9Q_BAdP8YvX5IRGdTSLK9CKzPCKN3IRWWv8uDzSaTLV6osdJHuZNO7rSiPGH3pBej76Zg.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/IPst7abjeab6-FekeKiYdXkp-RL-qtQWLlPfJ1gSMmY47bKMkRB-znyihzsceB4WRKaLJk4vJQyJlbH5rHrLBI6ZYYaWQJyQ8mgC1b1MSg6KPTliKyg8bdhKjT_EwumzlGQS8PDbnyE3FfFUHdEJevR2R8V4oMyXvUoEYEnBL9DDXRubX3mXL985kjudUpQen-o8wS6Bjq76OHVnNukLqjCiBkhFNmtLcBiAdHOTnagp2KY2w0IlLUize2mwxU4na8ke47jE_fYaPxw6GiDbYM2IUlPgRZpMNgh_AYsxQlKv-ybIlrLdUk8UQOuVrq3yqY-L2EltRr0Na4tqOrPnyQ.jpg"
   },
   "posts": [
-    {
-      "id": 5663,
-      "message": "\u003ctg-emoji emoji-id=\"5213419616725903784\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5938304994145998707\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B8.png\u0026#39;)\"\u003e\u003cb\u003e🔸\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e خبر ۲۱\u003cbr/\u003eشنبه ۲۳ خرداد ۱۴۰۵\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%AE%D8%A8%D8%B1%DB%B2%DB%B1\"\u003e#خبر۲۱\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
-      "date": "2026-06-13T19:00:29Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2380,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "DEJ",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/s0JAYpfxFe17yFW-JrpN9Re_XJcqkaLAUalKDuW0vUAKla3jnEMpX-kCa8HC1sLj236rELOPjqAc0fD7YwUqsmA4y4_awBloerTV-v9Id0C8AVfvyfsKMJ_aXA4a3skz3FkyLF3mzcxzeIKd1L3H0CgBm2RZE8l5bu6veFnzfbGZnuZEKCz0dQTVQU2Ljtu1Wnczir921FSwT7ML7kKC_cJQY8KIpMwwICu7Sx7VeJuz2LHbsMLvyX2LuG9iekfUNtZpUanD2yIhnKctM_243W93WMzBqSSJmHDO8LYFnr85O6ljXPtKzo3qx4fOQooAlDu5EtBeHv73VIpOOqBhuQ",
-          "width": 852
-        }
-      ]
-    },
-    {
-      "id": 5664,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e\u003ctg-emoji emoji-id=\"5828025979334823630\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e محمدحسین میثاقی حنجره سپاه در فوتبال، که امروز برای مردم رجزخوانی می‌کند و به دیگران لقب «مُفت بر» می‌دهد کسی است که خودش دنبال پاترول برنامه ۹۰ می‌دوید و متهم ردیف اول پرونده فساد «مس رفسنجان» است.\u003cbr/\u003e\u003cbr/\u003eمهدی رستم‌پور خبرنگار ورزشی در برنامه دژ فوتبالی پاسخ توهین‌های امیرحسین میثاقی به مردم و منتقدان تیم فوتبال جمهوری اسلامی را می‌دهد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://www.instagram.com/explore/tags/%D8%AF%DA%98%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84%DB%8C/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e#دژفوتبالی\u003c/a\u003e  \u003ca href=\"?q=%23%D8%AC%D8%A7%D9%85_%D8%AC%D9%87%D8%A7%D9%86%DB%8C\"\u003e#جام_جهانی\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
-      "date": "2026-06-14T08:44:05Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2060,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "DEJ",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/qVXBkqpF8WPTyeugnZEK4InqCnYnaYqT0Am5PDEverB_EWLFj9z2rvgAtnwo1XPlkq2MF6jHUGpcKAzxhotoVdWkKz2cVWkb7zP06m08ey3pOqIJD2XnocmeVHwWItwAlHaJSeuWGIZ9k-XVA2ojk4WV2mA7pRO_DSIBu4xEb48AyUsICWeOpUHppQoTetVgs9z5m2oWWmBj6DbGtiaXa2K-illT2VIJj1A4FftjYmKfgnO0lfGDYw9ItuV1hBtETQsN0FYifWZ4pRg863rb9phHqY05eqQEHxgCO8ejGbooHigOxveBTACe5kkf6HOQUMrE99Q9CarERu2kPIa58A",
-          "width": 480
-        }
-      ]
-    },
-    {
-      "id": 5665,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EA5.png\u0026#39;)\"\u003e\u003cb\u003e🎥\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A2.png\u0026#39;)\"\u003e\u003cb\u003e📢\u003c/b\u003e\u003c/i\u003e در شرایطی که جریان حامی توافق با آمریکا در داخل حکومت خود را آماده امضاء توافق می‌کند هواداران نظام احساس کرده‌اند که بازی گرفته شده‌اند. آنها در تجمعات شبانه علیه قالیباف و عراقچی شعار دادند و چرا با قاتلان خامنه‌ای در حال توافق هستند؟\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%AA%D9%88%D8%A7%D9%81%D9%82\"\u003e#توافق\u003c/a\u003e \u003ca href=\"?q=%23%D9%85%D8%B0%D8%A7%DA%A9%D8%B1%D8%A7%D8%AA\"\u003e#مذاکرات\u003c/a\u003e \u003ca href=\"?q=%23%D8%B9%D8%B1%D8%B2%D8%B4%DB%8C\"\u003e#عرزشی\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
-      "date": "2026-06-14T08:45:31Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2040,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "DEJ",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/WYhlVmCMT-ux0Oaq19TX28MzvU-ETjIVPa0rmcovc9af6iq1rIuBeYe6WT3UukZVphQU3WrMSJnE6S1l9hWSsNPJKKZsOliUEGi8-qaxVYU9bj5xqzFH5mvBb_NWX-s8ZNtbDyGiuAkqSgP3yoAWFsEwYgn7ExvZAjdno4220Kbe1fFS5LdhIQ2lPBgxpr03VtDTLWM74mQRnwgrqWtaPqOtQPyjK3LpaSffBkUdUoHpV0fC2grjcNw94S7EdVxKlOWKu_MObJ7BV31vfhL8tBCRKB11ZKNGws-eUdowwwPTpu9aGasL2S-VacEqd9cInxX5YywDqm-ZsApegAbFyw",
-          "width": 720
-        }
-      ]
-    },
-    {
-      "id": 5666,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EAC.png\u0026#39;)\"\u003e\u003cb\u003e🎬\u003c/b\u003e\u003c/i\u003e فوتبال زیر سایه فاشیسم\u003cbr/\u003eبرگزاری دومین دوره مسابقات جام جهانی در ایتالیا در اوج قدرت دیکتاتوری موسولینی، رهبری که حتی در انتخاب داوران سابقات دخالت می‌کرد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://www.instagram.com/explore/tags/%D9%85%D8%B3%D8%AA%D9%86%D8%AF/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e#مستند\u003c/a\u003e \u003ca href=\"?q=%23%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84\"\u003e#فوتبال\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
-      "date": "2026-06-14T08:52:55Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1710,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "DEJ",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/LFzRN63hwZkMMfWjegYmS69_FaH0z29zknYejhrL4DsW2iukX098ATCZnBRPqDXXujfOZRQdyox2IMI8mWK_SSWwl_wL9PdcY6-I4gMeRPemQy5Zi9pxp-3rJa-bRhjXwQdY9WzYPXsX2Zn5qrrSgfxrngqm-C_QtTAcjZjqJb7GyZseF41jskN2fVxXcgmZOLFWRxhfY0BU2P1oqoE5uowLCsbhOxaMEvJeCxk1GslNNzqp0QXWcGxKCQFTPme0uWgU11tG_gty_zxv_uJ8WFyHTS8FHsHeotC4vObxnwX8L3vDm1wJCxCfnFqycynVKvsQ8GDqQs2xAL817roomg",
-          "width": 1280
-        }
-      ]
-    },
-    {
-      "id": 5667,
-      "message": "\u003ctg-emoji emoji-id=\"5334882760735598374\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939D.png\u0026#39;)\"\u003e\u003cb\u003e📝\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5949680288043897258\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e هزاران نفر از طرفداران حکومت بیش از ۱۰۰ شب زیر بمباران به خیابان‌ها آمدند تا ثابت کنند در سخت‌ترین مقطع پشت نظام ایستاده‌اند. آن وقت که اسرائیل با پهپاد ایست‌های بازرسی را هدف قرار می‌داد شماری از آنها غسل شهادت کردند و با فرزندان خردسال‌شان کنار بــ.ـسیجی‌ها ایستادند تا سپر بلا شوند حالا اما به چشم خود می‌بینند که مسئولان نظام در برابر قاتلان علی خامنه‌ای تسلیم شده‌اند و به قول خودشان با «یزید بیعت کردند.»\u003cbr/\u003eحکومت هوادارانش را دسته چُپق فرض کرده است. تا جایی که می‌توانست در تجمعات از آنها سواری گرفت حالا، چون پای مصلحت و جیب و موقعیت سرداران و دلالان سیاسی در میان است، به اسم «توافق» تسلیم «شیطان بزرگ» می‌‌شود. حکومت قبلاً هم در برجام با آمریکا توافق کرده بود اما آن زمان می‌شد کاسه کوزه‌ها را بر سر ظریف و روحانی شکست، اما حالا نه! محمدباقر قالیباف و شماری از فرماندهان سـ.ـپاه پاسداران آماده تسلیم‌اند هر چند به ظاهر هنوز هارت و پورت می‌کنند.\u003cbr/\u003eحتی اعتراض ولایتمداران در تجمعات شبانه را تحمل نمی‌کنند. روزنامه «جوان» نزدیک به سـ.ـپاه می‌نویسد این تجمعات «دچار فتنه و آفت» شده است و حاضران در تجمعات «نوک پیکان حملات را به‌سوی مسئولان دولت، تیم مذاکره‌کننده و حتی فرماندهان نظامی می‌گیرند.» با این وضعیت رویارویی و جدال درون نظام دیر یا زود تشدید خواهد شد و شاید اصرار ترامپ به مذاکره به همین دلیل است.\u003cbr/\u003eخانواده نظامی‌هایی که در جنگ کشته شده‌اند می‌پرسند اگر قرار بود در نهایت تسلیم آمریکا شوید چرا عزیزان ما را قربانی کردید؟\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%B9%D8%B1%D8%B2%D8%B4%DB%8C\"\u003e#عرزشی\u003c/a\u003e \u003ca href=\"?q=%23%D8%AA%D9%88%D8%A7%D9%81%D9%82\"\u003e#توافق\u003c/a\u003e \u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
-      "date": "2026-06-14T08:54:11Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1780,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "DEJ",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/l9ugnQaZNYkeYR5zFo7wli3pk3EPmrxbZeEtUBKPfo4G0hhpK1Sz7Hjh2WS_6cvhwQY305qWuzxMC57laTNjSPHOPjjaDYgLH3HrYcBL1di6W9we3lKAeWP8seKkNYJ6KOuaI1EZ6dyxkznW_n3-3SVqFo20ES8cogiVyy6aniWFWdoZPhQm6OucJyNx0O8qontH3wF3ysvEsGfYtQR2973_8QRdRVMZTeTwomvFgSHuQ2vDTZjMCiNKZguGTMYuBCsxQ2tn68GFRuPBJ1CfmbeJu_lkIic3OZgYMLq_u0zRu-sK6SX9mpC30W33p1m8NHFWeNRYi4QnT4VXKMPYtA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5668,
-      "message": "\u003ctg-emoji emoji-id=\"4938684710718014640\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29ABD.png\u0026#39;)\"\u003e\u003cb\u003e⚽️\u003c/b\u003e\u003c/i\u003e اهتزاز پرچم شیر و خورشید ایران در جریان مسابقه سوئیس و قطر، در شهر \u003ca href=\"https://www.instagram.com/explore/tags/%D8%B3%D8%A7%D9%86%D9%81%D8%B1%D8%A7%D9%86%D8%B3%DB%8C%D8%B3%DA%A9%D9%88/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e سانفرانسیسکو\u003c/a\u003e، شنبه ۲۳ خرداد ۱۴۰۵\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D9%BE%D8%B1%DA%86%D9%85_%D8%B4%DB%8C%D8%B1%D9%88%D8%AE%D9%88%D8%B1%D8%B4%DB%8C%D8%AF\"\u003e#پرچم_شیروخورشید\u003c/a\u003e \u003ca href=\"?q=%23%D8%AC%D8%A7%D9%85_%D8%AC%D9%87%D8%A7%D9%86%DB%8C\"\u003e#جام_جهانی\u003c/a\u003e \u003ca href=\"?q=%23%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84\"\u003e#فوتبال\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
-      "date": "2026-06-14T08:57:53Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1760,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "DEJ",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/QELDA4FNNAZTYAvlXKG4R_2vDnQz0Q0DsAa6iR2YIpN1o7rNAowdL7QN6dlqq4pkoOu0bbSG16wanwyj4vaImViQ-v3rDk-GBBK0-1V2gcJbykTNeg4fLUZNdDuUEIjEQxbTteWJ307LUPtapditJgkccytr38DLYX5S25t1ZO5Q10tHYsKUz_kO4HT7Nt2jWbghtwpB0bj24DbZt3GRdrmOmJHkVZgM_JQRspHIAbqTNoO0hx-dj99HLK81XdPHYCfYJaJ66HHF4W77mmA6H8zX_oSldL_l66LB-x0RdHm7vgOvRPl_lyvzZXXWS7HGqYfSlNRd-RYAsK6RNLBEhg",
-          "width": 720
-        }
-      ]
-    },
-    {
-      "id": 5669,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EA5.png\u0026#39;)\"\u003e\u003cb\u003e🎥\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A2.png\u0026#39;)\"\u003e\u003cb\u003e📢\u003c/b\u003e\u003c/i\u003e هواداران نظام که مخالف توافق آمریکا هستند عراقچی و قالیباف را لعنت می‌کنند، یکی از آنها می‌گوید \u0026#34;خاک برسرتون\u0026#34;\u003cbr/\u003eولایتمداران بهت‌زده‌اند که چطور هنوز جنازه خامنه‌ای دفن نشده با قاتلانش توافق می‌شود؟\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%B9%D8%B1%D8%B2%D8%B4%DB%8C\"\u003e#عرزشی\u003c/a\u003e \u003ca href=\"?q=%23%D8%AA%D9%88%D8%A7%D9%81%D9%82\"\u003e#توافق\u003c/a\u003e \u003ca href=\"?q=%23%D9%85%D9%88%D8%B4%D8%B9%D9%84%DB%8C\"\u003e#موشعلی\u003c/a\u003e \u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
-      "date": "2026-06-14T09:00:00Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1770,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "DEJ",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/YwRmDll7xCDTrK7_AmNkNdhbFvElPRA8SZtX3N5sCq6pSp_OqDuclAX2T__owL14ks36WccTU7E62tPi23UqUwBNhZbnINOfGwsD08J6hi2Dkbu6Sa31TO-DGnkMATz-teJEz5HZvzRf9TdFeLXgAJLN5YKpYnMdWcxVi1e4TWjorzht-9he47UG-1Vev-U-SCr_qp0hscPEp6Hnc8Gp-TJDXxI9mAFcEtmwN6T7CadLBrJyP9kqOXs5900qN8BORnHzAJ6XIUDXp890U2i5RRyAYdxH6Byiqjy89yZJ4kB0e3F0_0AQQrV4bGOgJ3WDvb7BoJBA-GDUdIxqju5avQ",
-          "width": 720
-        }
-      ]
-    },
-    {
-      "id": 5670,
-      "message": "\u003ctg-emoji emoji-id=\"5836934557550516347\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5807938374341760679\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e براساس اطلاعات دریافتی بامداد یکشنبه ۲۴ خرداد ۱۴۰۵ نیروهای سـ.ـپاه و سنتکام در تنگه هرمز درگیر شدند. ساکنان سیریک می‌گویند در اسکله سـ.ـپاه در بندر طاهرویی صدای چند انفجار شنیده شد. همچنین گزارش شد که به سمت یک کشتی تجاری خارجی یک پرتابه شلیک شده است. مشخص نیست این کشتی متعلق به جمهوری اسلامی بود که هدف نیروهای سنتکام قرار گرفت یا اینکه نیروهای مسلح رژیم آن را هدف قرار دادند.\u003cbr/\u003eانفجارها و درگیری‌های مشابه در تنگه هرمز و اطراف آن چندین شب پیاپی تکرار شده است هرچند ادعا شده طرفین قرار است به زودی توافق نهایی را امضاء کنند!\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%B3%D9%86%D8%AA%DA%A9%D8%A7%D9%85\"\u003e#سنتکام\u003c/a\u003e \u003ca href=\"?q=%23%D8%AA%D9%86%DA%AF%D9%87_%D9%87%D8%B1%D9%85%D8%B2\"\u003e#تنگه_هرمز\u003c/a\u003e \u003ca href=\"?q=%23%D8%B3%DB%8C%D8%B1%DB%8C%DA%A9\"\u003e#سیریک\u003c/a\u003e \u003ca href=\"?q=%23%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1\"\u003e#انفجار\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
-      "date": "2026-06-14T09:01:46Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "DEJ",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/A8TxXuSQ5wUz9sou20d06NM_WY3RXO92NsQIfrm8KRca7EesVTbBCOcxWaP5ppT0gdLpTQzDQa37gOCmTGYJSt5uBAch3hqOa6oobU_Ou607Y8deBkmfCgTYmpTnom9KxNWboMm7TW5c-vLkaYA_tcbSkSX_SEowN2mdeqp64RF-YtXk25_e7SequFRH-kzmYjezSFmpuFOIVXlon-NB1CTuF6EM58sDvkNCvp6VWuJWzNCh8QI_f6zFzQhzHjGWiMEKLPOD-1bIDYG3V4WVFSr30OA8EZQGbklJ6xjrSDwC0xm5s9EGsVfLGc8FjHd2Mp0lZ5mZ1qr4H7Fxi5Lgpg.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5671,
-      "message": "\u003ctg-emoji emoji-id=\"5334882760735598374\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F939D.png\u0026#39;)\"\u003e\u003cb\u003e📝\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5951677112829088371\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e آنچه آمریکا به عنوان متن توافق پیش روی جمهوری اسلامی گذاشته تا امضا کند، توافق نیست بلکه تسلیم‌نامه است.\u003cbr/\u003e\u003cbr/\u003eدر مسائل حقوقی، امضاء به معنای اقرار به انجام عملی یا پذیرش مسئولیتی مشخص است. با این نگاه امضای جمهوری اسلامی پای چنین سندی، به معنای پذیرش مسئولیت اقدامات گذشته و قبول تبعات احتمالی تکرار آن‌ها تلقی می‌شود و به معنای تسلیم است. با این حال، پرسش اصلی این است که آیا رژیم تروریستی به چنین تعهدی پایبند خواهد ماند؟ پاسخ منفی است و سوالی که پیش می‌آید پس چرا آمریکا به دنبال امضاء رژیم است؟\u003cbr/\u003eاز نگاه آمریکا امضای احتمالی چنین سندی می‌تواند در آینده [احتمالا بسیار نزدیک] مسیر اقدامات بین‌المللی سیاسی و نظامی را علیه رژیم را هموارتر و هماهنگ‌‌تر کرده و دست آمریکا را بازتر کند.\u003cbr/\u003eاز همین رو، اصرار آمریکا بر اخذ این امضا، بیش از آنکه صرفاً دستیابی به یک توافق باشد، تلاشی برای ثبت رسمی پذیرش مسئولیت از سوی طرف مقابل است یعنی رژیم به جرائم خود رسماً اقرار کند.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%AA%D9%88%D8%A7%D9%81%D9%82\"\u003e#توافق\u003c/a\u003e \u003ca href=\"?q=%23%D9%85%D8%B0%D8%A7%DA%A9%D8%B1%D8%A7%D8%AA\"\u003e#مذاکرات\u003c/a\u003e \u003ca href=\"?q=%23%DB%8C%D8%A7%D8%AF%D8%AF%D8%A7%D8%B4%D8%AA\"\u003e#یادداشت\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
-      "date": "2026-06-14T09:31:12Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2210,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "DEJ",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/bT7GY3UeT_vqnVKsURJnuPEQJPOhM2i9sE08T3sDAbJsh4sa2lQOiq9WxzJOaIfIn2h7NtX9r6Bj2LXcBeLvIJyGaqcfbyF3y0vsURzVUCIlxfnfjB-T1K5Srp-I7VUtvNaelO6rF_e7o7MhnZ76v6Y8yQ6cBngWlDGGyPBXGPCEjiZpwttnUm2rrBZd8xsio2TpoutWve7jY8igOKNk6jDKXenHp6O6NxcaRzzzyTII5Xd6RYXdJI0Pa4oPFJ0sCA-lvnouRCuHGbiY1rq2KcnXg_EwwwEYtmxN7nEBEKUlvXhqeqRB7yHujn9gAnyYNRwZd2BuvF0ZgFvXm7JeOA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5672,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EA5.png\u0026#39;)\"\u003e\u003cb\u003e🎥\u003c/b\u003e\u003c/i\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A1.png\u0026#39;)\"\u003e\u003cb\u003e📡\u003c/b\u003e\u003c/i\u003e عفت تجارتچی؛ روایتی از از فراز و فرود زنان در یک قرن\u003cbr/\u003e\u003cbr/\u003eسالگرد تاسیس نیروی هوایی ارتش ایران، فرصتی است برای مرور بخشی از تاریخ معاصر این کشور؛ تاریخی که گاهی باید ردّ آن را در آسمان جست‌وجو کرد.\u003cbr/\u003eاگر بخواهیم داستان ایران در دوران پهلوی را در یک تصویر خلاصه کنیم، شاید هیچ تصویری گویا‌تر از هواپیماهایی نباشد که بر فراز آسمان ایران پرواز می‌کردند؛ نمادی از کشوری که می‌خواست از عقب‌ماندگی فاصله بگیرد، به دانش تکیه کند و در ردیف کشورهای پیشرفته جهان قرار گیرد.\u003cbr/\u003eدر این میان، نام عفت تجارتچی به عنوان یکی از چهره‌هایی که در شکل‌گیری این مسیر نقش داشته، مطرح می‌شود. او سال‌ها بعد، از خاطراتی می‌گوید که به بخشی از روند تولید و توسعه صنعت هوایی ایران گره خورده است. آیسان قاسمپور نگاهی داشته به زندگی نخستین خلبان زن ایرانی در دوران پهلوی.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%B2%D9%86%D8%A7%D9%86\"\u003e#زنان\u003c/a\u003e \u003ca href=\"?q=%23%D8%AE%D9%84%D8%A8%D8%A7%D9%86%D8%A7%D9%86\"\u003e#خلبانان\u003c/a\u003e \u003ca href=\"?q=%23%D9%86%DB%8C%D8%B1%D9%88%DB%8C_%D9%87%D9%88%D8%A7%DB%8C%DB%8C\"\u003e#نیروی_هوایی\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
-      "date": "2026-06-14T10:08:25Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1960,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "DEJ",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/u1WbxrGm5UsNA0tlGATb5W9FY9e1OnIyuRreTW4C1DDpWb1SK_wovifnRu7QPIVwEqNDVSWjwzmqTAS65Kyc-s8lQuo01fIkbd2RNReBx7OJcxl2RFi_oOf0dm7jepzial6p2Z0WnYyfnHaC8bXgmcO87f1V_Ioc8Mf8XgBgf-3dM18OX81_auEwemdeQ8sDrU-dNsduZgOCAV6femZZ2kCJ5aDBlA1gdRW3-f3sFsHWqhDlHJkhZlQpncbSauFjsfoZ-hoBHy2zp08vLBycVBFnvFLF212zdIE-vknQFIJaUW0pgW415TGphLa7GD9_QAPI-nPAFcSoT1ONT4J8Bg",
-          "width": 480
-        }
-      ]
-    },
     {
       "id": 5673,
       "message": "\u003ctg-emoji emoji-id=\"5807938374341760679\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94A5.png\u0026#39;)\"\u003e\u003cb\u003e🔥\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5836934557550516347\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e ارتش اسرائیل مواضع تروریست‌های حزب‌الله در ضاحیه بیروت را بمباران کرد. در این حملات شماری از فرماندهن و نیروهای این گروه کشته و زخمی شدند. ساعت‌ها پیش از این حمله دستور تخلیه چندین محله صادر شده بود.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84\"\u003e#اسرائیل\u003c/a\u003e \u003ca href=\"?q=%23%D8%B6%D8%A7%D8%AD%DB%8C%D9%87\"\u003e#ضاحیه\u003c/a\u003e \u003ca href=\"?q=%23%D9%84%D8%A8%D9%86%D8%A7%D9%86\"\u003e#لبنان\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
       "date": "2026-06-14T12:33:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1820,
+      "views": 1990,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -218,7 +31,7 @@
       "date": "2026-06-14T12:37:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1880,
+      "views": 2090,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -237,7 +50,7 @@
       "date": "2026-06-14T12:39:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1960,
+      "views": 2180,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -256,7 +69,7 @@
       "date": "2026-06-14T12:42:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2370,
+      "views": 2560,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -275,7 +88,7 @@
       "date": "2026-06-14T14:37:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2370,
+      "views": 2640,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -293,7 +106,7 @@
       "date": "2026-06-14T18:01:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1890,
+      "views": 2240,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -312,7 +125,7 @@
       "date": "2026-06-14T19:28:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1760,
+      "views": 2210,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -331,7 +144,7 @@
       "date": "2026-06-14T19:28:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1920,
+      "views": 2460,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -349,7 +162,7 @@
       "date": "2026-06-14T19:32:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16800,
+      "views": 24800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -368,7 +181,7 @@
       "date": "2026-06-14T19:35:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2060,
+      "views": 2730,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -379,6 +192,157 @@
           "url": "https://cdn4.telesco.pe/file/L75dE_uyx9n1CEv2oGHxLvAkkNdSaqV2evxBmng5TJ7FTb2fUqS3wStDWn8sgDd4unG6PFxytY8HiVZtOimmjYCowaLEluc_Bd02n2QbDzHfZjtsv7TrOmEjvSw0dzjdKxG5upNu9RDN8NbPSkMXQEUk88gs23kpZQfLuw3GxuCqbLIi8cZgKpfPPOBcpP9wNNxrkC8QakAw--ck9NNbrONdDnWYIxXJYPQ1ctM6S8Gh8kZaFl4CX6sEDH5S5cdkmpwmv7Rhm77qiHAwFEyZYGddHesQhVR_QrLTBIjvzuPTiahZqcaPZCNy2P4V_7vMwkHV3MsB-cJdhhvSroPhAg.jpg"
         }
       ]
+    },
+    {
+      "id": 5683,
+      "message": "\u003ctg-emoji emoji-id=\"5828025979334823630\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A2.png\u0026#39;)\"\u003e\u003cb\u003e📢\u003c/b\u003e\u003c/i\u003e دونالد ترامپ می‌گوید توافق با جمهوری اسلامی امضاء شد. او توضیح داد: «بدین‌وسیله من بازگشایی بدون عوارض تنگه هرمز را به طور کامل مجاز می‌دانم، و همزمان با این، لغو فوری محاصره دریایی ایالات متحده را دستور می‌دهم.» او همچنین تأکید کرد «کشتی‌های جهان، موتورهای خود را روشن کنید. بگذارید نفت جریان پیدا کند.»\u003cbr/\u003e\u003cbr/\u003eاو ساعاتی پیش از آن در گفتگو با روزنامه «وال استریت ژورنال» گفت: «هیچ پول نقدی به ایران پرداخت نخواهد شد.»\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%AC%D9%86%DA%AF\"\u003e#جنگ\u003c/a\u003e \u003ca href=\"?q=%23%D8%AA%D9%88%D8%A7%D9%81%D9%82\"\u003e#توافق\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
+      "date": "2026-06-15T07:08:30Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1750,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "DEJ",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/CcoyHgg_ili8I15xkg5XZBZPsczExNL78iGlyZEDBXPXLPo_rKAeAlkeri5zi4Ykg4ZFh6EO72agN0p0U4Gc5j5CiQ1oKlffd1daNLdxcoRXU_6Ia44-dDrrKJRhWJ5E8jL4U4RXJUyKOvQM3RN9f2VNjfU6RawDo4WgQtLwY3nmCBmWMyeCcizqEG7M2fUNkrgIVf9xLK51Z5anS9qmUE-nUcmQu43WQZi6oNepEFeSawx07V0YGjz-9F9uDJouyCoi2aYToAFhQPJ_bOuIMrz6NGi3Y-KMWBDHu8Qh-M6rkGQ3PQ06J-ugPzyt1mssMTOJQkfMYU-e1Pxi7YlGmA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5684,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A1.png\u0026#39;)\"\u003e\u003cb\u003e🤡\u003c/b\u003e\u003c/i\u003e\u003ctg-emoji emoji-id=\"5828025979334823630\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e پروژه یدالله برای جلوگیری از حذف مجتبی خامنه‌ای\u003cbr/\u003e\u003cbr/\u003eیکی از پاسداران پریشان‌احوال نظام، برای حفظ جان مجتبی خامنه‌ای پیشنهاد اجرای \u0026#34;پروژه یدالله\u0026#34; را مطرح کرده است. مجتبی خامنه‌ای رهبر جمهوری اسلامی از وقتی به این مقام رسید، نیست.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D9%85%D9%88%D8%B4%D8%AA%D8%A8%D8%A7\"\u003e#موشتبا\u003c/a\u003e \u003ca href=\"?q=%23%D8%BA%DB%8C%D8%A8%D8%AA_%DA%A9%D8%A8%D8%B1%DB%8C\"\u003e#غیبت_کبری\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
+      "date": "2026-06-15T07:11:25Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1750,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "DEJ",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/sm4iVUVut9fAtSwEpi-tov94nXkXuAvFfcegJqCd40QbxArQdvnFrDQECjjEwtbG4oElOEkdXdWM7RZyIlE-fwKv74m1yed11_EMdGAzTwrl6uSk3yYz_7a-og-KdEnmu9CMe5uClV4dcFlV_q-aaV27qGjvPetrAgxwZrDBHCJlwR8nO9-4n8AyUMWDqORcY-xK4LXCR6_8rjPI0wqO6vQvG5YufOJqqzONCNHvNvId7cOWYCeCU4g42B90Ywusbe7eP0whVV09peXrP1cvULNlZPH83pJOsPkBYnXMZ5wdjxLuKPw1EVoszL78v1b17nY0BEpBi5hbnRZKc_-Ong",
+          "width": 720
+        }
+      ]
+    },
+    {
+      "id": 5685,
+      "message": "\u003ctg-emoji emoji-id=\"5828025979334823630\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EA5.png\u0026#39;)\"\u003e\u003cb\u003e🎥\u003c/b\u003e\u003c/i\u003e میوه‌های نوبرانه‌ آمده، اما بسیاری نمی‌توانند بچشند\u003cbr/\u003e\u003cbr/\u003eشهروندان از گرانی مواد غذایی کمرشان شکسته است و از پس هزینه‌ها برنمی‌آیند. یک شهروند با ارسال ویدیویی از گرانی نوبرانه‌ها شکایت دارد. مردم می‌گویند با توافق و بی‌توافق زندگی آنها پر از مشقت است.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%DA%AF%D8%B1%D8%A7%D9%86%DB%8C\"\u003e#گرانی\u003c/a\u003e \u003ca href=\"?q=%23%D8%AA%D9%88%D8%B1%D9%85\"\u003e#تورم\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
+      "date": "2026-06-15T07:15:11Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1840,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "DEJ",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/VXqA8O7btGDe6V7qnM54iE1pYNbrQSLSZ5iAQ-utXSk2PjMDX6ZYhMEhISKJlo58m4pyaUAwgvOHmTJrnRvq81sE9Wp0MQlVwlVZXlrJBGJudtLSqbdXMB9obB3hh7Rzx1bnhalcA1vMp59M24BMsQ3n_c2R9TePOCS8J8oxSu3SFjaePSqooJvJBwyL2HYSd__qf6TzFsccdBCxfxQ_5wuYXq-7BM8Mz5AmxJeaDEyYvqXhTX5bNkEWqMLIiGi1J74lUC2kY2gPydMu-zZ61XABOpwtXj_bI5Szy5h77zbHgPy4g1zyVj2PSdNO4IMF5R14wFRZja2Vmm2eCq_dog",
+          "width": 720
+        }
+      ]
+    },
+    {
+      "id": 5686,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A1.png\u0026#39;)\"\u003e\u003cb\u003e🤡\u003c/b\u003e\u003c/i\u003e\u003ctg-emoji emoji-id=\"5828025979334823630\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e هنوز انتقام رهبرمون رو نگرفتیم!\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D9%85%D9%88%D8%B4%D8%B9%D9%84%DB%8C\"\u003e#موشعلی\u003c/a\u003e \u003ca href=\"?q=%23%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D9%85_%D8%B3%D8%AE%D8%AA\"\u003e#انتقام_سخت\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
+      "date": "2026-06-15T08:00:28Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1890,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "DEJ",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/oavKOybwmC9lBb24fJd7YUDUGL9ezQeC1Kb2BIgSTEJij4vCGnUeJMKdDKnpAJNz9Hbt8zlYD_tSwvdFxNlmNu7PBEdGTzOn0wXPfMryc6zPACAI9rO0NACF6l9KutY8AYt8if6U7Z_kCbdKoefRJJmk8JFlE3J3M9NyT6SL8b-NoYGLr3mOifXA4OOLEAT_JGn2ZgbSsxUaRaZGlBOLZMoby7eX-v1vreA_tFiEK3lxA9ylzFmLOVyhK-nPABy9gbnrERUq06TZmhPpVTpp0LQ1oFBAolPmXqvCegnRhsteYGJD7NqXxoZEepUFtqR2RCriiSP5phTH6DXKN8FNUg",
+          "width": 720
+        }
+      ]
+    },
+    {
+      "id": 5687,
+      "message": "\u003ctg-emoji emoji-id=\"5213419616725903784\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5949629152163271756\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e اسراییل اعلام کرد برای تامین امنیت خود، پایبند توافق جمهوری اسلامی و آمریکا برای توقف جنگ علیه حزب‌الله نیست\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%AD%D8%B2%D8%A8_%D8%A7%D9%84%D9%84%D9%87_%D9%84%D8%A8%D9%86%D8%A7%D9%86\"\u003e#حزب_الله_لبنان\u003c/a\u003e \u003ca href=\"?q=%23%D8%AA%D9%88%D8%A7%D9%81%D9%82\"\u003e#توافق\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
+      "date": "2026-06-15T08:41:16Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "DEJ",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/Xpm9NAccOxco3dILHxRK75ebp5t8ZrMeYHXMBA7wjGJMT3QJI3bPPHYS2yDnR8jr2ERkD5G4idqkzAK9xFza8kYf1ZZfc4TYktgHuGxV7bafHPBZPNU2qbVl_lNeWua5MhoNN8U6d1fylU_FzW3URpEniSv-wjz8gGK4KpQrX_iqjk7qPoMgBAW7DQcnRHT4oCU31IQLignc_A6dk9ZbcObwB78XmsEm2qTaR9YmkVoN2Y7EYjBtqC-uJUcDRmClJToOEXLqTephRZnMYBXnFVTpdlhzeXLoXP8VTrAP2lLGgGm9oUch-QZp1nRWVAxb0bhhXZsdtaowT-Fn9c-Jsg.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/eOKEYRuOxs_52NvzZtBS_Xk34OuAxuAT4g7HDhysWiDL7NTfADXAG-jDNxlBS6B2NG2A4TCn7OzcIcK6TRbFy9c8mM3LKrNvgJC9T1rMk37BM288gYBl0JUXS2rkU2RitPF6Ad4AIMiV-SY1y6sU7r8N6697P6qLvz4QCMI6MvX0bzYQkfFVcscLESW08iMsRwv8s5ScXOq1txiYLDmt4YHN_Xt0RY74RpT0oo_39bj5GvhrJYawZ9d_IayvDZ1hT9ssXe6DCu9c6-RBUidHWeIC2MNa5_WPntIOdx4wL3pPgip3JR7WNTTbZfugsOjUOa2ssl9LvrTzCs1-8tw9kQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5690,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA4A1.png\u0026#39;)\"\u003e\u003cb\u003e🤡\u003c/b\u003e\u003c/i\u003e\u003ctg-emoji emoji-id=\"5828025979334823630\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e وزیر آموزش و پرورش:\u003cbr/\u003eفرهنگ شهادت، مهمترین مؤلفه قدرت جمهوری اسلامی است\u003cbr/\u003e\u003cbr/\u003eعلیرضا کاظمی وزیر آموزش و پرورش جمهوری اسلامی در جمع شماری از نظامی‌های ارتش و سـ.ـپاه گفت «فرهنگ شهادت، مهمترین مؤلفه قدرت جمهوری اسلامی ایران است» و «از مکتب عاشورا و سیره شهدا الهام گرفته‌ شده است.»\u003cbr/\u003eاو با تأکید بر اینکه جنگ امروز دشمنان صرفاً نظامی نیست، هشدار داد «جنگ رسانه‌ای، اقتصادی و شناختی با هدف تضعیف امید و کاهش تاب‌آوری مردم دنبال می‌شود و لازم است همگان با هوشیاری و آگاهی در برابر این هجمه‌ها ایستادگی کنند.»\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%B9%D8%A7%D8%B4%D9%88%D8%B1%D8%A7\"\u003e#عاشورا\u003c/a\u003e \u003ca href=\"?q=%23%D8%B4%D9%87%D8%A7%D8%AF%D8%AA\"\u003e#شهادت\u003c/a\u003e \u003ca href=\"?q=%23%D8%AD%D8%B0%D9%81\"\u003e#حذف\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
+      "date": "2026-06-15T10:13:42Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1050,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "DEJ",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/aNAGBaWjb_1saYiJGZop2Pqlv42KqDNgkaSYG80VtdzL4IwF67UHn4X9W8dPw2BqTGMey9ibpT38Lb6h_hjBOCu0I2yOgTusOQG1kTlHXXfWwisgqOYgcfzDLW_UO6V6Y2QJuy07o8jtEDc6aJLgxpTGeHb9kcw_Stxy5Nb6CIaXQ8tbhyFidfPd6NxTt8dJtJ3fMD7iyb5Zt8KMTg6R-xFrbV2mmbpDoH3wmt1Dacmkt6xDXRJIYFtX0fsEzpSE7boidd4WK4r7XitbJ-Ribna5beFXQwcBCDXuN_k4R0sykSsTsfqD4jTmygsMLVjz-hQ0Z5l9HFEF-YxHW0Gy4A.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5691,
+      "message": "\u003ctg-emoji emoji-id=\"5949286409478082944\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5951677112829088371\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  اسرائیل از لبنان عقب‌نشینی نمی‌کند\u003cbr/\u003e\u003cbr/\u003eیسرائیل کاتس، وزیر دفاع اسرائیل ساعاتی پس از اعلام نهائی شدن تفاهم میان جمهوری اسلامی و آمریکا گفت ارتش اسرائیل به‌صورت نامحدود در لبنان، سوریه و غزه حضور می‌یابد.\u003cbr/\u003eاو در بیانیه‌ای اعلام کرد سیاست دولت بنیامین نتانیاهو برای حفاظت از امنیت اسرائیل، روشن است.\u003cbr/\u003e به گفتۀ یسرائیل کاتز، بر اساس سیاست دولت، نیروهای اسرائیلی در مناطق امنیتی باقی می‌مانند تا از شهرها و مرزهای کشور در برابر نیروهای جهادی، محافظت کنند.\u003cbr/\u003eکاتس همچنین به جمهوری اسلامی هشدار داد اگر تهران به بهانۀ عملیات اسرائیل علیه حزب‌الله در لبنان، به خاک اسرائیل حمله کند، با واکنشی شدید مواجه می‌شود.\u003cbr/\u003e مقام‌های جمهوری اسلامی مدعی‌اند توافق با آمریکا شامل پایان جنگ در لبنان و عقب‌نشینی نیروهای اسرائیل از خاک این کشور است.\u003cbr/\u003eاسرائیل در روزهای اخیر بارها مواضع حزب‌الله را هدف گرفته است.\u003cbr/\u003eشبه‌نظامیان حزب‌الله که از پشتیبانی جمهوری اسلامی برخوردارند، در سیاهۀ تروریستی آمریکا و اتحادیۀ اروپا قرار دارند.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84\"\u003e#اسرائیل\u003c/a\u003e \u003ca href=\"?q=%23%D9%84%D8%A8%D9%86%D8%A7%D9%86\"\u003e#لبنان\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
+      "date": "2026-06-15T11:02:38Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 663,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "DEJ"
+    },
+    {
+      "id": 5692,
+      "message": "\u003ctg-emoji emoji-id=\"5949286409478082944\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  سازمان ملل گزارش داد جمهوری اسلامی از ابتدای ۲۰۲۶ دست‌کم ۴۰ نفر را با اتهام‌های امنیتی اعدام کرده است\u003cbr/\u003e\u003cbr/\u003eولکر تورک، کمیسر عالی حقوق بشر سازمان ملل متحد، اعلام کرد جمهوری اسلامی از آغاز سال ۲۰۲۶ تاکنون دست‌کم ۴۰ نفر را به اتهام‌های مرتبط با «امنیت ملی» اعدام کرده است.\u003cbr/\u003eبه گفتۀ کمیسر ارشد سازمان ملل، در میان اعدام‌شدگان دست‌کم ۱۸ نفر جزو معترضان خیابانی بودند.\u003cbr/\u003eتورک همچنین گفت جمهوری اسلامی پس از اعتراضات و همزمان با جنگ منطقه‌ای، سرکوب‌ها را تشدید کرده است.\u003cbr/\u003eکمیسر عالی حقوق بشر افزود رژیم  در ماه‌های اخیر هزاران شهروند را بازداشت و محدودیت‌هایی بیشتر را بر فضای مدنی اعمال کرده است.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%A7%D8%B9%D8%AF%D8%A7%D9%85\"\u003e#اعدام\u003c/a\u003e \u003ca href=\"?q=%23%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA\"\u003e#اعتراضات\u003c/a\u003e \u003ca href=\"?q=%23%D8%AC%D8%A7%D9%88%DB%8C%D8%AF%D9%86%D8%A7%D9%85%D8%A7%D9%86\"\u003e#جاویدنامان\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
+      "date": "2026-06-15T11:06:37Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 623,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "DEJ"
+    },
+    {
+      "id": 5693,
+      "message": "\u003ctg-emoji emoji-id=\"5949286409478082944\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e  ایتامار بن‌گویر گفت توافق ترامپ تعهدی برای اسرائیل ایجاد نمی‌کند\u003cbr/\u003e\u003cbr/\u003eایتامار بن‌گویر، وزیر امنیت ملی اسرائیل روز دوشنبه با بی‌اعتنایی به توافق میان آمریکا و جمهوری اسلامی، گفت اسرائیل خود را ملزم به اجرای آن نمی‌داند.\u003cbr/\u003eبن‌گویر در کانال تلگرامی خود نوشت: توافق ترامپ ما را متعهد نمی‌کند.\u003cbr/\u003eبه گفتۀ وزیر امنیت ملی اسرائیل، توافق تهران و واشینگتن امنیت اسرائیل را تضمین نمی‌کند.\u003cbr/\u003eبن‌گویر افزود اسرائیل نباید به چیزی کمتر از برچیدن کامل حزب‌الله لبنان رضایت بدهد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84\"\u003e#اسرائیل\u003c/a\u003e \u003ca href=\"?q=%23%D8%AA%D9%88%D8%A7%D9%81%D9%82\"\u003e#توافق\u003c/a\u003e \u003ca href=\"?q=%23%D8%AC%D9%85%D9%87%D9%88%D8%B1%DB%8C_%D8%A7%D8%B3%D9%84%D8%A7%D9%85%DB%8C\"\u003e#جمهوری_اسلامی\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
+      "date": "2026-06-15T11:27:16Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 287,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "DEJ"
     }
   ],
   "last_updated": 0
