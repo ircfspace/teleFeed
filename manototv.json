@@ -12,7 +12,7 @@
       "date": "2026-06-20T13:14:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25100,
+      "views": 25700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +66,7 @@
       "date": "2026-06-21T09:45:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13800,
+      "views": 15300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -85,7 +85,7 @@
       "date": "2026-06-21T09:45:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15000,
+      "views": 16900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -131,7 +131,7 @@
       "date": "2026-06-21T12:22:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11100,
+      "views": 14200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -140,6 +140,25 @@
         {
           "type": "video",
           "url": "https://cdn4.telesco.pe/file/Jbol4LHWePK-K2FTG4HSisCsne530RBcI-RLf2UaBGwSoqWInMAk948oJQfJKxDzF37a4Oy8jItxdPtpeZltxdQAyyEC5kGIqsC-ndrXgafSNgG9FBRzNfn5KLp42xf3ZCVwWb-Bt2NbOr0a3AMaKdUjFS8zH7jx5Wehl0-hvzY6n-zrCIwzq1Gflla1Yw-O0E0oEyrOQAkUuutkMxQop5EU5J_5g6Kcu0HvmTbTpcjZAfmhqww0tRPx0Nn4ds3AE-z3NEeDhWfNLZ3oiXpHcRL_gr7f9vx_IArqow5DCAtsdNfUR78gVKjxlSTjljEWBjdqLkV4RYKOahoKsr5Qzw",
+          "width": 406
+        }
+      ]
+    },
+    {
+      "id": 106195,
+      "message": "گزارشی آرشیوی از دهه ۷۰ میلادی درباره دکتر پرویز فریدین، پزشک ایرانی مقیم لندن که یکی از نخستین کلینیک‌های تخصصی سقط جنین را در بریتانیا راه‌اندازی کرد.\u003cbr/\u003eاین گزارش، نگاهی به یکی از جنجالی‌ترین موضوعات اجتماعی و پزشکی آن دوران و گفت‌وگوی خبرنگار با دکتر فریدین دارد.\u003cbr/\u003e\u003cbr/\u003eبرای تماشای آرشیو نایاب ایران و جهان، کانال یوتیوب Manoto را دنبال کنید.",
+      "date": "2026-06-21T17:30:59Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5810,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/dMwyowIYdFMaF7-a2IJVG72uobdUe77OAaupYNruKRal1FHbxllcco5vqSfhK2p_IPiBblBLtiH4YU_CNucJiLJlLDB_GW7n4DLXKPrHYyt8ut1KHvMaMrkfpKLDqx-_I4CAWY2LuSkZcIfC42h6s_rnbhlQOwhJmPpT8j83agJpbwmnn-iIoCt6hvr5_fc63GI-u_g2IciUn7-BDr9oEF5jvkLFuKCWGMW_GIZH-Rqhe9e5VAWxLpAm9kbC41SG4YcNlNMLfDcY65r9_m_IKgQmeppVcOZTwoDMSt-_bXA8sTlum-cvrnGuoQO_2d1ES2hZls-FIdS7fOBlXs_JwQ",
           "width": 406
         }
       ]
