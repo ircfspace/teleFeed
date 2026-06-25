@@ -12,7 +12,7 @@
       "date": "2026-06-23T09:04:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26600,
+      "views": 27000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -58,7 +58,7 @@
       "date": "2026-06-23T19:01:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24800,
+      "views": 25500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -77,7 +77,7 @@
       "date": "2026-06-24T07:00:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20700,
+      "views": 21700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,7 +96,7 @@
       "date": "2026-06-24T10:19:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18100,
+      "views": 19600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -150,7 +150,7 @@
       "date": "2026-06-24T15:25:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15000,
+      "views": 17400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -175,6 +175,25 @@
         {
           "type": "photo",
           "url": "https://cdn4.telesco.pe/file/BRw_yU9ibQNUB2V0bPEbAxBZKmMleY5i7d3oSdW5dH1DN06_f5I1WsBezs-r5jalo_zCTBr-oYHrbmL6dzHJfu2SYNA35aKS6jhRUNyt00YH7Brj2vpr12LWP6j2-I8p12LCy__hvopIiQcT43vpriF0ZHrqhN39bXEHeDDNdwpwPrcqdm5rrvtqCh4D27c259DEHxLM_ACVmZYvYpm35OcEZzd_BqOru5Wuu0IGk51PJUpaAglXS9DGKmTjx5Vo8LrD6NnmRnMcuUy-fS3J_T3jtJR6Q364joYSz6rNCc06BSIlJH8kX7cqKT6NlxErvxsMVHm9uRrN06Zcb6suCA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 106233,
+      "message": "تجربه توافق برجام نشان داد رفع تحریم‌ها می‌تواند شاخص‌های کلان را برای مدتی آرام کند؛ تورم پایین بیاید، ارز ثبات نسبی پیدا کند و صادرات نفت بالا برود. اما مسئله اصلی این است که این گشایش چقدر به زندگی خانواده‌های عادی می‌رسد.\u003cbr/\u003e\u003cbr/\u003eدر اقتصاد رانتی جمهوری اسلامی، منافع معمولاً در بالادست جذب می‌شود؛ در شبکه‌هایی نزدیک به قدرت، نه در سفره مردم. همین شکاف میان وعده بهبود و واقعیت زندگی روزمره، پس از برجام به اعتراضات دیماه ۹۶ انجامید.\u003cbr/\u003e\u003cbr/\u003eتوافق شاید زمان بخرد، اما اگر قدرت خرید، امکان برنامه‌ریزی و حس ثبات در زندگی مردم تغییر نکند، بحران فقط به تعویق افتاده است.",
+      "date": "2026-06-25T06:27:10Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1440,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://t.me/ManotoTV/106233",
+          "width": 320
         }
       ]
     }
