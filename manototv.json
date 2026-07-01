@@ -12,7 +12,7 @@
       "date": "2026-06-27T22:48:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 36400,
+      "views": 36900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -54,7 +54,7 @@
       "date": "2026-06-28T13:11:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31400,
+      "views": 32000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -80,7 +80,7 @@
       "date": "2026-06-29T10:00:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26000,
+      "views": 26500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -126,7 +126,7 @@
       "date": "2026-06-29T10:00:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31800,
+      "views": 32299,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -145,7 +145,7 @@
       "date": "2026-06-30T13:18:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24100,
+      "views": 25500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -163,7 +163,7 @@
       "date": "2026-06-30T13:18:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23900,
+      "views": 25500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -181,7 +181,7 @@
       "date": "2026-07-01T06:06:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14800,
+      "views": 18400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -191,6 +191,28 @@
           "type": "video",
           "url": "https://t.me/ManotoTV/106278",
           "width": 320
+        }
+      ]
+    },
+    {
+      "id": 106279,
+      "message": "محمدرضا شاه پهلوی و شهبانو فرح پهلوی در میان دانش‌آموختگان ممتاز دانشگاه تهران، در آیین آغاز چهل‌وچهارمین سال تحصیلی دانشگاه، ۱ مهر ۱۳۵۶. در این مراسم، مدال‌های دانش‌آموختگان برگزیده اهدا شد و شاه و شهبانو با فارغ‌التحصیلان عکس یادگاری گرفتند.",
+      "date": "2026-07-01T16:52:15Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6050,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/dxaOFvppuR1ZRafUdTqS4T2VTE2LAK6x9nDKdKmQp14V-Jf21zB_QTcTO6DXtVlr-PiphXv5TPJlheJq3R1jwW8L7y_XvXhtUdv_5MXpopOiOtUQo70fWyInhhA6GZ1MiJti5tdVPUYSS1VeN7wkf7uqgOlcijGtPa-uTt22GwEHrCibRa_ChViYMO5REaUzLFlgeOWfFt0QJLlFdl2mMVHqMthaSRmf_vpEfs5Uee-JzN8in717YzieAjecDH75Yd6CYgpCDsighn4PkCE9_bSzyszUhne-ay_yN5Kg3W4z9kdSYTf6HH22Qc1cJeyBiykXupoyc8b8gqRkRCDKog.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/o9tf1bXsTBqHBiNuqD-_MlQwf34E9QUKYKok5TXDejvlBNHNSBuCnRrynz5WJZ2wkIKq89TokqJbBzxqym25mIq9wG2Tz5PjIrB-oI5mb8k_JFa6GMf78-fg2X0dPOmB51zp5GO3yHdKW5Bg97LYk_G4tA7RvnEBGf4KOEGWZSzfcUaAzT5RfLibhd6qXKbuMq3E24w4r-l10LEWHZbA9Rnu3pavVnom-zxr5yL1eis_USFu9zcQa1y44eSg6dDGAFLrp-I1JCvJ71BlTCAsCzLtJMs1vs9qzVE6S1yLT9QODUNI3oqAw4qF21dr96D69ozlrJB98h5wNoxn6-CEsg.jpg"
         }
       ]
     }
