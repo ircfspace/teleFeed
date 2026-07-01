@@ -12,7 +12,7 @@
       "date": "2026-06-27T22:48:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 34600,
+      "views": 35200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -54,7 +54,7 @@
       "date": "2026-06-28T13:11:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29600,
+      "views": 30200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -80,7 +80,7 @@
       "date": "2026-06-29T10:00:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23800,
+      "views": 24700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -126,7 +126,7 @@
       "date": "2026-06-29T10:00:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28600,
+      "views": 29800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -145,7 +145,7 @@
       "date": "2026-06-30T13:18:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17200,
+      "views": 20000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -163,7 +163,7 @@
       "date": "2026-06-30T13:18:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16800,
+      "views": 19500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -172,6 +172,25 @@
         {
           "type": "photo",
           "url": "https://cdn4.telesco.pe/file/kzFVybWjJme84SUmJ_q9dS-iDz63sNTrtd_gRU-j29QJbngrl9A65KSJLh9tAlEvSKRmzBISq0TlhLUxEHnKkOhd4MJCBPoK2VEF9NlfXlZ9Qf-omKiswdagqTwNSUMvCMJea-moZaHEqQWqXXdiA9r1p532a6IG6uHxRzo1SnTCRS86owdZ3W0Kib5RWz1rpZejy8JaGgVv9S6H3FfCZQxo3TNqTsRT9XnnO1FhcmYrQuatOD3C-FCua0EcOkAezbGp4LzwGA8xzpvSr9kNamu5b6-Ywu0Fc12YbF7B4ChnbSP5lt9Hn85UW77H80VS3Grrr4LjxeTYed1e3R71Og.jpg"
+        }
+      ]
+    },
+    {
+      "id": 106278,
+      "message": "در تاریخ معاصر ایران، چهره‌هایی چون قائم‌مقام، امیرکبیر، فروغی و بسیاری دیگر، فقط مقام دولتی نبودند، سیاست را می‌شناختند، تجربه اداره کشور داشتند و در بزنگاه‌ها تصمیم می‌گرفتند.\u003cbr/\u003e\u003cbr/\u003eاما چه شد که به‌تدریج مسیر تربیت و ظهور رجال سیاسی بسته شد؟ چرا نهادهای سیاسی، احزاب، مجلس، مطبوعات و دستگاه اداری دیگر نتوانستند سیاستمدارانی مستقل، کارآزموده و اثرگذار پرورش دهند؟\u003cbr/\u003e\u003cbr/\u003eاین پادکست روایتی است از افول رجال‌سازی در ایران.",
+      "date": "2026-07-01T06:06:27Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3510,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://t.me/ManotoTV/106278",
+          "width": 320
         }
       ]
     }
