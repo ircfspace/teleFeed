@@ -12,7 +12,7 @@
       "date": "2026-06-29T10:00:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 37300,
+      "views": 37800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -58,7 +58,7 @@
       "date": "2026-06-29T10:00:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 39900,
+      "views": 40300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -77,7 +77,7 @@
       "date": "2026-06-30T13:18:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 37600,
+      "views": 38200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -95,7 +95,7 @@
       "date": "2026-06-30T13:18:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 38300,
+      "views": 38900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -113,7 +113,7 @@
       "date": "2026-07-01T06:06:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 42000,
+      "views": 42600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +132,7 @@
       "date": "2026-07-01T16:52:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 38600,
+      "views": 39400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -154,7 +154,7 @@
       "date": "2026-07-03T11:26:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28400,
+      "views": 30000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -173,7 +173,7 @@
       "date": "2026-07-03T11:26:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29400,
+      "views": 31300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -192,7 +192,7 @@
       "date": "2026-07-03T17:02:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19000,
+      "views": 22500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -229,6 +229,25 @@
         {
           "type": "video",
           "url": "https://cdn4.telesco.pe/file/oEobkcVtw0zcfB36tVO12vNZ7BVylyevdc_IBfQGqJ_KW9_iWR-rHBTLrcSkJfm3MlnLTZshHd35p-hlWcb62mLaYg8Py1qQbjMgJaKiP_JBtUNuju7GQgelFyg7r1LksMA4JOpEsxhTmiJx3ObD-HmBT6w8MB0dv2yhnDVjMexZivrcORRyjnLAB2ljoP3WIzW3u5IKsQC97yH_potkc4DlZQkXYiH185NegPd_NORsMjBIM8E0ATzvwRLQCsyNJY9SKRusNBdqFzfZpp1fZ3mzuhNwYaKH-N7mE5G-o6ZZS8davEIOMO2sk6o6Ipml6VInJpZSZBfuxAzoNlyh0g"
+        }
+      ]
+    },
+    {
+      "id": 106291,
+      "message": "چرا اعتراض‌های ایران بارها تکرار می‌شوند، اما کمتر به نیرویی سازمان‌یافته و پایدار تبدیل می‌شوند؟ مسئله فقط شجاعت مردم یا شدت سرکوب نیست. نبود شبکه‌های قابل اعتماد، پیوندهای محلی، ارتباط میان گروه‌های اجتماعی و سازوکاری برای تبدیل خشم پراکنده به عمل جمعی، یکی از گره‌های اصلی سازماندهی در داخل کشور است.\u003cbr/\u003e\u003cbr/\u003eدر این پادکست، نقش شبکه‌سازی مردمی، ارتباط میان نیروهای اجتماعی و فاصله میان خیابان و اپوزیسیون خارج از کشور را بررسی می‌کنیم.",
+      "date": "2026-07-04T07:35:25Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4080,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://t.me/ManotoTV/106291",
+          "width": 320
         }
       ]
     }
