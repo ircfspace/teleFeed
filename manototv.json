@@ -12,7 +12,7 @@
       "date": "2026-07-03T17:02:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 37900,
+      "views": 38800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -58,7 +58,7 @@
       "date": "2026-07-04T07:35:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32900,
+      "views": 34300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -77,7 +77,7 @@
       "date": "2026-07-05T08:57:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23800,
+      "views": 25900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,7 +96,7 @@
       "date": "2026-07-05T11:24:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20200,
+      "views": 24300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -141,6 +141,28 @@
         {
           "type": "photo",
           "url": "https://cdn4.telesco.pe/file/aQrwX1i2aNiuzmbthgn9uJzhHp0RbCkcf414MkMpyIbgbId8Ja_Fc0vHfe1Ml-xkWEMHehLA1VOA9RWmZ2gpHXvTNJ1TAtbU0a-HmfFHzp17ybsKL-q7M-aMeL3cHVcBjyGnuAD4fSG_YAKqotWu6KGSBHPTtZ_gvV5p9QNY_bGP9Wu9oQJp4WRS9ftA8Fpk_kK2hz0TWL9LHL__2ZuvYAoOhS6HEWO58LK1CIRlkKAdVO8gT5wZhPrlu-xgC6DeAwPy4K5nzbK1L80MtNgggB4zOpxYuhVAvnks5Fv2I8-ITnIbRy9dHRy1FxLChzhqhtug3psr__g-oSLN_Dk3qw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 106303,
+      "message": "مانور ناوگان نیروی دریایی شاهنشاهی ایران در خلیج فارس، آبان ۱۳۵۳\u003cbr/\u003e\u003cbr/\u003eاین رزمایش بزرگ با حضور محمدرضا شاه پهلوی و همکاری ناوگان، هاورکرافت‌ها و نیروی هوایی شاهنشاهی در آب‌های خلیج فارس و دریای عمان برگزار شد.",
+      "date": "2026-07-06T11:42:41Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 9370,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/Qy_5CQ_GICZr6adfV6vXd280vZxiX_PiKfvyck7pQ3qDaOuB4MZUff0mWSa2qnAEMOV3bL8PkDuhxNc0jhLUTNqgMWMfr9-Lszgq1qPYE6XEufSNvrQ4lh3rtDJ3LSh_q40Kk9QP9I7oMEsJd7B6mAVdJ4LU5SpWa-x3xDTswLuV4fPgjyHOhjOp4w5_MUDrU_EJkAKi5lYCdrdDsq_VucXducD4LZYaCOfzQ44vHPa_RnC6Z6jwXKBbUhvFiV-PcGGAH10hYyZWRUXs8NIUILIHU0tE1iVplqcEYLxnoDvzuxc-wgJKCr1ZUj0rvmkX8KbsjGuRfB5P2Pgu_KKwWQ.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/olvbiHV-DqOV3-ZqvfwiWa6c3rRH1GkR1CZTRnnDmzukTbzI0Q13pYn8YuWE4cE6e6s51OOua9JlbeITZfVSdir_Exxo7kD4cDts-ehsdpj9NlUbvqDziI50U3S-KfXZNvqayUmIgCN66ucGCtXgs5Pu0UQ21f6t4P2nV0C5D-lz0H58oIvyymkzcE5hf3nQa6JvMsS-GtatRnWS-3hIoCn_haSi4CQ9jbcx2FYc7uJf-WqnWfxP0CU3QQ1WyE_q5DMPUdNGJi4ueVzQAVJ-GOYCZYf3-o7LMAp6YPfB6f-LhdRSru3GVoMrc6vzAsiAJcVLolY3L_ZHLpcYXJ8Vfw.jpg"
         }
       ]
     }
