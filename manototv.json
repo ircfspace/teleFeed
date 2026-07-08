@@ -12,7 +12,7 @@
       "date": "2026-07-05T11:24:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 40300,
+      "views": 41700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +66,7 @@
       "date": "2026-07-06T11:42:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33400,
+      "views": 35000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -88,7 +88,7 @@
       "date": "2026-07-08T14:08:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7390,
+      "views": 12900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -125,6 +125,44 @@
         {
           "type": "video",
           "url": "https://cdn4.telesco.pe/file/j0U5hWwP-8QX80iPMMycfXYXVb4zugQSC49WrkGcrMGIdZRihpbqINe1STqEHeKB6qZlb_UahLT8sH332QmIQ9kbhuIjMnQEV8ikf28GnIj02FojdiUZKDjl4wvHHydc22_3QDeyErrBkOE9ozUVgvZwC09hJM77u0djGuCTbUbAedGw95j5Hr_fjRW8aM5HyZoI2YQhmN_BriYMVEHfCZ5Ys3iYHmUe8Kv_HvUQosKwiPDuJ9mQTDuj1GFHelajYS6uVNzvV-nsuX8addCbZPGXwvYaDXnuJcIaP_etRh6cA3ljFc3uRvLVdogarFEv3G3OoZi2wUge_F3WYOfqYw"
+        }
+      ]
+    },
+    {
+      "id": 106313,
+      "message": "‌\u003cbr/\u003eبندرعباس؛ آتش‌سوزی پس از حملات آمریکا ـ گزارشگر ۱۶ تیر ۱۴۰۵",
+      "date": "2026-07-08T16:14:19Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7120,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/vCjKhdncAeb29ymK6GNrNDaPOzqVLM8NioK3ncLjBU-8vKYsqeAH37ebECDSIYW6O-0eZjpNSSewRsLpzLaZ2kcBVUjlsY_4WhZq4sI40bLNwdXlPPnK9h6SCBXR-6F7dVAw8mNQjpG05_PkpLpLLFqi1XvrJqbo2SrE38wse82S2EZx71d0tyZq7yGOCwbfAbZVBjls-J8LJa7D2X3AnuKLSjXhEaxzeE23umXaD0IghGwqQO5_rcOpZFbPRdW0yjMgT7loLLM-Nwkh_IGbT0NFqshm1j4eIau5uQ6xjhwsgkJI_JoOz8n8cycPsNaTBEmTGk9z34_WaIlAtyRuog",
+          "width": 406
+        }
+      ]
+    },
+    {
+      "id": 106314,
+      "message": "ترامپ در برابر یکی از پیچیده‌ترین تصمیم‌های سیاست خارجی خود قرار گرفته است. پس از حمله به نفتکش‌ها، تبادل حملات میان آمریکا و جمهوری اسلامی و پایان تفاهم آتش‌بس، واشنگتن باید میان بازدارندگی، مذاکره، فشار حداکثری و حمایت از مردم ایران مسیر تازه‌ای انتخاب کند.",
+      "date": "2026-07-08T16:14:32Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6990,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://t.me/ManotoTV/106314",
+          "width": 320
         }
       ]
     }
