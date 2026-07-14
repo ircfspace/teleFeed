@@ -3,35 +3,16 @@
     "id": 0,
     "title": "تلویزیون منوتو",
     "username": "ManotoTV",
-    "photo_url": "https://cdn4.telesco.pe/file/LocpqdtnSY8uSBtiO89Lt1xKwRe3CLngGOo3Hubygo_rQQw8quxin2WNNpHXTQcRECmoN3ErYIA9QmB5FPxhc9W2Wpxc-Zm06bxHKj0WsOhRjJNahK_PT5YPjp2DHz80zdTgLpRVGpTHhD-JvT3rcwY1_TlvO8gvhN0CTXhGE4bd3V5rDw-3fU6-DCIgdPcRgq9LhI6INawcERWY9oIfMShJiTRcYYLx5bcVrm2QkLeAoh9DlNzVmCOLuZEpLLPNYcuSA2XHJn5f7jjzK3eEfZf0ZszHDjM8SC14QdR1UEkdAYacFGYsLYT3Ks2Nj0VJfVmCL-ewRtI-kRWD5Rzt5w.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/lAJzK3E2X5ckb-HJmlBxYq26MwPCaMBsgwKivyx8nmOepQDMFr10H-1Agc7Q-ZP0evjbFz0DlfjOFQPO28yvntQxl5z5Y1d4ieUFkJs2OUvWlFOADPNxzwzqXSw0xktxy0vBQ-SnmHIHCgdgRQWzeo7IFvOjpNatrrSv3FYEeJ4kHDBhjaQ6zCCSQj23F_hjRVWzpEqO_MzLjFjMCla4Ir_1hyBd22w9Tx_ZlXnOUZ5TQWYWFcAVGNOBAz8ocj0PMbt8qHjfMVCGeq6oJ6MbWaZeOK5Ex7m28E-ngdNULclAM8WLNOdz3WLG0oxp3pepLeQf6LKejRAUta3dI0M_3w.jpg"
   },
   "posts": [
-    {
-      "id": 106314,
-      "message": "ترامپ در برابر یکی از پیچیده‌ترین تصمیم‌های سیاست خارجی خود قرار گرفته است. پس از حمله به نفتکش‌ها، تبادل حملات میان آمریکا و جمهوری اسلامی و پایان تفاهم آتش‌بس، واشنگتن باید میان بازدارندگی، مذاکره، فشار حداکثری و حمایت از مردم ایران مسیر تازه‌ای انتخاب کند.",
-      "date": "2026-07-08T16:14:32Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 60200,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "تلویزیون منوتو",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://t.me/ManotoTV/106314",
-          "width": 320
-        }
-      ]
-    },
     {
       "id": 106315,
       "message": "مقاله «ما و عرب» محمود جعفریان، نگاهی واقع‌بینانه به سیاست خارجی ایران دارد. او تأکید می‌کند جهان عرب یکدست نیست و روابط ایران با همسایگان باید نه بر پایه احساسات و تعصب، بلکه بر اساس شناخت، جغرافیا، واقع‌بینی و منافع ملی شکل بگیرد. پنجاه سال بعد، این پرسش همچنان پابرجاست: سیاست خارجی با احساسات اداره می‌شود یا با شناخت و منافع ملی؟",
       "date": "2026-07-10T16:58:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 43400,
+      "views": 44000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -81,7 +62,7 @@
       "date": "2026-07-11T07:44:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 41200,
+      "views": 42700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -111,7 +92,7 @@
       "date": "2026-07-11T17:59:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 42300,
+      "views": 43900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -145,7 +126,7 @@
       "date": "2026-07-13T06:15:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28300,
+      "views": 30400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -155,6 +136,40 @@
           "type": "video",
           "url": "https://t.me/ManotoTV/106333",
           "width": 320
+        }
+      ]
+    },
+    {
+      "id": 106334,
+      "message": "مجموعه‌ای از تصاویر تیمسار سپهبد محسن هاشمی‌نژاد؛ از فرماندهان ارشد ارتش شاهنشاهی ایران و یکی از برجسته‌ترین چهره‌های نظامی معاصر ایران. او در بیش از سه دهه خدمت، مسئولیت‌های مهمی چون فرماندهی گارد شاهنشاهی، فرماندهی دانشکده افسری، ریاست ستاد نیروی زمینی ارتش و آجودانی پادشاه را بر عهده داشت.",
+      "date": "2026-07-14T19:17:26Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4140,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/r6gSQtDlB8JWkQUKo8VsqUw90d5CS34Tn2LrAafa-9AAhDCHK60r3b4B0HaR6JHl316p5dWs22wfbdyOWthu9yU9avmHZi_J7ebR75s9CR5tsRZaNoU5PddaScSgLhf0Ko_c_SWD2kfZBNmoTXPAXEJ6PmXSHTnS3EfGuA01WZFtvzUMfTLhjx08FB8nqg5RZI6DSGjAF1n_dxXLH47dzQlI2X2oRrgVAwk3RWVBLum961gaC5HRsHKVX31bL40iTvJe-l1k9VEUFzbI70oBS-mUmfB_-5jowzqpSZVMukCS-7f684oBKXQdSaUbh1UJQdfJCAWcQUy0faqhpI7VGQ.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/I1vDUz7_f9gq9qXRJ704xp7rlqXbEhefi11cJeuvMKYTB5gcLl82v2SOjrd3oFe_O1AgG_yZFzpEugOIR1XgyGwr9tc6AUQAEl4qmeZRioUW_U0AkGFuG8F1DY96tshNTDe9ZymmU6Ez0p-UMJuTA0cwi5Zh_xhKiDjfgkClCOe6ZWg4aAQFNW0q8CnB6BbtZkHHiZy-HJhFjBgMaezNLwVMu14ciB4E_wL-HF_zy1jG3yeTTk29DbyKD66lsJXODRPyIPi-26MXHC97ijwoPw_iG9F42YPDS0jzhUM_pWFKiX2T3fPZdkE_rJyGcz2PBKVI7NOnNPqK9YCXRcEGzg.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/BG9nROtKQ_fdphakMnJl1KuTILygsweUocM8MpCouAFQURAfkMfaGyRY8hjWxtiLINf5syt_4pIStKBmB8biKIPRMtX8BcU5k5-WHOfAvoW1m1Oi6TCmnIRA_ts5zOdqsR6fG-H4bYKkgnBjnScOPzBoEDoZdOcPeG3uniTbitsH2860xLS4Cn14da8QM8ZWbue13_6-iQVlbIKB4uR4W_HwE0ItIxlxmqFaWQRniPanpgC14Xp2pQ7xQgxlmFjqc_0k1X0O246IJKmdun3kuHZXuYJ3C5JchlmFehkB5NKVykn4n0pNR0q-9Ki1Vsn7eVhxTb_4JzVS4s4z9rLxmg.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/M5kM8HLu3HaD8ADcYRJX9RjymOAfyaskZ9hk6SudbLKl6lCaUxYgzQqNBr2m89NPnQhgRO6SxmfeDLX4z5-560YCZfnfSe1Y50NHxTBeSil2Wmtxe9mFpqCD1BqyECWvVclJe_YBI-wvNkOny_LnfNUnJ72p8JmktOhJhKbzFO07A5ocRn0zoBrPqGcMPqOE3p4AwKUcY6c11Cn0F36hWqbXdn81tM0UgPgylTsLKdHfKojqpx3VC-5D2b2wbJ26-d6vnue87zW4jbLNvgnsC7yWsY88Hsos-D5EnFujPQELYd90r8pGJ-Q0nv5kfqY8dA4QGeIN4zHkDMXM_NgwBw.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/lVqzo9MoumlMfKKSKs6mkFc0Zb4kF8Gc1d_fdbI2jF-xFsqmOAcSR_1MEZ70Hjj3uFSZfdEGZWkrJlDcsxtws18eckVXaeIekUWVDGpva8CZKFwDDJfgT2eG3T-DtPjdmWnoWII-VaQA4XZdvPhREBMhHmqj3d0Vb0HzYM4v_I8iv6hFtrT3qa4r2SnAJJvlqlkFCaY0PAo19AIN_IBClUPEmi-Jv1BXoljA95fJnggHzWDf_WMCdS6wBA5PVuGsoyufD64n8Sz98hWYTdu-DyJWDcN_4ulJgIiPwPmTOe23OXKyyL_6-V0KFPwfEw0h9WXPGpRwQbgXehwpTxC6bA.jpg"
         }
       ]
     }
