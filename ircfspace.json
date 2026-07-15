@@ -3,52 +3,16 @@
     "id": 0,
     "title": "IRCF | اینترنت آزاد برای همه",
     "username": "ircfspace",
-    "photo_url": "https://cdn1.telesco.pe/file/eTpwZs-awFkSer_Y7TVET7uNbhWYg1gVrOlzuwVbOZ-YNIsBJT97CqdeWBxLkZTKD_n53sE4ugrF4nqbtSFj-c3KF1Ya8oCpIEM-vqxIW6kiWAYLpRprUemoOc88JCvZTaOD3a5bKq76wtiaShUb654kvp3rilK31xAKB_4cPmOsveq5MXhq7FMEM-45uhmtm83CBgHdSI_t9Xytior2QNpkBnVdcsPNNdz95zxARcnQUFBDbss63aWHUUNiL3W7YoSDVOrey44VMsdNTPA3rrk5uQNI-SzUrGBUO83nnb4BNiEv4BZOf4ueFBNMkijrIl1bJPkWmw-Hn5W1C7kfVQ.jpg"
+    "photo_url": "https://cdn1.telesco.pe/file/JsA7ii2KknqLYnPRgrNlsLbcUxXmA5HZwO1EnVBbwhmRAS07z7VToXco6A_mmEKQg1VAoErK_5VOWgmlSzii6OWFPq-dBf4DOHN-vRSh8c7NqlhnUJ3-15s9QqHEeij2O4D9KMa0VHpklosWu88uwc-ssXOfO3N6TLvo32GaiQ0p1UxSVr0WqIuYK8Zz38xY-MjjkoSDbd8goECiGG93FROthqVthUedGhAgjBGm7GWHThq-X59bk8oskexCkH9xOMaM47MRR3TtiOPNJSy-SSlWinhQZAnCfU34i2SYVPRAjrN-JU7F8WTnUCrfENiaLpuKVSQ4ckGSiyow9R2tWA.jpg"
   },
   "posts": [
-    {
-      "id": 2475,
-      "message": "اپ GRoute یک کلاینت متن‌باز و رایگان بر پایه هسته ایکس‌ری هست، که امکان استفاده از پروتکل‌هایی مثل VLESS، VMess، Trojan و Shadowsocks رو در کنار ترنسپورت‌های مختلفی مانند REALITY، TLS، WebSocket، gRPC و XHTTP برای دیوایس‌های اندرویدی فراهم می‌کنه.\u003cbr/\u003eاین برنامه از قابلیت‌هایی مثل اضافه‌کردن کانفیگ وارپ، مدیریت لینک‌های ساب با بروزرسانی خودکار، مسیریابی تفکیکی، پروکسی برای برنامه‌های انتخابی، فرگمنت، Sniffing، نمایش لاگ‌های Xray، اسکنر آیپی تمیز کلودفلر، امکان تست کیفیت اینترنت، بررسی پینگ واقعی، تاریخچه مصرف دیتا و ... برخورداره.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9189.png\u0026#39;)\"\u003e\u003cb\u003e👉\u003c/b\u003e\u003c/i\u003e \u003ca href=\"http://github.com/SuOracle/GRoute/releases\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/SuOracle/GRoute/releases\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
-      "date": "2026-07-05T04:44:14Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 39500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "IRCF | اینترنت آزاد برای همه",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/dFla2C21uiGtFDRFhNFi965AftUNrHvrxPDE2fV69GY7OYpPY3At0T1GlGrCekjhfh-bFCNCV4t8dOV-mcb_7fIt7rpjj3z9YFtzzg5SmzYdjx2qk2LDaesgWnF_qjNaC9wyzTRkhdhVDHNfoJfSSgs0ad-Mz0aqBhzsmp1nq013LB_kazlQY1b812l0PN1D7hfVj0aNS8UK3vHCxdXIltCwURTAx7iTPx7_3ZenIITsiOeY0H9JcB2LWD-sP2-U8bc-dUV-SEnNthGkdEbfQhj2OyNZFL5srZniFccmn9XIsLmsm3ufPMIZPOWKNn9k9pMSkpmnRZXZtfc_I0PsgQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 2476,
-      "message": "مایک سنتوناس، مدیر ارشد فناوری شرکت CrowdStrike میگه خیلی‌ها دارن روی این تمرکز می‌کنن که \u0026#34;کدوم مدل هوش مصنوعی خطرناک‌تره\u0026#34;، در حالی که تهدید اصلی جای دیگه‌ هست. مشکل واقعی اینه که هکرها حالا با کمک هوش مصنوعی می‌تونن آسیب‌پذیری‌های قدیمی و جدید رو ظرف چند ساعت، و بزودی شاید در چند دقیقه، پیدا و سوء استفاده کنن.\u003cbr/\u003eبه گفته او، هوش مصنوعی بیشتر از اینکه باگ‌های کاملاً جدید کشف کنه، باعث شده هکرها بتونن تعداد زیادی ضعف امنیتی شناخته‌شده رو خیلی سریع به همدیگه وصل کنن و ازشون برای نفوذ استفاده کنن. یعنی اگر سازمانی هنوز وصله‌های امنیتی رو نصب نکرده باشه، حالا خیلی راحت‌تر از قبل هدف حمله قرار می‌گیره. هوش مصنوعی لزوماً حمله‌های جدید خلق نکرده، ولی سرعت و مقیاس سوء استفاده از ضعف‌های امنیتی موجود رو چند برابر کرده و همین بزرگترین تهدید امروز امنیت سایبریه. /اکسیوس\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
-      "date": "2026-07-07T04:18:19Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 39000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "IRCF | اینترنت آزاد برای همه",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/RRxLnNSLbxvAQBVWUQ2QDsxf7BnzPTnjdyZWJX5lfQD4Aj23Lp_9bWRpGuZl5DK2sgfoyPzqVOeoXyhqQLcUKRXgwco1T2e1VwiRHHq--an6c8IlZYdcfgeERpxz9dIy0iz-_4zHJnp6HaLon5zxjvAB2KdONGLB8siMluCAw5qNv68rhww0nDISF7RzLhGANJhBFrYrvDYMa3uyyabQFWuCX5BYDmDh8Ip_21OBPqLg33cjnvURvAWlZmdXOjzTK6yxYrld8NtLCekoMQM7y_U5a_q-g3rPUhKLsUFFWrw5MIoGWuRyZFo9ZNiUU0V9lsM2e05ae35jmMbbgGgpmw.jpg"
-        }
-      ]
-    },
     {
       "id": 2477,
       "message": "محققان Datadog میگن مهاجمان با استفاده از بیش از ۵۰ حساب قدیمی و غیرفعال گیت‌هاب و توکن‌های دسترسی (PAT) افشاشده، از طریق API گیت‌هاب در حال جمع‌آوری اطلاعات سازمان‌ها هستن تا برای حملات بعدی آماده بشن و ساختار داخلی، اعضا و ریپازیتوری‌های اونهارو شناسایی کنن.\u003cbr/\u003eتوی بعضی موارد هم تونستن ریپازیتوری‌های خصوصی رو کلون کنن. به گفته Datadog، چون این کارها با حساب‌های واقعی و API رسمی گیت‌هاب انجام میشه، تشخیصش از فعالیت عادی توسعه‌دهنده‌ها کار راحتی نیست.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/C2A9.png\u0026#39;)\"\u003e\u003cb\u003e©\u003c/b\u003e\u003c/i\u003e thehackernews\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
       "date": "2026-07-11T03:59:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21100,
+      "views": 21300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +30,7 @@
       "date": "2026-07-11T04:10:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20000,
+      "views": 20200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +48,7 @@
       "date": "2026-07-11T04:19:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25600,
+      "views": 26400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -102,7 +66,7 @@
       "date": "2026-07-11T04:30:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18200,
+      "views": 18400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +84,7 @@
       "date": "2026-07-11T04:38:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19600,
+      "views": 20000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,7 +102,7 @@
       "date": "2026-07-11T04:44:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21700,
+      "views": 23300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -156,7 +120,7 @@
       "date": "2026-07-11T04:49:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26000,
+      "views": 26900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -174,7 +138,7 @@
       "date": "2026-07-11T05:05:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30600,
+      "views": 31400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -192,7 +156,7 @@
       "date": "2026-07-11T05:20:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 57700,
+      "views": 58500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -210,7 +174,7 @@
       "date": "2026-07-12T16:36:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 43800,
+      "views": 44400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -222,7 +186,7 @@
       "date": "2026-07-13T13:57:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24500,
+      "views": 25000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -234,7 +198,7 @@
       "date": "2026-07-14T04:19:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19800,
+      "views": 20600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -252,7 +216,7 @@
       "date": "2026-07-14T04:28:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19800,
+      "views": 20700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -270,7 +234,7 @@
       "date": "2026-07-14T04:38:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20300,
+      "views": 21100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -282,7 +246,7 @@
       "date": "2026-07-14T15:46:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13000,
+      "views": 15200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -294,7 +258,7 @@
       "date": "2026-07-14T15:49:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12800,
+      "views": 15200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -312,7 +276,7 @@
       "date": "2026-07-14T16:02:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12000,
+      "views": 14800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -330,7 +294,7 @@
       "date": "2026-07-15T04:04:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1610,
+      "views": 7980,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -339,6 +303,42 @@
         {
           "type": "photo",
           "url": "https://cdn1.telesco.pe/file/BHOZRJO_S31KBxbICQV4c-jD1eOsWmukOctmVo_2VXyPKG4LBSR9YeSOKRZkdJkuAQXdnjraTq-l2znbB7-VLmXpCRXNhWeKEI62K2NgSuH2oXG-s6OISb48OIFTInWV5xIyIa48W8BCo7FeBQIjXZfYguWnKL_dq1uH84WhsGwEgLfxANnN54KJErvfqeK8teWGjJNwKhw5Z4mktOSlKW0151JPjhREMCjEQTwHTlS8GuC-bacWHXegD-oLobSfINb0BXn-ONcR0cBGSI9CvoAIjsdR3IsOlr1z8M83I4PHFrQbEefIQAt6xtMjAKO1rZBs6yqa2YRgePylS378yw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2495,
+      "message": "اپ Aether-GUI یه واسط گرافیکی برای هسته Aether جهت دسترسی به اینترنت آزاد و دور زدن فیلترینگ هست، که دردسر سر و کله زدن با محیط ترمینال رو برای کاربران سیستم‌عامل ویندوز حذف میکنه.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9189.png\u0026#39;)\"\u003e\u003cb\u003e👉\u003c/b\u003e\u003c/i\u003e \u003ca href=\"http://github.com/MatinSenPai/Aether-GUI/releases\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/MatinSenPai/Aether-GUI/releases\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
+      "date": "2026-07-15T04:44:57Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7630,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "IRCF | اینترنت آزاد برای همه",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/QzRFDWvY0chfEP-NprIbLObKEyUg8Suo8z4WszrDbFdY6NilEWhnbsml5zL5eb2qEOu91SBUwTGSCije1gx2Rtwcolk-CanGTlRUxpIaxv8BR0K9P2kgNPM2HlO9x1KS9H3zptBRcA1kfuCAmdebAzLQMN6ExxG7xFopoZSu9MAwt2yQ5DyKRwXQJpZBTIO3Rrpio2OAG95wYGV0bLKU-rzthOwAwPKBp43NhXD7RpUOBiZP23O_jVSIbpB8wBnLAkOFZvSVQF00Mc7pyo0vmjcHzlnesJ7A-pY4kVomluPldpc15dynXtqiIeSwhW9Z5f_t_zs3YGMdU8b-TWQ6rg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2496,
+      "message": "کلاینت رسمی Sing-box برای سیستم‌عامل ویندوز بصورت پیش‌ازانتشار عرضه شده و طبق اعلام توسعه‌دهنده‌ش، همون تجربه‌ای رو ارائه میده که پیش‌تر در نسخه macOS در دسترس بود.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9189.png\u0026#39;)\"\u003e\u003cb\u003e👉\u003c/b\u003e\u003c/i\u003e \u003ca href=\"http://github.com/SagerNet/sing-box/releases\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/SagerNet/sing-box/releases\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
+      "date": "2026-07-15T05:14:38Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5430,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "IRCF | اینترنت آزاد برای همه",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/o_DSliCILSPjPwdWltGAosQKTwqneh2Oo-i-zbmfc30xLMcK_V5-pM5h2fsC7MVAhHt654wp_UpvxQuWdhcoIqnPeIMO6O9kLWL9CO4nBBwgXmwD5hFu7yn-orSSdh3fU_4KnS-P1S028MZpw1_bw1CkfPnEXi23LXuhvx3REK80k-inMishFmqxrSODMfpxq8xqpGbQ5LtV3pCiSJni2SRDV66QkqcNUcXBDRQNqxCtrcMDEdO5-nVi6KT7CzWfHEFg3wveGmngK5wGCEY2OPQMKu1Yj3_vykrBzZ1TD8AtPwTx1w-t5Gyib7Wmhe8HVj138vO-IqzKDLVkioYQuQ.jpg"
         }
       ]
     }
