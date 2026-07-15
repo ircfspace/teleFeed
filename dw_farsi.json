@@ -12,7 +12,7 @@
       "date": "2026-07-14T20:34:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9090,
+      "views": 10400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -58,7 +58,7 @@
       "date": "2026-07-14T22:18:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7990,
+      "views": 9770,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -108,7 +108,7 @@
       "date": "2026-07-15T05:24:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4450,
+      "views": 7730,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -126,7 +126,7 @@
       "date": "2026-07-15T05:54:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3130,
+      "views": 7040,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -144,7 +144,7 @@
       "date": "2026-07-15T06:28:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 923,
+      "views": 6410,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -153,6 +153,24 @@
         {
           "type": "photo",
           "url": "https://cdn4.telesco.pe/file/e4nt1qy36zaxutwFW66j6U-L24KJrFn7RWAkocq_9BW_v8Q2D2UxNG0EDWgaTQvQXrPGYdv6BU2L-w9jbQso2MkaHnRgH2qVrPJMipLno_CKEJ___gSgqkyiB8W7XD7lmdJx1qBwjoLaOKI-u9CWE1HWEKbcWQeAdwUHlcYIERcdk5uFFMwxJH_Qbb9zr1eF3mZ2jq2Yo19bcajuQ7amOSj6U6eHJpch4Uy7XwdbJXb9PSbC5ufDcxzIGhx3xSiaCCCuAb70upDdCavlFSRIQ69lXy6gxRW2GW9eJOf3PrSWJtH1wy4t07K2-eM9ISGqKew4DHfuzYoxnbjo0jTjzw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 127387,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B8.png\u0026#39;)\"\u003e\u003cb\u003e📸\u003c/b\u003e\u003c/i\u003e عکس روز: شنا در استخر برای فرار از گرما\u003cbr/\u003e\u003cbr/\u003eموج گرمای اخیر در آلمان نه‌تنها برای انسان و طبیعت مشکلاتی ایجاد کرده، بلکه هر روز هزینه‌های هنگفتی نیز به اقتصاد آلمان تحمیل می‌کند. دلیل این هزینه‌ها فقط استفاده از سیستم‌های تهویه یا افزایش قیمت برق نیست. \u003cbr/\u003e\u003cbr/\u003eبزرگ‌ترین عامل ایجاد این هزینه‌ها، افرادی هستند که پشت رایانه، در سالن‌های تولید یا در کارگاه‌های ساختمانی مشغول به کارند. اما این زن آلمانی روز خود را با شنا در استخر روباز آغاز کرده است.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/dw_farsi\" target=\"_blank\"\u003e@dw_farsi\u003c/a\u003e",
+      "date": "2026-07-15T08:43:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1710,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "DW Persian دویچه‌‌وله فارسی",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/HuwUDuq9g_iTGRfYP20_exYSG95rpgYX6iKANwesckz-WvVaSBDPV4E2IOQ_5IeclOTTPc5BfZKv_lR87bbYOHGCEDTBazu3IrqRMMO_H1xGPpiD0qJNN3rHoYX3YLKDXhy8FYFT7Hn7_YIJm9M5siQR2ZnSEpRonQ0rwAGrQiujNvncnQZLcsE2KjzXri46DBXRWrmXHcidMd7fn0P8uMTWdGwpOlG53DY1gx-2Puv8lEJATx_egKDdA2t6y-Nd_xAEMaRY3pebwY3bEc7pXTyGMoC-WD_GAmoj9j7hUSIKHUuqq0_h5r8A6Uf6ffDlkL8FxNx9wnyHWbrS0ADr9g.jpg"
         }
       ]
     }
