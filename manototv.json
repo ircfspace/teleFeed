@@ -12,7 +12,7 @@
       "date": "2026-07-17T17:40:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 35500,
+      "views": 36000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +66,7 @@
       "date": "2026-07-18T16:05:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25000,
+      "views": 26500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -111,6 +111,25 @@
         {
           "type": "video",
           "url": "https://cdn4.telesco.pe/file/psg9Yt5M4vjduz2xthQc0uv6TtCPIVp9roGYNswoTgSu1kPZr14MO2j1NqL1GtEfTXxR5kNj0pcnuETUkDK7VutlFy0I_tNX6PqRHM82FXqljifwVFX6RSH6_s1GDVUAMqXhDtQrbjbQ-3ohk2Xa12mSyC3M79HcFpkr5DwsNVlm7__1VD8xcBYm7PrOAlwoxQNzGVZcPzVDdalezwcWqikO0B0PGvPx0bo2Cz7F3OLyq3SDVYnq3s0QlOhZ4JgswlX69Rt9kZJda6lLj7Ejzn33oEr9sClQaqYqYdm2bxvO6P22tHcg1_H9fevdcM4DgWRbL4L2sFHYhH7XpxhRMQ"
+        }
+      ]
+    },
+    {
+      "id": 106365,
+      "message": "آیا نقدِ یک جریان سیاسی، نشانه بی‌وفایی است یا لازمه موفقیت آن؟ این پادکست با استعاره‌ای از فوتبال، نشان می‌دهد چرا نقدِ راهبردها و تصمیم‌ها نه حمله به آرمان، بلکه بخشی ضروری از مسیرِ اصلاح، پیشرفت و پیروزی است.",
+      "date": "2026-07-19T14:52:53Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://t.me/ManotoTV/106365",
+          "width": 320
         }
       ]
     }
