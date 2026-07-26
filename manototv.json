@@ -12,7 +12,7 @@
       "date": "2026-07-23T16:27:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23000,
+      "views": 23200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -58,7 +58,7 @@
       "date": "2026-07-23T16:27:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21700,
+      "views": 22000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -77,7 +77,7 @@
       "date": "2026-07-23T16:27:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24200,
+      "views": 24400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,7 +96,7 @@
       "date": "2026-07-23T16:59:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26800,
+      "views": 27100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -115,7 +115,7 @@
       "date": "2026-07-23T17:00:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33800,
+      "views": 34200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -134,7 +134,7 @@
       "date": "2026-07-23T17:25:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 36800,
+      "views": 37500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -156,7 +156,7 @@
       "date": "2026-07-24T13:14:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32100,
+      "views": 33200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -164,39 +164,39 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/j3XYhQmUCUAzb1UZwZXuBLEO7ALh_yWHgF7sBHJAI5jzqs1DBaJcDQU9GTrMJjqjg_TDPJSNmMtAWO3j27wy-ERG7UK6ym000Vc3hF6g-ZMpI-_RlWy_nMtyW-JE--Ytq6GRvEkqFEDfgYDE199S0dm2uU7nTH_MomZNYKiFf8XgpHBOK7uWJ4zEFpwoHRGIE4ubqdgk55aBA8lOjVUskNM6LiC3ju1G3gXk4mgUXDLyYoJ7gx4n7xIyA9GOxxHgY-Si31dz3ND-cQv_rN0re0zQpn3zgZGBFHydK1H4mKNuhDQILvETjhmxus-WvLScw1yJXETrvbqHEjqQM_re8Q.jpg"
+          "url": "https://cdn4.telesco.pe/file/pe4p2jyRxPERI2aD6qcRnDcAJDADPyKVwycdxtdQPc4QC8TchIHaGBQRYqDswhvJsPjlQl_aCvANkstRM3_QUSzcATt87pQ1ysacYJ3fnbw9tVD7nmu7Nbd5eLhwzF5kOVG6T48Ekh5HC5B6bEHRDQTV1wEyxt58mKplExo1YQWH7w3vrq5Xu73FE2LuSgB9TY8oFzKj32dYuiF_E6yEfnmjfVvmvmKCkyhJ9mfKp1aHnPbo-zWBpxKpGjrVMU4vvkiJsMgT81SrbPRlu_HgvegC5tW44cHX7fjfxe7A48IgFtzK8-hQ7L98zIHc-kPgns7SgLBa_5faN7jcvY0g7A.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/XPPEddgMCTLIVAViIpPZU0CqCXQfm0RakI_EHUiBkgc-QN6sJnXzYT-inrisePCBaM4jIxJuj-NyLNjZdcI7fvbgbF7vkzYCiHSHvw8nBxmZUaMv101vWxS0IIRiBCUhPPpSIvJ0tKEAyH1Pq53wMeevkR_z8dWd8AlXvxpmjP5BLUYYCzPTs8LWGmiQS9uMxtvgt-iTy8f6bWqMug-QE6U_ZPxA5SO67P5UP64U8c4vfp1uxCyIsIOIWUYAcRKnhVDJmQe5xMSpnl90tRSHYJlQZz9JA_EV7Ev2ygDOJ2BHjUBgMwdlzI_myDohwPoltUOvHjblUGV-ql8UhgFE8w.jpg"
+          "url": "https://cdn4.telesco.pe/file/JNgOjGBWX9Jb2fsIJaEbzRWJdvFWIk2ZPqAs8lcvHqWmqQXzF_styEJIxBK6aDEjBCtYdvLM-E1ehhz63TDOWxrt2jWTYcxnudWsDxReBjVPS4GLSjC2EwZZ_J-JsI_A4HM00sSvsPzo2yQjC7rSnL2UjBmB2Sayrqvz2fc9ceokvFSTIlndJ2T_V9o6cSwdrkhM_1Azej-a8UzV9AwIr1UtxpPavV7sg-_RnW97lIIf-ApHHWnqbj0uI4ZK3WVknr4PzCNvnyrulq_VS5MbW4_MXROLY-CtCp00d-kDARYlBApH6JYlUNU1mwfcff6pwf16tuNgrMJB6hKXXHCtOQ.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Tax1nc7NvGbpo2-mHBe_k-BKx91NU_a-95My-4vdyfTpPbnSjgf2znX4kLuQWzUOZF38nGAQBqDhjmVidtC7D7yGhIqLDEnqAMb_L0Vcohr1z93QleGlb4Jw74vFbiHPnS_i6AnRvNGZV43_ll7x9UKhMytvl84c3_veu3FXdTJ4fd17k8xEIAUthhfC6FUw2fIECeWO5Trm4d6XEGzJ714r03UgNv8aTPOdAf5pWkgxSlNwvqWv05wYqY9g1JibtraD6P2yZbsKV_vWXAZnzIzsbYfpXjqwzCYNRfVH8IGmrx9uRsCzdmiwVZOC5medcNQsOv7i2P3PUogc9X2z9w.jpg"
+          "url": "https://cdn4.telesco.pe/file/IzkK-xb1O0HWY-UMidTyEbEWOnBil13mNlJMgJNrF14iVaH0MUdDq3DFa5UxXWttXxxss8rS5p4DB7h-W6QgDEYipzhb7IdB_hXS0gs9wxxJ4NGw1RR4DnpQ2RumbTYAO-69-YiU_zanPfJDmgCzmjD7h9sELxf_Sqh9MwPXBjikJGZj1UHoGITdmJZCQn86ciDpxGTqcmmmtE9Onb9B_nLu68g5Cvt7niz82kaic0iU8m56e9jhlPdV-FVWfHY4u6KqNtc5IFRF507Wij-vtoxLpoWJ56n8hD4_is6-1IcWq6uURqlIrs26iMvgxyE8tu5wgssiwDKwnf0A4WTikA.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/EnjPu9OBorQ85zKysdmicccYCE-LYIUBDBHD-rVPGzW01WWLtVl4u8fIO6RvLFhIosp4FqiWzafBaYAwCTCnj02UtcCckZ4AR8s4aklTohselNONkzdqvaaavHRWkR9MqT2ObgC8uG37aZIc9V2g5QahySj9ElJXsfvnlYdIq2eUdcWg1mBFtcGxuQgFbCKX67147GuJA_a-HAkRA9Rp87Ty0NUFlrlqjTpK8mMbf5Abu7cffdqJgHE8tU8B-IRpYEevxG75vCO-IJ9YpIlAoAV9inhk0hU9oO4-hzO_ExqpypA4op7lMQ72I1RERqyrjBI65oo3Y6jAhb2Elw_uyA.jpg"
+          "url": "https://cdn4.telesco.pe/file/V_PHwQCj_pKIW48rbNWTrt2R6kh-vTDWhS8K2Alr_a3NYhD37cMALi6Q2jRrtC2S4LaSLueOgPSE35Dk-EG-PuovlJfgxOUzbAp8hk6qo_LUuShKwju7PgHdy28TZr9CIBbGdLpDPbzsBkw5IQv1I2oTA8sf6B264p8n3ZNKE2KnwMypSeusq7435qVfk143umhdPcPRZ0MX3j3Y7TSvxYj1JSSylg4uOel_c0XlDF-WRTOGsZzpAjT3L4hmTVEuYvCIiRfuHfo_4j4nxWpLbb8at02AcH39AJzAy2WSTht8j7DVmmNBON6vkZWODrlsx0_YDlqmHjzHF7SAipWX4g.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/BKKZqvbpbCzC253LzrqCzoZ5DPtmMxcMGSZkknHcLkw5Rg8p-afzT4XO96PERl8TWIYHAXCCG0mPqg5_aN3ScQjbDGXXpH-pIsraqscvaOgCGZVTHmOpdWNuQMbrnPECyQUZm8qI7eMdjwF9bh0c-wKXe6VZBgL4PYRyjg-RFTwFPgDD1uoypXR6p5i_3lIix7guf4MZ-B6RhEQ2djPIMdVBFd1BfuQ7MmYvrQs1HE4cQQNbQHOnlsUtBuqF7v9eoPbg1bIBLDT0SB-vwN-5GSKcUwKNTkDOhYhAZQhmC3_4A8edHztVCo23oJ9hjoxCtfHBQ7pmvH8N_oVTSWReKQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/UQuxlpe3mn2Ju0zh8vBrodoUbfGXWaZRuNV4pZ0aP1KqhYxtDO2rsTjXQukBWxizTpQfjQAJI1tPPiD9qoSgDf21RW16ksCgUxKVmxDL1s0n-AH1WMt0WOvrJYE2DM6zrVOEDWwNFAJFNIzcV_wZcCxLhfoEzx5Z2vEsO3FyGCM9XRHnLz0Pg26GUYCNO4EDcrN6fT_0sdNu8Fr_6Ee_FRUcnGGKF-eYKkkvPNmyER74Tf5i5uOajO1R0WrEqWzlGIc4UOPGokPX8o8ziTHKUpGQJ-SNODyWWraI8vkzqOvAHBvsSJnZwE9bBqu2Dp7Q-O7PYf2WA1QEJxiAkV_mMw.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/erm7eYbAvG8R_0lanzbnpTN5ZijnXDHt6BzQ1S2Rg9wSNrZVRnNoQ1RUyA7DSOhU45Q35wcT9Z8e29QcEpXPpUYodIR8toEF6OCCxsRK0Lxhau6b0iX8GEGTTOZzWKMT02019B2he05QrahLrwEgmpjogylOp9wBpm1AHK1J5QtmVCVaeleZd5HtU2e2LfEpYwsuvEHnDngoOZT9HmeKgcrzv8yoSik7GjadHUAOY6_4B1N--k6_S0i3y2kko9eFD-RyF7vv41Y_fuYR0CenMfUGyJlNWrQShfaGx93LtyJAzFb8zA5P1YSYbaCjLeQD60Yh9RKLsK_qiH3YC-Fung.jpg"
+          "url": "https://cdn4.telesco.pe/file/kRsTzS6CZYQSc5JSz7Db5XuD1JGGkAmVVnV4nu3pR5yZcGpPBO5LtSzzwTJe94k9Zjl0LxrBBgtSc68sR2_e2MxNVMNBcAI1elTbv9F06Gb1VstvgvNzcJtlRht7o6D3xH668ONjF0a1FCM5fTyOkrgAb3ft7mocq3Y9rmpvshiaeuld4VqZq6ealPuG_56MjjXL1Aou6kPnG6hQ5Wh_BS2TghS3Y8p6zg-ZPBtRhPd8u1PcvOwfgtsvbMdkQQ7H1kgz9Y744G-vhAiqXYvhQ8J2AkjHZJB33FBXtK-WEe3WPKog-8m7noIOZkO1ayhQ0VNbOTa_jIV7gEq2s-pzFQ.jpg"
         },
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/FIRH-BaTnqGUvIneGPBhTDriwnLZQ8hRvcB_CXCu_6iiFtV9OSuFDHFeQz7TRu8RcNK96ausIYZXA899MTs1Nr5g9xGPXgiN3MLNr2_vIzhldWOCS1tfQUL9GmJrbyWDW4eRkWd4cX4-bWWma3sFs23xqqV-Bghwsm4eHLjuOtTmYpud98vrQat7hmGUVXUpu0kOUc2QD7XajOLMJEydOvnInzoZkB-NXwX0H-oMrxwGgFWAVeIFdGAEWRX_gaLNyVYzrO_PiVO5nPLEHUxDCiIDRq_J_Td2VY-0AfzPSbuwzAfR6kCui766xMYS59oig94xNFO30Ecz8qHdFS3MfA"
+          "url": "https://cdn4.telesco.pe/file/Efd87WqEKLt-W1w87elaypPdQAh6_PpCDx8LcW-i9XF2V91E5VxpI_ofASjrM99xxZhTVQozkcY9Olr6kpTPBZe9aH_zYfKoRxr5KkxLU9FWMm8CFiIGbaCtrQqqw20A5VkOv2inJzuOsR7Dh_o7HwG5PYup4SGw0_peQjpbph39IZnAIIqP52arSlQKKzfPtbfV7wrHbWd4wC871PS_mYN9c2KIxhCgyakyzdJdpSCldZ_yayzGbiJ_bYkB7DKhId_dlXjx1SBqJ5cKfhvP3DxExH9p4B0CAkjOYWE-ln6zswruWosBH3ZvtEWo71VQka17uj3UY9GsYwJyVAkgBA"
         },
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/F7uMYI1Ev_MiG38KZaDVBzLSnWVjp1jnhBLhxTtqaElzGMZC9uEB99_segMwhteAasAX-4ny2LFH5834ds3DXWhCdrZydGT9k7oTAtfdbUsfwcCYQOeqD0ljoMbPbMUm4mg6_MQVPlJMz1af7_zzdsgToXVztF-LAiGjbGhP252HAL0N8l43q_aDUYC7btP4UtAsJ9CEfwrjHE0agQKBcKSOWTdRbf5rnCkpkI4JrsmKqAQcNdBlvBxgBPNnLfi00l_bOje6m8vwExqtWX8S808nV5nP5aAZ3hDt1THguQrg6Cc_1exFLLUJ0Vjb3Mszgfdqr07DCNz7-2ewTkV3rw"
+          "url": "https://cdn4.telesco.pe/file/SDhd24__qUsfD4mPiuguUnl-G8p6Xsr3mMbDaKfIH4NXpqyROLUEsaWNJ1CV6VxHd-OzmiXbChGX0EGQDQRDQKUMi8W334qX1NLw0qfCQXmwNGm3f-012UR31nhlX6Gxv-VUNx5e9GzY06YF0S-IdFLkTr1pk59PLtuG0BU2_LDhD7LKSXU6eVOI3RGooCN903i1TPRFxKXkGt831SYyJZ4k01nPDqtowwFVkkjkY-ICIpV-FqLz1GWVSrVlwL8k0K7odOJXWl0zEmlpidI07EyageurDtDCvAbMO2j2C7c_pDRZKcoOZEdoqDv9lTSYhikDb1ReRvLtet5HNwggyw"
         },
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/XbCYGg4HO9CQaYbOYXT5DtoHr68PzYJyMoaMo4xEOfqdiQ1Ow0i7KjLn4REhIdiy52sIX_yMMhcPL9yt7MOzQMGy78kSiuJsmXheqt5A8Cl9lXYbKKcwyP3jFgs6XJ6BZSJZOxA-oWaNnnS_SJRydPyWY-IZlERjZtHCcvLp1IoPLjIhsT_sEkqrefaRsEEdRDpsg5IvzlJi9UYnxfIPyso0jrBYcc181mHbSqeXWmNqUKvUmDoBMsUEojnIzyo4cN8lOBn9sFItDYSUDWEa4KWjbJV48mH520B8T8iKUzeR8oUEolDRFqK6coZ3ZM_cke-YRjk5QKChc2IRuoTcAw"
+          "url": "https://cdn4.telesco.pe/file/nxLD_9kYs75V2-KAcVYfe-ySniipwsKZAOPTPAR0aBSgdBOYjyc_06qq8TfQsrubVxehDrzCHkaKLmk7gW6fa8y1G5ZxLgYCI2c1h2tDAXfSoycolzT9y0oiwxMnEMqIo0pSg1GlLkTjXejmhh_GETjLWSOmUKybqV1b-7IDTdhtN0jrAJXQleYC16SGgDSQrDMGcaXd1cL-5eJ2BLtzKOuSZurllT743TIRZ56wtBmgra41lLVVP7O6sZ6qrMMJzEtgtuulzkVCz6N9fyw9kMh2w4Ggp6mlX8AAadsF39qAyHjP8rCK_6cH7uIvZ08qCLnRAd2T9aCPHEOhcZ-d5Q"
         }
       ]
     },
@@ -206,7 +206,7 @@
       "date": "2026-07-25T16:27:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22400,
+      "views": 24500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -225,7 +225,7 @@
       "date": "2026-07-26T10:13:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8630,
+      "views": 13100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -235,6 +235,44 @@
           "type": "video",
           "url": "https://t.me/ManotoTV/106418",
           "width": 320
+        }
+      ]
+    },
+    {
+      "id": 106419,
+      "message": "سردار سپه: «چطور می‌شود خلیج فارس را فراموش کرد؟»\u003cbr/\u003e\u003cbr/\u003eبرای رفتن از بوشهر به دیلم، در امتداد خلیج فارس راهی وجود نداشت. سردار سپه تصمیم گرفت با به خطر انداختن جان خود و همراهانش، سوار بر تنها کشتی دولت ایران در خلیج فارس، زورقی پوسیده به نام «مظفری»، به دریای خروشان بزند.\u003cbr/\u003e\u003cbr/\u003e۴ مرداد، سالگرد درگذشت رضاشاه پهلوی",
+      "date": "2026-07-26T13:27:47Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4940,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/k3V6ZN5G36xplo0C0_Fvd2XNs9J_yg012DOa-L7QxEKoQZ3-63ruklFAd0eAb1jL3BbSzHAs6m3wFjPq8ZnqoCrPbJE4JzVMgPybmQpMXLI8buEHGgZeqzZngvkgIE6-_TXF076dhpil_cy-Y5kOWeIQfrVkismzLYAyFnvFfAqEDv-4NFML9jCQvim0zunnCPzUv4Z1MeblsYH8zSp3sd1WtT3RmPK2WEnQpGs1bQ9ezfQwBfRaaY_fCzGfBv43noerGPs6KMXB0gmFh2Fun_XEo-FUuRNfoZ6C7VGCvAGssW0YoBOdyMBCzQszdgPfRIeXHl5bUB70urNAbNM5LA",
+          "width": 406
+        }
+      ]
+    },
+    {
+      "id": 106420,
+      "message": "واکنش سردار سپه به تهدید کنسول انگلیس\u003cbr/\u003e\u003cbr/\u003eکنسول انگلیس در دیدار با رضاخان تهدید کرد: «خزعل تحت‌الحمایه لندن است و انگلیس در صورت لزوم، مانع ورود قشون دولتی به خوزستان خواهد شد.\u003cbr/\u003e\u003cbr/\u003e۴ مرداد. سالگرد رضاشاه پهلوی",
+      "date": "2026-07-26T13:27:57Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5020,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/CNiDhTEYNjlWrANzM7G5bhUxx5C3pGf9fLoGC6xHNHV8MH02OIb8OUxW2aX28lvOphcYniOlPOZdlPb-_X1bNvt2Z9PR6cQPL3Z6lxBa8cjdhxOBYfKjvkEVGUNdUuXzFSWWUSeY5QPGLrqy5RQZadu9fO0D-AeX-Jo2LzamavIgzRBC2qovtUFEC1ouImzXQtfMoIIgs4vMu9AEcvDISoEgcPP8-6ydb4Lcgfjk2ZpKjySq1IgYPxz-6xrcWoveQFSU7usNbq5GH3qfrWxnWNA2DcXeQJtzYDHswGVNMmH1EYZDQ8to9eHiEcnTTYuhpMmeVI59PQb5DHbpqPz5Aw",
+          "width": 406
         }
       ]
     }
