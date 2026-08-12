@@ -12,7 +12,7 @@
       "date": "2026-08-11T13:49:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9020,
+      "views": 9370,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +66,7 @@
       "date": "2026-08-11T13:49:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8200,
+      "views": 8540,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -85,7 +85,7 @@
       "date": "2026-08-11T13:49:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12000,
+      "views": 12500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -104,7 +104,7 @@
       "date": "2026-08-11T13:49:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12800,
+      "views": 13500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -141,6 +141,25 @@
         {
           "type": "video",
           "url": "https://cdn4.telesco.pe/file/DHQuiz-b7TtWDXYvMLXQRVKKGIrtbC_blt0ZFRcdu7JBcnC0VFoJL76AaV7cd9efRHks_EGfHv2aEVZBUnOysTEmWiu7I9nf7KPZa9nqsmJTz3PbsAySSnGOsDh1t32Eth5T9QZY58OZsfxXo7Hdtv9fRM5qAEhC8uGZXMyJfSemB5dNeK_yr1g5XzML1Cx0jqw5Ctl6QN2kMLRAfditF7V0aclPImH6zBAvikaE0tXuBvuHqd9SrjFkjoQpx4w-YwMXswoWeyeVfD3ArgQ7SzClIulALRog47b4jXC4ER2cD95HErdUAYIbaRJpFxzqZ9_CDe7SwP0qya5dWMaELw"
+        }
+      ]
+    },
+    {
+      "id": 106777,
+      "message": "روایتی تصویری از آموزش موسیقی ایرانی در دهه ۵۰ خورشیدی؛ گزارش ایرج گرگین از کارگاه موسیقی کودکان و نوجوانانِ مرکز حفظ و اشاعه موسیقی ایرانی، وابسته به سازمان رادیو تلویزیون ملی ایران.\u003cbr/\u003e\u003cbr/\u003eاین گزارش آرشیوی، بخشی از فعالیت‌های آموزشی این مرکز و تلاش برای آشنایی نسل جوان با موسیقی اصیل ایرانی را به تصویر می‌کشد. در بخشی از این گزارش تصویری نیز جلال ذوالفنون، موسیقیدان و نوازنده برجسته سه‌تار، در حال آموزش این ساز به یکی از هنرجویان دیده می‌شود.",
+      "date": "2026-08-12T08:03:47Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 690,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/oVE4g6DspBMeix60KRVIllELZK5TVomF_f0QMAAQmUfzI_Pahl3dtREjLM05RxJnSJV-eLNo-V4dQ2quAiJ81vusu5Sl4vys-W5QxjmQqbqv574ok71zjet1dtvHbmq2PH_sXk0VI92IeZ4eg7BcRMjggbwMr20j1Eyp-r4mCI1pTJa7k-8GkHqgfmJopqu_AwO_HyLbuRpfm_6Hqy1keQghwtHrihRAY2PJTQ2c0uQLREyGl8KINMwaqgOTd1B8oVT2CjiPbmfjqkfurFedRRdYpPsWat14yOTFQnsM78mFNoVSVByfrssfr03S4FhBnXvYzxK_z_lIzoK59bV1mQ",
+          "width": 406
         }
       ]
     }
