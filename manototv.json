@@ -12,7 +12,7 @@
       "date": "2026-08-15T13:30:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14700,
+      "views": 14800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +66,7 @@
       "date": "2026-08-15T13:30:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16800,
+      "views": 17200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +84,7 @@
       "date": "2026-08-16T11:26:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5460,
+      "views": 6620,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -130,7 +130,7 @@
       "date": "2026-08-16T14:15:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5,
+      "views": 2250,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -167,6 +167,25 @@
         {
           "type": "photo",
           "url": "https://cdn4.telesco.pe/file/Am0kQR8XOxsbOy8UECwLdn4JPjmMvExq4KKP1jDuUSYgQbvwgyM214HFz55rdRWYtzw2mdKb20N_eep3ujxCASDzqJW9etAvs3Nre1YLfwUCeIMg2-3m-8AiIDY1Pu8NZ7V7XfgKMOfIHGWKmOBAhqeByzHemBw8RqpIx8-JnuTu1yJD0eBgMxZYzzQvaxgiWX-g5hWPPlsNMgSvlGqsuJ9T-dkOt6nHVri0WWku6lgKSKRe7uaYHHU1lN_9pNfia-5sCgT9H2OJWVLywK9QA1K6rLOyKEnlIAER1qCXzgHBi7TX5Zs0-yonfbzn7_jRCj9LE4vTOl9Ybe8MtkVLLQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 106905,
+      "message": "تجمع خانواده‌های بیماران مبتلا به فیبروز کیستیک مقابل وزارت بهداشت در اعتراض به افزایش هزینه‌های درمان و و کمبود دارو ـ گزارشگر",
+      "date": "2026-08-16T14:34:17Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 969,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/ng9U8YKwaUshpG-LVE2Istmu_kfcutWaJpYzxKcXraI82KRiQfbZNza8FEg3y_YBTXrkC1ZANTBekdD0xKLdzQJpDrNKZXGLf4d43dBYNzpiW9GucQlVovf7h3x-hGYIjO2kMW17ZPFY636E6PMBmoLNKk4UQnZQjY56YQi-nFyWrI_MLP-HizulTjbX0zQ7WgVmLYvN_-AEX-l-NEO8iWaNOz9ljDQvrUAXovpsN12ErJwgVl4kj2mDaRXzyQFwvjuZbpbK1OqXFe6AM7NGzbWZw1Gm6ndaezmmCKcVIpj_djf0YdDcvWxVBt27kljvLyXHO6JQVsCammdKfS_A-w",
+          "width": 406
         }
       ]
     }
