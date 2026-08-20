@@ -12,7 +12,7 @@
       "date": "2026-08-19T16:31:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6090,
+      "views": 6260,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +66,7 @@
       "date": "2026-08-19T17:52:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5680,
+      "views": 5900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -116,7 +116,7 @@
       "date": "2026-08-19T18:15:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5580,
+      "views": 5800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -134,7 +134,7 @@
       "date": "2026-08-19T18:22:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6070,
+      "views": 6320,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -152,7 +152,7 @@
       "date": "2026-08-19T18:32:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6500,
+      "views": 6810,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -170,7 +170,7 @@
       "date": "2026-08-19T19:44:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6330,
+      "views": 6730,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -188,7 +188,7 @@
       "date": "2026-08-19T19:53:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6800,
+      "views": 7260,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -206,7 +206,7 @@
       "date": "2026-08-20T05:41:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1880,
+      "views": 3050,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -224,7 +224,7 @@
       "date": "2026-08-20T05:53:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1540,
+      "views": 2840,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -233,6 +233,42 @@
         {
           "type": "photo",
           "url": "https://cdn4.telesco.pe/file/IfbAGM_I01qGLc4VwsOJjC_ZfY59uqb_PtKOu3utiZD-fkXzoDID2IvB9noy6jx7IrS5bEzrfkVhylUfP7i0Ji7_qzbL7kuZv-nVyO84SLEHuy99Ue45YfSzVLS1dcfcw_tf7VrIWDZEOmpRt0Wm4IEDVDtFK4khXgjxyA6ffh9STGS_YUoKb_zeKm3fuKvS3juIoaYMu6hSIOXH44o5jA9avaZvBtIdBKlnBqQlay6CY7N2xhi7rMywR_urwoULhBU9_b-4SFPphonp2ygRltZ4xPavtf1OkrTy6HI0yelyqstoFMeexjaQTgzDSaYSZdlS-TIaPRXgp-fuB00uFw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 128957,
+      "message": "\u003ca href=\"https://p.dw.com/p/5J7aE\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B6.png\u0026#39;)\"\u003e\u003cb\u003e🔶\u003c/b\u003e\u003c/i\u003eهشدار درباره احتمال هک‌ دستگاه‌های زیمنس در پی افزایش نگرانی‌ها از حملات سایبری ایران\u003cbr/\u003e\u003c/a\u003e\u003cbr/\u003eچندین نهاد دولتی ایالات متحده هشدار دادند هکرهای ناشناس در تلاش هستند که به دستگاه‌های ساخت زیمنس که برای نظارت و بهره‌برداری از تأسیسات آب و همچنین دیگر سامانه‌های زیرساختی حیاتی مورد استفاده قرار می‌گیرند، نفوذ کنند.\u003cbr/\u003e\u003cbr/\u003eدر این هشدار امنیت سایبری که روز چهارشنبه ۲۷ مرداد از سوی آژانس امنیت ملی آمریکا، اف‌بی‌ای، وزارت انرژی، آژانس حفاظت از محیط زیست و همچنین آژانس امنیت سایبری و امنیت زیرساخت وزارت امنیت داخلی آمریکا منتشر شد از یک \u0026#34;تهدید فعال\u0026#34; علیه تمام کنترل‌گر‌های منطقی برنامه‌پذیر (PLC) سری ۷ زیمنس در بخش‌های مختلف زیرساخت‌های حیاتی نظیر صنایع تولیدی، انرژی، آب و فاضلاب، صنایع شیمیایی و تأسیسات غذایی و کشاورزی یاد شده است.\u003cbr/\u003e\u003cbr/\u003eاین نهادها هشدار داده‌اند که بسته به شرایط، نفوذ موفق به این دستگاه‌ها می‌تواند اختلالات گسترده از جمله در فرایندهای حیاتی به همراه داشته باشد و به افشای داده‌ها، بروز حوادث ایمنی، توقف فعالیت‌ها یا آسیب‌دیدن تجهیزات منجر شود.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/dw_farsi\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cu\u003e@dw_farsi\u003c/u\u003e\u003c/a\u003e",
+      "date": "2026-08-20T06:56:53Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1590,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "DW Persian دویچه‌‌وله فارسی",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/JaSHCjWNSrTnyhiIltf1U3mvT6pejJnARbbSqBfiDSMXX_jeWwXKU2X3A9oXqxb0VY5vuyDs647uXdo67g8ejYxTb0MGnd0LD9a_OKNCNbl22Si4zLLPCmeJMrcqiw38-1DYjIQzbd5aO5ErWmkNueV_PdDi26mk8jQoEOSJaFapIAUhMOnDQqfn5SEdlirhRJ90tu9sfNpahtdvKAu0ci4Wz3c1oeZHV2QcrSD7S8c4vn-DKnljax8-0aHZpyBA43G9XCIGHEsecW5d5bmBhq0YkiDRc86plqmVB3YwNc19IUqDVCRLf1mtPembolaHlInmCMiHlK9UeK_-hO2F8A.jpg"
+        }
+      ]
+    },
+    {
+      "id": 128958,
+      "message": "\u003ca href=\"https://p.dw.com/p/5J7TI\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B6.png\u0026#39;)\"\u003e\u003cb\u003e🔶\u003c/b\u003e\u003c/i\u003eلغو کنسرت‌های شکیرا و کریستینا آگیلرا در امارات متحده عربی در پی تداوم تنش‌ها در خاورمیانه\u003cbr/\u003e\u003c/a\u003e\u003cbr/\u003eبرگزارکنندگان رویدادهای هنری در امارات متحده عربی اعلام کردند به دلیل ادامه جنگ در خاورمیانه و حملات ایران به این کشور، کنسرت‌ کریستینا آگیلرا، خواننده سرشناس آمریکایی در امارات متحده عربی و همچنین یک جشنواره با حضور شکیرا در ابوظبی لغو شده است.\u003cbr/\u003e\u003cbr/\u003eاین جشنواره با نام \u0026#34;آف لیمیتس\u0026#34; قرار بود در ماه نوامبر با حضور شکیرا برگزار شود. در اطلاعیه‌ای که در وبسایت این جشنواره منتشر شده، بدون اشاره به دلیل لغو این برنامه گفته شده است که هزینه بلیت‌ها به خریداران بازگردانده می‌شود. در این اطلاعیه آمده است که برگزارکنندگان امیدوارند که این رویداد فرهنگی در سال ۲۰۲۷ مجددا برگزار شود.\u003cbr/\u003e\u003cbr/\u003eدر همین حال وبسایت فروش بلیت \u0026#34;تیک مستر\u0026#34; نیز از لغو کنسرت کریستینا آگیلرا خبر داد. این کنسرت و همچنین جشنواره آف لیمیتس ابتدا قرار بود در ماه آوریل برگزار شوند، اما برگزاری این برنامه‌ها به دلیل تشدید تنش‌ها در خاورمیانه و حملات ایران به کشورهای همسایه خلیج‌فارس از جمله امارات متحده عربی به ۲۵ سپتامبر موکول شده بود. \u003cbr/\u003e\u003ca href=\"https://t.me/dw_farsi\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e@dw_farsi\u003c/a\u003e",
+      "date": "2026-08-20T07:04:36Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1410,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "DW Persian دویچه‌‌وله فارسی",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/p7-R2U-GPBxh47TzxLxGg4H7dHQcx6pdmGJZPQ6jHZZOWXwr3_hlaMIlXOoU8MYd9uJKpU-ri5uQtQbCPd-QB1ziadjg_MuL3UrKGfeolTWJ-JF7-feF5bsbXXUWaHCwHrQl944NkL_3HrJXuRdjVkAUdoDJj3psrlHs4VSZ5Mo14PhyTqy3eZCtaNBveAjC0UpzhkMnBlkZbEhBUDyxZUBONxz1hBy6100g6q8SvItAINL2otGe8_APomgFPSuSgiv58xJ-tTUZoVJBAFCPmfInDBmh7pTWDNj2mZi1wyJ4xIq51MxFIdcoTQyGFjxStP0W9jP9p2GPfGoNAMT2sA.jpg"
         }
       ]
     }
