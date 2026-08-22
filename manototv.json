@@ -12,7 +12,7 @@
       "date": "2026-08-21T10:12:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13500,
+      "views": 13600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +66,7 @@
       "date": "2026-08-21T11:24:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13000,
+      "views": 13100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -85,7 +85,7 @@
       "date": "2026-08-21T12:03:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13100,
+      "views": 13200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -104,7 +104,7 @@
       "date": "2026-08-21T14:22:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12700,
+      "views": 12900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -123,7 +123,7 @@
       "date": "2026-08-21T16:00:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12800,
+      "views": 13500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -168,6 +168,25 @@
         {
           "type": "photo",
           "url": "https://cdn4.telesco.pe/file/XI-1H6ntyPWOdXKsRa9Ngw7Ji1iAgKDYvWvQOPbHICex2PEDuHTfYqIdexoratWKI3T2IypVwzSVt7PPWGxRgeXZw6gNtFsKZimlzgeso-yprYSqwEiNCLQM-dJ1b2DVf3dWYF3ZJ0ICAiuon92Yt8Hl9jkMJCzsSku-4EbDAEoxir981Ud6WcIUxzKPDX9YbaMUmzKMSjevIpdH1dqe-SDCKmAZ5vDaunxM27E7kxxXXiR8NuOJW_dUrcO2gbWc5VAj74i5DtTstPpmniza_m3rqTxHr1KRwWhB4uIhKWBD-Ilgvhiz37D1cd-83EpNMjDn96-DqdYBfml5FxVlwg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 107047,
+      "message": "ضعیف‌شدن یک حکومت الزاما به معنای سقوط آن نیست. تغییر زمانی امکان‌پذیر می‌شود که فشار اجتماعی، ریزش در ساختار قدرت، فشار خارجی و یک جایگزین قابل‌اعتماد به یکدیگر پیوند بخورند. ایرانیان چگونه می‌توانند خشم را به سازمان، نارضایتی را به قدرت اجتماعی و ترس از آینده را به امیدی واقعی برای گذار تبدیل کنند؟",
+      "date": "2026-08-22T08:00:10Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1320,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://t.me/ManotoTV/107047",
+          "width": 320
         }
       ]
     }
