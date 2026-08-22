@@ -34,7 +34,7 @@
       "date": "2026-08-21T10:21:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1810,
+      "views": 1820,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -53,7 +53,7 @@
       "date": "2026-08-21T10:26:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1360,
+      "views": 1370,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -71,7 +71,7 @@
       "date": "2026-08-21T11:24:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1340,
+      "views": 1350,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -79,7 +79,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/tVz9h6mttGCPa6qo44OeCcCxEL7F-aKPzXPSe_fQMxZdTJvwCLFG5eVyRpdmrartCYbV4nGvxbQEaYeYZqV9j8dEeXiN7cYtPw_qWChXGa8aSaEmZLqCRljuyPxNFxqr9ff0Q6ox5s2J0I4QirjSJU8x5_SSpmM4ovRkqqaCRPYHqnZXHX3sJP4GErMAImBfinzEyQdyBYJcCc1HkibXKPTcFyyKDuyVHJ--W0IEG82jaUVOSGkuwq4rfkypxMzkPWuwbqF6GL3TW9jRjfbAb16XEo__FTZz0vfg7VHaUz6bFP3cXJ7MQ2R4M4JxfPZe4XMj09pEww_VNcgEd8uj-A.jpg"
+          "url": "https://cdn4.telesco.pe/file/YsYnzYTO64-DBnYGlVVkSTHK6pSGvbLn9tYwPwhszPqUGQCExSosFDEFExuLddOFa4yLueMaWzYZ4cY0Aq6t3e6tV9MLodP_N2x81r5-d4M-tYgqGBrTZn0XbpNmswwoZc8zrcVsKX6q6OcqXcf9YzIevaLw4XASarTsKwLxwKnXD_k6BJUbGAAb1GI-UJIrhfk-04b0KFhj7xfrR4k769XdKVU6a_xm-dmxRfI0IGjEPxQfCpMkUrRUesN82P3cyrzi2SqbuGjRY6h-yA0TzBlh9R81mt5b1C7ES55GCYY6Zq4em_u8N0fSJHieKUP2FY-ZCukwbzOrQeY77H0v-Q.jpg"
         }
       ]
     },
@@ -89,7 +89,7 @@
       "date": "2026-08-21T11:25:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2230,
+      "views": 2240,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -97,11 +97,11 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Jq_7lNUMVRDe3vMY22bDvbRaSLUeQAP3dAL3iQegqG6tnBTwhbOSu2nGZYBZRhRdhUdcVSdlLiYBWXuf3zrsej1KY7zsMXcg_HXKQzx2coQ3nRGgumaIHFNLBE7UTwepGvxmH9LiYVdK3RaR597-SeKVMCUyfGPYBI9ekL5PSwv6f17n_2e-S-WCLYqLR-mTAAcZPkAcBj8FSV81zATOa4l3fIWp8E8vHZfbgDF0tk3tmQeR_5VbquDBKb8-EIRDZP25-1ZYZekmpBRyyaAORSghcj_bYivRN8I9PKg3iK1rE26nNeRZ7QFWYO84qsDLw6h-zxUL61KoFeTTPSQQoQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/btrzBsToIr7ArtExh_fsooVsIvt_zI_RbzZUVP5ipaZ9ZpH6aB-1zMT2kM6-uyF4jVYlq0fe8dYS7On-Hy1sJKzqizx4TylFfhwzTUplEfcLOrjdEJooI4bpEF27JDFkI_LfcAcmmo5WHov73YX_rYm2SKEHlQpRaxX-K3JS1vnDdZ32YsLZQZW-u2bVmuVGpPYIyeXCK8VBfTU_hyj-jOnELpLvmqNqnevO3BobGfpSvX5RVubMSDvuXDJVwodVgkdSh-9GWiDq8Q6Zj6oWCPsZ85Qn0SmFHyMgBa2-CfoRTemR77xmsCpbbrNbykV30Nid9_pN6SNaC1RDs3gNig.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/spGp9ZQvy1k_pTsXQtrIlAXNIsWuxC9nJlFc7TOa4qTQCsHRJ0zL-kVpXY7TqcWCQXS21D75fvUgWfdrj5NlllrVa_sZoUoS-Q-Tf8LSrdZYdjXMTAU-DR-0O1jIzK963Yg1WwzGeqC3Qc33QFz49MlTstztiYaG6nn8io5bbC3VbcrL4i-7vexrSkdr0kJBHEb3GLWECO1w23YzC0P9JPkYpdwIrRShQ4PMHnM5IKi82H13gVA7dd-DyHHva4Js07hB7JPnCITt4Kv7gVzrGghtd_txLpw5RNUrWdB1WIglt-5FDoZZWrReaR94zbfGeKbcrIuvw2UmCSrTjdefLw.jpg"
+          "url": "https://cdn4.telesco.pe/file/MIeqPVCXIe1SwLyszAQoSV6xKW7nB7nKtzOoin21dgsYMJLs0Mw90xF-U08mM1NEMu_Yo0wHIR6ee0jh23C2O2ErQyZKNFD4o5HkjKyaTS97p52idX9rqpg6_cgNJnFYmspL2vMUbyiR3PNgtplYSiO4CAC5M9FWEwTtSxH0dLCfLTOBX0zsn-8irneU67-zBpydbfcOFP1SRnsdCTJhSlvntVmFLbfUJHzWOZqTk2p0p7QhbNMtuDTu6oXSPOC2FI2HcUYCIGv3L0rA9cQotiIz2xcT9kOgmWHrCR6FhIlRvitBr6469QRahzYUoU_Xqyk_gqdImGNi3ymsUXifOw.jpg"
         }
       ]
     },
@@ -111,7 +111,7 @@
       "date": "2026-08-21T12:07:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1560,
+      "views": 1570,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -130,7 +130,7 @@
       "date": "2026-08-21T12:10:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1600,
+      "views": 1610,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -148,7 +148,7 @@
       "date": "2026-08-21T12:46:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1790,
+      "views": 1800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -167,7 +167,7 @@
       "date": "2026-08-21T16:11:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1680,
+      "views": 1690,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -186,7 +186,7 @@
       "date": "2026-08-21T18:20:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2570,
+      "views": 2590,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -205,7 +205,7 @@
       "date": "2026-08-21T19:20:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1660,
+      "views": 1680,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -224,7 +224,7 @@
       "date": "2026-08-21T22:31:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1730,
+      "views": 1770,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -243,7 +243,7 @@
       "date": "2026-08-22T07:05:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 953,
+      "views": 1010,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -262,7 +262,7 @@
       "date": "2026-08-22T07:09:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 995,
+      "views": 1050,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -281,7 +281,7 @@
       "date": "2026-08-22T09:11:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 280,
+      "views": 336,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -299,7 +299,7 @@
       "date": "2026-08-22T09:15:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 648,
+      "views": 770,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -321,7 +321,7 @@
       "date": "2026-08-22T10:34:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 237,
+      "views": 430,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -331,6 +331,24 @@
           "type": "video",
           "url": "https://cdn4.telesco.pe/file/JutBjg_24YEJvldeau-xmDarPRQqbAJ1NBRvmDBLgseGWGuQE-ijcEVp8jvabKORGhT5S6A9DSkoVP3EhQfGw0dznQtJL8wu9cKI3y2sa72pWLlwp6YMvhfEhf7y25SiHUUXQ-tZFuotUDoAKV36V0dE8uV-aC9TVByYLwA1feQraOJCEt63K5R4-TrdCzyDa-k29bI9sPw8XD2HafgoN5ImCs5WMuPj0gRQzgr9giCgbUqPrYMTqhZ5Pxfd7Chqnx_sfOCrYFY3wURGmpTy-yciL-TQ5XAjbCDNSUN1yX-AWfHQOdJUfHDS9QEsHxqQaEqy0wdMQj6p9JAPkCzgEQ",
           "width": 720
+        }
+      ]
+    },
+    {
+      "id": 7380,
+      "message": "\u003ctg-emoji emoji-id=\"5828025979334823630\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BA.png\u0026#39;)\"\u003e\u003cb\u003e🔺\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A2.png\u0026#39;)\"\u003e\u003cb\u003e📢\u003c/b\u003e\u003c/i\u003e یک مقام ستاد کل نیروهای مسلح:\u003cbr/\u003eسه خلبان نهاجا اسیر در قطر، مجروح و بیمارند\u003cbr/\u003e\u003cbr/\u003eمحمد باقرزاده، فرمانده کمیته جست‌وجوی مفقودین ستاد کل نیروهای مسلح، مدعی شد سه خلبان نیروی هوایی ارتش که در جنگ مفقود شدند، در مکانی «روی آب» نگهداری می‌شوند.\u003cbr/\u003e\u003cbr/\u003eتسنیم شنبه ۳۱ امرداد ۱۴۰۵ به نقل از باقرزاده مدعی شد آنها وضعیت جسمی مناسبی ندارند. \u003cbr/\u003eاو از دولت قطر خواست آن‌ها را به بیمارستانی مجهز در خشکی منتقل کند. باقرزاده همچنین خواستار اعزام آمبولانس هوایی کمیته بین‌المللی صلیب سرخ به قطر برای انتقال خلبانان مجروح و بیمار به ایران شد.\u003cbr/\u003e\u003cbr/\u003eدولت قطر ادعای جمهوری اسلامی در مورد این سه خلبان را رد می‌کند.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D9%86%DB%8C%D8%B1%D9%88%D9%87%D8%A7%DB%8C_%D9%85%D8%B3%D9%84%D8%AD\"\u003e#نیروهای_مسلح\u003c/a\u003e \u003ca href=\"?q=%23%D8%AC%D9%86%DA%AF\"\u003e#جنگ\u003c/a\u003e \u003ca href=\"?q=%23%D9%82%D8%B7%D8%B1\"\u003e#قطر\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
+      "date": "2026-08-22T11:07:14Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 109,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "DEJ",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/R2OWnmjonWXtuWqvnXWrtxsgXeDoV-8YYkndoVJAnWm3tpmtVMuRGewsg8XO8yHd2Mc4MesKXSrumEvMSV7pmQB6AGXkr1xRsIHTCKRxiryqR1Pcv_py6KcLjbRLYQ2QCoF-_Ne_OCA-l7NcMSMfIo6QMsKaftY_1HMHIFZ-YYTYM6MaVrcODLXUx0LhvxnaNIgwHm0JkZTngSw5uXxipktjv8nu-A44ojksUFu5Rcgoebrjz8EVRsuxN_18fblJ304-n-_6WEzxz38Vx9aAhqP9yXiY5aO1KPgTlX7vw06vr57uhFloxg-dgbiJHEZImx8y2aYjgaoWInEW6DPyTA.jpg"
         }
       ]
     }
