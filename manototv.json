@@ -12,7 +12,7 @@
       "date": "2026-08-25T06:45:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8150,
+      "views": 8780,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +66,7 @@
       "date": "2026-08-25T09:39:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4450,
+      "views": 5380,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +120,7 @@
       "date": "2026-08-25T10:45:06Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2220,
+      "views": 3470,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -139,7 +139,7 @@
       "date": "2026-08-25T10:45:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2210,
+      "views": 3770,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -148,6 +148,63 @@
         {
           "type": "video",
           "url": "https://cdn4.telesco.pe/file/hOephMvFdY1Wx1_0I6T18d4jdU3K9p-WCYjSYiBE4RGy2dRlsk0bl8RIkXp2mckZZChjYb2wHxEsOGpZ-bgtQUo5pl0r4DdaRgPYXu4_NV1J_lIuAxalJ4dRwHBFq972fXGeNG3631SJAkmOlqlZj0SobnKBgELaFIjGRFpmmrV_s8Bm7rct85d5JcwfeajBg9A3Ch0X3LVL7fO2IZBjKcG_l9U7wEBTB5HOvvAAFz26FAXoQh6iF4SwYeMuHUcQp6ff4yu6ZiK4knqSpM-TlEw6wmOaKMjzx7BxOv65qViQ1jTRPYXluCwiPmURsAmKQgLtQdkH_z30lmJOCzMEwg",
+          "width": 406
+        }
+      ]
+    },
+    {
+      "id": 107138,
+      "message": "گزارشگر: «دریاچه خزر در مسجد سلیمان»",
+      "date": "2026-08-25T11:01:18Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1890,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/VxLwQ75Jzp--Hmbff_30l0KPmhhApGJLOSgJWaf9AOQ5o1ftUgOkXeMiW8nyntQNzs-MNecc9xscPoWkcBXHaCXZ9dLPFly2zpE8FklyYOqu6LUYvYGBOiRgKGdr9n7jpYE1LhT97MOuFWKSALEeGnJ_qAO1n6jPNtLNLQDdv87MFpwlhadJr5Io6mJeMStidqVqgGz-Z-Okp6J2wCmawNOtCOGQN4MuBp12GiDqyDBSbAI_y7dxv53b94TnImgDhmbUwausHkG_kzCOvmo8lNEzL2TqnljbmQ-JdIkbR-Rp34lepQcegzrSAhv-LuNCiGQzfaLavvLHjHJF3f8pog",
+          "width": 406
+        }
+      ]
+    },
+    {
+      "id": 107139,
+      "message": "گزارشگر: «قیمت‌ها رو شما ببینید»",
+      "date": "2026-08-25T11:01:24Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/Q33MbIOoG9izN0xVR0VbWTP22Q5AwYTTz42jt98gjnGchZ2_NFOT4yE5fnvs9GhjSXJQ4JpnOptmJ9Er8hcISTXWCtyIskJr-hxyFosTOknn7GpNQJ9uMrpvZA5CZq7NPJRrjMznqHSt88WuAKkpfglrfSH9OCs3gM8LhZM7QpfE3e0WYy_VlfabWGP4VoN2gVZhimBpCUoPjVtZNHpyijFRZ-wpzzJb1Bl8ynTrZBy26HkR6-s2CHOzA1dAIopNBFFalcSMyvHEj0CJKbid92_9Hs2cbzslVBK7ZFvBL-WrE8SfNNG66-4kfVsZTuUhl84ym-Rj4hQTjCS0sp_Vpg",
+          "width": 406
+        }
+      ]
+    },
+    {
+      "id": 107140,
+      "message": "«این وضعیت پمپ‌ بنزین‌هاست»",
+      "date": "2026-08-25T11:01:31Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/X_3wshQN1nMRBNRCZhCews_ByFcvMcNSnBnREN3ADFeHKTqZ1YUrfQHGGQp3YEw_5B22CYpkLpdFfuk942vGuktuWj4fE9CnhpPwvCPzgenrvMoJqmstbasfSzQfVB8z4dUbh6_CZVBH-l7zWtFH9T8aNEyvIx8IgCb0StU17HANJo-8IKTUY00z1PD6Ol9_nwglpKJz-WR0KVpTmGKwwUByvDeW-Ixjg0Ds6tQ-N0KtxojhoJd5aYOHjSWbykGo1beSVj7bEG_9yYSbxKQoFWKveppg2EPIYmQA20fAFwxJ6IY3GIGksndnmjbL3izOazDDobSH1bFD3kJut--5oA",
           "width": 406
         }
       ]
