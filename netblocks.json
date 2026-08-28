@@ -7,30 +7,12 @@
   },
   "posts": [
     {
-      "id": 1524,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e Confirmed: Live metrics show that Sevastopol, occupied Crimea, is once again experiencing a near-total internet blackout amid escalating Ukrainian attacks on energy infrastructure.",
-      "date": "2026-07-05T23:29:25Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 46100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "NetBlocks",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/gRtI5pC6zG7lFScPnX6ivKysU5R_dtX8dZhwEBYvVZi4QHsa43mZzT6uCPxJJli0_tAM-RtbmIBACJ2v5uyH_CGFJhTdYGCdt5WFSh0b3yIhtMrro_O8vLeMFNCJDc4MP9zzFKzx_I8zQEV7STbx8CvgxnuJQGpZ7DNxJEa6t5XP8lZ0dXBUxsw24eWunpJFuHOVYVxcseVTLb6dbxK4Tw40hswH9iy0JGUrpEpsO-8T65Nz89Sq1Ln8O-P8BiHaShPqQC-ADwSm5z0beBlsacZxqKrX9mR-6cndngvFLGSgZqoAqA_lCZrgwLI7kIJftoMMzEuCofYusWitXKkANw.jpg"
-        }
-      ]
-    },
-    {
       "id": 1525,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e Confirmed: Analysis of network data indicates a significant decline in internet traffic in \u003ca href=\"?q=%23Cuba\"\u003e#Cuba\u003c/a\u003e corresponding to reports of a nation-wide power blackout. The incident comes as the island faces ongoing fuel shortages \u003ca href=\"?q=%23apag%C3%B3n\"\u003e#apagón\u003c/a\u003e",
       "date": "2026-07-06T19:36:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 51500,
+      "views": 51600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -48,7 +30,7 @@
       "date": "2026-07-14T10:33:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 45400,
+      "views": 45500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -56,7 +38,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Ro173uvv-N5XJ5xMLkCZwAExX0S0SVhwHrSm_Jb6MpgWQXeNWHGV3ZDXVLCs-m4Y9NAZTmWFGCQAmwjHJeO5fU8ufOY8kEZe8AEAbrlJ5uWx_Rgmw6w3D6_O6gKVQdlKUPmJuhghRotwy9Nt5VyaSRFZya6gLD-iV68tpBCAaOxiThV4M6T2bCp3h3RVBUGw7MmqQHg4FSgmFAc3cAAAk_zBJHlnHWL3moWxH0mGdR3srrA4CBVC7Y06eoR44qIm7RTM7kAsNK_KB411grbC_KHvD6gVt74Rrvp-HuBcz1iJfn7HJvtKHLLo9VDoiFaqv0G_lY7kV6LxXWF50CPmKw.jpg"
+          "url": "https://cdn4.telesco.pe/file/RGb6apxXjz9SDK_XgaQyiIzy2KPlQJwiQh-Uko1ZAMoRkd6z_h4MEjQUiVbqoC7A5-ZcEH610vh2DzFGt6IqdR2qBZZm_gnCbky4nO6k_AtGy2VO03VUz2ZzfipVg9iZwPvaA5cWNhA4r4X7iodkP7OUPyaCG76UDsD0V1DIPtjenYDmsJfvuG5sZh4bArOmorDAONuWWxGibG20oXGldxeEr5CLvsdpkY2t6mlUzK2Z1e6IKSdQKwacMrW5g0LPy8Pr24LyjeZLrJAi8eeNzIFrmesI49Q_bqpWIjejZWknMRU-CbYaxGxO1zjUM3Puk7MIJZhILYZN390Doo-OQw.jpg"
         }
       ]
     },
@@ -66,7 +48,7 @@
       "date": "2026-07-19T09:10:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 61600,
+      "views": 61800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +66,7 @@
       "date": "2026-07-29T20:47:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 31800,
+      "views": 32000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -102,7 +84,7 @@
       "date": "2026-07-30T08:23:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32400,
+      "views": 32600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +102,7 @@
       "date": "2026-07-30T15:42:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33200,
+      "views": 33300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,7 +120,7 @@
       "date": "2026-07-31T10:05:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 98700,
+      "views": 99100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -156,7 +138,7 @@
       "date": "2026-08-02T01:34:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30100,
+      "views": 30700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -164,7 +146,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/nstM3fTTWLS-5jfXSJTjS3VfMeecsq8-dYaRGXgeqmOYBG8S1pULfVePUi1KDhCjX4FpOIdo5IoUyvH4vx6vNe4OyjEi9gGw3Jbjsvuo_t4xPbu6CORwXpmvGYSrL1bb-U5tFLoGSj_CQt_qfVkvSDLIZs0OXFNYRZofpOLvZEL_uN1Qf2uUGV2haUommYU3t1GITFvC-5JEwlwFUFNhPW9-drTJp5BsKUN4tL69Kf0IjushR83bgO9RVBuWWzVZ1SEvju3vjDUANYWhPZvFTnEY_XG0UmRFdXUTbDZdhyJPKc1TaKbhMnRggozaeAVNO7o-q5_9_7xTRDcHYdxmaw.jpg"
+          "url": "https://cdn4.telesco.pe/file/T1SUhljChh9IA6IRUQTinx4IWSXHNgshBDBxc8sOrOLE7AEuF0-JORm2qei-4rclzKaqXZURG2_EauA78DoPscJ4eg_rO1MpxhCQ7pZHnmmSuHrrWXs-QIqxdZFopk9akM8Uy0v8wrmsRziaPreRfu06ttdH0eyCmHzZ88pXRTleuazOz2S1-Py3LBj-laM2H2UcYJwrwNdH8aDh-ZsYOy-XDNfaQL3Irk1e-VmjymrCsgjLy2iqa7xxX5e2ReiNtBNRHxvOtIf0x_2E1Rzrjp5E19NmTYTzmGYFjvh0knTIn_lf299qZ18KyxvUTsUutK4gBWamJWKaUabmktH3jQ.jpg"
         }
       ]
     },
@@ -174,7 +156,7 @@
       "date": "2026-08-03T07:05:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26500,
+      "views": 26600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -182,7 +164,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/kkXuwnu2ojG2x4RXlv02BOIVvz6lPwPfP6Ofs7CSX7G6Dk78svzC4KzvPStEb9EW0-ihRaLBeJKmU-dyRZjZ-pVMCpQ4ei6qM_k7n30EZdqVkymoHE_ApXzCK2P5l5-8gKPlOWl3Eb9kKEazEs91Z7MgQtd9knvDiHqnNh-wA5ZkKxAFCHfpPId5EMKbCdGns3lx1Hz53REOfxSiIx5SczSB9lJRZCxn3DbGoosm0H6_rXWvJT3U847ZutjtH-lyYOthkHIRZWnby9fR5DAtWt3tjLcoUp9DCf2M8KpVk0rfH68Xk2NqoBgNJYJ7cRxRT1WSCnwd6qnwJkgZCltsBQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/ev96NQX1XTkKtABK51AnfXOc5pmiuMxfzZIEL1OO_nTQPgrgxcEoyxZtfDi9ojZ4y7VilzqOxqZLuxGP3n2NMUh11BvZKOGTI1iK1NdwzbHHvp0avAuyQVRqla-CSQBDZ679-hjqfBiG8FA90ymfh95mhJG9KQSjInxHxFaqH--R1qirqDUaG8MxrwdZnreuUQ2bmBGPKUE3HO3TSHyLZq0OH-KpKD6X5rkArQA7FRPn7jlVQdZ-T5fGTvdyirmlIKnjA9n-0Ue6OdSqtuVeGJNVAk6sk4aB33x3JoF-VjhMRe0vEpJ8ULv6l0IMy-LHUm3V1ySSBMYhIhEMZoxgHw.jpg"
         }
       ]
     },
@@ -192,7 +174,7 @@
       "date": "2026-08-05T20:28:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26000,
+      "views": 26100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -210,7 +192,7 @@
       "date": "2026-08-09T12:40:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24300,
+      "views": 24400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -228,7 +210,7 @@
       "date": "2026-08-10T14:26:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 37100,
+      "views": 37500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -246,7 +228,7 @@
       "date": "2026-08-11T19:57:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19700,
+      "views": 20100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -264,7 +246,7 @@
       "date": "2026-08-13T02:36:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17000,
+      "views": 17300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -272,7 +254,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/PjmYdxffxd5hIFP5mqHXOJsfXxwH_uRVWmg-ITD8XyeyR96SEFNpxPT33RzQELtzpQZ7w9EHnjSoE5XuXyia9Kt-gDK9AGJ6p2iATlxuOdcDGVe-TFsPRQxK1DBZEkUdOWVAXbeDM1_uv7upyO4gVp8pMke-td6_GSrSG1h0beqVybyJvw2M1I8jeNX1Z5z455mYm7YiihHbc9x5JX-ndu3lMga6ZQ0CckruKqjZBczUy0rw419iim9Zas-EM5XjyKCdKuTVzUzP9wl16ECLXE4T6GHBd01IbTULZcfyCysSwInjDMuNGxIKKiBQ5BaJ5vmBW9Kt1p0cgIJlophB2Q.jpg"
+          "url": "https://cdn4.telesco.pe/file/gHQiHMQzV5ca2U5q7La4Ue-eNqF9N1djdcTPMkFbgM_KrgJKsyWSbtM2O2qebSlfYvZeY_s-xsJZ2UFzW3aap8cE6psnqqJbkjMruKx4WOR6f_2LFKRmQxZhlXAPuM5K-6CbR1AJ8ucSjrIYbJbrdrsueHHGURmX9-9ce_l2YthVP_dfSxXb1ixsvwA0U8Z574Q8w3YxAXUBf_x0OnQamax-TYFTgT6R2WlNDc_AhZYHS2jjzZHjTvfWKApmbDlwr0H66tW84Vumegfbw7jeUyYU2rzQfGGSv3xAFqWKTfkUu-RDsiIPTGQYjFzZYPEONJ4Ac3OX94Ohetfrk9mHWg.jpg"
         }
       ]
     },
@@ -282,7 +264,7 @@
       "date": "2026-08-13T14:32:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16700,
+      "views": 17200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -300,7 +282,7 @@
       "date": "2026-08-13T22:24:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17500,
+      "views": 18300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -318,7 +300,7 @@
       "date": "2026-08-16T08:06:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15700,
+      "views": 16900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -336,7 +318,7 @@
       "date": "2026-08-16T20:09:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15700,
+      "views": 17000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -344,7 +326,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/sylBytlVbWR3rWwmAXBiyjqgaGn2id6_YHl--p4R68Bl9L4OZBZL2Ce97jJDBntEUODLg5fym0HDgTGU_6c6ZNxFEl-iPuIAZSQmGzQtuFlab-4Zg6Ho41QEZ609abbZjPxoyTGRac9AqZwWVbB9jOhRk_bL9t1WFTWsY81iMLAxFGNskd_o5dTgqKpkg7FSrjwG-cxaY2r5Ym298JupavbY1Spu4RvrzuYKMAqLODxpjbvLALwGKVL5KynwJNhjYnNhPhlqJ3EMIqhZcKsXSPe0lRTAH0lkWZi-jE7Q9DJ_hfHWQ3Hw8ohwtOnYm0GdZ1xlumzW2qvfEvO3LdX0Iw.jpg"
+          "url": "https://cdn4.telesco.pe/file/bBK421h2q_CkOOuGedEeqrEBggzUv7xBdHfq-5zkztMlm7yIvfo6E6ZhK0JqTqg4hHL47at5X7Txh17WyOtYxGoyN6OpaIMPqAVQ4yxg66L08kX3N-dh5J2hCTHsvRsj92oYrtc0yT-h8BZtK9KgLiF6YVNmcvq8GjEuYGZH-lpBk5CwSdpuq2BvtDrDbFJLmpGdOOg9J7sYDCNya_uIxrFEL_zgWHUiyt-YtDZRTFWW9435VfBrtJY_eozajsVH54wotk8hXJiVtzvOthHLk_7JGNZemdUzSkU99PChxXmPR9XugUKS-fPDrtzuD_L-OGhYrDHOb327T5PWYABLNA.jpg"
         }
       ]
     },
@@ -354,7 +336,7 @@
       "date": "2026-08-20T02:45:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11700,
+      "views": 13700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -362,7 +344,25 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/iQgmeIjZ_DNLnlWqbI4e50IagLxxDlFJvn8MhA5H_RVtubxprZtNfGjDV5AVXF-jPOv2tz8qWomgyQ-othLiPmGLA6ZTT7Q8YW75yrpUF6VwF1KV8gziROKSypU9nY7KIuC8g74-yyxj7VwCTym8wrP-mT7rUsD6In7flcaizkifFHDz7vXHInM3AfdMsuM6KVssKDivvaAEBdNJn5yGGybeabuSnswnxJB9TliBn6Zt4zEDSWZtk5AnR5aL9Iyl7tdPzhaNvCvZfmTL-oHUQmat94YdaEUe1OKAmRvvIGwv5Akz5TP8egYLkmWedk7ta255hk5YpLwf_sij_t_Clw.jpg"
+          "url": "https://cdn4.telesco.pe/file/an4uPmZnGhwPk6uf2ZCI_XTdqtyA0BDd2A4a8CUhpS-tRRHpy44OxoGPR9x-MuNvaRxaIj5v5wYCm9RGSn1-AtwTPUHDhplM7OkaMwrpv1XNTMJY8kLPkC9rqSZjxJMAJ1-KMS5p9VJgFh_9hW4fa1jkePJRo1I_mQCzGNvW9dxwV7OyP4tptkLPhLZQ-46Q12RymeUWW4us6ZVJthDWaXZ0uXRe-1GuLPYgHcfavAs0asAKS8XENMjdNLjs67Zz59bd5e_gx0Ic0kciaYbG0JJVbPtilwd68T1gz-pMaYpNo_3oH_hNFkENInOBlegAp_qariv-0C69FXgBbqzLjg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 1545,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e Confirmed: A power outage has knocked out internet connectivity across much of Donbas, Russian-occupied \u003ca href=\"?q=%23Ukraine\"\u003e#Ukraine\u003c/a\u003e; the losses in service are attributed to Ukrainian UAV attacks targeting a thermal power plant in Luhansk Oblast \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F948C.png\u0026#39;)\"\u003e\u003cb\u003e🔌\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-08-27T23:45:52Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2040,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "NetBlocks",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/B_lrOUVG-DWHaqdhNvYoAuiL8te5lQ4_Ww2pMjRaJgzlPheEVVtmzFjJqe6L2Bwwqt8LU0r_mvXiK56Zy7Tj1gVmSt0ZaUZ2fSVou5wr7rS5KhYXOa2K_601gtWs3mvjGjLaLM22payB1GA-3pF9-9Don03TEXyBffSgMobaFxnt2Y3l7UcihtYQJxQru48zJ7hqxBKy1qlC7-PlIrrtp0Y6YT47CkdkP-sSTMSHMpvtYSG8EEmpEyx2JXCfr4aRMZ15r9_J_UMiCU8t4bOdLFO06ms3uPit7J6ys_ghIZM3898mltgZGj-ASp75Hs9cTKtdA-YsnzKyKVyShy1woA.jpg"
         }
       ]
     }
