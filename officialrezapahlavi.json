@@ -12,7 +12,7 @@
       "date": "2026-07-16T15:21:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 802000,
+      "views": 803000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -65,7 +65,7 @@
       "date": "2026-07-24T14:31:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 873000,
+      "views": 874000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +84,7 @@
       "date": "2026-07-27T04:30:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 946000,
+      "views": 947000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -102,7 +102,7 @@
       "date": "2026-08-05T03:39:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 505000,
+      "views": 514000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +132,7 @@
       "date": "2026-08-06T17:02:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 625000,
+      "views": 626000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -144,7 +144,7 @@
       "date": "2026-08-06T17:02:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 685000,
+      "views": 687000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -162,7 +162,7 @@
       "date": "2026-08-19T17:29:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 582000,
+      "views": 586000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -180,7 +180,7 @@
       "date": "2026-08-22T03:34:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 505000,
+      "views": 521000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -198,7 +198,7 @@
       "date": "2026-08-23T18:17:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 598000,
+      "views": 622000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -206,27 +206,45 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/fhzXe30Ttctet_-csKTRG7ApvyH9KfSOpJsu8lPraUEVUC2nM-bOLW28P4-DeqaS_R6sgEO8lFp2yxy1sqBnDkAXBA-6Q4lTr3jR_Tt73wzph95qrSDu98KwkciXm9YGdb-PAlIu-jwCR28cZsKxeXLIugZaLOlFk78u_jyFT8YnfW0KMPLUEDOK3r_S7BfJdl40RyUnz0x43HzAJvbik3LYws_xMT8bkNrqrU8TIgpVd8kV9ebBBtacPLbpvK9clbA9yHUWY28G5GiLvyifMS1HWItKizBFWCwxTn7XyLzMkfcY_-QcfLrEWucqjd6gEeede_KmRVnaFIxjCg0Qew.jpg"
+          "url": "https://cdn1.telesco.pe/file/WYlwtDJll0OzVV67VUgXvCj92H-fWayKChczOcM5GHpC7CA3Bi1POECKvz9iUvkdkqwQRFoQp-TPLv78H-gjJty4YWiXMHFZRNnwZeM4NV0nSj7Pnaia0uT7klaiI-y186r66AwAH6tQmMUCMg7mWCzos4EwliM1JW4V3Kc4gVKA_9XA7a2cJ3V1HTwvC8tKvgXmduoeu_fmpBSQjCxmrp4Z5AQrD6HCah4Ug9UgYHcDHorZWytjYwEHqPLPawPIiYb_BDgJlhZ1u1RiuNJmjzTsWuxwTBS0y8kUsdoVHnHRqp3qaXFczvQ_Y_4RQs2HTof0vG7r-cUCHK1yZzar_w.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/Lw20rcfpcFn2AzEqwRS4Xt_M7hFTaY6XQHCELl8ShKFmQydojCyduG-ghKQJh_DPxNum1DKHQQg8dnsJuIKDm4fXur2xevw8TMqY8tJ5XYid9ldGL1HpWqMrNHzQP2PFCgov5D524ccBsy-Wz8L3KYt0ibYKDJzPpodGWubdAiQo-KZO1rr15MGJZ_o89g6iEJz-cGfm42ylvvyxgeaqJk715FXpvlfoelLw20xZ_pXkIdCTYQTQEST8tMEwTEzZX3xcCAv5zIbB1QmJMDAttcZtDqkagMmB6_Mc5sHmISY2XPm1lFnfNLidt57lK6kZcKY6ph5dmavbCzRQwnOCXw.jpg"
+          "url": "https://cdn1.telesco.pe/file/cWJt6UoS9TFc_1xEWvphTD5aPbaYI2OSoJK167kruO1lJp-tq0iWtE2dqNokyUwedpinx3DAUIgBfFZG5wuqzZjGfM9_9QQ699nIhlQczLCmrmA6i4JVo4ZN9R6yzmAcP-t-avlpWf4VMDSHbsDE-qRLWSD9xMmuJs4dC7A_-epWsMDUpZW-BXik7SGA3Gnjt1Tm89M9Kfq2C27FWIHLnr6gUbiSTJyo3VxojI3T1AxRxWiZuW0H8Eevt04juk0a59eI2-YcMZcjlUA7IzeTvd50LOezH3vD28MYHOqTHlUnSCfMT5tXziK5TLmIa-vouuTdtCA8W3aYi4BNbwj6fQ.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/fEwmltgHtEX01oOGagY0AWKp_pIujuOv8KBvG3XILC_ZSctBe26bT4Mj6TohXWKx-4W9NydcZWpzei1zC4ILfHCI1SuhvjZPh33mC_wILoVxSW3RuQOuy0AedxF_feulnjM2htcuRPfM1psFnjQTaebn6vMt4ZpQMaRc0mQOuEpiQyC4mpOu5zQZvjTgzSK6BY8wf3lTLA7wVz2qDlPkneeLhWvdn5QdP5XK46MV7M_B8Eh_i_o_vjLPIUd0de_51FkVBSdwhnKf3xcuSyXIUGeRDzByr-ipN3gg1PmFxuJa0_Ao6dddf42DiH_ahBh4YW2oamDlfemmBGZ47oHPVQ.jpg"
+          "url": "https://cdn1.telesco.pe/file/pkRBNmnT1TXtGVh0PNuDBYQMJ4rOKLdRWrLrQ4HbURawBjAzZUz7RKIVdUbzVJ3crsuY1CI-lx5kMCuLqH-O-eqK9xuGNJtcumP0WNqeg_zAGx0nb0fFONCk4tmCS1_T_dHak3I-94pnLv5EVdGXEXEIpFfoeKWMP_hqJfvd6B54agtE1my99p1ZOaTnTzPygAzHfGBVCTHFKj_h7KrjhG6xa9_P4pSqNtR_r-YLBM-aUjftHxYoWPkChreUdBhuFtc39Ff1P6VOLkqU2nnR0aPXhBo0MYUNMjAX6-yoSrzdV5ANJ4wA4EvfXRigf0Yy_GYgE_0JvzYCXiJiKd4W1Q.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/Xp9adkCQ4AmQuOw82t_U8Z04cNqtC_oqT6dV8BgnOLB3vgDZ_8-SiL-LkKPH8LFXTR3aW2hea1lhIAcokrrzdMYSMA3tl8ZsAfHW9stP2MfIj9iXG3BdYOmoLtqmFMSBMkXsIzVD_eg_LIKqu2ZHycxKnXNe1mhz0fdBSXAgcj37W8IMgcSM8xXVdYk0n9CTYh1R7pQEEp-Y1SmD5QwUH3EHl42rFvLvZXM4xYq6qQYGPzcCH99T6sS-ikN59Lj4HFS8hh3nLpEGdxK9BhBePkGRCFGLaHZc52YX4a9I_iZv64fNXom4FXGkq5-FKqFe6ERS6O37kLYLQbshMJW_aw.jpg"
+          "url": "https://cdn1.telesco.pe/file/icUAJ9MSW5QlmVKzevXkPvwgFX4TpqmFn9lVB3MYTPYFu5hbZOJ8f6ZJj9L1eBGc89OTE5EuRO8jUmwp4DYRt5pL7qcZuCdKwoWD8k_ymvXopdV5bPXwoIOXqzxnuhMh6P5ct6t07tOp_xgxop6WsObcoIYogQKnUckPH19rpPjhiwCy83N0swkD5c5U3VWBODZBsBHSCHiwHCc3nM1Tm-GkhOFmyZ0uRAEGTwyc4fYxpYYUolv8AAlgQVpRJg8dH8ZPyBVo6xt8p-5JCXhbgWJia3ThX60hL5rIR-R8p8ciX31PygxOGX1RGBvullnSixdyzVq0rnnAEspQUIBdbA.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/AIdRGfrY5wor0frH6YDcOk-uQnySqLzCorZGTjzztAREonVnP0D_0ht97IMPCS9xXnUMVl6jgB2ky0583YNOU4qKVpqDebH9z-Ms3sRlpHbv4L8Jrh7qNSZJW8rvo1VgEz2CrVKpr0hz6bary4IKw7xQ8dvwKRGRYvldGdmP8Pb1uFdkDX7yrcnmIGeUcsbiGaYFRAsPYha7Kqih4k9sa5bLHUs6i1DzFsUxwi2hlmeWlih-oUHdomKMlZ1iZtzHiLSUXo6luy1TjTIJmhhUNCzvDZWZ7SMkuFvqaFhCMQcZuEIZNwy1ZFqTvQG3UioTB2U4peh_h5nBqCmzwS6mpQ.jpg"
+          "url": "https://cdn1.telesco.pe/file/X4p99yX0ojP0aYUx04hrrBdI7-HaSOM_MKWhk4H19AAQZFpwiUvJozWbbvH-8IA9IfirUVvn281a8QvNoB4pC0Z2OvrRXIFWpjc4jc4KPfAl30Exvd3MuWgLb6_mJqqd0qcHytCjGLbR_KflBg9t_eRTiUdzdgbmA34iBdiATZpT3DjNk5LGiZItMDJzCOOLT2G7OX6T_th7RJS8LD9jt6ofRwiIwGYnSt2L9nELgXjFHBFHK1I8nVv9UNU8WE89nalSh5JpbF85fi2-4EeQ6oLiNYvK19WiMejsCS5JHvP-Sc5NSVTk5hyM5XLjfGpkGrjjj0M-PhBto3MY1mgPOg.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/H92i_2l_jTTg-IbkSYHngEMsFlA-P7obTQbJBhj-5--K8XFVKPGdQA-M66dmOSNybn8cxJWwqrYYqAJJm_1qZUnvs6OIIGBrr0JI8LD611kibAErPzza8u1maZYP3-ItGtHqk4-CJTN6FHs7Vw8IBVzU5HgEx0M3qALD7LUNfvUtIGYh4T6QJOA3EcZJp47w0gyVXGA_KBubxzIA2o9Ap9zeZ5EwauBTUdGz41npTFK8ZYEoXgVu5XohZMCTZVlzpi4gZok1L5Ks-7kEAlf0Ck8F40QlsB5CjH774SsclNRXigr0_SU_nSNEgXfzuHSuwseKd1RH50CfQ7qCVYmbzQ.jpg"
+          "url": "https://cdn1.telesco.pe/file/BsO3IpK4PiROPlnSXptWWo6Kl4AWYG4ixJcwAgbTtTyQfgP76Kgfj30nB2m7TuMQ_QdDaLmA864sTwAkD81Ou0GV3p7wBaHwujfjAdTsIa3r2tiD5E64Ce5tfLtB10oKSEjMsaYqZUwfEnhm1QlVFmhy4mQQGIqLW7Gr-1akNHpmp1Y-z6mehjogqT36qEhkmV_3LUCSa1F8HQmvS6zsF8UjLtQTyVbijXl2gXxu3dzgzZdB58bL5AE9u3p3KwBOtNfBdaHHfJ6_F8GLBReVgIahz3ecOBDQg4ggjQdUR1MrPWvTPUNJTasHn-3BEJo8osc95_9GEQHIxqrzfhpwZg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 1883,
+      "message": "‏از درگذشت اعلیحضرت هارالد پنجم، پادشاه نروژ، عمیقاً متأثر و اندوهگین شدم.\u003cbr/\u003e\u003cbr/\u003e‏پادشاه هارالد بیش از سه دهه با احساس مسئولیتی عمیق، وقار و تعهدی خدشه‌ناپذیر به مردم نروژ و به کشور خود خدمت کرد. او چه در لحظات شادی و جشن و چه در روزهای اندوه عمیق ملی، حضوری پایدار و وحدت‌بخش داشت و نمادی از تداوم و خدمتگزاری به ملت بود.\u003cbr/\u003e\u003cbr/\u003e‏مراتب تسلیت صمیمانه خود را به اعلیحضرت هاکون هشتم، علیاحضرت ملکه سونیا، خانواده پادشاهی و مردم نروژ که در سوگ پادشاه محبوب خود نشسته‌اند، ابراز می‌دارم.\u003cbr/\u003e\u003cbr/\u003e‏مِهر، انسان‌دوستی و یک عمر خدمت پادشاه هارالد به ملت خود، میراثی ماندگار از او به یادگار خواهد گذاشت. نام و یاد او برای نسل‌های آینده گرامی خواهد بود.\u003cbr/\u003e\u003cbr/\u003e‏رضا پهلوی",
+      "date": "2026-08-29T17:58:11Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 91300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Reza Pahlavi | رضا پهلوی",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/iRjlTNO4ziMt88WIAGjbw3LPjTXRJySh6gPI8vjV1317FybdaTreOXCdz-vUJ3_lj8JMT50y3aGYYeKwmMYzM0_NwGCeDY6rEEoU-laJy4QKGyghD9CFkRrVRTkrWWuDxIumLwycOjpYMTBruotwQCgO0fOx6nk0Hsc_NGINzY5g4_CPaKPTNeeJFybZ9eUo6wCmz34jiQAwBDW_XVbMCEFwAqb3RhyMei3griLT19jhOX8428EA3pJ_g2IyX6iSopu-Pj15iHJJMuXQF_Q5kSAoQIcrOOuV-9nMcz-oSeMvkC5wdvtXUSflTtTf2V6UKHSVn9sylozwEPg6xwwZmA.jpg"
         }
       ]
     }
