@@ -12,7 +12,7 @@
       "date": "2026-08-30T06:59:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13800,
+      "views": 16300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -62,7 +62,7 @@
       "date": "2026-08-30T10:26:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13000,
+      "views": 16900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -116,7 +116,7 @@
       "date": "2026-08-30T11:59:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11900,
+      "views": 16500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -126,6 +126,44 @@
           "type": "video",
           "url": "https://cdn4.telesco.pe/file/gDk1DFeABXFhqAp4YL_fH1lseUdOaNXwEOZmw8doe-G9hRr8UG_DNFRcwWol4SkIf9tDxN1ayccek4LED31YZ59ZafWWt5zQUbnFRVVugKxCt6exMj8nfmOkfhDCZ8AyM_gZc6XOwBWJYsEvcCeZzxL_ROoSkReMEVOwcvJqUdJYX_DjFJJ2JsrJa9RrfCNclZa46xk_reLJMFMb3uN0b1Nq7gmiGDnmdNmXXPBIpgdFdjwXcVTat2QwYNhsKm-ARGL1S9yStaYWdcVKKmwp1M1CFLueykICSfgJZ-ImvwxBcmsiepAs_QQaCKfZqvPJ0Fn1_hNjyYQh0BIX31yXkw",
           "width": 406
+        }
+      ]
+    },
+    {
+      "id": 107255,
+      "message": "«آقای اسنپ ببین؛ این صف پمپ بنزینه» - گزارشگر",
+      "date": "2026-08-30T22:09:45Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4340,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/pIN9jv_39AieFmrBRYRlfoukTSbvrXo-k3tFOUUYaEGpyir6f2hoOFh7chW8wCAQ3n26Hr3MMNKPdHy8tzFX9s9wYNI-EYTpbTSZuefh2AuPkwQcTt0EQO332aYFFNV16BwtAtXFUnQQ9n_4G7-R0DQSyvlyuIqWWKdd5iHpyIfuzh4XBkfTTwSWnMMf_6yfGgFCi2XXbCgqABjIJg5DC33odwAoqht0s0NH5qorL-oohIV4avEhuxqBnkCHjPwAF0j03MvR-jlbK5zrDblU9LNXUTL3Aa4Nquedx83AkMo6UCPClgOZzeC7oZgEegBFV_PNMykHIJrQqbWtJ0mnSA",
+          "width": 406
+        }
+      ]
+    },
+    {
+      "id": 107257,
+      "message": "شش ماه پس از حمله مشترک آمریکا و اسرائیل به ایران و آغاز جنگ، سی‌بی‌اس نیوز CBS News در گزارشی تحلیلی به این پرسش پرداخته که چرا موفقیت‌های گسترده نظامی عملیات «خشم حماسی» هنوز به یک پیروزی روشن سیاسی یا راهبردی برای آمریکا منجر نشده است.\u003cbr/\u003e\u003cbr/\u003eآرون مک‌لین، کارشناس امنیت ملی و تحلیلگر سی‌بی‌اس نیوز، در این گزارش ضمن بررسی دستاوردهای نظامی آمریکا و اسرائیل، از بسته شدن تنگه هرمز، فرسایش ذخایر تسلیحاتی آمریکا و طولانی شدن جنگ به‌عنوان عواملی یاد می‌کند که محاسبات اولیه واشنگتن را با چالش روبه‌رو کرده‌اند.",
+      "date": "2026-08-30T22:10:03Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://t.me/ManotoTV/107257",
+          "width": 320
         }
       ]
     }
