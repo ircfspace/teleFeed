@@ -12,7 +12,7 @@
       "date": "2026-09-02T08:25:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11400,
+      "views": 14300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -62,7 +62,7 @@
       "date": "2026-09-02T09:50:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10100,
+      "views": 12700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -116,7 +116,7 @@
       "date": "2026-09-02T12:00:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6650,
+      "views": 11300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -135,7 +135,7 @@
       "date": "2026-09-02T13:42:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2080,
+      "views": 8880,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -154,7 +154,7 @@
       "date": "2026-09-02T13:59:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 319,
+      "views": 8230,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -173,7 +173,7 @@
       "date": "2026-09-02T13:59:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7,
+      "views": 8780,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -182,6 +182,25 @@
         {
           "type": "video",
           "url": "https://cdn4.telesco.pe/file/HDvHgowIxspvihU3dSdk8Ke-CtshP9n54HXM8RNNxqIFAqmEYIMvF9zyt6sDVkBHXOrDnTGsskll44weoakDnjwOWQFULF8obgeXZxcz1BwSX122Pfafoe-pbZhL-Is1JBCi33bl7E38OD3b43mKaDmwjV9G7x6KplH8eiVY9wvjbzISBMeNlfhTUWDaYBPfykay-GGTR6NEh0nu-5urDp2cKnMb-i3wjCyMoM8zkuSKAdzU4hVz_JhCjIqmxEWwh-46QUEb-1SMyhyUBKjjAJ1pRh-oNNnSmfBE2bGsD5E5Xi-mEMDnN8U44aG8VqcnzYU3DymgT84_BAcBVdTHZA",
+          "width": 406
+        }
+      ]
+    },
+    {
+      "id": 107347,
+      "message": "چرا در فضای سیاسی اپوزیسیون ایران، یک اختلاف نظر ساده گاهی خیلی زود به اتهام «مامور بودن» تبدیل می‌شود؟\u003cbr/\u003e\u003cbr/\u003eنفوذ اطلاعاتی جمهوری اسلامی خطری واقعی است، اما اتهام‌های بی‌مدرک هم می‌توانند اعتماد، همکاری و اعتبار یک جریان سیاسی را از درون نابود کنند. در این پادکست، با مرور تجربه‌هایی مثل مک‌کارتیسم، COINTELPRO و جنبش ضد آپارتاید آفریقای جنوبی، مرز میان نگرانی امنیتی و بدگمانی سیاسی را بررسی می‌کنیم.",
+      "date": "2026-09-02T16:27:44Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3960,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/J0V0AlTZtHTv__i9QituqLdKMkD6kQJvZo0hnraHabvVPBD2CMdNrnnkRjxwB9bNA_dXmR_-qeld_oLPT13nRLi3g0BVqdng6kHfJASYvd_il0isaldWRvZTukjqkEqIesIMFhaI-6kDxmDBbLHny_zfIAWAX15uui-i05UWRY6szBHX-wlkdGZikmmTDTYyPmPeop7xpfdmRf6YKuiywoteen8yZ_5EEaUmF-pH26vbFyL_9OjqmXvmYCNIqEuAwDHPE1QzfO5eSmMdjpfmsCAGehZpwBHDY4_gveH3M3EEvPSUVijgaAOC3cLdWFyrQclukI_MLwlbKFS409wYWw",
           "width": 406
         }
       ]
