@@ -12,7 +12,7 @@
       "date": "2026-09-03T10:26:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8430,
+      "views": 9640,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +66,7 @@
       "date": "2026-09-03T11:34:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8440,
+      "views": 9880,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -85,7 +85,7 @@
       "date": "2026-09-03T12:02:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8740,
+      "views": 10700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -104,7 +104,7 @@
       "date": "2026-09-03T12:27:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8640,
+      "views": 11200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -122,7 +122,7 @@
       "date": "2026-09-03T16:26:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3270,
+      "views": 7940,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -172,7 +172,7 @@
       "date": "2026-09-03T16:29:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3070,
+      "views": 7990,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -181,6 +181,44 @@
         {
           "type": "video",
           "url": "https://cdn4.telesco.pe/file/a6RXI80SHEqsGfxRlvtiqcr8QOOsghrNykcGpaEdpsPBMDQlwYFuYuOhn9LajLmZzqysWvq8m-yxBof_iv0Yp_GTmlcFkvTs5osFChSBkb0NcX395lXFFq8JikCGBf_CGurhNivp0rbK4GeecvOjd9y9hC45kar-hMH7j5FvwFPG0woszwSfL9gAyAUCpsQcAwOQ1YFp3GA3m_67XUk5Um8SaMWPLjEKK9JU5yzcXqEz94nPFu_A66tBcOi0shvcBoaujxEFk4ytZmbJfgduDv1e_6bmJeKIlhYEx-SgNT7Ozdqe93NjrCpRsq8wC0D_2w0cDfwkF417COhppbC1qA",
+          "width": 406
+        }
+      ]
+    },
+    {
+      "id": 107382,
+      "message": "زباله‌گردی یک شهروند ـ گزارشگر",
+      "date": "2026-09-03T19:16:55Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2980,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/m19GOAlxZVIZT0Yo1x0f8bzd3vE_KwDd1ef5LEO5Ol0xGVKbtQ3Jnr2aibHRSxQqGGBUxqcHobhdIy76NhC8Z_JLuiVo7YrEG-4bc4xZTjY5zGx7EjMacNWHnNoV82Y63qNbyHnLUz-HAbcrX8lNbjOAskSL4I-6Lr6AEePSQa-Jrg-2Gw67mGOtugZl9H0CkFcs-39rdcdmy1Y2bf62o0gqUiBd5bhef7VRvTcgYX2TyN188J8UdGuAOZ4bskyNyqGJvh9OlTPZxLqC5dIws2_LHvknHB9r0IjS3uoH6etEPpQ3DnRtW29EHTUWfcnt_Gaj44as2DM6y4N8-Y74TA",
+          "width": 406
+        }
+      ]
+    },
+    {
+      "id": 107383,
+      "message": "مارک استون، خبرنگار اسکای نیوز، در گزارشی تحلیلی به جنگ ایران و آمریکا، شش ماه پس از آغاز آن پرداخته؛ جنگی که ترامپ گفته بود قرار است تنها «چهار تا شش هفته» طول بکشد.\u003cbr/\u003e\u003cbr/\u003eاین گزارش به ازسرگیری حملات، کاهش ذخایر تسلیحاتی آمریکا و فشار بر اقتصاد ایران می‌پردازد و می‌پرسد پیروزی در این جنگ برای واشنگتن دقیقاً چه معنایی دارد؛ در حالی که برای جمهوری اسلامی، «پیروزی» فعلاً به معنای باقی ماندن در جنگ است.",
+      "date": "2026-09-03T19:17:06Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3090,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/DTJR-82DFgYXTjJZ21ld276dJ26BCNFlGhqZhzn3AoZwtuFG3ohCOoVh9yA3XZpl-1JaGkSfJc4pUrM5Ym2DNACN7cd1U_i7iK-puW8nyOBnPhAv4jSx86Mix_vVp6woEJWGrpPz7FgWtmQpEe8c424I2Cw7AU5ehS689rlHdyTvkc-cql2n8ruwkyH67GzRv_Eb_XeCUQPSucPnIQ4ayukTtGvQJzH3dYHf7SHTAOitJGMF0DxEMezQFDnibnf7mSsQ0WXZD_mnR7GNDpJcxjSjznAJwR0e5yoStEduI72n_gDvmIZZ0UI8nKGJnhnLWgpFewmAz8gU1Vae5n4vZQ",
           "width": 406
         }
       ]
