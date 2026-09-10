@@ -12,7 +12,7 @@
       "date": "2026-09-10T10:49:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8570,
+      "views": 10200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +66,7 @@
       "date": "2026-09-10T12:52:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6210,
+      "views": 7860,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -85,7 +85,7 @@
       "date": "2026-09-10T12:53:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6630,
+      "views": 8240,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -104,7 +104,7 @@
       "date": "2026-09-10T13:53:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5250,
+      "views": 7150,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -123,7 +123,7 @@
       "date": "2026-09-10T13:53:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5570,
+      "views": 7870,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -161,7 +161,7 @@
       "date": "2026-09-10T13:55:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6520,
+      "views": 9490,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -180,7 +180,7 @@
       "date": "2026-09-10T14:07:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6460,
+      "views": 10100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -190,6 +190,44 @@
           "type": "video",
           "url": "https://cdn4.telesco.pe/file/Vanzt4WmNyHxT408wxSevXXyMo8SX54wlJeNnQDj_jppkmN8KBvMFn8q5zFSsSyP6kqoJtW2MhzEs0aYsiVB_XHCBqonRx4W3j850ppvTRP8c6CmRdBuO3RsMTAekqG_EC8_pepkU0yEbWtmCVtHW6aJM3YPMpqkTXDQ-XCuR4_UUVXQptol497DMOVXxml54tKnAlV9gukyzBsOJjXiuQ7KCSSQ6lrvrwBBSB7UU-cAVsP2eqbqwhlugaCfX6UL4mxwgJecXysG4S4y8aF74IcVAl6DghbE8fQUtgsT4Y2Ikq6Mktc2ML6JatTSZbykwLnx5B8ksrZW7zP138Ag4g",
           "width": 406
+        }
+      ]
+    },
+    {
+      "id": 107485,
+      "message": "جاویدنام حمیدرضا حسینی‌پور ۲۹ ساله در ۱۸ دی ماه در شیراز با شلیک گلوله نیروهای حکومتی به قتل رسید",
+      "date": "2026-09-10T17:31:53Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6660,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/u2VQTBClhRXFsDLNoYc2qvSVqdYko3kqvwzUH-SkdJx8Ug9A_fyelvPghMBD4j3uoqOcWTXbMKT5nGSz4evqv7VMzVis2tjyekJ3_Bb1LIOSm7kcUdE5bmI38Ax9witvf-3S04eediri31QEfHU68dQ2Cm083MvFf7n9koGH-IjPOJ45ExC1Lyq4EL1v08OFCHJSN0AOpRUI5UrlyqNANXGWH7Mh4tbu4wZuj9Lh7P-nbiMmMyMxmoIm8rVHAqXL7LNko1rMBL27moBhgOoMy93-Bzd1inse9Zw3GeiJPlAqX22HaZC4oCZ9RHzijHw8Qk_ow8LJiTxrqgClnW1TnA",
+          "width": 406
+        }
+      ]
+    },
+    {
+      "id": 107486,
+      "message": "بریتانیا واردات کالا از شهرک‌های اسرائیلی در کرانه باختری را ممنوع می‌کند؛ تصمیمی که بخشی از بسته گسترده‌تر لندن برای محدود کردن فعالیت‌های اقتصادی مرتبط با شهرک‌سازی است. اقدامی با اثر اقتصادی محدود، اما پیام سیاسی مهم؛ تفکیک میان تجارت با اسرائیل و تجارت با شهرک‌های اسرائیلی در سرزمین‌های اشغالی.",
+      "date": "2026-09-10T17:58:08Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 5700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/igl-253QbyP0YroTZkjW9UJDKMHpTArzeCX0o08h4UEC3WTAV1c0UR6VIHF2pi7E3vJCl_cuMGozM4iMj99ZJuZnITyXHz4Q6F7KGqWwe2kO1kJafl4gct6reZwUneUe9bvt5mU9RlfCoTdtIV4fVyhj2N7vQzA5v078wggnYuUPTJi1reRAjrSk2qGNmCg2OmdOp0x3A-GEGtq6fBIwmi6MJCtbu-QSicMrIDDCYzgpa8v9Cvu0mKTW3PN_Xs4_BP1TXgaFHzd1BAqripmZlH9VwwmuswyXO7rpOCtaUAe9ZnBr8hiHgZjaJjMDYIvNU-8cwWZzkpXr4dAiRkucxA",
+          "width": 1280
         }
       ]
     }
