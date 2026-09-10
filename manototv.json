@@ -12,7 +12,7 @@
       "date": "2026-09-10T10:49:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10200,
+      "views": 11000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +66,7 @@
       "date": "2026-09-10T12:52:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7860,
+      "views": 8750,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -85,7 +85,7 @@
       "date": "2026-09-10T12:53:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8240,
+      "views": 9320,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -104,7 +104,7 @@
       "date": "2026-09-10T13:53:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7150,
+      "views": 8140,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -123,7 +123,7 @@
       "date": "2026-09-10T13:53:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7870,
+      "views": 9010,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -161,7 +161,7 @@
       "date": "2026-09-10T13:55:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9490,
+      "views": 10900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -180,7 +180,7 @@
       "date": "2026-09-10T14:07:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10100,
+      "views": 11700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -199,7 +199,7 @@
       "date": "2026-09-10T17:31:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6660,
+      "views": 9240,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -218,7 +218,7 @@
       "date": "2026-09-10T17:58:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5700,
+      "views": 8660,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -228,6 +228,82 @@
           "type": "video",
           "url": "https://cdn4.telesco.pe/file/igl-253QbyP0YroTZkjW9UJDKMHpTArzeCX0o08h4UEC3WTAV1c0UR6VIHF2pi7E3vJCl_cuMGozM4iMj99ZJuZnITyXHz4Q6F7KGqWwe2kO1kJafl4gct6reZwUneUe9bvt5mU9RlfCoTdtIV4fVyhj2N7vQzA5v078wggnYuUPTJi1reRAjrSk2qGNmCg2OmdOp0x3A-GEGtq6fBIwmi6MJCtbu-QSicMrIDDCYzgpa8v9Cvu0mKTW3PN_Xs4_BP1TXgaFHzd1BAqripmZlH9VwwmuswyXO7rpOCtaUAe9ZnBr8hiHgZjaJjMDYIvNU-8cwWZzkpXr4dAiRkucxA",
           "width": 1280
+        }
+      ]
+    },
+    {
+      "id": 107487,
+      "message": "خواهر جاویدنام علی محمدی به یاد چند تن از جاویدنامان دی ماه ۱۴۰۴ شمعی روشن کرد",
+      "date": "2026-09-10T20:56:55Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2730,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/m1jhXBVc9W2pXPmw3w8FT3pUMECV4NfYtBGOHxFPJO2JyyF9l0VopdqmDLNP3_tqmxishZ_bMWZf9HEhNgIqQWnSxz5eRT2Gm-H7HKZQsuBJXP4jAMuLCwo0ny1k_Lrmw_d1Kd6f4CTHWRuzErGT9Um6AQsbBK9eHBVSR0ndTLAWgat5hppqdyA_5IPhnHdpNIDeNUwadY6i_c2HLqk0xRILXRPH72A_DtecKQ-4bstcOCwgOQWqc_UL0xplF82yHR9Z2pmUARDYyVY5UCSJq81jZue724iBI8U87rUNQnhlEqXKJL1A8bTZz6E3IPl3BDyU-n7zf__VpB8SCVU1Vw",
+          "width": 406
+        }
+      ]
+    },
+    {
+      "id": 107488,
+      "message": "جاویدنام کمیل جمشیدی پدر ۳۶ ساله و اهل ملایر، در جریان اعتراضات دی‌ماه ۱۴۰۴ در شهرک اندیشه با شلیک مستقیم گلوله نیروهای حکومتی به قتل رسید",
+      "date": "2026-09-10T20:56:59Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3040,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/jV3D-v2yxu4cJcy5QHOD03AJO3ArK2Sh_AX3Id61ZaIT-8WCB-NPYWPViKa_aFW5Y72cvtGfeDGkiqZ3qKyb8jxqMJ9HRP0KjqwHq6MIwoKCyRhZezlQweQDw4fPS3uJ0zq2vfNeTp84f5MC5Rd95vwBoucmarEUvcB5yVYlfdWn7hQ-dDGXLXVtm7ZmIo5h2KHvkOS1eTkKRAcBbdbPpEDTI8X4oWKHsPXRe71d9Nio3Ymk1y3nMSxzP7nCWaaavv4Sg2ylcWlUuQCeanHZMxF1wDN19z_K9DfHdxLAeUUQR-fFcCYf0E9FL6NcV1k9JrPPb9ygoNMqI10CYvSf6w",
+          "width": 406
+        }
+      ]
+    },
+    {
+      "id": 107489,
+      "message": "فریادهای خواهر جاویدنام امیرمحمد شاه‌کرمی ۱۴ ساله \u003cbr/\u003eاز کشته‌شدگان اعتراضات دی ماه در شهر قدس که در بازداشتگاه با تیر خلاص  به قتل رسید.",
+      "date": "2026-09-10T20:57:04Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2980,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/FG0khm4E0lVzux9nrQ7WlcHfY_UMmZEvp7SSKcROMThkqAfAYQ0XKtdKjW43voOGfm2eTTeYj2gRzN-sTCi9N6C07JMgkoBikBJYqt2wLoBT82VxBNps8LE_WMYAr8g_emWyDcAceMk3h9UGWBEil4LaOx7bbqY4nzYNI-_ifbANcdPgPwRScobLDSk1y-ELXEd29FYIfOy6YfE4y0bgwgsMo3kKp1jxRTE5gq1XGX5_BhEVfwXwSv01tdO2eB19k6gKIhIZXHnDJoxmrEd6FubwctjnUj4suyaMn2MR8s9OERuuszEB555jLTTPOp7DHgg1tq6k9qV87XVHbpGvdw",
+          "width": 406
+        }
+      ]
+    },
+    {
+      "id": 107490,
+      "message": "In January, Iran went dark. The internet was cut, independent reporting was suppressed and foreign journalists were kept out.\u003cbr/\u003e\u003cbr/\u003eWhat happened next was recorded largely by the people who were there.\u003cbr/\u003e\u003cbr/\u003eThis Is Our Story brings together footage filmed across Iran with first-hand accounts from eyewitnesses, survivors and bereaved families. Much of this material reached the outside world only in fragments. The four-part series places those images back into sequence and, where possible, verifies when and where they were recorded.\u003cbr/\u003e\u003cbr/\u003eThe aim is simple: to preserve the evidence, give the footage its context, and create a fuller record of what happened.\u003cbr/\u003e\u003cbr/\u003eWith English subtitles throughout, the series is intended for audiences inside and outside Iran.\u003cbr/\u003e\u003cbr/\u003eمستند «This Is Our Story» با زیرنویس انگلیسی منتشر می‌شود تا جهان صدای مردم ایران را بشنود و ببیند در دی‌ماه چه بر آنان گذشت؛ به‌ویژه صدای کسانی که برای ثبت و رساندن این تصاویر، جان و امنیت خود را به خطر انداختند. بدون شجاعت آنان، بسیاری از وقایع آن روزها هرگز دیده نمی‌شد.\u003cbr/\u003e\u003cbr/\u003eبخش بزرگی از آنچه به جهان رسید، تصاویری پراکنده و اغلب بدون خط زمانی و زمینهٔ کافی بود. این مستند، تصاویر و روایت‌های دست‌اول را در یک روایت پیوسته کنار هم قرار می‌دهد تا مخاطبان غیرفارسی‌زبان نیز بتوانند روند وقایع، ابعاد سرکوب و آنچه مردم تجربه کردند را بهتر درک کنند.\u003cbr/\u003e\u003cbr/\u003eزیرنویس انگلیسی برای این است که زبان، مانعی برای شنیدن این شهادت‌ها نباشد و تصاویری که با چنین هزینه‌ای ثبت و به بیرون از ایران فرستاده شدند، به مخاطبان بیشتری برسند.\u003cbr/\u003e\u003cbr/\u003eمستند چهارقسمتی «This Is Our Story»؛ از هفتم دی تا روزهای پس از هجدهم و نوزدهم دی\u003cbr/\u003e\u003cbr/\u003e۲۶ سپتامبر (۴ مهر)،  در کانال یوتیوب منوتو",
+      "date": "2026-09-10T20:58:03Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3240,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/KeNPbk9mrEgXZVEQobPdNC_XcJ422R1kvK5-DUSegy1hMr6KIOkqk9IhEoSWaWrAdzBRq7bxBofXo-oH-hMN87W2USnEpqY5OCvyTrXK1tVjWVZe5lGAz6WeYuqANUZipM9v1U9QAYHHO09TYby2ZPbepm-U5AkmbWuH2QYHOfDzujnPJvahs2GoZ7_3eiz_5ECmzHISd7Ie2ToWPjWP1zp_VVE_KDtlemVg4zTwLGTyrexv3x32nqrIqVHpoNoWD9qiru5NKWEdGquciaswVWE9DbIlkMXtfUzMF1asfk4h_9H3DkNOZ3eIAz9QvAhuR5_dnCITTI9XZCaaCmhKaQ",
+          "width": 400
         }
       ]
     }
