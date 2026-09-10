@@ -7,30 +7,12 @@
   },
   "posts": [
     {
-      "id": 2577,
-      "message": "وزیر قطع‌ارتباطات در مورد ۸۸ روز قطع سراسری اینترنت و بعد از اون اختلال گسترده در سیستم بانکی کشور خودش‌رو به اون‌راه زده و با سیس عقاب اعلام کرده \u0026#34;آماده انتقال تجربیات سایبری خودمون به کشورهای منطقه هستیم\u0026#34;. \u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
-      "date": "2026-09-03T15:17:25Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 28800,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "IRCF | اینترنت آزاد برای همه",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/NMF3AZAhZzr-Tmxoj726GsEYqeAvDGND9tO2LVHQ09zejFQ2DfamwGGlULdoEAJVcbs9J6Rd7Eq3d_7IxB1EwgtYRpkOOIJfleJ_xE7bKIjS9cFxa2QOvfRI72PDOFXMjswE-10x7qT-ToTikus_P_RIOUJGYQNp5W0YelY5WO1adgqedDJCb5LGCB1IrWNc5G_3M0g1y-kQsC1oQO00MNfRmJyPJC0OV1oNwomHjnzQ_3LpXbaZKC2qKitrDFAhxdJV7mlT8TvQ9TGhiTJyw5XXOls8qTMTv1A89waReuXmtHhxozEsqNvRnvBBSTdIMmGzdNTI8-9y1ABk3SOyNQ.jpg"
-        }
-      ]
-    },
-    {
       "id": 2578,
       "message": "نسخه جدید از هسته متن‌باز و رایگان Aether با تمرکز روی بهبود سرعت و عملکرد منتشر شده و مهمترین تغییر، فیکس شدن مشکل سرعت MASQUE روی HTTP/2 هست، که حالا با اصلاح پنجره Flow Control، مسیر ارسال، فریم‌بندی پکت‌ها و MTU داخلی، باید در شرایط مختلف عملکرد بهتری داشته باشه.\u003cbr/\u003eاز طرف دیگه، محدودیتی که بخاطر بافر دریافت TCP در Netstack روی همه ترنسپورت‌ها وجود داشت برطرف شده و این بافر حالا بزرگتره. ضمن اینکه می‌تونین مقدار بافر دریافت و ارسال رو بصورت دستی تنظیم کنین. البته برای WARP-in-WARP چندین دستور جدید هم اضافه شده، که اجازه میده اندپوینت‌های مختلف رو بصورت دستی مشخص کنین.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9189.png\u0026#39;)\"\u003e\u003cb\u003e👉\u003c/b\u003e\u003c/i\u003e \u003ca href=\"http://github.com/CluvexStudio/Aether/releases\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/CluvexStudio/Aether/releases\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
       "date": "2026-09-05T06:27:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25500,
+      "views": 25600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -60,7 +42,7 @@
       "date": "2026-09-06T03:40:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21000,
+      "views": 21100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -72,7 +54,7 @@
       "date": "2026-09-06T03:47:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21500,
+      "views": 21600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -80,7 +62,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/pSb35R424_uq1vULsCESC1KyjxqUB5T1KmzANxnm2fngiE2csgBmKgY00DtADdEcAkITyOh5QIJOOvmQjPktBxoSegF_Qj7RC0xOvI6BSQdNcxk8fVvEo4ZjCFu-XXrKyCh6-alHLirwPuJ5g_JV1OgymqQn_8P_D1gzzhBHGzlHiT-nB1Cjs7DzywZVZ7Hgjt214kZVGQ6qB1ivaMQuf0ZnQKMLenVQGY8k29v_vCeA0WXY3VvOwsWYX9qp2EeQNFmocpEAC1ZzXRwm7Qv0KEbwYZ4OYEWKzTsobLGCyhQLQutyn6W8avwUH4BNDCkaP80O2WndMKrNXZ6DrBbvcg.jpg"
+          "url": "https://cdn1.telesco.pe/file/BOvJkxihYiPMuV3rBbMz_gE8PG-87zCX8sxwvXciLh1k2WS2MMCjvxhZ4zvfORpq7uQmHSvVETTtihYuxf05pbZQx2Oaufh6BLFV1hPP4tqm3qFk2zLTyYDjeZ04pet5U8X9vrjoJXQKW1ETnw-dbz_z-R9RLtAxl84PCGtEB-3Cf-va-t8nu4EZrlMrTqWpWTTqa3kkN680G3TIzxAGQ87szwcvXdPDkexp6Ix-cvvMGHs8oZUDRknMXGLR8mUXirpWP66ujtpyRYB6negRYBChQUIWUdTzNYPR_IIlTJR14_WPowOYqtoGmm9dKFv-Y3BTTdVnqt_EDaw00e7qHQ.jpg"
         }
       ]
     },
@@ -90,7 +72,7 @@
       "date": "2026-09-06T04:09:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23700,
+      "views": 23900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -98,7 +80,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/gqlPMMj9lBwkGFSIIrphtBj5N6-8viGYfdDxKy7jgO9MV_OtU7nz0DlD-n-mpGCNkCS6yWO_HG8JA7hoJzNJ5h-asxs_KlYCY1vjO0lVHULvyaiBtuUzgraAuEGQyBoiMB6oAGzcXL8t94FyLuOZN0JCkoUgatqtzaVzuXAoXqu92fkA1uRCBFntkYK0pMtLcwM8P34dyhF0qDMUWh3UQtON7-UiHLv68hrYzeIWTYd0HwV0ogjDj_pyHGBNVBkGT0JNcWeHAaI3iOu5ZklyJflkSuDafIXsT3h2qfqb1HdB5I4mUZzgF--UjJ0J1zGbSZm4sSbNdwG4AOrnCaAofg.jpg"
+          "url": "https://cdn1.telesco.pe/file/cVB-giZtFsKIoDt4LaBvaMohk8eOni6sXfyarzU2q0xcnmC0zJ9L0ekU9hdz8sjaeYBlcIdi7ePiq2vsTFF-WEohnvTw1-lPD5F-7eaLHevuPVrr_rUkaEm7eIXZppdnMkInGF4nIWKDD6grxr_sYXSXF2Mp9N_SRTZOXoxug_HNDMbWo6QmZroGE0AGqeT0dq8hmOwKKlWf7wbSuMAfi36fv_xfg2dgtw7Jle4N0-8JxlTbjBNHB67SRi-vqAcI_cESGFsX-adu1h0j34Y6w18iQAsnR_B3aU5ANd23zDQ5Hb2_2GQow0u7rUekwf1byKZGMNuayTwSVVPwfMxMEw.jpg"
         }
       ]
     },
@@ -108,7 +90,7 @@
       "date": "2026-09-07T05:10:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18500,
+      "views": 18600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -116,7 +98,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/Htn6P4pDIZhqqfgFNeWe0P5TOyTzichoqi11gJ0g1ZH9n-pfC8qRJvi6gMLlH_95vWpoHxAKhYICro6fz_EC9fw7xyIcHy2ZLtDZ_EOuyAT1D-HM5wXmPdJWkMdZwOkcPh-5DnvFa3eRwVDzv-m0cx8xN0VH-tX-s33fBeJz9YxDe4ROE5pXr_egKqs31IGnJrIUsLK3scMKVsW4pdpY3i4D6pP6Ow9_4XIo1c9uRzkjvy6zvA5X6bX1XQezPiWG9zUIC5ymX9XvZDO8VT6vuOfzvtIPtTKyx0UohvTuyj0Wznc69_RppgTktTiGXbmh56RhyUTfSO9i0zc5qnuCtw.jpg"
+          "url": "https://cdn1.telesco.pe/file/gGLR2bbGfgr5T7h8cCKfut9EGAnluapaCpyPR3okyUaMVs3fpUs3yzaN524sJSqxQoK4dQu0ndO15no5_iZv_688kaYThxbHIgXaCAcLhvfU2et6CXg2rkbTPI0T38VTf5ABH7oorAre6Y1iCA0M_ovj8VkkzoKr_UjaB8h0C8CB65MkvVmRSZpY2bwIANRmgNgdyBaD5MXZ37WkMPk5ZAc0wI_r4WR7XS8yfl8NBv4DU5XonXnZyPMphdZ0rNyEZZacJSKuA604HvZS59xZ3X-AeIrQoclK8ovHxIda5sQ3nIly3zOfVnlu1hIEwft_RebRCzoKOg_dbeMjBGbVzA.jpg"
         }
       ]
     },
@@ -134,7 +116,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/agAStnagtYVIvs6sHb1gUlqh6qWXcuUfUA-UaYbmVebgImYg6PnS2sgQ4OMBanXotQqXRZsrgNcu1BushcLGbBqAAnk7INaKSuWfoa4EChhBbj2YSc2yLvrrRS5gXXPfPpJUL9m5NwdOpr0c5ypk63hPa-xFEguHWXlf7BaTKFTry30DqUiPx0UYFwUYHnj6Ofigt2CrdQMf7AcBvX2t_N20WWSV0iu31SHnO6wsMkcSm-YsRWKDrFaVNt4IFPOGMmiazdb1k4DMizKa3FMop3SmKg10hhYU4PtoDgPdMRnu5KxNHQkfdfIm3g-NrdmxafcnMNMv6w6pyLI1fADD_A.jpg"
+          "url": "https://cdn1.telesco.pe/file/jabOhcOlOzQFAt_usMkUySwlZ0rFGTRC9KmroTT0VuHLf7Bf5AgDa6ZP30R6LECEZzgFBKmP4L9faDS2oYsFXGGX6fkS7JCW8VNBFHrv5sOjJ_fSJ26IC9knyJHGes8Ftu7LpjnYn16oKylvrXyL4WANV7ltYqYIXGP-qplhuaCpIyE7ngCAK3lOB6hgVgbgHtU_4ljH6zb7pn8KPoW0vT2WQeBt5MZPIOw4aKTdcWRud0f57EWtdNSluOKkulT_8yW9L-fhcxCJR-9eMeDtFnZKqzXU9dpitnL86S6MjB52F3fvGgLyVWIx1PGS3w7LJAmejPkezqH9h4v7RnbodA.jpg"
         }
       ]
     },
@@ -144,7 +126,7 @@
       "date": "2026-09-07T05:32:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20400,
+      "views": 20500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -152,7 +134,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/pNWTNswNq9yUMxDdB72XsTACYKtJeM88G2HMFb-tuo8Ry0xRAR8eRAydrfqxT24w2Z4cJTUtU2o_6mQSKcM6szWR7d1YyTNH920v8Sm4-SRwS502Pqi4PIUqGb1GIidaHkpaLaXdVa3UdQkwIrsQXgN8secVsNeA5j47SymxDst0jcPRnF65SbO_FS9bboh676pjXSywyPdPejIbCv-ivS9-SAVKY46lhCDe4TJVXS8rbHHcBsX6TGheTn_zqAsTVw_l8l8FcouAvgEShgA2ZICwq_-mY5cnj5fuVMknc8qwFzcERBOrIyB0dQnE1tW5_IY5LR-aUCHtq4f9mGGP6w.jpg"
+          "url": "https://cdn1.telesco.pe/file/OyfGUixlJxyXnrPAiJZKSDS4kdlohzHPAc0p4yRwO6QUfZyY-3gRk1LGYIdw2PsTvl6E4oR3qsm2MBNg8ynX7KqfzcgWou0z2zLhNnwxvR0od8r1V9UtjNMUSdVyIS7PTZKDgofRQZLptBhVips52ORUIhL4Q2Ek_ZyZmjbr6O9XJvCsXgkHwm8Xn6DExCc-yd5NUJ9c9Jj8zIh3Op_Uj5xtzVHNxEOcG1YrBVSt-BIs8q5SbqOiA9yYEFdEI6tqfCeDyo79e8F-37mLimYB8Lnk3HQeHQTDchWKJu1__F_AO_XmGgFmdS0FhiQOyf3UI5FXvENvKiGs9Hq3DCx4qg.jpg"
         }
       ]
     },
@@ -162,7 +144,7 @@
       "date": "2026-09-07T05:41:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22000,
+      "views": 22100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -170,7 +152,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/QYrMg5GNw5-WIjSfN4--XCZI9DOpJz4icM1snRX_Xk20Z101pHlglhrvCoJg6JLlfr1znVz6aLuIzLSn_UBPja8JLITAMOhG8GmmHOGODDG95derojoQwiTNpdKAojPJflZ-rOrvnEyJgHXn-1zwn3YNlvgq1uA2JYU0XAnNvMkmXd3BW9nN8uQZ7g2E4vlA5PELGx5NUJLZ37ymDgUs6iL0_vhS6jH4DRl4TdyuMH5SsInRVclAIhUQwIwBrLXEb6MRgueoRVIP07GgSk2oUs2uJAcpkA-6TJ3TtEhbiI7i8DxlsB8gZwBbU4CaQJRn-7BucYZeylrBeliwJ3je6Q.jpg"
+          "url": "https://cdn1.telesco.pe/file/Ig5zjKgaNrkUGsGG0YJh-OxuTEtGUxGKrvIW9CjUU8KLNUGNfwsEHTU4bKo7-MZb8CYMS34LMF0OSQ0fnuMoQOY6ZSetrQl4DmFDPiKcQkGWuUJpb64OmgZZA2lUSbSOIsOPnhNRkmNXWLxY2C3iHOJ9D1PA3We59uBgvUilBFMl45rPLy6XVIMEG-SzB6ICwCLOgwNSKuw5-ezNt9fb2jgtDBpSJXu_YOSfQgOHGWAtEKhJTJLyHrAm7I0hVUw6i9bWCJvAmAh3IiOpa-DdloMhvkD5Jc_UEHtn8jSMYt1-FqIbtvSH5zOt2lWxQg-LOg-AnjpLynAvYIo63wMB8w.jpg"
         }
       ]
     },
@@ -180,7 +162,7 @@
       "date": "2026-09-08T08:11:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18600,
+      "views": 18700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -198,7 +180,7 @@
       "date": "2026-09-08T13:52:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17100,
+      "views": 17200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -216,7 +198,7 @@
       "date": "2026-09-08T14:24:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16600,
+      "views": 16800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -234,7 +216,7 @@
       "date": "2026-09-08T14:41:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15800,
+      "views": 16100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -252,7 +234,7 @@
       "date": "2026-09-08T15:13:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15900,
+      "views": 16100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -270,7 +252,7 @@
       "date": "2026-09-08T15:23:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17100,
+      "views": 17300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -288,7 +270,7 @@
       "date": "2026-09-08T16:40:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17400,
+      "views": 17700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -306,7 +288,7 @@
       "date": "2026-09-09T04:19:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16300,
+      "views": 16900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -314,7 +296,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/okX0GCKhE63Dla5-u5t-Eez4XZou8eVGHg7Uz_NJPJiqu0gElvbWn2KETvvSWgKjKv_kT2Q4EFNZ8UvFm-58yrFWr9NbcUCM_wTMFQ-xAR5CIDpt1HTj1bexDcZSsHrNDHS28Pp_OOanaqpj0Xz5QHKdjT0ER81nxnaPhKNc2Cw83DXfu5KqQ9ObK7qGdGiXqLQ5Czx7T65_5umAGLeAyeMNZgadPtn-wxnZGx5YoYbNWfv5wmAKihvc2i02iSiiO2aLKy9god9d6rbp3Bk6eu2U_MlL3Ot0g8AVuHyUp_1txnJaOpR8aMztmM6v6caxhBLScF6HafGhg812fjzRNg.jpg"
+          "url": "https://cdn1.telesco.pe/file/Y_sVI3EzGiN0kFbc_TwzMoquz13r1PSxl1b02MW-UoAdFBYoNuuJA0XpeMvTvSsRGv4pRaASKxtiVEHHWyHGNl46t-e2bvpVbje5zEDuIdVC62y-mwgpQaGKSeRv60YYJ3LzPfKWYmBfP4iSJfnKJDCyo99n8bCITA0e0TVs9osmC2FkF8S2DpPguKcF6zTRpbOA56pcRpml_JIaEkToQwQKuxFzvlwIyoJTDteMOiF68ZAnR9Zh58ZngsaTTGQ2lUEik2_hfNAbBcKZ44V3utZvEpdflflmZXtqAthmajrEeojjPlcrgxXNNvIAWunUA8-Of_P5dkvQAaF8iEr77Q.jpg"
         }
       ]
     },
@@ -324,7 +306,7 @@
       "date": "2026-09-09T04:27:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16900,
+      "views": 17400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -332,7 +314,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/HaE-44o5k-9z1CQ2E74fclaaStlmvtWRb1u7FghH_tVIeS1KFghLbT8tw-8WHHi2dTXACf0dz1OwWsp3xAyAWi_u52Y4SF_K0VJaMPE4KWTa9M-nF40GanNlrDthsmJ7lf8ISt5fjZrrsHnspmtGAjjnl3escL4GQXviNpF78QLDDy05aCx1G9-wdyFcLmVMZxgOiYAXLBWn4EWyyTdjYLjC2MzKPgRox_y-vg17s26zzgkVVBJyFiu4CuHhjhPWTJ_nduP5_KFXmx3IsoZKDJ1b1fyYfoNxOdwhFFXngrQE7xyEjhzxG1Q2AlGkjCnabsCX9NkgFDpzGsru8YSFhg.jpg"
+          "url": "https://cdn1.telesco.pe/file/scqKTLDdTD5rXk1zXxiuvgWBnNnc6HW-TM9lFYSd6hII7CVk1HU7fhFVu0UsXxws958g7bPIygnBhfO_aLW1gEhCbcofT7MMa8iKWTsxdoxv7WtdjGBcF0cX60YO73p4KFVP1SsC6gJE0F606nXSyVFkKT_knqXq9WqTHtSHxwh3byNVZ1ea8n8cB5guu6cDyr4a8xQk0r7P1pSHQQY2RIm2IZB_Bsm1bmsyOIlr8O_Yjut58YsS_uYOlUwAWJEGFq_0b7ibk2e2vpKtLOhK8TD-bebQ4LRshnFnYaDdlxLLNY8qFviWFS4SaBNSL_f0GUsL7EiFwCB0cXib2GOxbg.jpg"
         }
       ]
     },
@@ -342,7 +324,7 @@
       "date": "2026-09-09T04:44:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 27700,
+      "views": 28800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -350,7 +332,25 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/EI3r9VpMy4HIVlqTxya2ajNhCcttJTPBGimG7poSHKATLwzEXAjaFBD9zNdxpF9tA_QZtVVwQUrK1a769MxgRwYi8ppxjC0-qQhYD8xZHIszm-ZGJP7HFsW-cnAwD2KEDbc8-qwsHd9Yqmm5L6qd5rT4QR3iav5Es0X4W0_O2UnGJhs7Loq7jlq5CiunMhQqZMgtB8kIa4sxDkgPGD8xtCdfe8ST4h2vxyC_gnKbWvXJ0CKRm-cpR07TxRM1VCa5HpueQITuXCucbTYxCrRqt2DNdP5AJEuQOm2naka1ffAVzzOajr8ludwYX4ripGHo500MsKDfd7CcNVORS_lrNA.jpg"
+          "url": "https://cdn1.telesco.pe/file/JFvqQ-q8SD1v-znwHi4A85ZiA-eaqXOJQ6w4KnET9dWvQjDMBD4umrAl4KQKxfC1w9jT1c6lW6leQpwTPdqYpKit53rVpPun-JevG5L_HO6-mbQYt9_E-Foj-HdHInjRq9xJPSzHY0IV6r24rUD5udCUxcalxZblHf0XHp3SjyMOyTCmYST00lDK2VJ8H1usHhhE1vRNNo1aQIJzXd1ocEoueGrxdDrMBHjqfqdJK58XOPoIo-Els9cxuoh8JsYX_jtz-dPLEla6QwRXcEqS9WseoEkjhWRkwwCF_fwPfvzG4VC3o-ldyQ3WdbOOQZGbaDuQgKjyEQrN4XeI0JLcjA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2597,
+      "message": "معاون علمی رئیس‌جمهور گفته \u0026#34;۸۳ درصد رتبه‌های برتر کنکور در ایران مانده‌اند. این موضوع نشان می‌دهد بخش قابل توجهی از استعدادهای برتر کشور در داخل فعالیت می‌کنند\u0026#34;.\u003cbr/\u003e\u003cbr/\u003eالبته نگفته ۸۸ روز اینترنت رو قطع کردیم، هزاران نفر رو در خیابون کشتیم و خیلی از همون‌هایی که کشته یا سرکوب شدن، از استعدادهای برتر همین کشور بودن.\u003cbr/\u003e\u003cbr/\u003eنگفته راه خروج از کشور رو برای خیلی‌ها سخت‌تر و پرهزینه‌تر کردیم، عوارض خروج گذاشتیم، ارزش ریال رو در برابر دلار به پایین‌ترین سطح ممکن رسوندیم و انقدر محدودیت‌های مختلف ایجاد کردیم که بخش قابل توجهی از آدم‌ها اصلاً امکان رفتن پیدا نکنن.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
+      "date": "2026-09-10T04:30:32Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1970,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "IRCF | اینترنت آزاد برای همه",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/QNFow7VZ9IrtkcNFnRr-HohuHh5uiA6-Cfb0Vr9ABRCa_iWWYEyYJW0LVLy1KhKvTcIfEW2hwHEA23U0G21SvQoKyoHcOYiL25Jq4wBZ2MkETwYfGcgIEo8n72Uo8R7x7SNs44PtFr3Gg3gOx_gxEFYSXrHWXR5sy5jpAczBIMqWJ-LypWvLvzI8GpsKmATxW20zPPB5YZMi5sRrGxRUNgWtIrbca8E8Uh3muzfuyKLyJ7sELeuyXU5iS1EM_O1MYazj4jg1zkhRwTPxO76I7cT2tgiWLTmI4_XQvuYcbMTuWq5LmiBTjQ-PC3L6WmcbP6wWwAw-a8f-q9Qiido4Kg.jpg"
         }
       ]
     }
