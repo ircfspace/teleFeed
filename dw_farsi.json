@@ -3,7 +3,7 @@
     "id": 0,
     "title": "DW Persian دویچه‌‌وله فارسی",
     "username": "dw_farsi",
-    "photo_url": "https://cdn4.telesco.pe/file/qE8MfRO5qIUlBcJ8S92UxsZZgQJpWiXDG8TyJ1AiMxNQWLtYwr0IeILxcBP05dP2zN0vzSoYnCRbgmvYqv1HmXIAyRL2S_WWFNTovgKZUudGq88bn2cICx8vaT2nJEpWAaPZ_Vt60AE6kMhD6Yle9jcoHES38ES2e7ikRHxabXv4g0z8gNTgrINdPp31fTkL9PZjXAWo56tWU7-MI_cAM5uJqOzthecaQ0bJlUkBgER3s-eWFrhTWKJMfBaNfBwZzDNWsmjM_5fQzdlZhp35By2F4ebPJOGc4PPXakS3N9C-_ONnWIfCRpW02OoPrdf7qsgOFxoSRqA2nbi-5qoHWg.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/rqk5Kz55fvqo1BR3RIbO4vF9MvmnSkOSXXoCxtLZqDeR9N3MjYc1yFALGEF2J-46Wd5tJhlB4iTGEvdbQUXJ-ZO0GPM7TDfWw0dKWptxdv4ytOEHDYUWFvsCb8fzBIuqrF7bYynyqZdJRfSiPhXlMXqb2SfEt6OmM7VM7C8-g6Dk5bpe9eZH1BUiyTLDNC6gqCy-VINcqh1rWaZ1jPbyYvi0g1_iqBNIGt7y9KVI1LOowsabeEPbHrSlWKagxYGadQUZtL304UGsWzsTdBs028-L1omr0FoLl9heWSYjQy9dPkZcrEWGpn4VZ13Yxo0z78vnY4lLjL2ADNNXSsc7_Q.jpg"
   },
   "posts": [
     {
@@ -12,7 +12,7 @@
       "date": "2026-09-21T14:17:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5840,
+      "views": 6640,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +66,7 @@
       "date": "2026-09-21T14:43:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5790,
+      "views": 6380,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +84,7 @@
       "date": "2026-09-21T15:27:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5340,
+      "views": 6120,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -118,7 +118,7 @@
       "date": "2026-09-21T15:41:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5190,
+      "views": 5810,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -130,7 +130,7 @@
       "date": "2026-09-21T15:59:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5400,
+      "views": 6070,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -148,7 +148,7 @@
       "date": "2026-09-21T16:24:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5560,
+      "views": 6400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -166,7 +166,7 @@
       "date": "2026-09-21T16:51:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5840,
+      "views": 6770,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -184,7 +184,7 @@
       "date": "2026-09-21T17:18:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5930,
+      "views": 6970,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -202,7 +202,7 @@
       "date": "2026-09-21T17:41:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5950,
+      "views": 7110,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -220,7 +220,7 @@
       "date": "2026-09-21T18:54:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5120,
+      "views": 6960,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -238,7 +238,7 @@
       "date": "2026-09-21T19:13:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4750,
+      "views": 6950,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -256,7 +256,7 @@
       "date": "2026-09-21T20:05:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3350,
+      "views": 6600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -266,6 +266,78 @@
           "type": "video",
           "url": "https://cdn4.telesco.pe/file/QN3ohz3k5iQTdwCbTC7ID0uV0IQjlz3-Pnya01WUWnpVIYAtZskWnj84JgZHVj5q2H5bNIAtLvIVBy9xLEbUJZRt3ueQS7xKiCIZeXO-2EwuXVfjxm2yS3KcuMm0gE8nRIbnG7sk4ZAS32ygwd8w-G-Jwa471hzG2Gd7iu3Q63uCzhNpfh-Vzl_SOX0IusERXWyWaCS5XNssbDdjWvGWEIn1ht7JI92Neg7LNRBEKyVAmyUUL4b0Pmk8gMRMwsmocNMur5f4EeSEMWPn4mDXbeSaDm-IvR2PPeu_g9xC8VyX3uEOR4AYcbN-V5eU6Wykd6VBZCjxA4ahVZNbh8kxgw",
           "width": 1080
+        }
+      ]
+    },
+    {
+      "id": 130305,
+      "message": "\u003ca href=\"https://pepurl.com/p/5N0SA?at_medium=Messenger\u0026amp;amp;at_campaign=Telegram\u0026amp;amp;at_channel=DW_Persian\u0026amp;amp;at_dw_language=fa-ir\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B6.png\u0026#39;)\"\u003e\u003cb\u003e🔶\u003c/b\u003e\u003c/i\u003e گروه هفت ایران را به توقف تسلیح و حمایت از حوثی‌ها فراخواند\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eوزیران امور خارجه گروه هفت پس از دیدار در حاشیه مجمع عمومی سازمان ملل با انتشار بیانیه‌ای حوثی‌های یمن  را به پایان حملات فراخوانده و از جمهوری اسلامی خواستند مسلح‌کردن و پشتیبانی از این گروه شبه‌نظامی را متوقف کند.\u003cbr/\u003e\u003cbr/\u003eدر بیانیه مشترک وزیران خارجه کانادا، فرانسه، آلمان، ژاپن، ایتالیا، بریتانیا و ایالات متحده آمده است: «ما از حوثی‌ها می‌خواهیم که تمامی عملیات و حملات نظامی خود را فوری متوقف کنند.» آنان در بیانیه خود تأکید کردند که همه تهدیدها و حمله‌ها به تردد کشتی‌های تجاری باید متوقف شود و مسیر دیپلماسی برای یافتن راه حلی سیاسی از سرگرفته شود.\u003cbr/\u003e\u003cbr/\u003eوزیران خارجه گروه هفت در بیانیه خود همچنین تصریح کردند که تسلیح و حمایت ایران از حوثی‌های یمن ناقض قطعنامه‌های شورای امنیت سازمان ملل متحد است و از این رو باید فوری متوقف شود.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/dw_farsi\" target=\"_blank\"\u003e@dw_farsi\u003c/a\u003e",
+      "date": "2026-09-22T05:45:17Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "DW Persian دویچه‌‌وله فارسی",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/OA8y3jgqrzjLo8cB4XWqLde5r1lUOp9TnKjbKq_bmQetpo8x0vMK2RBjHOE9dWfTPDn39YCOnKGlGPLsk1TFX97gaWHVKcBf78DTNrGFuIbwooj3YR2pJbMFmrqtQQpDuOxfY68JQhwXpRMGOR5WlbRvvpEIbzYKRvYGxLYU38FpNcr_WYBekZoddEF_n2N0ultd-0nd5I2dcQi7TyY2kaza1FfNz1MKd2Fuobx4TX_xWvq4xv0LUtFmFX-KNcfn7-BujKD4JOFTjAhGG9YeRvMFmWybWK5USHG0MZc3LVPrrtntDbX4poLjUKbhHqEHwCzq1ZXGdZWmXxfd2tTy6w.jpg"
+        }
+      ]
+    },
+    {
+      "id": 130306,
+      "message": "\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B6.png\u0026#39;)\"\u003e\u003cb\u003e🔶\u003c/b\u003e\u003c/i\u003e موافقت لندن با درخواست ریاض برای سوخت‌رسانی هوایی دفاعی\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eاندی برنهام، نخست‌وزیر بریتانیا، گفت این کشور با درخواست عربستان سعودی  برای پشتیبانی و انجام عملیات سوخت‌رسانی هوایی دفاعی به‌طور موقت موافقت کرده است.\u003cbr/\u003e\u003cbr/\u003eاو افزود که پس از رایزنی با وس استریتینگ، وزیر دفاع و اد میلیبند، وزیر خارجه و توصیه آنان، به این درخواست پاسخ مثبت داده است.\u003cbr/\u003e\u003cbr/\u003eبرنهام پیش از سفر به نیویورک برای شرکت در نشست مجمع عمومی سازمان ملل متحد در جمع خبرنگاران گفت: «ما از پادشاهی عربستان سعودی درخواستی برای حمایت نظامی دریافت کردیم و من بنا بر توصیه وزیر دفاع و وزیر خارجه، با این درخواست برای سوخت‌رسانی هوایی دفاعی موافقت کردم.»\u003cbr/\u003e\u003cbr/\u003eپشتیبانی نظامی لندن از ریاض در چارچوبی محدود انجام خواهد گرفت و بر سوخت‌رسانی به هواپیماهای عربستان سعودی برای مقابله و دفاع در برابر حملات پهپادی و موشکی حوثی‌های یمن متمرکز خواهد بود.\u003cbr/\u003e\u003cbr/\u003eبه گزارش رسانه‌های خبری این پشتیبانی در طی روزهای آتی آغاز خواهد شد و احتمال چندین هفته طول خواهد کشید.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/dw_farsi\" target=\"_blank\"\u003e@dw_farsi\u003c/a\u003e",
+      "date": "2026-09-22T06:21:55Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1980,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "DW Persian دویچه‌‌وله فارسی",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/YHcUCXHfr0yTe9olJkK4znL2YXMGvDTOqglcmRBf97mCgOQOn1kFmP56GTbjXICWfKIvcdweG0HZNmnN5y4B0OBRH79rjOoTdH7tzR1HdFj0_1Wb7AQC-pCAMO5gt9_b8ivWCOKR3Q6XRWC4uolhx3aA4ELIFBIU-LkFI_UhsteAvGsLKTd1OetijpMvqyEqW4SSK4grmshgZPB_wzUPZSCNBQVvZsUVkiM6DwSH88nwWFK-giz_hq-ymUdJAb1bnqkOqunIWjtnZHAr5BLA9K06rJx2lG0kIsDFef9dw0mVE3je9TG6vTDaKwcQgSa1T4Q_8z0Aj191ZoOob9Y9rA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 130307,
+      "message": "\u003ca href=\"https://pepurl.com/p/5N0Wd?at_medium=Messenger\u0026amp;amp;at_campaign=Telegram\u0026amp;amp;at_channel=DW_Persian\u0026amp;amp;at_dw_language=fa-ir\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B6.png\u0026#39;)\"\u003e\u003cb\u003e🔶\u003c/b\u003e\u003c/i\u003e ممنوعیت ورود هواپیماهای ایرانی به ترکیه، عراق و گرجستان\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eدر پی اعلام وزیر خزانه‌داری آمریکا در مورد ممنوعیت فعالیت شرکت‌های هواپیمایی ایران در سطح جهانی در روزهای آینده، عراق و گرجستان نیز پس از ترکیه اعلام کردند که ورود شرکت‌های هواپیمایی ایران به این کشورها ممنوع خواهد شد.\u003cbr/\u003e\u003cbr/\u003eدو منبع دولتی عراقی روز دوشنبه ۲۱ سپتامبر (۳۰ شهریور) به خبرگزاری فرانسه گفتند که بغداد در پی اعلام وزارت خزانه‌داری ایالات متحده، پروازهای شرکت‌های هواپیمایی ایران را به حالت تعلیق درخواهد آورد.\u003cbr/\u003e\u003cbr/\u003eیک منبع رسمی عراقی به خبرگزاری فرانسه گفت که عراق \u0026#34;ممنوعیت فعالیت شرکت‌های هواپیمایی ایران را طبق تصمیم وزارت خزانه‌داری آمریکا از روز سه‌شنبه (۲۲ سپتامبر) به اجرا خواهد گذاشت.\u0026#34; او افزود، کشورهایی که این تصمیم را به اجرا نمی‌گذارند با ریسک تحریم‌شدن از سوی آمریکا  روبرو هستند.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/dw_farsi\" target=\"_blank\"\u003e@dw_farsi\u003c/a\u003e",
+      "date": "2026-09-22T06:41:08Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1520,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "DW Persian دویچه‌‌وله فارسی",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/vQTqfg9sIdSJ5df1ewAKtUEIQiMn1BEIZxI1v3Uz4I3gD3FZKD3lN8MO0kG-zFsGsl5EvmmFYCejeW5htqzk8do-G1wpFXJk2FGYs9rnGdDlQy-1CJ55rWnDNNVZQTmmPJu-MwumuXUfXVllSqq__a3W_7mNOtau0TG6cDMISY6up18l6ThhhFiW36tYnSHcVmXvfTFpAnHzlamTBsu1lPAOChxZfY-RprWAh7OBNPTdIDOyzdpKzNLIXzLa0GNlcvtk4cmWHbMxu9VMlgnzggRdOsoBqm9klwEfZiJQsoZ5tHofVUH_go9KsrXIye3ztPb5Q9GtUOD6x8PMa3tn7Q.jpg"
+        }
+      ]
+    },
+    {
+      "id": 130308,
+      "message": "\u003ca href=\"https://pepurl.com/p/5N0Xa?at_medium=Messenger\u0026amp;amp;at_campaign=Telegram\u0026amp;amp;at_channel=DW_Persian\u0026amp;amp;at_dw_language=fa-ir\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B6.png\u0026#39;)\"\u003e\u003cb\u003e🔶\u003c/b\u003e\u003c/i\u003e تماس تلفنی عراقچی با گوترش پس از ورود به نیویورک\u003c/b\u003e\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eبه گزارش خبرگزاری فرانسه عباس عراقچی، وزیر خارجه جمهوری اسلامی که به همراه هیأتی دیپلماتیک وارد نیویورک شده است، پس از ورودش با آنتونیو گوترش، دبیرکل سازمان ملل تلفنی گفت‌وگو کرد.\u003cbr/\u003e\u003cbr/\u003eبنا بر این گزارش عراقچی  همچنین در گفت‌وگو با خبرنگاران ایرانی تصریح کرد: «مهم‌ترین هدف ما استفاده از یک تریبون مهم بین‌المللی برای دفاع از مشروعیت، حقوق و منافع مردم ایران است.»\u003cbr/\u003e\u003cbr/\u003eاسماعیل بقایی، سخنگوی وزارت امور خارجه جمهوری اسلامی نیز در پستی در شبکه ایکس ضمن اشاره به ورود عراقچی به نیویورک، از او به عنوان \u0026#34;رئیس هیأت دیپلماتیک ایران\u0026#34; در مجمع عمومی سازمان ملل یاد کرد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/dw_farsi\" target=\"_blank\"\u003e@dw_farsi\u003c/a\u003e",
+      "date": "2026-09-22T07:09:03Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "DW Persian دویچه‌‌وله فارسی",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/N7e-jAl5DnqzvZAQt65_MT16vMo7-QsHxn8vXslMx0t2_VHn3_0t68hwgQgCPr4dBujPh4dIs1V-V6eJ_egLKqcEbT-45uO1l-uokOtCbxX6N9ICnQBMUrglVtmdYip7n8MXcZKo-TplAPZ-jIpJIqb-3qkaYasdestXbmvZVmcA5M-dtTjbGfIE0qhth90SNYnbimDFvGuFzQBPmIff2T_zKxvK0NP7ZgMjDN5zEnM4b0lkqfU8mKUikQWw_kX6hu0Gb4AoZ7r_9wMEk00PV_lT-q8miXoV3upNpzk2S8ALr214Jtt_bqQ8vQwFWL9LLs0ZFYQd8uqyCnj1ff8NIA.jpg"
         }
       ]
     }
