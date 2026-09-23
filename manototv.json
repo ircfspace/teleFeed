@@ -12,7 +12,7 @@
       "date": "2026-09-22T15:01:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9980,
+      "views": 11500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +66,7 @@
       "date": "2026-09-22T17:31:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10100,
+      "views": 13000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +120,7 @@
       "date": "2026-09-22T19:42:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7350,
+      "views": 11300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -130,6 +130,25 @@
           "type": "video",
           "url": "https://cdn4.telesco.pe/file/I1NPdn-J9BGh8bKSXIYECo5YEtFc9b7ML6B56LNqYOx2mk87ZFYSVkc4jvc_gKo_AR_xb6MwZ0uQBRKkb8xl2o2fndlTHWWdT3_Egz8FNOTFbSRBX-U0xs97h1b3FHvLTSHAsFLoJ5yZfwixs8H1-apa6Yv0umKrh4ER757j__0a36a8pmXui_i-1oFhZEqIkG_1Hpks0Bf48bgdjomGzy89cPqVovqj8lKdQyycgQsccfZNnUtZ_mZnPOoU6IVHoa0C7lGDMNpoVZrrR5oNQdAaFx6CUxeNFlliG-uZ9JjMNi2xpt0i2mA9ZDvlPYkvkR4os_EruNNH-tj0ItGXQA",
           "width": 406
+        }
+      ]
+    },
+    {
+      "id": 107817,
+      "message": "دو سال پس از انفجار معدن طبس و جان‌باختن ۵۳ کارگر، گزارش‌ها همچنان از کمبود تجهیزات ایمنی، ضعف نظارت و دشواری نوسازی معادن حکایت دارند. فاجعه‌ای که گزارش مجلس، بی‌توجهی به هشدار کارگران و نارسایی‌های ایمنی را از عوامل آن دانست، بار دیگر این پرسش را پیش می‌کشد: برای جلوگیری از تکرار آن چه اقدام مؤثری شده است؟",
+      "date": "2026-09-23T06:43:54Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1040,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://t.me/ManotoTV/107817",
+          "width": 320
         }
       ]
     }
