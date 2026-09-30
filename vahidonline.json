@@ -12,7 +12,7 @@
       "date": "2026-09-29T14:01:22Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 293000,
+      "views": 298000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -30,7 +30,7 @@
       "date": "2026-09-29T16:06:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 311000,
+      "views": 318000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -48,7 +48,7 @@
       "date": "2026-09-29T16:07:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 330000,
+      "views": 338000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -67,7 +67,7 @@
       "date": "2026-09-29T18:24:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 332000,
+      "views": 342000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -89,7 +89,7 @@
       "date": "2026-09-30T05:41:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 285000,
+      "views": 309000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -107,7 +107,7 @@
       "date": "2026-09-30T15:41:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 158000,
+      "views": 207000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -137,7 +137,7 @@
       "date": "2026-09-30T15:42:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 163000,
+      "views": 208000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -157,10 +157,6 @@
         },
         {
           "type": "video",
-          "url": "https://cdn1.telesco.pe/file/vZHr3gqMt0uiWIKC_UFhPjjgFaeCuOObW1Dsw8dX8mzK5UvwgGYOJ5ZoUcT0VC4UFqvqIcpiwTWfEGZTMbR6sYTHXa_LSmI_E-cf-TjO3cCgD9XD4CNNx4YIAuuiomGCV2aiZVL9a5Ph_PJeYmcl76xgmYACiOcdyNSKOCxeDLZwQNTdgWcoHysSC3BivMU9P8qtrED_-l6Po0_Tbr2wDKO7GPXDi3rIZm7BIDVaN10Dtjt_2zHK6O24ddCv1S0NblCPaOWfJO084qKc9Sd_PzB6RusV9sVt_JwqVomOW1gkJQfx_aq70XUy_w_vCrOKaExVqQ4bvlm1853fPCYQrg"
-        },
-        {
-          "type": "video",
           "url": "https://cdn1.telesco.pe/file/TPRl_bmnYfQpY4ArR2T_uwXq9qf98CcTNREQfNKxU2jCnO82lcozyMGh82M2HCITSn032KaDjsKL3JXfJJpTPcXpOyishIKzgokQ517_jti1_fym5PN0lOZKUCjNeBLMy72Lva_3BeXPsqmfHuxm7MuI3viP9vSZcUXBr1ZImSLgoasHrfqlPOh0spN_LhaSeNRJzP460m71L3Y0IiGhptdgsFmdFT5ic271wVWWyV7HPRZi9ugWlWy-cgVeqTryuvDYnt7O_xTem-qOV-ND39EhFA0vn3QNxSkOYEktwWrsDY9nVD-4uIL5kQ8yLVD5s9PRejEFcJo2aNvtVMP3gA"
         },
         {
@@ -175,7 +171,7 @@
       "date": "2026-09-30T15:42:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 173000,
+      "views": 222000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -193,7 +189,7 @@
       "date": "2026-09-30T17:10:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 134000,
+      "views": 208000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -211,7 +207,7 @@
       "date": "2026-09-30T17:11:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 143000,
+      "views": 230000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -229,7 +225,7 @@
       "date": "2026-09-30T19:18:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 38700,
+      "views": 183000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -239,6 +235,24 @@
           "type": "video",
           "url": "https://cdn1.telesco.pe/file/IzgIa6CRZngzXP7xMVRCmHfEQxxXkw5NeKAUlssyIP8bi2jLI0CSaFTEGmuhCQ22ihSaOfGHEfwmWJVggjwtfAKqtJzdxmekAN1bEEna-VwXFKpzA5oHKAK0Kj94xBHuWY8oMJTc9-o5E8BXqwllCEB3DlZYpPOo-k3YXTpv-REj22TCAjjqrNyNWt7uBq0ea30UuKGiJtZfXyuzL51_vUzmwN9Soo5Z1cFVRVY8XhEJRJwoesoeQ4Kqlo5yymIFjabaECxXRPASfr-z8iG-pPJFr4As6u8PYc8E7iqsmOLXvXvb5J9f-0B60yCWu07WiTlIov1dWkO1staMWda3wQ",
           "width": 540
+        }
+      ]
+    },
+    {
+      "id": 78585,
+      "message": "دونالد ترامپ، در پاسخ به سوال خبرنگاری که از او پرسید اگر رهبران جمهوری اسلامی به گفته او «دیوانه» و «غیرمنطقی» هستند، چگونه می‌خواهید با این افراد توافق کنید؟ رئیس‌جمهوری آمریکا پاسخ داد: «شاید آن‌ها را منفجر کنیم. باید تصمیم بگیریم. منفجرشان کنیم، توافق کنیم، وقتش دارد می‌رسد.»\u003cbr/\u003e@\u003ca href=\"https://t.me/VahidHeadline/324144\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eVahidHeadline\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93A1.png\u0026#39;)\"\u003e\u003cb\u003e📡\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://t.me/VahidOnline\" target=\"_blank\"\u003e@VahidOnline\u003c/a\u003e",
+      "date": "2026-09-30T21:24:56Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 90700,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Vahid Online وحید آنلاین",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/EA68HbVAv4SjXTOYXVt3Q_19JAKjT6rEqEmhJGFCN8aUtpyyPvhs5DUUMtjq1mAMHatSzTQDhF9jkrVMW4M4I9fq1R6nrRJ9VI2QSZ1-_arkqxZGH54q9iW41EeXsNCEr8_qXY8lzZpc7kgTGVvNBxLX-gEX73D5T5u_9OVJMYW3Vsas1Sx7YEGmjTn5y762g9ywCHVwbdh0qWwPWlVzaIoM2Ed92f8D9lD2X8HDja6QRwskKu-PIf2Rz6HUINXpSt_naBnjNEZMO3BrMflsKsDj_X8-cLJB_wG-cJEgyhVANZ-BTtgNntRSsT2rCdh6kkp4SpgkZ-s9kBLkp3Jqzw.jpg"
         }
       ]
     }
