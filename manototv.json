@@ -12,7 +12,7 @@
       "date": "2026-10-08T06:37:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9140,
+      "views": 11200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +66,7 @@
       "date": "2026-10-08T09:58:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6480,
+      "views": 8960,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +120,7 @@
       "date": "2026-10-08T12:01:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4950,
+      "views": 8410,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -139,7 +139,7 @@
       "date": "2026-10-08T12:01:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4980,
+      "views": 8380,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -158,7 +158,7 @@
       "date": "2026-10-08T12:01:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5890,
+      "views": 9690,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -177,7 +177,7 @@
       "date": "2026-10-08T12:01:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5920,
+      "views": 10300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -187,6 +187,82 @@
           "type": "video",
           "url": "https://cdn4.telesco.pe/file/rliwMJUBdlq4mPRc-XIIzg43X_lhevDTb1IsXB4tnh-ZxOh_MNqbq38QiC_M4AUuCJP-q8i3OTd0BC-8quIcKL0pQLynDa_ZuIAKDci0DVxqJdvdhiG2GYtMt8kGzKlh_E8joqAa1wFCN6J-2-wq3GOOPnwKr962t3BVrfwT2SOiuVRJxeRfVyuySM5AOOKCR3XgTwNqV7ep2PEuuuvdvpXkPkIZYod5Zia217IBfiTjyVGyi_OZMjh3QAqiqI-K67onPjE-i5gyPPGajm8WMH2kfxhtIH1klcPq7UFCPD5o0Koq9mjdJqN6-T-HfjV8kZ9SGa07n8H82gtCjEJusA",
           "width": 406
+        }
+      ]
+    },
+    {
+      "id": 108247,
+      "message": "جاویدنام علیرضا امانی، ۲۳ ساله و اهل آب‌پخش شهرستان دشتستان در استان بوشهر، روز ۱۸ دی ۱۴۰۴ در جریان اعتراضات با اصابت گلوله جنگی نیروهای حکومتی جان باخت. پیکر او پس از چند روز پیگیری خانواده تحویل داده شد و در روستای چهاربرج به خاک سپرده شد.",
+      "date": "2026-10-08T15:24:50Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7990,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/v0sPgQBZudsyYkofbRvQhgOphtwvYJPHefekFoRCN_Suntyo2Ehb9OroWpegmyFckTquHdBbpNW7EoEgCGTJlTvvjzKt1IPPTKQ2GX9-YaB0xlb-Y3zA2-vYVlBS8w0SgFHREc_7h2drt9xRGUl3zRYoIeszPQ0hbYqejScpXbv_kVGtYMte7JdI8yWXCzkd4Qt73geVlhbHi6S11q6uf3_AiJnlKT7RkfpYQN-XQsZsBMWoxOzwC6LZq4MUfgVkUWcxMuMV77aPUaXaSYqf5RSYbB3txWP4tPTpTnLDE6b-imHTlYRjmqYAZviJxARSqdNuqj-_iIdFLYm97hFjDw",
+          "width": 406
+        }
+      ]
+    },
+    {
+      "id": 108248,
+      "message": "جاویدنام آرنیکا دباغ، دانش‌آموز ۱۵ ساله اهل گرگان و قهرمان مسابقات کشوری شنا، در جریان اعتراضات دی‌ماه ۱۴۰۴ با شلیک مستقیم نیروهای حکومتی مجروح شد. بر اساس گزارش‌ها، قطع اینترنت و اختلال در ارتباطات مانع تماس به‌موقع با اورژانس شد و او پیش از رسیدن به بیمارستان، بر اثر شدت جراحات جان باخت.",
+      "date": "2026-10-08T15:24:58Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8320,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/r-FtAHDZvgvu1c4QNQSo2Od990oiePwfZeI2CXENtCcuVo49XZtZgCUyXDGFXZpuNQ9soOCXYNRsq5puE0EIIvaGgFdUwwgg0IENT_i28pAZ8rkm_uzOdSSPa_lZqHJWX-qn37D8ya495dSZvrCsdGPRedKRq1tueBGi4nuCC7sqTksxdTUnqmF4ljO2UPlyIzrHrSAxtvJreNsr1fRlE1Oe6A0n_UYCKwycGLqasu-gLMgc0P7Z7QDRo8z_PKJKvUykclbWWx80fjSnYZNNLEySgTJ44AhnhqBOdvF3h6ByLokmYyUK4FQd4XgnaSYJXxyd1Jv673frA5f2yuwlEA",
+          "width": 406
+        }
+      ]
+    },
+    {
+      "id": 108249,
+      "message": "«ما مادران، دادخواه خون فرزندانمان هستیم.» این پیام جمعی از مادران جاویدنامان زنجان است که در کنار یکدیگر یاد فرزندانشان را گرامی داشته‌اند. آن‌ها در متن همراه این ویدیو نوشته‌اند: «دور هم جمع شده‌ایم؛ نه برای آنکه نبودنشان را باور کنیم، نه برای آنکه با خاطراتشان خداحافظی کنیم، بلکه برای آنکه نامشان را زنده نگه داریم.»\u003cbr/\u003eاین مادران خطاب به آمران و عاملان کشته‌شدن فرزندانشان تأکید کرده‌اند: «شما شاید توانستید گلوله شلیک کنید، اما نتوانستید حقیقت را بکشید، نتوانستید نامشان را از حافظه ما و از حافظه مردم پاک کنید.»\u003cbr/\u003eبه یاد جاویدنامان: ایلیا اجاقلو، متین پرویزی، عرشیا براری، محمد مهدی گنجدانش، جاوید رضایی، بیژن حبیبی، حسن فرهمندفر، سمیر احمدی، محمد امین امیری، بهروز آقاجانلو، مهرداد قربانی، ایمان عزیزی، مهدی موسوی، رضا بهگزین و ابولفضل مظفری.",
+      "date": "2026-10-08T16:05:03Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 8260,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/hHzr67NnYEoS7Enem03L4wZMjPdn4VJh7Zt80e9QG44ALdmdxl6RK1NLR027TsjTzfi4ufmpv8Ufh9BhuD8jmCfWsoKMdcUmOI98Z9rZ1nxLbWNEWHM1Qp4OoHGdduhzEr4SFWuC_u5z80bk9z9d-svESxkbFf75AyOnJBVFE143JlEFxC25PHEzGlYdGituSrLMsiN4RozXHKAGhD7IBTMSWsPtSKsZ_Ww7Vn_yhcnOdTB1Elkwxkc19PzTsD2HyPDFliDN0-E6C4hCBUJkSAFyoh7o_M6OUnVLkAWPEF_Y2paNg8KXZMWSDUOSaFpWKDiHbX97a7fDXzlU0UY4yw",
+          "width": 406
+        }
+      ]
+    },
+    {
+      "id": 108250,
+      "message": "در یک جامعه ناراضی، ممکن است میلیون‌ها نفر خواهان تغییر باشند، اما هرکدام منتظر بمانند تا دیگری قدم اول را بردارد. مسئله همیشه کمبود شجاعت نیست؛ گاهی مسئله، اعتماد، هماهنگی و اطمینان از این است که اگر حرکت کنیم، تنها نخواهیم ماند.\u003cbr/\u003e\u003cbr/\u003eدر این اپیزود به مسئله «کنش جمعی» می‌پردازیم؛ اینکه چرا نارضایتی گسترده لزوماً به اقدام جمعی تبدیل نمی‌شود و رهبری و سازمان‌یافتگی چگونه می‌توانند فاصله میان «من شروع می‌کنم» و «من هم می‌آیم» را کمتر کنند.",
+      "date": "2026-10-08T17:38:03Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6580,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://t.me/ManotoTV/108250",
+          "width": 320
         }
       ]
     }
