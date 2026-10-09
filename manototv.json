@@ -3,81 +3,16 @@
     "id": 0,
     "title": "تلویزیون منوتو",
     "username": "ManotoTV",
-    "photo_url": "https://cdn4.telesco.pe/file/I6KVe96XbjO593YyVJqWRybOIpb4JIhh1wrldmjEsxxbuDyhxb9yJZsHVLVLXUR2LzaR0uMUpfESM5IfbGx13eYjWtbGQYSSuMx85NKargJbI62ZHAud1OLmHMNSV6-NmiQIJnwZdGjavaIvKfCEiDAVwFA4rZ__FR82xGCEgCvPxkg531nVctGuwN8E6aDZG7MWjn3nFMW9aVVR60ObY_xhfHrZ4EUJpIrM00CPfNjDx-kYYc2rBSfhjdHbZoJMRy7xC5tY4Jb4bHrjnWsj6DVb44KQJD-XsX7u9Mvuu95wG7L_hcpyoBovrktSfBBc4DZj5tR83x9avp4ThUGSBQ.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/vG0grIZHUygP-7WffUIVIlY35mREyXBOhpQiO_LZGcL_uc8i_LBTmf_UvGSVLhTDgvKwoBvSRWUPMUJGSagHLi_0wnW_QNCF71IFa10gSPDI_5lK84g6zpFuE3wcjkoI0TFCV8Cdpli8nAelwuXsbce4apEg1NJNNNlxy2hqddfFStQCGe9mTr4nkG95mdlLjJ7LXyomYDSxLhPK8-lYsJU_KjduplatxTB0XhJplmmN1NLDJcc4qtr0-J0SQ9bubFk5i5M7MstHRJti0XhY7oBbPbQCWIxP8ikewe260L6aT5uGPEMK5_VKIZNYd0HKDwYXArmNukLx3JufudvfnQ.jpg"
   },
   "posts": [
-    {
-      "id": 108260,
-      "message": "مروری بر مهم‌ترین اخبار و تحولات جمعه ۱۷ مهر ۱۴۰۵.",
-      "date": "2026-10-09T10:13:12Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9670,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "تلویزیون منوتو",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/XsOHtMBFpGLyx83I_LKu7RhXU_JtOOX8q1seejU6BNVbZeH7u8WVFKemgwug2xnCBAgfu1iHbrrV9rssoWbohU8GTB-D6FVP4wSELSYy4y-q5NNEPQTvecu0B0fdL0hAQCaDwgWebNQg90hLdZ7kTmfh_RrGIfjiGN1GwZmcLHcn8-YnFUZc9i-NTgvC7e8UII4_6EdSjbZ9OechxP7QamWyJ_j4etpkWDEL52zEwPO8GGIeMT69xeenZi64ALgMvKVOapr1AC_csq23lhUIzx1xDYU0yea5VUbnwDTjj2CCxW_v7EuIJrQKHIPD46SucZaU5suzRsLp-Y58M-MwPw.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/fwOpB0bGOws56yuvuUuJRGJyWaKo-h-CEhmmcSIvYO_ok6TsUJX0Eaxf5W_IOfIjBsOTDOF2ULIOVwQanka5xkpOtucNkSqC4HPQGcKhHSL5LAHtZ3GVcINaNHXgaYt8tlU75UFA1zg0qN-7UZXN8et8DoSPe0yyUCgpc8sSUWWPW_Q-ip-UcBxhzwRVXwAuBFFF-yrrNdplkff7I2k6CVzqJbjvN4os0VyY7lJEwH5FxDdy2nvJXqswzsi-76_r9y-qXCQiwCsPnqlAjE3WQfvO5J6CQWAkCdqIgsIKYkst1zA6d2bH_e6xo2x62UynfLEUEGOADCTWPB_Dhmd23Q.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/AzLtWhoUrYBxKlP4k-Vn1K9zRpQIoX2HBsqCTOsKw_XZXYahP7bimILaAK8gcclT6EdUnYP7zKWwv-2uxa34rE5iexYp1sd0_r0sxkZQ9yCEfk9OupVk62Ob61AH4OEqrLxME7yi_awC3SdzK74P3LRZMzi36NcMu1omKzIjIKVr1f5MAFHXr-kr0LESS8aS2oaQQITFYCLNHWv3TG856Mg6Vkf6_yUPNj9Wy3PO9cZQ0uDLKmFuJ5wlwgevrUiK15zzp_nPX8KjINo4csSwMnQuX2B9LRxrbAepHafJnsNK821zuqh-Y6c0a45nYzYpvdGlRVmeLVRgr8wyc01OiQ.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/a_-0W0zHHBoTZkci4gRQAeV7aiTfvGC6LRwyAnxMQLQKSxPcg5TBgzeTiHUq90Fjz131pNGioRkFGFU3zMYE5_oKHoie8AIjgVx0MMFfnHHmnMYJviw54OPhI6NNXiBbNi3H1CrL_T6LVDIkTR71yq-eN9QLA1yhLBkUWr7zbgCfFqDqygoOTJaTYTNIQwOTOt7C_uclw_B1Zy0BoXF8nyaGJ8qx-UY31qTiyYe5ufFDY69GYC01Y4UoJWw01SNbS3PHyofe3mx953qF_CvvwswZpHgqvOcLoKuEcJV8aDpOtIfK3tkP1r1JRjW3t_HMwbS3SUWdm7lRGzH3EJ16eg.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ZolP4T5Ut5AWf4t-u3O_ihMI6aOlliJA3q_BY1-5EFQaaDSnKViFgLyHWxfDKqir7_pCY9ntKKZ4SkcRb6HdXGdL9wMeG3HC2VsaDfpQ-mgHg_sSel_OQpJeXji-tDTA8yhQUZpv43iM0Kj-2Kk28xq7E5JI6hDDGqa2mNtWPHXOZZUjaUU6PIBp137u-A2NdZnC-vbLyVmIvGUKdg3kHXQ4SWHySxL_bCR11V_PtIHrW9Az11HwK-cvCXmn6lq2udGHZezx4rA8TU6Db8Hc6wt9N6kDAeSAKyTheQ6GbyVFtISHUUKYfMLgC-t7MkceuMHMbRbDWo7ncZ5reWb6kw.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/qoITiehFGuWPottft65XNq-4s-YfeVmBYEoH4WkExN_-YUPymQShejUjteo-Ngge77Edi6zNrdZU1SBTmqjhESff5AYdoCIImbKz6Ce9nNWFpgo5q8nByBPUo7HsZZ0D_8yBl82Kop9Ah6gEDgD7C3iWI-PqfM62O0wkDZjxW9rzAG6Y1kJs9kVkhmRSrra9je5e-KjKOw2fUzmlKp7dnkq7bRvFPgV7oDpO7QYtBkVEy9gwNt6WwNK7KiSTlx1YoQbwQLlG9caNXxMnxcw-OUP1S1Qj8XbawSQUz_hgGHfHAqZxfNQHfGpLvC0-AgBLXs0Hae_vSORh4OZbKlBssA"
-        },
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/k3PsJmngZcG6EoibfdwnjXCtq4I7j4M3Qf_br2kPdRAqmT73_WXQE4WJwct3ED_BsLUJpcwrdYNKne5kQxDRFML1mp__VOlp_mKnlKI6bLOr_GqhOBSMl8O5r19k0adtUnpOhU5QiPf3nMhhM_NYaQ80ML1y80a27pJGXQXE5EdnQZaxXGCdFjkaKHLoKhXGznHd2rmyr_VXwxI-HIw5vdQIAIbU991eazXTQZ6BhhJpvGO6F_YLysdDF_B0A0wTUFfTEHqFC8vVeuWndmsxsbS7wNKWOxzILKHV2eo_vqgMZ8onLtT0SE5pGDqv4UMDD27zk60WIZKo--Q2YC7tFA"
-        },
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/QsftsoKhihj3PtV8v_FgTGPMf_NP-8eIFpNh7L65k5UpM0KzapKB1p5kvZ5IpqxNQLrYNERzF1vNCDczBft1eK2Lt8JNJLo_tRLBUlNVDKUKJ6yNo7LaktAZ-Y2lV_ciTBs8VDH_Ks6vw20MGbbpNv9xXRpB4uWwAvL7KH1sE0rDdLBadnsk3hFbktilYaLhCkaTPw6TZEKqFwph2lAR6O_n_m0O2j79wVn93GxFO3WFDq9MQqLqqEkI1xGhsCppYiCZKpTRyd9kOUvttYJFDfiPMPof85VicrkCUuKarB2Dl_8dIbkSGrjTyC_Ww1SuFNoyOE8EGJAG4NuGY-dt4g"
-        }
-      ]
-    },
-    {
-      "id": 108268,
-      "message": "«اومدم بنزین بزنم می‌گه کارت‌های بانک قطعه» - گزارشگر",
-      "date": "2026-10-09T12:06:03Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7480,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "تلویزیون منوتو",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/h2zAK9n_wHUdp9oSG966mFeNGs-eJ9U-UaC2Y8gWyQbzEsiBQWLWWDsUHbdwjyyLTh3vj_tdPYzy1ErjM0a8koa2IJXH_A7U5ZTpU8UJaeWvLbwuHE-YyPtYJ9OGnFE5ZXkWF5PW6jRc6TLy31S1fjaCwwcu6pryW6BJ_P2DGtL0-g_4WhNsqlsVoDc4CsbqeSTW2mHmfRSZ5BKkzqHnBZ2HpR1hyqMt_aHnFVVFQxzvPk5zl4Trh4SKRVWUTCBzNYxnLZeE_U0GCgdGi03cdeFWIbUh3Tf0i4sv10h3VwRdqo_KPmPWVAFoIo7Kpn9_pDVEH-M2O529UmQdLLkhrg",
-          "width": 406
-        }
-      ]
-    },
     {
       "id": 108269,
       "message": "گزارشگر منوتو از افزایش بیش از پنج هزار تومانی قیمت نان در عرض چند روز خبر می‌دهد.",
       "date": "2026-10-09T12:06:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8450,
+      "views": 9630,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,7 +31,7 @@
       "date": "2026-10-09T12:06:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8690,
+      "views": 9680,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -115,7 +50,7 @@
       "date": "2026-10-09T14:09:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8050,
+      "views": 9700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -169,7 +104,7 @@
       "date": "2026-10-09T16:06:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5960,
+      "views": 7830,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -188,7 +123,7 @@
       "date": "2026-10-09T16:06:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6820,
+      "views": 8850,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -207,7 +142,7 @@
       "date": "2026-10-09T16:59:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5870,
+      "views": 8600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -226,7 +161,7 @@
       "date": "2026-10-09T18:05:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3680,
+      "views": 7390,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -245,7 +180,7 @@
       "date": "2026-10-09T18:06:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4059,
+      "views": 8470,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -264,7 +199,7 @@
       "date": "2026-10-09T18:06:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4460,
+      "views": 9610,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -273,6 +208,44 @@
         {
           "type": "video",
           "url": "https://cdn4.telesco.pe/file/hWfcaWbH_uc6mIiKEMyMfZut2nwuGm16FspZj98low5yjCHEbPJpi0g81i17gDamPOlPicClPgXmuEI-YzX8j2adNWg-66mDr_Jsh-FyuWxzq2NZ6DfcFjVoTc71EaOcFm0LuiviAxj6qHyR5ODtithcLhXI-jt8ahliEwLtPonhSeH8eqCCaEU74B2wfWsCxYeCCXqSpFD-LnHMOfWrzJ7DUBAp4b3LO93oHuC_VozbNPytNPAIoFJfjw4masjhklujlhEVOU9R0mIinWOINIv4TZOjMzmVHFZzBkazEt-DhryaVectot4BpQ-9BlcNeLRRfxOgXKCJBLxo5mHmLg",
+          "width": 406
+        }
+      ]
+    },
+    {
+      "id": 108288,
+      "message": "مادر جاویدنام ایلیا ولی‌پور اهریجانی با انتشار ویدیویی از فرزندش، متنی با عنوان «لالایی برای قهرمانِ خفته‌ام» نوشته است. او در بخشی از این لالایی می‌گوید:\u003cbr/\u003e«لالا لالا قهرمانم، تو خوابیدی و من بیدارم\u003cbr/\u003eببین مادر چه بی‌تابه، فقط گریه شده کارم\u003cbr/\u003eبخواب ایلیا… بخواب قهرمانِ من…»\u003cbr/\u003e\u003cbr/\u003eجاویدنام ایلیا ولی‌پور اهریجانی، ۱۸ ساله و تک‌فرزند خانواده، شامگاه ۱۸ دی‌ماه در جریان اعتراضات گوهردشت کرج با شلیک گلوله جنگی کشته شد.\u003cbr/\u003eبنا بر روایت ارائه‌شده، ایلیا ابتدا با اصابت ساچمه به قفسه سینه مجروح شد. دوستانش از او خواستند که به مراکز درمانی یا خانه برود، اما نپذیرفت و در خیابان ماند. او در محدوده میان خیابان‌های هشتم و نهم گوهردشت، از پشت هدف دو گلوله جنگی قرار گرفت؛ گلوله‌هایی که به پهلو و قلبش اصابت کردند و جانش را گرفتند.",
+      "date": "2026-10-09T20:56:08Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4019,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/QSeo7mTqqvMzzQ-C2wOK0c7WvmZRsnegWGQdhamMZoCLEzngiN5egepVhONFFiWgcjag47JV2uSELEI_KZ589sI6q-Mn44wRHEiuGXtCXB2jvf8OMLOEhg97waYWvPVNY0R6teG71ZpDbn7qqBo3ZOyRSt87YWihQiSu6ILWVcBet9uD-UWMPSwUoE2TRtP3zuL0LzoJtlbNvRhXwz_PanjYXSjmGULcz77kG3_M7MR8KssFuvbVAUn6-IVifHjvgT_HVZSPSJhi8Mlrw9KChzt4JESxNsK9T5-2cm2G8_u7X9RfkzSsuBcpTMny2Y5H7-PQ2eFuR3ZsHzKPLZ5UDQ",
+          "width": 406
+        }
+      ]
+    },
+    {
+      "id": 108289,
+      "message": "جاویدنام فاطمه سلطانی، ۳۲ ساله، اهل روستای فرطان از توابع شهرستان اسفراین، روز ۱۸ دی ۱۴۰۴ در جریان اعتراضات اسفراین با شلیک مستقیم گلوله جنگی نیروهای حکومتی کشته شد. فاطمه مادر دو فرزند خردسال، گیسوی شش‌ساله و راستین بود.\u003cbr/\u003eهمسر جاویدنام فاطمه سلطانی با انتشار ویدیویی از خود و دو فرزندشان، گیسو و راستین، نوشته است:\u003cbr/\u003e«ادامه می‌دم برای گیسو و راستین؛\u003cbr/\u003eکه شادی‌شون بمونه و انگیزه‌شون هیچ‌وقت کم نشه.\u003cbr/\u003eفاطمه نیست، اما من نمی‌ذارم غیبتِ مادرشون، لبخندشون رو ازشون بگیره.»",
+      "date": "2026-10-09T20:56:16Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4380,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/Qlf5RCebGstV7qd3gzZMh7F8s4wnjT-mvVVW_qxm0cEm4-aX5Zc4F1gB3Lhn887uwIPBCAiMPxjVW22Cs9yH31ThUzb_dEhoT_94BoCMCDh3ZohU23uVPaYi5CpuBLI2KgLJD5rZsDw7Pnqg4kKGR2IxB1ljkW31gcVUQJ9ctHwNagB55Eom6frWmQW2ed5QIJUaVJBOaVWEfIJHdegiJ6QCcDyAcyWmH-yWOzNEz9FE01B3WoJ47dLGh6JZ9pUa97d4Ioqg-TaymxZnTBnfc72SWHeXu7-_tbDcK3N0yQYoJXKtAZBvqHpwILoSURXHq5WBjw5uxGgm1NH4Vxz7yA",
           "width": 406
         }
       ]
