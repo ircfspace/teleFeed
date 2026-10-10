@@ -7,24 +7,6 @@
   },
   "posts": [
     {
-      "id": 1541,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E284B9.png\u0026#39;)\"\u003e\u003cb\u003eℹ️\u003c/b\u003e\u003c/i\u003e Update: Connectivity is gradually returning to web host and domain registrar \u003ca href=\"?q=%23Namecheap\"\u003e#Namecheap\u003c/a\u003e after a multi-hour platform-wide outage. Status updates point to ongoing overheating issues amid a power outage at the phoenixNAP data center that has impacted multiple hosting providers.",
-      "date": "2026-08-13T22:24:49Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29000,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "NetBlocks",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/t2t0SrljLUyzv1cijmM-z5f0xMBnG-6MoRogv7BRCERzXSqsUpL7bcdYC0LE2e-qshth3EOtODqNag2tzgPcwC7DzCHatyeL1SG7l_pLOtDmRVbRWZK0SYXIrovqMAO0Ah_MJLmgUMennXudluoPyuwC5jZxJVbxUGEWuVHnaNg3Bx-0s5gGkDYzQQKFO6h5ajX4jjSZWPJ_tWlbLqDImdUyD9K95Mm2ArUkxa1P4MihdvdhVTNexXhuchODjykDeRUeiwOOPDRUaDHHjca9jUWB_4-cJdF5HP84s0ypc-KqVTXOWulv-xCml9eadaUno_D4Zi8lqL7X9NqeyvojEA.jpg"
-        }
-      ]
-    },
-    {
       "id": 1542,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e Confirmed: Live metrics show a significant decline in internet connectivity in parts of \u003ca href=\"?q=%23Hawaii\"\u003e#Hawaii\u003c/a\u003e including Hilo as Hurricane Lala batters the Big Island, corresponding to widespread power outages due to torrential rains and a heavy storm surge.",
       "date": "2026-08-16T08:06:02Z",
@@ -48,7 +30,7 @@
       "date": "2026-08-16T20:09:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 37300,
+      "views": 37400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +66,7 @@
       "date": "2026-08-27T23:45:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 37200,
+      "views": 37300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +102,7 @@
       "date": "2026-09-14T03:44:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24800,
+      "views": 24900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,7 +120,7 @@
       "date": "2026-09-18T20:55:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23800,
+      "views": 24000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -156,7 +138,7 @@
       "date": "2026-09-18T21:22:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21900,
+      "views": 22100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -174,7 +156,7 @@
       "date": "2026-09-19T02:54:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21800,
+      "views": 21900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -228,7 +210,7 @@
       "date": "2026-09-25T19:03:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16600,
+      "views": 16700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -246,7 +228,7 @@
       "date": "2026-09-26T11:13:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17400,
+      "views": 17600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -264,7 +246,7 @@
       "date": "2026-09-27T16:16:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18300,
+      "views": 18400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -282,7 +264,7 @@
       "date": "2026-09-27T23:13:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18400,
+      "views": 18600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -300,7 +282,7 @@
       "date": "2026-09-30T17:46:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16400,
+      "views": 16600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -318,7 +300,7 @@
       "date": "2026-10-07T17:35:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9840,
+      "views": 10100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -336,7 +318,7 @@
       "date": "2026-10-08T01:25:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20600,
+      "views": 21000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -344,7 +326,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/K46UxXbG3Pwf1JF5FVRX2C_-gfkOLiVwqoVPo_9bgqjB5atPz661XwSIZ1T4ox6Gek3rvAPFVMK7iYaDLNK6sr2TrvaSjI7IB_L6kBP333u4C5JeKmbB7_nXe2vnL_RB9GUkMRD99FIgUOHMSpP2JrnVesXlnF5-cvBBwShlPCU7AbZLIR6GWWw8oeuvay4q_s4bZcC1OhJkS3l0wy2f-GhddDE-DkUVKqjtRlaXYwsuYIINVJLlnSKRHBVcddMvt8aOT_51KDDD-jLYLy_NE9ALAD1sX5dKpHDt0I-bYi9V3a3tXsUMp3wSLtbWHvgl_EGblRd5N7sZhQGLp6TMUQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/g4oYUleBHTm5K8Bb7h3wSGNN_T0IfC0yg-su-sNx23V1S7jDwB1sbvxgnhA6F5DEhHzJCuIhtUAo-dTx-TCdotsv09I9kSTDPBZ937AfiDZYMxKTjNzThBaG53bLx3lh1RFPYz4qjrRQBqBrJKV6zNRncHebHXX8NOapIoUJootwu54oHUziotyPYWEFpfFfLgjPbHTWZ6tKqJf39UvAFygQPfwtbYJf7bhbvfZpCixso7aHB32avKtjwOQmRG-sNEnDG1jj6T12DyBjTFimfU5OhCO-tgFVDRUbw5Uwyz1a2cjS6XhRR5pun1K_6_aiFnxxsxWfaflSnYQnrmwZDA.jpg"
         }
       ]
     },
@@ -354,7 +336,7 @@
       "date": "2026-10-09T19:05:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7070,
+      "views": 8220,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -363,6 +345,24 @@
         {
           "type": "photo",
           "url": "https://cdn4.telesco.pe/file/aW9PjSY9E4J-s2Pk9esMYDTxHoCusD6oVxnIUseY6hq8G9sHOoXich7ApZE99u9rgRVYH5W0UO64Ak8qo671bnEfHAAa-8CV9o7UO5-7mgLd5Is5d_cpRd__BzluEqrFSLrnAB3mrTVlpJuzfY0e2cxbBHqErYPWYmEah_RRYw83FxGTwg7nix-Z8G9cdjjyQXzJkk0aXoueJ9Hc8N9X-9mNaIc3NI5daOEiwxZoGhxYip3BNCJZH0dnQiWANXDErj01M8-kBFH5SIt_USao873DBSQMcci7GJeSJh_CKiWGsa5VWMycwvAaNo9Ddl4cBfKU9cU4hMGertaSyc63tw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 1561,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e Confirmed: Metrics show a decline in internet connectivity in parts of Florida as Category 3 Hurricane \u003ca href=\"?q=%23Isaias\"\u003e#Isaias\u003c/a\u003e nears landfall; the incident corresponds to reports of heavy winds and downed lines, leaving hundreds of thousands without power and telecoms \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8C80.png\u0026#39;)\"\u003e\u003cb\u003e🌀\u003c/b\u003e\u003c/i\u003e",
+      "date": "2026-10-10T01:45:53Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 802,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "NetBlocks",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/UozUoiN8SEYrr9UO0uC4thyRgLMOtyMdpnCvxU83i4s39r4SGhiH8ITrrs80YP6hv-Vc2QRLC-uoyYkesPorFMtz9zdKZ5NFnpi2bghZj9xHg7_c2X31qsaZICXb7GvONVwYvEO99qjXoAsOndShN2DnCbEf37g97T96XXE0jQD__dr1O9PtmSYaDH6faJsj0g4_BvBr4IaCglQe8AgBQCvDotYOgFp6As31IUNo9Ofl9msZGK3DuV-0wcOP92MtlutkDMEFBZqYOsqlN0JeRQ4gaDdpZ-Z-Ou2Ejfl5tIP-38kM_Z7QJMuwmQNgfws0o35IdwQfz70oWP7HSyk6HQ.jpg"
         }
       ]
     }
