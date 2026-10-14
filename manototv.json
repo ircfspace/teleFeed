@@ -7,180 +7,12 @@
   },
   "posts": [
     {
-      "id": 108375,
-      "message": "ایران از نگاه جهان: سه‌شنبه ۲۱ مهر ۱۴۰۵",
-      "date": "2026-10-13T09:58:26Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8090,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "تلویزیون منوتو",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Oo6--1fb01QGflNBy3WnkFmPanszJLscKkLHd48RtVvQWriQZJe0gu5dLnDh3ldZn_m5_W_6WoUpEMeqzpqdB-Us2w_lTSOLgM8FJyygcgITCXdXR63LRwuEPCqwsF9VSLHPfLpJ8wHQAfgr_Ug6zyFpxSFJlg5dUil8TnJ3oo2bgHJpqU0uCH1JfhmeGgPM8JLSaZa-pdJNpiyHQb-ks0Sz8SkLqv9wWYSx7U9veF_AbX13bYfrO8m3oKXnXTTa7kejSf2nVZsUc_FJ_Jd5pPfaqcLnQLYCC56ZRz47pYuPUQxMDSgiYzWyCNlEg4Uo8g3mfZQ6zY-ObzW0xgiNRw.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/uBeuMWAqLdWUr2h9xIrKrsABd_F0IaoMIwTKna0mhn02stDaaptsMV5odXxv44v9Sf7qUMm1L-p5-YuY42GmbPLNHYZzlb2MNduYy61TeXJx2WqYVjWLYVys6s2UOh6RCnuyLFBaAsh6U2HpfAIaJ9xdMOmVY_itl6mByoYoi9asfgmBAUdIEA-YBfjMIminPH2kJEOM-FUXttHEl__fZHvrpPEyW6pqT_Rd2NK05Q_7LvvXoj6oDxSH7z-FGa_YmC-QW27EBtpI8mhm4s0vamPICdPV9nDAYh4vPWIwaILyH2MIu8HwHMQE-AOG7zPOvCnqRfdUOb2sUe8Jrun6gg.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/rRrYjKhorDiDrnllZY9_tCsX5LjwzwEl7ZYQ8s6mL3mgvz1AHiuLbsoLpzZzEPvmulZPwOA9tuy3bYZgMpZcTJnFguWfPJPqUX7oVdPAs9wZGr7OWsooQDYZUYGMwxWnN8YnP0YG92TYvX-xjjBV8EHlrelKI_-G28GfZqtEAC3iDdzY20psCU1rXhiywafzmtjPHv3O3MvfDuCgdHUg7Mvlvn1aAGXKEaaX4PKafpJVu2V4Efe8S_hBzXG6awz9zpZ9noBbDVhX--m6cyeDCRLBCMPIbcfeBKIXyBZzErLWm4x1W1MfVl3VA4m-kSwPIxWcmX0CqRoz0dD6tsj5iA.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/cIId0jpBMPkuGWjKCdnqPJ_S_WWQvHaqz2XdAjHXl46n6EO6f3TgmYNkvR0qMDFrQko3r6wAr942aUStGOGzqhuuBT7gnwiDimkKCKUxkc2HhyjNNJ7wXhDlhhfOTz0J8LXueEp8HnenxjRg1CY1rdBhxVXJQvjbsuetCKXRZ1utICc71Az8TbaSlZI45iN2fdPgZJjsD7ft0C4ejevhlCQN30voKb1s0pG2tw5Dx8gAU9_w8jvldIbWuf-s80odrRAX40NOtNhIf-khB1JJ42lw-3VGJPHnrNF7AgmDiMR7w-hITdw4dbhPN-qrqjMglmjws5iweVGy0YKXyLbEXg.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/qLqXClnbingtnHPQlQ_APWVDeqMJ89zWXBPjCyObDjizfbcmti3Fo36zuPxhK0mxkhs1YPutSz8cicp2_W_cQXwVcj--KGNkPQKYA6rbLq4SJI2qDg8mjkTH3LI26KgZceLb8V5zqn_vujwIfhu7jl_s6hZOWhSNpfQEUXB-Vv8HU52EK16wuLji2f1qXEMVMKZixJsv3Meyu8bZSdyTh7YMP-W6dtk0YPkgSyKfn2b1H1U4Si4G2zo3HJ2ZP763BNAAaTiWHCnbNeayfco9IWkL6KD7uXBwkuhOfaXs2ZxPPsK6GSo-juS6HTQr2VFT9n2cr5ExFMuHinVkUJknZQ.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/R3VlCumhjyObFx9ryY2DpSdbSxd7A--e7z1eJLx-ViQXqAyJD0nVT0y6z-whyVT5-63HcSRJ6Q5TMFuEjhzBjYdqlkB5B_SZWvRWg759lyiuHg4NHelxaE905Gh9v7mg8leV0A4xkZMwcikWhvXI2F6VrkRvM4M-EobkLOjoiXLhFDdy5OJAaeSDvLHRI4gkMpvKjTupU9iyhj5S029sKCiydiqyMPv6_cIGd-QJa6Of4Z7IhrCxEeaSG9C0_Amn0n32iBUKpEPabRmsK6oyPBQlofglntBrY9kukC0JNrZmOlE9K3e4ZTfUsjhxybo0sE5ouK795ISQJEkzTG0PfQ.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/cRnjGv1ZVcbJo6nc7Wg9nLWFBMOCaoUqyjPcQE83LA_g3B1rlhBDm5c8NW0PDqOMVkSe4jNcqylzRsNVYQ3sRmGMDEXjSqtF72VBOlKZSPZFSTCZ546dwvsSUAiae2Q_013nr_eOkI6JJwe7saA-TUQfb0gyCXLOce-hhTVmpXU8KbBYMzb4KqKcfY7vjbbsOvD-rYvZRcsTyOo95m_wwWJDQbkAOat2GSy-Q9_sYVcLVTD3vtlj3DGiyhJ3S9u4Xiq5YOpfh96p5fimmRZYtlsd6xbej1Y2K9m_LDDUA5JQnzgx-XcJLnhmyyJT7TbzAu2yweItRJpSk-33VQlr5g.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/MRPq24DcQq_5aAuN062H6vFbofplNqGSnkqi0ZOAOlhMk9fICd3zmny6oWqoXe8jlHAGQvwtEMTnK2ppvLgekQMiv7kRK5O-igyrNhHxNt6fTsRfYKyZz8qSTQ59lLryG9zCqGQdDAt3g2TUIisf7doSWniaOtyl28YMONzSEsodw20IpKOL5ISdEBarAGlDg_I2JTjzy6YC9aCkEF4mTjWZC-WhZ3Br43enTfAgGMdvzQtBKrAofO3AjFwiA82fak06NYJIQUvT1EPtXWR3EcMIp2IRM_s73oCcDQOvA6lOxIA5c1KdBM7g3ScUXA05QyKa0vd0RZBfoqP25CGYMw.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/CUe4p962hRRh8xixuIY2yatWxUiXNy_Zv15iQ6UMMGbAV58Hwa8pqLG_adTwQfw5Oy2DCmRSncAGnExx6hpRxnHO8AqTCxgLDINu7zIN36h8-XB9ZBNe44iBXcY80HLsOUyGbfvw7h7m1AHUzKM6gVFOvukBfF5op3adNTKAAYkAXtDXoXLW6G1ca56CUF2R1A8gwG_81RoEI6fFQaJw0_-O2S2cueCmQmO8a975CLnNsEmBfzCnR0iUbRjpDoxpOB2Mesnf21zd-Y04s19gFJ-gHuFVWNhBx0Y2tOdMu7k_NY0eyDkf-bw2rkVifkL2suIoCy8RKtvpkDUEz517sg"
-        },
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/IX31urHccaDGzYAHgrRs2WbLq2zgpGWFBFphDcxhikx6KD9RsPBTI-WpgEX4qzJCEXaD7Q7ji6ylxYJrwlWY95KZam8lJ7CGuxUmkYVWtxOHoqJJwBbMKyVTlkhqT0F-EMO_Uvp6F7RZrIWEaplGK_QdsCeDjStehxfI6c6o9kVLFf5LM4i62cQt-kfrGSraPd04GMU3bE9LO_cGxcUu9bhuAGWWUPt5y8oZS2vYHO01_Ow8ylsJsoj4ZhmPdc7Oemcr_vxLiae-LoCzKn1hGD9SBtNYzeVP1f_Nf8lT3kSCLi66W0AlcU7m-Is6gWlsmH7gAv__TtEKT3pdQ8A2Kw"
-        }
-      ]
-    },
-    {
-      "id": 108385,
-      "message": "جاویدنام محمدامین خلاصه‌شعار، ۲۳ ساله، زادهٔ منجیل و ساکن فردیس کرج، شامگاه ۱۸ دی ۱۴۰۴ در جریان اعتراضات سراسری در فردیس، با شلیک مستقیم مأموران جان باخت.\u003cbr/\u003eمحمدامین پیک موتوری بود و پارکور کار می‌کرد. دیپلم کامپیوتر داشت، به بازی‌های کامپیوتری علاقه‌مند بود و آرزو داشت آتش‌نشان شود.\u003cbr/\u003eمادرش پس از جان‌باختن محمدامین، فرزند دیگرش ارسلان را نیز از دست داد؛ مادری که به سوگ دو پسرش نشست. پیکر این دو برادر در آرامستان بهشت‌زهرای منجیل به خاک سپرده شد.",
-      "date": "2026-10-13T10:58:46Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6920,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "تلویزیون منوتو",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/ZHsShS3QVnFeeV7NbXYEIEGWjOGIJTqu1ji6-7hoRuyfz-TWuOf-a8S-MpqpIGzso5qKG-KzbDbzdRjK8t_2E7dMMxdbjpjzylhtioZQODFlfssPh7Z-pZ1uxrkmYhM5IsUhh5vGnDamZC7zG_2uRgtdhmB7HtGI8wc8QVB7a3AHeZJ-3bdpnj-nuaudQW6i3FVG6f9McbShhUSGLOTu2-zVOpjp5L9Y7qdtgIBCKpi4uFGW1_rNpcU-sFns3ke6rqsh-QDGcpBvBWta1zoWhfOsko-N9ezoRFJvpU8vgam3PuFS5ZhJhPguD0ssX7kPj2gXPkFxGd7l19B0Ht8Djg",
-          "width": 406
-        }
-      ]
-    },
-    {
-      "id": 108386,
-      "message": "جاویدنام امیرمحمد حاتمی، ۱۸ ساله، اهل چغاخور در استان چهارمحال‌وبختیاری و ساکن شاهین‌شهر اصفهان، مکانیک بود و با کارش به تأمین هزینه‌های خانواده کمک می‌کرد. هزینهٔ دانشگاه خواهرش را می‌پرداخت و تکیه‌گاه مادر و خواهرش بود.\u003cbr/\u003eامیرمحمد شب ۱۹ دی‌ماه ۱۴۰۴ در جریان اعتراضات مردمی، از ناحیهٔ پا هدف گلوله قرار گرفت و بازداشت شد. پس از آن، خانواده‌اش ۲۱ روز در جست‌وجوی او بودند. سرانجام پس از ۲۱ روز بی‌خبری، پیکر امیرمحمد به خانواده تحویل داده شد. هنگام شناسایی، آثار جراحت‌های متعدد بر پیکرش دیده می‌شد؛ دست‌هایش شکسته بود و چشم راست، گوش و سمت راست سرش به‌شدت آسیب دیده بود.\u003cbr/\u003eامیرمحمد در میان اطرافیانش به خوش‌اخلاقی و مهربانی شناخته می‌شد. از کودکان کار خرید می‌کرد تا کمکی به درآمدشان باشد.\u003cbr/\u003eپیکر او در آرامستان چغاخور در استان چهارمحال‌وبختیاری به خاک سپرده شد.",
-      "date": "2026-10-13T10:58:50Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "تلویزیون منوتو",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/vmynrQ1vfUHIIqzRkfGm-glo2EIAIgt3GPD29bVGj2ub7ckekYOp9pgTRV0E5xGKJmIYn1zBztN_TUT5Lwjo9Y_hLtrFTEMZh5_6v55e7VqbLN4WfTxehY1OVMAYB9LpYKeChKlZ-q39jDD9NNu7fRKwAcdfDWjga5ytskulLNVYbutS_yjLZ0SNBne142RmEwVjXuaqFd-rwLXeeQhKI0QmWD2-HwdwPpLq-kWgFEi4egf4Asr21z4h8EUV12QrfYmh75u2QqxnFhPnLgbdSsWgZJ3XoPuGD1h8T30nlr5eEvfIZxtOTS99cpmBJsExPY4cWun79M9UO910C9bjKg",
-          "width": 406
-        }
-      ]
-    },
-    {
-      "id": 108387,
-      "message": "جاویدنام مهدی بقایی، اهل اصفهان، ورزشکار و مربی موی‌تای بود و به‌عنوان پیک موتوری نیز کار می‌کرد. بنا بر روایت نزدیکانش، حدود ۲۰ شاگرد نوجوان داشت و به خوش‌اخلاقی و دلسوزی شناخته می‌شد.\u003cbr/\u003eمهدی شامگاه ۱۹ دی‌ماه ۱۴۰۴، در جریان اعتراضات مردمی در محدودهٔ خیابان هشت‌بهشت اصفهان، هدف شلیک دو گلولهٔ جنگی نیروهای حکومتی قرار گرفت. بر اساس روایت‌های منتشرشده، یکی از گلوله‌ها به نخاعش آسیب زد و او را از حرکت انداخت.\u003cbr/\u003eاو پس از مدتی تحمل درد و جراحت، در بهمن‌ماه جان باخت؛ مربی جوانی که برای نوجوانان شهرش وقت می‌گذاشت و با دلسوزی در کنارشان بود.",
-      "date": "2026-10-13T10:58:57Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9880,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "تلویزیون منوتو",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/oxTQQ8ndjLUSluHndeUs9z3uKE9Hx6oU-RxXp3r99IMBMqk-_4D60z3kNOoUkRCG-71qAN2kZeY-UN9XLc_NgqrJDVHZ606H3zpPmkHh5jVVYmCyodWcDUEE26vAd5CUyu-CXgSFZTKdMfRNYqQQqE4wlhjGE4DsqjjO4IdMrAvto0MFStYBUxlIq8F_EPQoH9FPwdQoG0BaCS6mqBHkCUjYgw7LO52G1V7tNkY7GA5R64DoCfLfS6I7OHC8ONh6T4m-KdC8wCp7WhF4rD-6bG6MbVlieO2mJgWAe-T1xyrwBIgDp0N6WROQhGlL0NiEKnqIL6wlP-iBQ1UrUJ_e-w",
-          "width": 406
-        }
-      ]
-    },
-    {
-      "id": 108388,
-      "message": "جاویدنام ابوالقاسم بابایی، ۴۴ ساله، اهل کنگاور و ساکن وحیدیهٔ شهریار، رانندهٔ تاکسی و پدر دو دختر و یک پسر با سن‌های ۴، ۱۱ و ۱۵ سال بود.\u003cbr/\u003eاو شامگاه ۲۰ دی‌ماه ۱۴۰۴، در جریان اعتراضات در خیابان جوقین وحیدیه، گرفتار نیروهای بسیجی و لباس‌شخصی شد. نیروهای حکومتی ابتدا او را با ضربات شدید باتوم مورد ضرب‌وشتم قرار دادند و سپس به قفسهٔ سینه و شکمش ساچمه شلیک کردند. ابوالقاسم بر اثر شدت جراحات جان باخت.\u003cbr/\u003eاو سال‌ها در وحیدیه زندگی و کار می‌کرد و به حضور فعال در اعتراضات شناخته می‌شد. ابوالقاسم از بستگان نزدیک جاویدنام عرفان خزایی، از جان‌باختگان خیزش ۱۴۰۱، بود.",
-      "date": "2026-10-13T12:58:52Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9370,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "تلویزیون منوتو",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/D-KChzzUYMDPORcxpij5osqWXl1lc3gKxk13-iHzx5LphZKzwd6Vkf2wkf4yhhtlPxyuJ3A5UjAWQVU5mqcCwKVinCR8A5-MGtZS9QrG4FplXVIQaPTkAFHpTFPM3I1IjWSPrfLXcbmcrrKYrBrI3K-N5gTDdUWZOY49WfmbKED1WRACOIDQYCJ8cG5ww6aX8yiVS-XW7EiwbCuIIi_93GzF_AhjQITvXuCunJND-uyYhwm7ui4dHN_f0zF20nmPnRfidXDjhnuebxBxJa9vD33IATRQEZEY2ak989L6cRblCluySx7D85KV728XW2WpWSCCL8rx1thTrReSoU9d8A",
-          "width": 406
-        }
-      ]
-    },
-    {
-      "id": 108389,
-      "message": "جمهوری اسلامی در حالی برای کمک به گفت‌وگو میان عربستان و یمن اعلام آمادگی کرده که خود از حامیان مالی و تسلیحاتی حوثی‌ها، یکی از طرف‌های اصلی درگیری، است. عباس عراقچی در تماس تلفنی با وزیر خارجه عربستان گفته است بحران‌های منطقه «راه‌حل نظامی ندارد»؛ موضعی که با سابقه حمایت جمهوری اسلامی از گروه‌های مسلح منطقه در تناقض است.\u003cbr/\u003eیک شهروند تحلیلگر در ویدیویی ارسالی به گزارشگر، با اشاره به همین تناقض، خطاب به مقام‌های جمهوری اسلامی می‌گوید: «شما بروید برای خودتان میانجی پیدا کنید؛ لازم نیست خودتان میانجی شوید!»\u003cbr/\u003eنقد او متوجه نقش جمهوری اسلامی در این درگیری است؛ حکومتی که با پشتیبانی از حوثی‌ها، خود در منازعه نقش دارد و اکنون پیشنهاد میانجی‌گری می‌دهد.",
-      "date": "2026-10-13T12:58:58Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "تلویزیون منوتو",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/gaDLqo_mVNGZcE55NbSSn5HyOnK6oxJjQIaJQWBRUi7OArnkbSHrOSTN72BY5z6WmuwqPSI9uumr27pKWvrhgcj1i7qYEUYXclJHNBQpYUQ7NX_hLnudLdKCJkVHTFfI9EawAJ4E0Tw1RBql4MOyetOtGd5c3dr1OVTKh0mXa5S18DIETYdP5WTlxCkd5MiIt98XfELkW63pqElEohWVYIA-Uk8RfaFtrEddH81sAvMIhTjdqs9noxcuE6SlLEzV1zjsQmU0xXp1XT3I-661qvvFo_DkfqEvLzEy3pjfdo2808bIAeMiped6Hhd30Tut0iwyN8Vh3cCaFofyDnDNWQ",
-          "width": 406
-        }
-      ]
-    },
-    {
-      "id": 108390,
-      "message": "قطع اینترنت فقط ارتباط را مختل نمی‌کند، اطمینان مردم به حضور یکدیگر را هم هدف می‌گیرد. در این پادکست، تفاوت میان مخاطب و جنبش و نقش اعتماد، سازمان‌یافتگی و رهبری در ادامه مقاومت هنگام قطع ارتباطات را بررسی می‌کنیم.",
-      "date": "2026-10-13T13:52:02Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "تلویزیون منوتو",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/ljeBYDkrVVpxKu2KUuiAk9pM5xGJcLITtiBqyW5nNzIFhxl7ogQmY-LC43kRwX0J9_ndmzYfA2ENzzTOe3FmShJE-fQRuWDFIzeLO-GhWAF1hkG9H_8p1nNKUbDY2IFrn2EHQfxpzHz6_YD-ycKJP6j4BIX7VswTionQ9naNnrKPVbVDlUopns6yzTTVrcYuk_vL_fH9UUD2noTkLC1OWkvG7-EIOkIauLbuD_W1lDpgNzZw3sCGUbY9agtImXnPRAl7H9ZA0TIJGgNU8yv7TbsOFKDFuYC2kC7apAtMCrEHBHa5l2MlgQV-128Sg1pg8hTbbCNoEPsZODmeMeNL5g",
-          "width": 406
-        }
-      ]
-    },
-    {
       "id": 108391,
       "message": "جاویدنام ابوالقاسم بابایی، ۴۴ ساله، اهل کنگاور و ساکن وحیدیهٔ شهریار، رانندهٔ تاکسی و پدر دو دختر و یک پسر با سن‌های ۴، ۱۱ و ۱۵ سال بود.\u003cbr/\u003eاو شامگاه ۲۰ دی‌ماه ۱۴۰۴، در جریان اعتراضات در خیابان جوقین وحیدیه، گرفتار نیروهای بسیجی و لباس‌شخصی شد. نیروهای حکومتی ابتدا او را با ضربات شدید باتوم مورد ضرب‌وشتم قرار دادند و سپس به قفسهٔ سینه و شکمش ساچمه شلیک کردند. ابوالقاسم بر اثر شدت جراحات جان باخت.\u003cbr/\u003eاو سال‌ها در وحیدیه زندگی و کار می‌کرد و به حضور فعال در اعتراضات شناخته می‌شد. ابوالقاسم از بستگان نزدیک جاویدنام عرفان خزایی، از جان‌باختگان خیزش ۱۴۰۱، بود.",
       "date": "2026-10-13T16:57:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8680,
+      "views": 9800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -199,7 +31,7 @@
       "date": "2026-10-13T16:57:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9900,
+      "views": 11000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -218,7 +50,7 @@
       "date": "2026-10-13T17:15:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9720,
+      "views": 10800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -237,7 +69,7 @@
       "date": "2026-10-13T18:39:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9430,
+      "views": 11500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -256,7 +88,7 @@
       "date": "2026-10-13T20:04:44Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8200,
+      "views": 11000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -275,7 +107,7 @@
       "date": "2026-10-13T20:59:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7130,
+      "views": 10900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -284,6 +116,151 @@
         {
           "type": "video",
           "url": "https://cdn4.telesco.pe/file/msD-V6GQ2mrf9NO3v0ss5XxAOGG6-Fp9o1IytisUawLbAVXpEG4Akfn_EIKAvk0zUtPECmU3vxLjpTLhvlUSSCPRQeJ20gvnt-xsnEKUhMCKwNb6coWRoJOD7n-Fui3XpZvZ8cbDj4zhvqKt8GO6iuJKtWvlXC9O7zXtG4xtk3Nx9z5RKXniov-QveiowBZ7kR-92oenr0tqZUtJz7ffIK1gDz-BQId-_J37qd-kxdF3PfgB6xzVFFqwnTfqsP9ckGe-mSW3MQLfWgBX5SMkyr1OOqOujXXVyj-Gv6s04QGv4OW6wxNJwK5zn6AZuE5_CWEEto3-bX3jMzvQ8hHDGw",
+          "width": 406
+        }
+      ]
+    },
+    {
+      "id": 108397,
+      "message": "از عروس‌های شاهنامه تا همکاری با صنعا و حمایت از حوثی‌ها، رابطه ایران و یمن تاریخی طولانی دارد. روایتی از این پیوند و تغییر نگاه حاکمان ایران به قدرت و امنیت.",
+      "date": "2026-10-14T08:57:40Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3660,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/cXenYb8g1VpF-SX9roBl2Ir2GeZBk0fThUmq7LsrRy2K4fKOhQjDVOrYO58Fa779g-Olkhcgwbnmqf_rkXO4Wg-Mre_-uQ1UAqHLRy20fUlxgDg4b2kyg7dfV-z3spG5ymyUwIfho0VUsf_F4Xe4SLZBDfHj-qhKlluCLF1mF4_m9DjI-17u6bTCEosf3fvcYrs3ZCMt9AO8Sog_6xGh3VE536DhJ2esUF-lVRpF1h6OH7nBK1_SFqE-xJSUIX5zJ7QUtNXHEWtPMQktKjq8Eoh-RcwOgyKXU7_9bulPqXepo_Mjkxnja0hm8NSS9VkVeXp4oqGMmtM7Ab_3zCxxHg",
+          "width": 1280
+        }
+      ]
+    },
+    {
+      "id": 108398,
+      "message": "جاویدنام محمد زارع، ۴۲ ساله، متأهل و اهل اصفهان، روز ۱۹ دی‌ماه ۱۴۰۴ در جریان اعتراضات مردمی در خیابان ابوالحسن اصفهانی، با شلیک مستقیم نیروهای حکومتی جان باخت.",
+      "date": "2026-10-14T08:57:43Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3790,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/vCaHESgHqrUkUMJ_mrWDKXP5GHTQX7CaC1lgEN69Jb-UEAAGp42FS86p54emJ8KJHc5nVt33M176qXmk0-94WLVtcF0N6q7bP3J_nPGnBHQoSCS48DRSAuzwqfz3KyxtBzG_3bhXiqD8kc_9JJjkPV99oaggUlNQSbg6JQHTuQ02jBPJyzVml9Qt6ETzwDeduPuk4D4jMuwfuT8s8VF9gaJQYS1KGX5BZvZluT7WUjr6EHBdT2f67-prQL6nAxF6E_BoR0YZoJyVAjcfn91re_C3g2qwnVP-I0e9VMZ2jnYJ0l32KFFt1j9-ufLj9Z-vK7Jb1z8CCZuBr5-7yhNSqg",
+          "width": 406
+        }
+      ]
+    },
+    {
+      "id": 108399,
+      "message": "جاویدنام ابوذر زارعی سوادکوهی، ۳۸ ساله، کارگر شهرک صنعتی و پدر یک پسر ۱۲ ساله و یک دختر ۲ ساله بود.\u003cbr/\u003eاو روز ۱۹ دی‌ماه ۱۴۰۴ در جریان اعتراضات سراسری در شهر زیرآبِ سوادکوه در استان مازندران، با شلیک گلولهٔ جنگی نیروهای امنیتی جمهوری اسلامی جان باخت.\u003cbr/\u003eمزار او در آرامستان بهشت، روستای مته‌کلا در زیرآبِ سوادکوه قرار دارد.",
+      "date": "2026-10-14T08:58:15Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3750,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/tk9mczpG5rv_2CtKl0xdrPLe0Z_E83_wHh24q8KQ7ZgiA4ZRc2aIqRVbh98rFhatz3BcbOqz6Wb1BtC0sf_4eHYpeSRZwShrMm5n5bLUfrgF0JKpdepAKtfoKowdBbAcHlb8eGNtneRqtn82tYnb9KxdrwmDCdiytfyx3h-LfVa83MAuqfPhD6uDFzdHxv0gpQ9elbTYN7g-H4dFfWXJYsEyPg2LPnGw-JixhB4kLwPCW_S0FpOY5CtFcoG0X9akzqwOrO5tkYOeSvv-qqB1eWsTpKlXAlFGWAQxb-BzB5hXdg-WTUFIr6BNP7pEQDSSZXe0yeMwH4XWNvPbg1W2-g",
+          "width": 406
+        }
+      ]
+    },
+    {
+      "id": 108400,
+      "message": "جاویدنام مهدی جمشیدی، ۲۴ ساله و اهل رستم‌آباد گیلان، شامگاه ۱۸ دی‌ماه ۱۴۰۴ با اصابت گلولهٔ جنگی به پا مجروح و به بیمارستان منتقل شد.\u003cbr/\u003eاو در بیمارستان بدون دریافت درمان رها شد و روز ۱۹ دی‌ماه جان باخت؛ در همان بیمارستانی که ۲۴ سال پیش در آن به دنیا آمده بود.",
+      "date": "2026-10-14T09:58:10Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1950,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/dLF04-bPncunvi0rLg8kh2-ln5r9kTmYgM2iDYCvdIouRiKcNubmZrC4L3CKL3Jzz1JUQHdxS5bsZxfPRXURXeKjULNCCuEew7eOLWTjWIXDIu7gWDDYOKZd7VAyjcUU9YdS5DZX0SYIpgPelN1qcWhrr-5Qlw7GgCj8xQ6fA4ARqsh8tGLv2ZgqU4oFkjcdqSpemcWdmkhwvfHxzKUDLBcHPucvpCIvtOE0u53P04Pzmoh3FKoJ_RICGGAQmr_4XfvgTytMUc4M7PsdxunJILFrxNZMlVOgJ7j_DVMc-BXFk_ztN8hhTRrq8J49lEVSYDadqZiozZ7VdAMZft06cA",
+          "width": 406
+        }
+      ]
+    },
+    {
+      "id": 108401,
+      "message": "مروری بر مهم‌ترین اخبار و تحولات چهارشنبه ۲۲ مهر ۱۴۰۵.",
+      "date": "2026-10-14T09:58:48Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2230,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/V7wdPX28vF6RCt7CjV0pbMMD0rHJRgMwkbEchr-q-WqSy3mPoMjM1KBRlCE3A0RxqFImb2cy74py196DWDen7zUMcHd8rrpa4zOxYZbClPELRJrAEylnr6ceY8wkWSHYfBS04sVz4vQPfcEhKdBYUmSc2tH8DJGHjrEa_xUrQfkszdV2eAUCofkREv08sObQXXp3MgX5R2QCW1ZLiU_lUk5hSfPW0g0qS3cw_SvB8AADr43b_KTAB1v-LkPGBI55Qxk2sEqOu6BaOvKFrUkS70IeichLhJPVY93ddCHz5JAyxb8z1BZ3JnlZowiTwHKHNnG47Vx3DMdXt8ltBc0qMg.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/ONXKZ8DvO0fhxQ8Td8f0Jmddo-LLqmXKQd7OQlrGr1KGB0smy2Bj9JQn8i9wrw4I2dg19pMfJldcKCyUX8yRPDMTP4ERW2cpIyNbqrgVK5Z2MgnmK8jKpIrnphNKu2mobtSQ6qSZeOpx8R33GFJi8dLmygGR3vD5gqw_kYdldZPPsyM5Q1feZfvXj90P9yRvPmUMMcD3T9_uXXOs1uBt0WktLNV_rhyV-FedJKl0u1o-P94Pu-DcmgvUnBfcMvsBT-YJN3XMniELJ7BUECI8b243kKQoHwL8jIZ1ByBIGBU6KFPLvA5UOYSVzb_mmb0nTp3eGJTAeNQOVac04vDzAg.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/fV_Ob-mldK0qAQGXjHpOFIBpn6xx9ctK1VF04YihfhevDE8yiHEBN2veeYQ8lDGI1njanxs6_zayWXNah84ABIvk1sJ6j3X9kKRSZsOkQcLc2RsaEQ7gLOIvJfoegqCTa6LQYLOEJId2-7jZr7hrBSW7z2Lf98tmKjP_D687Im-6VyqPlXQ98IknI4JzTCrLMUIV_zmEsJj1CT2WEkibCLMUdls3qg2IOrpxBDIZdfQhTTYfvjCskd4A37w--Cw5gxHUjuvRQYb63_ENt6FykO7pQOT06c2Fz72mcj9vXTGWS77smdDutTjYVW4KqxBjcrt2W6eFQwOQWzReFfHu6w.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/WWkox5pWCNdR3HauSoaXR8IpvwEYmZAz1kOl8ZncLUy9gsARD_rMZ-HyAph1s65V7-6JjEGVr9OkeBHB-Fscam5I3duLN9VOFN_h4Z9gu_JeXXp3q7TQ6PLtUKOv0XF5Ycfz-HAtWKNe0ABBz0p2lB31cE_lmA1U1z9tLZbIsdVTmc5LADYzadZq5ybcXCEiCge3Exdkn7-n9dvNLHSRZJanMjpc7T82depd0VrxmIdMVvYk2G_5O6Qr9TH86XN0cTJfUEwFnnalI8oWsBfVTTfZDjKPD3HPW3VRp7bJIIzDbH5YD5PchdXa-W-HeSBdjAfe6IvpoUaeNuWWvARfqA.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/HAQhLqaSQdmOBzI7Z86VzFuqG3s5YxZnJ3MpY0EDiHa0brmX5Ry9l0UkY5t7LbXSoRZWeHuTOZIdcYDx83jN8Jmf9BEARa_4U7ZTnOpIaCQRu8Lpu-B9Or8ujYfs6LIhrtWKQdNdQ6BKhO5peVyMVJtNCWUfcjhpgTDmbBTlvuJgLaQeFwqJwTNsCX-6J8fMfhfRpRz3wHDcL0IUFInEjXKPdPZ4YDYId7W5-UuZnl-FPzHJ5j7JDHph1_MIzEHb7dQzj3lVxye9upQOxJkOwOMgQLuDjFhBFOMIBqTHdLF2rceL2V4d-OpiShqqkq_Ti-CU6qPl49DqnjJCAcXkgw.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/ooBia9THgxBv0O1n6urEYKFqCu1dsbLdV5-Q1PnG1amyG3UaQT7-U1gXe2kl22QQQERV6fx46YGWkl94di_xDY_Nhp_V53lZwey5_51R9ysQ8-5gcudvwuYp2dov5f3w2wqhQPmOevm7fAMzx2VjNXt9swWh-TQ-v0F_kRFmOf6008ypTVJtQr8JgvrghCGlpoOlOuBZvuOR2BADAEMJHfOo_bHYpxwLv101s2udDV_nfYyGJjqzdvPnu2lbOpsJkAvAz6vgzlDsZtUdoJ8ejkiMjQa2m_KCgsqTjD9oWlOnxhpf1YPeB3gqdpcwGDnj1MPDXr1RZUVbkygwBDAIeA"
+        },
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/tC4mNqhAf078C2-DwnXKhggr2tUrrOEmItAajmChid1BJG3YxSLPYKI_IxHPPDtcpKbv_THx3iPD7PpwdyWSjdHehOttim81n5BZWZA50B2n0mL8xBWosYtQq6tgmmyy3MPcbmgaCaX1Nk4smtT2pCTf0HJCgVznTUcdDZ1OtujUG348qQaTQdDLfJNs7ddlaspIcKggwFnw0Ag5T11Ygk_WL_QRDT8JD7fuLLwvHuLUD9L3G5Zr2s3-wr6dk-trPylVT0luk0MUCTNXkUY9ZQbwTnTb6KJarrbbchdEggUCUUcCnOo3ncUMTO7cSZx7fMSNSSr_ExpUZFXs4ulexw"
+        },
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/d_XoYUm3LKU7LArRBweLKSpX95UPTy2hSqrva9rdwm8FB8Jc8emPJu6X-jVbrdG1DM3KyItNkwxzyza7Dlrl77dFj9ykQ-vdEehevAEqhfN766ZAG6bnqQZayqvedZ64J1ptIQMnNKKcZAOs3levrKwPElFhF2V1QLcqh4iMuGRjLhpseINPAVds9Eu0DBNjBjTZEZSx96wo5rtzJxGhOzDjUFZy4tl50hugBW0HCHkaUchRM-poWiohh90oiHM9voWPYxjEi699tTcD7412zv1QjKZOM5Q1m8L8lgKFigABCgzs2hBVhE3NYKaFNm2Ly-CVGrC9GYcgvCmaW9gkqw"
+        },
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/M-rfFYOitzbw3TeIoPv_JgCB8yt4ztyWTq_bFr_I70ze5TL_Mh1R-Oy-pjtVsgrhJv6CeKbGWKfW8mtDQLoZYq49Eb3cORMj4wH8NIjfDrbPV9gLDSxtAqljZ7iDbVhNPPT9x-g8VPXSm_TkR_8tg3DE-wq71Rc9FBWj6bzFknQdcLPHQSpDKp6E7_m7fQhOHxaEGyFWwLH7DjFdJ4rc-PWZ4xKqB8cJh1m0eRpF2Fbr6FNru-HBqE2OB0XsexDTTLIHRRw0lf0SNpMDqXT15SwOjCKUvjlqjoaBFYgmivKz1QaaB_Tga1R0wGnrCkNn_k_SIDiH4HUQXulTBzCkcg"
+        }
+      ]
+    },
+    {
+      "id": 108410,
+      "message": "جاویدنام رضا قلی‌پور، ۳۱ ساله، روز ۱۸ دی‌ماه ۱۴۰۴ در جریان اعتراضات در محدودهٔ پل هفت‌تیر مشهد، هنگام کمک به دوستان و معترضان مجروح، با شلیک گلولهٔ جنگی نیروهای حکومتی به گردن جان باخت.\u003cbr/\u003eبنا بر روایت منتشرشده، رضا تلاش کرده بود هم‌محله‌ای خود، امیر عمرانی ۲۵ ساله.، معروف به «امیر بوقی» را که دارای معلولیت ذهنی بود، از قرارگرفتن در معرض تیراندازی مأموران بازدارد؛ اما هر دو جان باختند.\u003cbr/\u003eرضا کوچک‌ترین فرزند خانواده بود. در رشتهٔ بدن‌سازی فعالیت می‌کرد، به موتورسواری علاقه داشت و به‌تازگی با تلاش فراوان سوپرمارکتی راه‌اندازی کرده بود. او از مادر مبتلا به سرطانش مراقبت می‌کرد و نزدیکانش او را جوانی مهربان و دلسوز توصیف می‌کنند که همیشه هوای خانواده و دوستانش را داشت.\u003cbr/\u003eرضا به فرهنگ و تاریخ ایران علاقه‌مند بود؛ نام کوروش را بر گردن و نشان فروهر را پشت گردنش خالکوبی کرده بود و در محله به «پسر اهورامزدا» شناخته می‌شد.",
+      "date": "2026-10-14T10:04:34Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2140,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/M1bMFXPvBS38aCvXXr5zwrq2GvyJ-kpm_vN3p03OOeMKR-BgqnYZuTKqbeytUHCgw36AB0P1WI7YudP_aCftsR3YPIYxuy0hM0sxFOTtdRVMMJ_FS6E184UWG-irEbGgkJzYGUcaN0laretvuTcIgoUL52MOvtSHybkNXpK3T-ilJTPb8yxobDQ4n8vxcYT9oGUtEJCVDX9H00vLe2twdvwi2XBZi7bWPyyubvwJ-lNixbd273MhNo8PyYVW6TxfcGTCuhUjwHoZSK4g7bYK12N1DykH5R-2AhjqeuEHeQnIZ1TAF40kSS8KwtnM8aEs7W56jdL3cZYnj63AFTDQDw",
           "width": 406
         }
       ]
