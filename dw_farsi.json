@@ -7,252 +7,12 @@
   },
   "posts": [
     {
-      "id": 131154,
-      "message": "",
-      "date": "2026-10-14T08:07:52Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2960,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "DW Persian دویچه‌‌وله فارسی",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/UOS0MJbpwcJYCAz8BxDwKhPRXCmyPGR5eV8JNouCqvdkxMTi0Z3sZom2-x7XIrgeH5S9swAfgmpLC2i75hhs57L2xJUXGV7Yg185MG1gUPjgtMEsg6Xf6HxOjLSr43R72lgkYHw7kksP9eOui3vd6VuDOqvN5TKaZAUvWhz46Y3_tDjj9YsrI5v4_6f_aO6fQIwYuIG-H65oUNc2HBJ2drEQbOTPWu3aCRVp4byNkPbo5cTtZotxVARscoGSuzn0CuV9LRNNCVYKL4nJtJt7s3Et2K-mCtLUWT-aEkP3STwTRGJa1g68LkbZrsRc4qO11TQ_gdC7Y7OHSvwtyRLaPQ.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/IxnGAee1CZsUKOFnpL4Mw06ngQUVuu8gZhIdPtj0XLqgXOTlaDoSJLmXb-2lWUvsd6yYtAiMFSnupqpW3ptcuNj-C8Cx84uAeD4W-EcxocOjWGXuKtBOdsC-6pz_SK13zBDm1rftISOpZF5yCyBq9oRKX8b27RZtPf1lsUW8W0UopaA0WQFTHZOhsc5csL1QhC43JzkMKXyVWqkxSf18DvRlOANS2sHh7hTF8JFFif1qvwHdY0wTMnPSsj0JenwaBh_7lq4RjA0CFcb7pHmqpKWwd-7nnpPzbgN27AN_3aDZrSsJfwB7PkO71DQKZeMH7y5VFhzCy6AuOfiP9nQxYQ.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Z-jvcZIDsptWpBk5u0u1NBCCRnpyNdKInkKIXeGug3yy40tJy13ZPqrvTSISUMsvKOs1hiD_rL26P5O76VydBX9vmUSQalLLEsQfvd7qx9Ab8MVaeEoeeYd252JtHct1DxIsxiwgC4W4dhW5Aw9BHsswCBEEgEGxW_Ab1y1jceguAixJ9ziBZNJTbId2RojEXiEezDa0VRPi5T-sYi7Sq0T7qw8sxa3giQwzQLO9YvfU7gef82sGO913E31foOPiBYBGiVfc8issGm9ASdtXnpPBUS51bXpUS-lLJO-1QPcuhjEvQff7BUTrJkZmtZpDyi5n1XU_KzsX8SKsHsJuIA.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/HSZt42glPbm1xwQxLV0ZRKjBi6PmN_D-UGE6MA6ughV5xvWkQBtd10f29yFvBEf8hViZjhj0SZWccgeu2hHGY_yfA0q5Tuc_HoM5nl9GF5nI8k18a3zwiJiJxreBUxJ3xXUF_-xidkMOTgq-nUgaJJOAp7Qhdb5RzIrNYczwYt65eYnmTtZk0oilco14erk06VfAyUKIRYwG6ShK18vRiPTzcoQz8qLV-mHY-rt76v6Mysmr47mla43Q06SIlQqvGQRiF0zHDCNfzC0OCZjB47WODlErcy4vqqERzvotxHm1dYxU4tQNufthvyJUN3memCVd-xD6ln1CXak51-59qQ.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Kh8gCMy-m4Vvo3iOBzB-yHYpwlDy9GFCADPNh95XcGhtvT3ekgXOeCGhQLgOg1554DvsFnYmW54GWpIWOwPxawAAKR30zl_qg7hXW3gcLeYnfDU2sXhoisyx2FCjUjUVgkLRhEBmiI2wccrkJHm2flVjZH3-ujGxKncQ2IhSqABApkFSkox_JWhyg95XC9_oNQtryzYe_yzSsu9pTQ6j0iUBNSngpYG6Gmbzzwcsl-zw3h0DxAFfPaZiBRdScQd06-edlI-Zls6Kd5ifekv99roCT3Nr76sYcsZH16L2hP3UcRAH7048Ve_Ecj4fZTxIkQyAG7NJ_q1-FgPv1QlyHA.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ew7JboYAc-3Uyo8UMKB8aJphLlanR8EKzCqbYKFIuoPG3h83Pq66x0JAIvNg7_uH0KnWJTY5LJIpqW2Lp9CAN3WfuCoW_krGzTQlQTU8Z_MiVh73CLZp7ORqukFZjbp3UgHUjz25ukLHkPPXk7vDga1A7ZK2L4lYYiBlIlKHRqR4CcMjNpCA4thuqURJHQGJimcW9aAMZP5ab6PiKyKXogOThdEA3H7vUBNKggkbM1WFvfr3bEGk4jBKvC3lQooZqZ08_vWyuRYsCfsD9wZoI5-QYLvuu2T4mPTphPFGVZsU6tPRE_q376qMtGC5MxDTahgyUGnTUNYgtSyGc-3r2w.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/jqXfnHbB93P7ja-nM7Ne281ojeo_xp1LhkP-6WC6TA18S5soEv76jdcT-u3iwr2SYta5O-x_TYYyQuD1UmM9oQJxvSRKLOojNmu0y_4XiudlUYQ5W_DFxueprJ2RfB6fd7qFq1H8E97vQspNyHgKkdd6HvdYCFr22VpU3iM4M3PJ66_e2arUxb_2GDsR65pmUgrUla0hdcMeNhn1W8cwbmBXwC_-uFk6lwlcNFrU25vEze63XDgcqKgnI8TsKDaKuXwvWZviUgGj_N435ZLzbVXK_q2UlBV2T8ecawkk_Am2CvGzHLYI0G7WjtZJtI8FD_HGqzTg-HSIhfQMl542jw.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/E_-neexR_L_3ZBf7uhuvPubIaDBow_gI9y2kjUp7hYf-rghq5mTbCg5DBVpSJziixd25R5y03eiWoJsJQ_8sdImylRXewb723aeKS9EhdazU3SB-tUeu-uuDkztMla3veZBWNl85aGkSturmi0ROq6bO9Bly2-SJe3zZIJIAE9nNqsYuu36ph4LtA71lyiaMmTEy5mh91ENKfspB8BBWwOG4rUcDHC807LA7mLogpIqyMYdGNfNyv38qXeE_psHnYrGE6O8KABsMmxfm2u47Cxodt0QyqONj6ZMHoKuTFpDqTaia6Fp5dvB6lKaVRhGZokdfH6Y2pNGUdIoJayX_og.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/kEZQaJ_YPwZfU21ZwvkbgWe7x7LLFpFfoEtuqKda4QRCVqdRhhtk9TuGTpP_j7s26vVx-pcD-OD7xaTDmHawzrKTGXgwihuWJdxFAsi4fwB2uuOyRZRW9BByJR8l4D606YY3NQllA-QtlH3jyT-z8NCk_qEJe_u6pv8S2NmB0m2_Ijiy1yWmzxfXMAULLrNVwiWKEJeEG484w9mTD4N6xLC8v49kTlqZBmQdmabPrOrUWfkz5Fj1dHeNZqA58DI_A5lErA95_QQNQh0BtS_QvSkxedJv0MWiJ4-ncIAM9XPFg-IiSYIyujrJbF0w-vON-_7fGRdEgBvRqE-VpXtQjQ.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Jb3tPSFQKfGz1k4CTi_I0RtWqY19Xus7lEB20Ep82vhC40Umudkxm8hqowqilH8ZRj3wX6XqdPihzIiluQBtYOpSmujvurnQ3a-q_FYri4-IlA0Q1MGQ5XiZAgUpfbDJsOhdbo2wpUdkWnY34BbJSSUiTr1QFMo1SkNnZAMlueT9jbV4WvdLWhyEjrfsmZhARtDQuwjZ8kU2VoDYtV4DT7hoTiavs6P4hMJ0V-H1malNrXQUCk6cVLHG47fp1gwnqd2oN--wTjY844zVj-Of9bDVXZxyMoynos9SdpQG0kNwhSzZhaVXtTiSrFq8Z50AagerDfsxo1KWdjhMTfkI7A.jpg"
-        }
-      ]
-    },
-    {
-      "id": 131164,
-      "message": "\u003ca href=\"https://pepurl.com/p/5ODmH?at_medium=Messenger\u0026amp;amp;at_campaign=Telegram\u0026amp;amp;at_channel=DW_Persian\u0026amp;amp;at_dw_language=fa-ir\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003cb\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B6.png\u0026#39;)\"\u003e\u003cb\u003e🔶\u003c/b\u003e\u003c/i\u003e پرونده\u003c/b\u003e پرویز ثابتی در دادگاه فدرال آمریکا؛ دادخواهی یا تسویه‌حساب؟\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94BB.png\u0026#39;)\"\u003e\u003cb\u003e🔻\u003c/b\u003e\u003c/i\u003e گزارشی از الینا فرهادی\u003cbr/\u003e\u003cbr/\u003eتصمیم \u003ca href=\"https://www.dw.com/fa-ir/%D9%85%D9%88%D8%A7%D9%81%D9%82%D8%AA-%D8%AF%D8%A7%D8%AF%DA%AF%D8%A7%D9%87-%D9%81%D9%84%D9%88%D8%B1%DB%8C%D8%AF%D8%A7-%D8%A8%D8%A7-%D8%A7%D8%AF%D8%A7%D9%85%D9%87-%D8%B1%D8%B3%DB%8C%D8%AF%DA%AF%DB%8C-%D8%A8%D9%87-%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87-%D9%BE%D8%B1%D9%88%DB%8C%D8%B2-%D8%AB%D8%A7%D8%A8%D8%AA%DB%8C/a-73641637\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eدادگاه فدرال فلوریدا\u003c/a\u003e با ورود به مرحله بررسی ماهوی پرونده شکایت از پرویز ثابتی، مدیرکل وقت اداره سوم ساواک به اتهام نقش داشتن در شکنجه‌های دهه ۱۳۵۰، فراتر از یک رویه قضایی ساده، کانون یک جدال عمیق سه‌جانبه شده است؛ پرونده‌ای که با استناد به قوانین فدرال آمریکا، مسئولیت ساختاری مقامات ارشد امنیتی پیشین در ایران را به چالش کشیده و هم‌زمان جامعه سیاسی و اپوزیسیون را میان سه رویکردِ \u0026#34;دادخواهی و کشف حقیقت\u0026#34;، \u0026#34;تطهیر و عادی‌سازی سرکوب\u0026#34; و \u0026#34;انتقاد حقوقی به انگیزه‌ها و شاکیان\u0026#34; در برابر یک آزمون تاریخی قرار داده است.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/dw_farsi\" target=\"_blank\"\u003e@dw_farsi\u003c/a\u003e",
-      "date": "2026-10-14T08:07:53Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3230,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "DW Persian دویچه‌‌وله فارسی",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/qNw_CrZSjqc1a5h4NPSHlYqV0WXMuLrfBLcFhgH5pHMzq6MkkpEU694SPPX96zKRgD5uao9oJnBK55sJVTt_Z3jXXEYgt7AClLEG6OWDY7antCOhB3FkuHZPLimj7K52E1TDyZdGlJ1yuPqI9VzgiHU9oy4KahCOMXNHv5GEFEy6RUFiQIVvylscw5x-rmaFgA_CnQHa7nC36Z34aSLdJUzeijmY-iD4Y0yRorSUsCcLMW80hlT7sMqp985ldkroH617Ion2NWaaplSrHPuRzfJgFii1l0UWrJ2cSAHVDo6kIE9g65iOHGeAizRz1meAv05yxb3NA00fKcivALKQcQ.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Nr7O9NSH1QSSfQhZzctWpEngffkZYPft_R_oiHr13NIuD4HbQo2WxqSyGA6Ohk5Gk1QgXK0ASs_1-vzPLlIijkxbtJ6En0m24Ht1wVVStg7oMSbj4MOFYLyI6mokhD7nDqKsBElShjx00HqSvHXeIsQCSlvYHi4Jz7FSXqe50S6DLn4SB5-qXMtVNRw0or0uhybTMQqJrOzFEmXWcLh1nVq5a8TMXLxlZrcpwGUVQ93M-F-4b9uQg1ZM_RPEyCJ4ypKlf6KXp2VXE5Z7_b9i9_wl6WItVkTXw444TFDWRk-x4N_rob4F9V58r5Mxuu1VEghrxn0-GcqrzLe7xo6REA.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/CkTSuMvq4V_rGtH66kddtGOt_3D2IbsIdWBh0LhZnjTLuv6aXy6R1T7Ki3u5D7cv9cQ15zbR7AwzhejGRbBpkSvZHzCd6-yBscWDechPvzcnYwm_cfmfOOah575UcKUUZ-Od98_IOfL6_cM9nR-IC4o7LLZwJyK5P8ABUWUGPWT-5UFQzOtkNIk8MeN1GPBPpYZQsamCY6LYxYuGGXHEoYfPy-HKqenWvtTGSH7bXh2vN1nxPNAMQIGl8ZEFezwL6TZBXuRRP64MVP17SeiVvTxmC82aXygXIdBNOb0Rg9peLGedjKLWu2bELhWbMDoLm1BOBzLd1pHohwEa6i297w.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/BFpXk1lHWElBOtI3nKFInQfxVedjXnIIPfovAIqqU1a4U3gi0fpoT3goIJ5fZ-48pp-B7Adsx7A1eJTDvIRlCMEngEoxNtqaeQJXdVP1-j5kqC2i9rIoKeMhyMndHZ_DZJkCaveujPk71acUXyNhR2MYO9NMyyvHjCgFiK-RYzhiaxNBsMd2gZfP6ExsO-F-mOUzWJHl6PHzbLl7ypMG6M1DqwLj5OG9WdvezoxZFEptW67_LohQTt1WCTs8Dc7cKKHUdpshCmy9h8b3x06Mptue9WYbKYHMp4yBaJfWnJ3H68Rti-oxM0qCjiyQGFAkbJJZ2T6zu8rTsSFphH-4Qg.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/RWBBjkQhMxvrEeZEdQS38K_x4yG-WDiGNI-e-e3wDicd-QkHOTfxv5i1THfMoX6D4-cObO9kxgWcum0C6I8UWgpUbvQv4woOtq7ijrp-WTNtkgYfWcWDioeB5a98Fa7lTm1NVTwfiVl_8BPtMeOsVXirdQPTMvETtC4SnPa5FOI-GhIF7c_txTUaKsmfG9YoGuLKyQWPs2LhPxG_B43eo9W95RWsEytVcwS_uY_iB6lScnWQ25ansQN7sUP_O5LFV5h0OrWAw0yD-CjKlZwmOpRIN01jC8sSBgmQUYoOCykSjyq4QSuiLXXxjWkrk9VPPPjM3Wv7S21wy3XsCedSmw.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/v9lq5Isgq_BBP03VaDKrQuSE8Paw-4uGqoRVIufekriZ5TgAs26F2tPX3dShPguyIlAR7YT57xdXBUwqjaSw3TqljRw-3VKI-J3j9Wpvw7DmBweFZifqXMzl4hXrYOcoixYWPeno-kn9ZbMKzY9sehMWYZEOCg6bvzlmQO6joc-YWToQSXH_uWU6ABk6QZ3tluBFfxqJ2M-ZNrU87NKanozJsxtXuXNSnhmUpwkCRD6rbKLZDQnwd39l7NjzW3SFYNT70-tb5fl8nDPLgMBC8Em3QGQdiu5RwzvIIuu2pFtigT8Pkmqs8JnFyc69eYOpp_ZahvBuhTJcpl49PoY2BA.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/lGNIhIpBNsADDMowhJIX-KtjG7CYuEkGCCMZ4lr10jHMsFb9NEQDa-mVcDasnblTT8EhiWg14WqzLvhf1ZWENTT8zOVd5zsePpE0A03vDDuRilpjNDT_hjydhoH2Vsgp7iALmblVIU31qOyzYY0vAYtvmwjE2Xn1wiFc2g7Rn2YjTHOqomOjfg-66ANfoprJYFfC8cSagQ70rxolxNRJTOi19aoA_UkRq4zVwwcwGP1DBfFCQLGyN9BvD-_KhfAsf7gcncjBuivGpDaGqqSi9zDlG9LWpfR8CcoF1sSoD7x9Pi17enMWKVzzqxJrtl3SPMM_YA032PasmwJDXbfzow.jpg"
-        }
-      ]
-    },
-    {
-      "id": 131171,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B6.png\u0026#39;)\"\u003e\u003cb\u003e🔶\u003c/b\u003e\u003c/i\u003e\u003ca href=\"https://pepurl.com/p/5OEK7?at_medium=Messenger\u0026amp;amp;at_campaign=Telegram\u0026amp;amp;at_channel=DW_Persian\u0026amp;amp;at_dw_language=fa-ir\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eآکسیوس: رایزنی نتانیاهو و ترامپ درباره احتمال حمله مشترک به ایران پیش از انتخابات\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eپایگاه خبری آکسیوس به نقل از منابع آگاه گزارش داد که دونالد ترامپ و بنیامین نتانیاهو، پیش از آنکه ترامپ علناً اقدام نظامی پیش از انتخابات را رد کند، درباره امکان انجام یک عملیات نظامی بزرگ و مشترک علیه ایران گفتگو کرده‌اند.\u003cbr/\u003e\u003cbr/\u003eبه گفته یک مقام اسرائیلی، نتانیاهو در این تماس با استناد به اطلاعات امنیتی، مدعی شده که ایران در حال برداشتن گام‌هایی نگران‌کننده برای بازسازی برنامه هسته‌ای خود، از جمله احتمال راه‌اندازی \u0026#34;سایت کوه کلنگ\u0026#34; برای غنی‌سازی اورانیوم است.\u003cbr/\u003e\u003cbr/\u003eبر ا‌ساس این گزارش با وجود آنکه یک مقام کاخ سفید گفتگوی ترامپ و نتانیاهو برای از سرگیری جنگ را \u0026#34;دروغ\u0026#34; خواند و بر عدم حمله تا پیش از انتخابات میان‌دوره‌ای آمریکا تأکید کرد، منابع مطلع می‌گویند ارتش‌های هر دو کشور همچنان در حالت آماده‌باش قرار دارند تا در صورت تغییر نظر ترامپ، آماده باشند.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/dw_farsi\" target=\"_blank\"\u003e@dw_farsi\u003c/a\u003e",
-      "date": "2026-10-14T08:52:27Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2330,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "DW Persian دویچه‌‌وله فارسی",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Kl7fwQkaWjF2dlTr9pryJJQavRRLpwbclvlqC7RUOr775I1_AGZKKw77lQ4iTCrGSeiOQTbOkFu_Yhw8pQWiieMOJF0kke-gsL3PVRTu0xSynb_36d57jDFTZgfMVkVp5uYvKv0E5O9rg4UbdyZdWnwz6t7mwWu_rKrcWnFZ6k2UEQxxooumjP1PFSa7I1AuOo6EGTSaBUtuRiWsfiDZ7R7ow4uMIceDZpBJZeMbMfzFEw6AFP3i20cQ_OscxWJIXXSxrR2uOXRaU370rLnd_iFHBfiQsHIjOFM167jtZyy1PWqjnlY0S2Xr1z5q_GVycK4J6pdLjNkM2A4_rEogww.jpg"
-        }
-      ]
-    },
-    {
-      "id": 131172,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B6.png\u0026#39;)\"\u003e\u003cb\u003e🔶\u003c/b\u003e\u003c/i\u003e\u003ca href=\"https://pepurl.com/p/5OEK8?at_medium=Messenger\u0026amp;amp;at_campaign=Telegram\u0026amp;amp;at_channel=DW_Persian\u0026amp;amp;at_dw_language=fa-ir\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eجریمه ۱.۲ میلیارد دلاری دومین بانک بزرگ آمریکا به دلیل نقض قوانین مبارزه با پول‌شویی\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eوزارت دارایی ایالات متحده اعلام کرد که \u0026#34;بانک آمریکا\u0026#34; (Bank of America)، دومین بانک بزرگ این کشور، به دلیل نقض مکرر قوانین مبارزه با پول‌شویی و کوتاهی در اجرای مقررات تحریمی، به پرداخت بیش از ۱.۲ میلیارد دلار جریمه محکوم شده است.\u003cbr/\u003e\u003cbr/\u003eبر اساس بیانیه منتشرشده از سوی این وزارتخانه، این نهاد مالی در گزارش‌دهی بیش از ۵ میلیارد دلار تراکنش مشکوک کوتاهی کرده است و نتوانسته خطرات ناشی از شبکه‌های غیرقانونی مالی را به‌درستی مهار و رهگیری کند. \u003cbr/\u003e\u003cbr/\u003eعلاوه بر این جریمه سنگین، وزارت دارایی آمریکا تأکید کرد که در یک توافق جداگانه با دفتر کنترل دارایی‌های خارجی (OFAC)، این بانک به پرداخت ۶.۱۱ میلیون دلار جریمه دیگر نیز محکوم شده است. دلیل این جریمه صدها مورد نقض برنامه‌های تحریمی ایالات متحده، از جمله انجام تراکنش‌های مرتبط با ایران، روسیه، شبکه‌های قاچاق بین‌المللی مواد مخدر و تروریسم عنوان شده است.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/dw_farsi\" target=\"_blank\"\u003e@dw_farsi\u003c/a\u003e",
-      "date": "2026-10-14T08:54:58Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2190,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "DW Persian دویچه‌‌وله فارسی",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/AGm5BiNd90ytcZ8MwFIa5yPxOurU17oSA84bj7BdyolgMU7ycV7bI8ZHjT03-YsGDEKJE8hmlDsRmM2U884OETSvaMTbRfsI7wviAzyY0M9QfA9ukEGT-wNHzL3PcT_fwfzJ56hLrjn2ByUm6LQ6bqeUqSl8Zx99l_hT08LfoY5Q90sCF_ozK1T-ZgklDrmRlUQR_zsPFPeN2s6GJE6PquSuzBn1pn4yr1d3P6_5gYmDfmWwPf_CMZVlo0wHDAvPcLYPsB2m0Jcw4zqr3IyKpaSjnYUA2PiwKl-ewtZo-I4XRPzjjSx-hs80Czw0xKVoQbTqqJcFWNi9a6hUKXHy_g.jpg"
-        }
-      ]
-    },
-    {
-      "id": 131173,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B6.png\u0026#39;)\"\u003e\u003cb\u003e🔶\u003c/b\u003e\u003c/i\u003e\u003ca href=\"https://pepurl.com/p/5OEKc?at_medium=Messenger\u0026amp;amp;at_campaign=Telegram\u0026amp;amp;at_channel=DW_Persian\u0026amp;amp;at_dw_language=fa-ir\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eآتش‌سوزی در یکی از ساختمان‌های اداری آرامکو در پی حمله به شرق عربستان\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eوزارت انرژی عربستان سعودی اعلام کرد که در پی حمله‌ای به محوطه شرکت نفتی آرامکو، آتش‌سوزی در یکی از ساختمان‌های اداری این شرکت به وقوع پیوسته است.\u003cbr/\u003e\u003cbr/\u003eاین حملە شامگاه سه‌شنبه ۲۱ مهر (١٣ اکتبر) رخ داد و طبق گزارش‌ها تلفات جانی در پی نداشته است. پیش از این رویداد، ائتلاف نظامی به رهبری عربستان نسبت به شلیک موشک‌هایی به سمت \u0026#34;استان شرقی\u0026#34; هشدار داده بود. این منطقه از مهم‌ترین پایگاه‌های تولید نفت عربستان به شمار می‌رود و تأسیسات آرامکو، یکی از بزرگ‌ترین تولیدکنندگان نفت جهان در آن قرار دارد.\u003cbr/\u003e\u003cbr/\u003eهم‌زمان با این رویداد درگیری‌ها و حملات متقابل میان شبه‌نظامیان حوثی و ائتلاف سعودی تشدید شده است. شبکه تلویزیونی المسیره وابسته به حوثی‌ها، از دست‌کم سه حمله هوایی ائتلاف به استان صعده، پایگاه اصلی این گروه و همچنین حملات شبانه به مناطق شمالی و غربی یمن خبر داد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/dw_farsi\" target=\"_blank\"\u003e@dw_farsi\u003c/a\u003e",
-      "date": "2026-10-14T08:57:24Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "DW Persian دویچه‌‌وله فارسی",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/YcrF1dn_22GzahDtaGuTB4LGSCeCidW2z9xjT5opNmjMyVsrB0H-kigE-qNmXMWglRUKEq3NnsGscnRee0IP5R4ogpGzK7smXyT7as54NFKmb5AtBQEaABxaZVmEzbriE3mQKGWPHMgOjOqP_tquZl4g31tyqoqMB-Tf5V6VT0WmKCoP4EK20g9azm4UVWQmXLGh-9gg6DRThb7SH_oC2HF00lko5w_QlW14rhHYlqsBt83vRyf4G66xNzLVjikiFmYoJA-gZHF8PzoKhpvHXsQcZ6Q8boTNkgEzbHPhMaRBKzWYhZ4TnKpxr1mzWizdWELoXXe1C8zVmYW4tIukjQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 131174,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B8.png\u0026#39;)\"\u003e\u003cb\u003e📸\u003c/b\u003e\u003c/i\u003e\u003ca href=\"https://pepurl.com/p/39KtY?at_medium=Messenger\u0026amp;amp;at_campaign=Telegram\u0026amp;amp;at_channel=DW_Persian\u0026amp;amp;at_dw_language=fa-ir\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eعکس روز؛ دنیای اسرارآمیز نورها در غار بارباروسا\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eغار تاریخی و شگفت‌انگیز بارباروسا در کیف‌هایزرلند آلمان، این روزها میزبان جلوه‌ای رازآلود از نورپردازی‌های هنری است. هنرمندان با الهام از تم هالووین، این غار طبیعی ۱۵ هزار متر مربعی را با نورپردازی‌های ویژه، از جمله انعکاس تار عنکبوت‌های بزرگ بر دیواره‌ها و سقف غار، به یک گالری زیرزمینی تماشایی و در عین حال کمی رعب‌آور تبدیل کرده‌اند. \u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/dw_farsi\" target=\"_blank\"\u003e@dw_farsi\u003c/a\u003e",
-      "date": "2026-10-14T09:01:17Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2340,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "DW Persian دویچه‌‌وله فارسی",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/WkDmyoRse1DjqHGtne43-13Xa81UwpsXXpEJUeZTHhXKNKHYtsvPNHNGNf8jtNi1bBxpZYJiQTHj1KIrHJyeOF7rCCo5yu0yAE1m5ax2yGR2JMKDpKaH-_BT0UcXMWX2tpvmvUsWJ59OIpvyfGUi7zLZpWlLtacHSw4XqMKKK07LDDjNPLRUryToo6nN9l5vga8oLwTD9u1m1qUbw4OinzNvGYnCtyUFMcvkzbyngr6PKiuj0F9P9R7HDwMyF926oRp6rbeWddWRp3yX4DGVqketQXwVCPhMnwr2p06ON8OUMc3y11LotwYYuaHTwqh0_Az2eecpvAaLxxgx9MVV6Q.jpg"
-        }
-      ]
-    },
-    {
-      "id": 131175,
-      "message": "\u003ca href=\"https://pepurl.com/p/5OEO8?at_medium=Messenger\u0026amp;amp;at_campaign=Telegram\u0026amp;amp;at_channel=DW_Persian\u0026amp;amp;at_dw_language=fa-ir\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B6.png\u0026#39;)\"\u003e\u003cb\u003e🔶\u003c/b\u003e\u003c/i\u003eعلی‌سینا مصطفوی، از معترضان دی ۱۴۰۴ در کرمان اعدام شد\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eقوه قضاییه جمهوری اسلامی روز چهارشنبه (۲۲ مهر) از اجرای حکم اعدام علی‌سینا مصطفوی، زندانی سیاسی و از معترضان دی‌ماه ۱۴۰۴، در زندان کرمان خبر داد. کاربران شبکه‌های اجتماعی، این زندانی را ورزشکار و نوازنده اهل شهر بم معرفی کرده‌اند.\u003cbr/\u003e\u003cbr/\u003eخبرگزاری میزان، وابسته به قوه قضاییه مصطفوی را به \u0026#34;سلطنت‌طلبی\u0026#34;، \u0026#34;اقدام مسلحانه در کرمان\u0026#34; و \u0026#34;ارسال عکس و ویدئو به رسانه‌های خارج از کشور\u0026#34; در جریان اعتراضات و جنگ اخیر متهم کرده است.\u003cbr/\u003e\u003cbr/\u003eشاهزاده رضا پهلوی پیش از اجرای این حکم، در پیامی مصطفوی را \u0026#34;جوانی میهن‌پرست\u0026#34; خوانده و دادگاه او را \u0026#34;نمایشی\u0026#34; توصیف کرده بود.\u003cbr/\u003e\u003cbr/\u003eاعدام این زندانی سیاسی در ادامه موج فزاینده اعدام معترضان و مخالفان سیاسی در ایران صورت می‌گیرد؛ روندی که به گفته نهادهای حقوق بشری، با هدف ایجاد فضای رعب و وحشت و جلوگیری از شکل‌گیری اعتراضات جدید تشدید شده است.\u003cbr/\u003e\u003cbr/\u003eبر اساس گزارش سازمان عفو بین‌الملل، جمهوری اسلامی تنها در سال ۲۰۲۵ میلادی، دست‌کم ۲۱۵۹ نفر را اعدام کرده است.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/dw_farsi\" target=\"_blank\"\u003e@dw_farsi\u003c/a\u003e",
-      "date": "2026-10-14T09:04:16Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2580,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "DW Persian دویچه‌‌وله فارسی",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/GdLI2QtNzOqIMHTte6N6wGU_8CNxaErqfQOq-2WRx5rdvk0vjNOwSX9wIiHIJNR-aswlJfrqhrWI07ftdoIASYvnKs3NUb-JHGOZc-4x4OFHfA4nyK1wI5oZz841gqWNZ5rcNLvy_UbQMCO-UsiRnIZ43-9VIu5nugB0HqgeNhu7V_q9R25AAutuCiNGiwZoTwjVdISEZqEdscp01fUuZRO3KYz67ir_c-UvsfR1ANptcCnhPwfEOz51LyEYNQ4SgIqLigECdJLtHKovuX7doILIBzBcjFrTZW4ZLeADsmIiBJldd_xNtd8TQsqg7mN2eaZjjlY0WGex3G34kfMmTQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 131176,
-      "message": "\u003ca href=\"https://pepurl.com/p/5OELV?at_medium=Messenger\u0026amp;amp;at_campaign=Telegram\u0026amp;amp;at_channel=DW_Persian\u0026amp;amp;at_dw_language=fa-ir\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B6.png\u0026#39;)\"\u003e\u003cb\u003e🔶\u003c/b\u003e\u003c/i\u003eافزایش بهای جهانی نفت در پی حملات به دو کشتی تجاری در تنگه هرمز\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eبهای جهانی نفت روز چهارشنبه ۲۲ مهر (۱۴ اکتبر) به دنبال حمله به یک کشتی کانتینری و یک نفتکش در تنگه هرمز با افزایش روبه‌رو شد. در این معاملات نفت خام برنت با ۶ درصد رشد به ۱۰۶.۳۲ دلار و نفت وست تگزاس اینترمدیت با ۷ درصد افزایش به ۹۴.۸۰ دلار در هر بشکه رسید.\u003cbr/\u003e\u003cbr/\u003eبه گزارش رویترز، تائید مقامات ایرانی مبنی بر استفاده از تاکتیک‌های تهاجمی جدید علیه شناورها در خلیج‌فارس، در کنار حملە حوثی‌ها به عربستان و تهدید امنیت باب‌المندب از دلایل این افزایش قیمت است.\u003cbr/\u003e\u003cbr/\u003eتحلیلگران بازار انرژی معتقدند این اقدام نشان‌دهنده آن است که ایران با آگاهی از موقعیت استراتژیک خود، به دنبال استفاده از اهرم فشار \u0026#34;نفت گران\u0026#34; برای آسیب به اقتصاد جهانی و تحت‌الشعاع قرار دادن انتخابات میان‌دوره‌ای ایالات متحده است.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/dw_farsi\" target=\"_blank\"\u003e@dw_farsi\u003c/a\u003e",
-      "date": "2026-10-14T09:20:33Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2530,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "DW Persian دویچه‌‌وله فارسی",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/K-x10cJwCFI7KsH6c5KOaHAAYAxTepvmqegkpOuHZYP4hX-C5KegELeM4uqcutHMkx3sDBe_nShc9qOPXlKAIY2mUi1Cvt2DUEVpsuB68uDQpVVkP1Oy5MbJ21wFC5kVBkubdqDuDQ94evsoAjOWjHfkae3-ssAbvkl3HzroYC_u5PsgbB78EKbiGpp0bbBOQOzs6ULJCANpM2tyy8AsXmHT0tiYqPQ2FgS9O3tbRhb1g9fSkHMi--yDh_5fSkM_zm2h8m2gL8J2NixMzZAHoH85fJxtLZS22UsqtNxYWhnwLYlS6j88-wCZbCm_o19Hes2gEqv8wH2feAIiXDyrQQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 131177,
-      "message": "\u003ca href=\"https://pepurl.com/p/5OEPG?at_medium=Messenger\u0026amp;amp;at_campaign=Telegram\u0026amp;amp;at_channel=DW_Persian\u0026amp;amp;at_dw_language=fa-ir\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B6.png\u0026#39;)\"\u003e\u003cb\u003e🔶\u003c/b\u003e\u003c/i\u003eجروزالم پست: آماده‌باش اسرائیل در پی هشدار درباره حمله زمینی یا دریایی حوثی‌ها\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eروزنامه جروزالم پست با استناد به ارزیابی‌های مقامات دفاعی اسرائیل گزارش داده است که در پی تشدید درگیری‌ها میان حوثی‌های یمن و عربستان سعودی، نهادهای امنیتی اسرائیل نسبت به احتمال یک حمله غافلگیرانه زمینی یا دریایی از سوی این گروه در بالاترین سطح آماده‌باش قرار گرفته‌اند.\u003cbr/\u003e\u003cbr/\u003eبه نوشته این روزنامه، حوثی‌ها در ماه‌های اخیر به‌طور فزاینده‌ای درباره انجام حملات زمینی، از جمله علیه خاک اسرائیل هشدار داده‌اند و در دو سال گذشته نیز ویدئوهای متعددی از تمرینات شبیه‌سازی یورش به پاسگاه‌های نظامی و برجک‌های دیده‌بانی منتشر کرده‌اند.\u003cbr/\u003e\u003cbr/\u003eبه گزارش این روزنامه، با توجه به غیرقابل‌پیش‌بینی بودن اقدامات حوثی‌ها، ارتش اسرائیل تدابیر پیشگیرانه گسترده‌ای را آغاز کرده است. از جمله این اقدامات می‌توان به برنامه‌ریزی برای تأسیس یک \u0026#34;مرکز هماهنگی آتش\u0026#34; در لشکر ادوم، استقرار نیروهای ذخیره و واکنش سریع در منطقه ساحلی ایلات، ارتقای هماهنگی میان یگان‌های مختلف و برگزاری رزمایش‌های مشترک با نیروهای پلیس و مرزبانی اشاره کرد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/dw_farsi\" target=\"_blank\"\u003e@dw_farsi\u003c/a\u003e",
-      "date": "2026-10-14T09:50:09Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2100,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "DW Persian دویچه‌‌وله فارسی",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/YGLvG7CnTlVFo8PmWXRrSLYWRP-GLLXPi9ii2UlChdk2iKm97cj_KoPpLC_9RyK-Ua4ZBUC5DOF9kk7MjSSrmRxcJ4jqVyfVchlm7-uI2aFRmyGUQoBpdIQ0NkOqBNN6uGijZAgfHDke2F8gTMrsR6kwHTsfJg1_csIICCyC9Opmr9axcHhs1wPLe1lldI99UDX2Ppl2TNOlH4MVcVffA_p_Gkp6F84c6mXiOEpG3iL_81LBskxa7uMRrvA5QboA_9Q9Ox_vS-w0UYXQSnKnN6n9mVz2v1SFuaXBMBybKQ7s0VIPt9GN_N9hWu4yNLq2KLppss_kZ3-dlYXnO2aLnQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 131178,
-      "message": "\u003ca href=\"https://pepurl.com/p/5OEcj?at_medium=Messenger\u0026amp;amp;at_campaign=Telegram\u0026amp;amp;at_channel=DW_Persian\u0026amp;amp;at_dw_language=fa-ir\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B6.png\u0026#39;)\"\u003e\u003cb\u003e🔶\u003c/b\u003e\u003c/i\u003eحمله پهپادی به یک شناور در آب‌های سیریک هرمزگان؛ سه نفر مجروح شدند\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eخبرگزاری تسنیم، رسانه وابسته به سپاه پاسداران روز چهارشنبه ۲۲ مهر (۱۴ اکتبر)، گزارش داد که در پی حمله یک پهپاد به شناوری در آب‌های نزدیک شهرستان سیریک در استان هرمزگان، سه نفر زخمی شده‌اند.\u003cbr/\u003e\u003cbr/\u003eاین خبرگزاری شناور هدف قرار گرفته را یک \u0026#34;قایق صیادی\u0026#34; توصیف کرده و مدعی شده که این حمله از سوی \u0026#34;ایالات متحده\u0026#34; انجام شده است.\u003cbr/\u003e\u003cbr/\u003eبا این حال در این گزارش تأکید شده که جزئیات مربوط به چگونگی وقوع این حادثه و دلیل هدف قرار گرفتن این شناور هنوز به‌طور رسمی از سوی مقامات اعلام نشده است.\u003cbr/\u003e\u003cbr/\u003eتسنیم در گزارش خود به زمان دقیق وقوع این حمله اشاره‌ای نکرده، اما توضیح داده است که هم‌اکنون یک قایق در حال انتقال مصدومان این حادثه به ساحل است تا تحت مراقبت‌های درمانی قرار گیرند.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/dw_farsi\" target=\"_blank\"\u003e@dw_farsi\u003c/a\u003e",
-      "date": "2026-10-14T10:26:49Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1030,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "DW Persian دویچه‌‌وله فارسی",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/XOJmEjKVLGeohSkRieVwKmnOOpQMWMbWkRXUFxdnjOK_CGsVRzRNhBJwm4WIh-r8HikljnYx54z9q9HTx6HR5XP6qN_yxXtiC8hgGFLehDC-ZfuI--p3-Tq5Y1gt159oJFk1IzJDKt81Husfr639pFX9xZNSRLXu_TLw5wM1sG3pYZonaveRa0jMEi406C5gLUFICwKtHZNJpyxcwc9wi8GiNLNdL30QSlMvxy8rgiCVDITkUzh_ER_tNUcBLMtC7p_Kim47Yi9NBXPJUXk6DyG-B385wwl0wIO_cQSNB3rZNmHhdU4VjXUAtxhLRzSLAsSbiyLqueIbnCUns6g2_Q.jpg"
-        }
-      ]
-    },
-    {
       "id": 131179,
       "message": "\u003ca href=\"https://pepurl.com/p/5OEPt?at_medium=Messenger\u0026amp;amp;at_campaign=Telegram\u0026amp;amp;at_channel=DW_Persian\u0026amp;amp;at_dw_language=fa-ir\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B6.png\u0026#39;)\"\u003e\u003cb\u003e🔶\u003c/b\u003e\u003c/i\u003eنتانیاهو دیدار با مقام‌های اطلاعاتی خارجی در دوران مسئولیتش را تکذیب کرد\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eبنیامین نتانیاهو، نخست‌وزیر اسرائیل در اظهاراتی مدعی شد که در دوران مسئولیت خود هرگز با رئیس سرویس اطلاعاتی هیچ کشوری دیدار نکرده است. این ادعا در حالی مطرح می‌شود که اسناد رسمی، تصاویر و بیانیه‌های پیشین دفتر نخست‌وزیری، خلاف این موضوع را نشان می‌دهند.\u003cbr/\u003e\u003cbr/\u003eنتانیاهو در مصاحبه با برنامه \u0026#34;پاتریوت‌ها\u0026#34; در شبکه ۱۴ تلویزیون اسرائیل، ضمن تأیید فرود یک هواپیمای مصری در اسرائیل در سپتامبر ۲۰۲۳ (شهریور ۱۴۰۲ و تنها چند روز پیش از حمله هفتم اکتبر)، دیدار با مقام ارشد اطلاعاتی مصر در آن مقطع را به‌شدت تکذیب کرد.\u003cbr/\u003e\u003cbr/\u003eاو با بیان اینکه در آن زمان در مراسم یادبود سربازان ارتش حضور داشته است، گفت: «کجا پیش می‌آید که یک رئیس اطلاعات بیاید و با رئیس دولت صحبت کند؟ حتی یک بار هم برای من پیش نیامده است.»\u003cbr/\u003e\u003cbr/\u003eاو با طرح این پرسش که مقام مصری در آن سفر با چه کسی دیدار کرده، مدعی شد عده‌ای تلاش می‌کنند این موضوع را \u0026#34;به گردن او بیندازند\u0026#34;.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/dw_farsi\" target=\"_blank\"\u003e@dw_farsi\u003c/a\u003e",
       "date": "2026-10-14T10:33:45Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 796,
+      "views": 4250,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -263,6 +23,257 @@
           "url": "https://cdn4.telesco.pe/file/pWPGh2neLr7_lNRJEg18Ckmc8GeIZE-pI1lOLHB86PXy-rnTQUKP4l1746IS-WRmlYw2N8-qGbqmg5_9MuDwFxi87D1RHWcJr3ZsXr-feasQljAj5aLp4T3fJWPG34oIwuA-bPHUC7q1zLsHTnMrJA3OXpuPiYeVejtMtOKQWDa9aEqS9HRguiEOfBYCPhRe-ykMz0TqvKZYKs-W3Gm2LuImgsXwMwyDEHM0fjAZmjvendG1Pockkq96QONgV3kSR09XcMg2FmylX59KzUeAg95Hxbubdoh0zjxtBxK2PzmQn_vzHhsxo-NLHsAXaiMTfreGyanWOoPsZqybQoeVlw.jpg"
         }
       ]
+    },
+    {
+      "id": 131180,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F93B8.png\u0026#39;)\"\u003e\u003cb\u003e📸\u003c/b\u003e\u003c/i\u003e \u003cb\u003eفصل سقوط؛ پاییز تلخ گردوتکان‌ها در ایران\u003c/b\u003e\u003cbr/\u003e\u003cb\u003e \u003c/b\u003e\u003cbr/\u003e در سال‌های اخیر به‌خصوص در ماه‌های شهریور و مهر گزارش‌های زیادی از سقوط از درخت گردو هنگام برداشت محصول منتشر می‌شود. این گزارش‌ها از شکستن دست و پا، قطع نخاع و حتی در مواردی از مرگ گردوچین‌ها خبر می‌دهند.\u003cbr/\u003e \u003cbr/\u003eاین حوادث گرچه بیشتر در استان‌های \u0026#34;گردوخیز\u0026#34; چون همدان، خراسان شمالی، کردستان، گیلان و مازندران رخ می‌دهند، اما آمار رسمی و جمع‌شده‌ای در این زمینه وجود ندارد.\u003cbr/\u003e \u003cbr/\u003eبر اساس اعلام اورژانس پیش بیمارستانی استان همدان که پایتخت گردوی ایران محسوب می‌شود در سال ۱۴۰۵ در جریان برداشت گردو ۱۹۸ نفر مصدوم  و ۴ نفر کشته شده‌اند.\u003cbr/\u003e \u003cbr/\u003eدر استان خراسان شمالی نیز تاکنون ۴۹ مورد سقوط از درخت گردو منتشر شده. گزارش‌ها و آمارهای مشابهی در سال‌های گذشته از مناطق مختلف ایران منتشر شده‌اند.\u003cbr/\u003e \u003cbr/\u003eوضعیت اقتصادی، شمار زیادی از نیروی کار را به انجام کارهای فصلی کشانده است. ساختار سنتی درختان و ارتفاع زیاد آن‌ها، استفاده از روش سنتی چوب‌زنی و شکننده بودن شاخه‌های درخت گردو از عوامل اصلی بروز این سوانح اعلام شده‌اند.\u003cbr/\u003e\u003ca href=\"https://t.me/dw_farsi\" target=\"_blank\"\u003e@dw_farsi\u003c/a\u003e",
+      "date": "2026-10-14T11:03:23Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4140,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "DW Persian دویچه‌‌وله فارسی",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/sBoY5jW7D8pQCj_qlwa3X7Mnq_zP3_QB2WPepThOalDUTeXFJeCoqSEvlx5qi-V1p9HsE19dcCXt-Ffj2CJ4Bsmd7I4h3o7KV9Zg0pNKnhp_2rG90IXGNl2y4NnvVg1y2QOAipmBCxKdxwVlHUVLIiuqkkWmoig7eJpF_bPMrduAHeZjxo7entixm1_MnqHfAtDynPwSsqeFmocfJjwB3tfZSr3sWsh6rNhc_G2Pa856C6-sc9uaWnNfUiNEi6gsdxQ22ZVrk6lYsi0oS0GVm5wJamUQUOqaNEQnq2cb6sfby4wo_4zor65vU10GV7q1NKLHpBVmmAwRg43ub-KYYw.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/Z5DXkEN8SKD6c_FRUhZ2nyLxK2QuSkfvuqnjF5U0qTkCO-cFR7EMWq4jGZCR2lEeJEyeDCdaOOqfybRsBq7fYXTtuzb7gZFHZhz0B2ck_EZfEUMviiEjq1jtx_ZO_w43akOAyma32QGZCYB_PX58Qe3b-KKuGinvK05SMsSAXAEZl54xK65-v0Y0bgghM6n5Sbeje82Oz9AEoVy0tD6qm9SDnFZmqQnd5OdEMbmghcSgiUYy0AN3vP8c7zx4r6p6Ug04Faax9XN3FSQbt2QtaQLx3vUBvbXvOnvBe8BxopGo8daD70NT5TeVOefqYAy3Qd0dA7RYqXA1d7F6QGL5ig.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/ax3-6BckwhkcOBPBar0ILmi_U0eLTG0SqlGWekTzv61_47AR6pSajWCte5GlchBa96YxZkGY0zzx89awUecVVlIa_5NEa7FwKg_RxmaoS25JGqHltFTFEPvZ3FHjizjeMo0KUw01x4WUPYawpm6jeskuNsDVCSCsVAGc-t3WTTP1-O5pL3QQPz3EfzKE-9JxbWnbrNxNPpp_ifzUJoEbXbqU1tvw-5jPTkkA2lZRlUEkFYft2fWnZqbHDvddngwTKMPdkmvAKih68YlzHS7h2woGzW43EpGbcs5fWSvnVa0mgBEmb5lg09cluJAh4XMpx-tQsFZr0nyGiCTsGPJyCw.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/jBGOuOUrclUnFur--wZc0MX7GgJMsaV6q8iJJs6zrt_-jSbdjHM05i9RoJIfJT1-4Lmd6P4580r7F-vpKJ4BQJGshg4aeyGbtleqgZ7gUWSEX3_287nVC2UhmlxTX7Rtwj5L5J1KeQ1IfeyQLu8KBuJgO8SHJKeRE0onGOw79rmDBGpJonhu5T6jzOmgjd2ZkeJCHYDYlt6fqutLphnWHBV80MJGugkIfw8O2awheIdYSprW3NVucl6hFyK023lssaXmkbaBHKQ7GLnkVVnJNjYPzOilEbDivqIezjlwKus5_Ngq3S0aqdXPuy1yjVTFyx1EqnFk7mftgmfxUHI1Gg.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/cyKhB7HxjYCWEuhcnCQqo9aCkDmLKagL7l462eAfhKG1z5c9LQYGnw5dIykCJ519DqkDVts8BDDFdgkVJiSluWMwKei6atcknv_S7q5GoKWaF1dKf8BYGkjN3BBCkjo9Ky8r8gGbCvi4AL7T-NjpZDMDPAxGnmnbYpRPukfdgJoWokXxnzIDHOQdXPHvcAl43Sr8jhYAV0TXni3Jq14tcqRRHgUMD1xiDKkjAxrGXVa5PCah-bgOpz3ank0Bb0RTIoweh7SLrRXlpDTGVjZ9yIGQMH8htEK-U2oRcUPF9QGH3ibHGTltq5kfO5T7jHEG2Hn3zWo9cjob_PGCiF67dg.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/h5V6X-ut9aU57jXR4iwksVY9ew80hPJq4oBITdbRuaSkLbPD-lzXs-tFWK19M5sxo9RdO-A7vmqszITFkBd9E1KsE62N-yLMwOudOVJ3RrY0V8UufXvdXoCnRMDsZKn5ahwhApC0iuca-cbAV-9uCpubx40PZWP2m22n3F-JWsRLsJ2ad2JkVXK1aP6MDQbSce-TarB7xQGa2rGiRZoNzzf2l1S0wB5sdzv7WfF3oTprFxMWnMUEfm5CM4Ut4K74TokHLatds9JcTQWv6K5Ysvjb8ELvuzVYLReM8ESOpnnbuD1MSA34RK4RpSa6oHxOfQgZ9aBOloWZPtjH1dzXHw.jpg"
+        }
+      ]
+    },
+    {
+      "id": 131186,
+      "message": "\u003ca href=\"https://pepurl.com/p/5OEbk?at_medium=Messenger\u0026amp;amp;at_campaign=Telegram\u0026amp;amp;at_channel=DW_Persian\u0026amp;amp;at_dw_language=fa-ir\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B6.png\u0026#39;)\"\u003e\u003cb\u003e🔶\u003c/b\u003e\u003c/i\u003e\u0026#34;تغییر تاکتیک‌های نظامی ایران در تنگه هرمز در آستانه انتخابات آمریکا\u0026#34;\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eبه گزارش شبکه خبری آلمانی ان‌تی‌وی (n-tv) به نقل از منابع آگاه، جمهوری اسلامی در آستانه انتخابات میان‌دوره‌ای کنگره در ایالات متحده، رویکرد عملیاتی خود را در تنگه هرمز تغییر داده است.\u003cbr/\u003e\u003cbr/\u003eاین منابع ارشد تصریح کرده‌اند که تصمیم برای اتخاذ روش‌های جدید در این گذرگاه حیاتی انرژی، در بالاترین سطوح حاکمیتی ایران اتخاذ شده و هدف اصلی آن، بالا نگه‌داشتن قیمت نفت و اثرگذاری بر نتایج انتخابات آمریکا است.\u003cbr/\u003e\u003cbr/\u003eیکی از این منابع گفته است که تهران از حدود ده روز پیش، استفاده از تاکتیک‌های تهاجمی متفاوتی را علیه شناورهایی که آن‌ها را ناقض محدودیت‌های خود می‌داند آغاز کرده و همین موضوع موجب افزایش محسوس حملات به کشتی‌ها در این منطقه شده است.\u003cbr/\u003e\u003cbr/\u003eتنگه هرمز در شرایط عادی مسیر عبور حدود یک‌پنجم از تجارت جهانی نفت خام و گاز طبیعی مایع (LNG) محسوب می‌شود، اما از زمان آغاز درگیری‌ها، تردد در آن با محدودیت‌های شدیدی روبه‌رو شده است.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/dw_farsi\" target=\"_blank\"\u003e@dw_farsi\u003c/a\u003e",
+      "date": "2026-10-14T11:29:45Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3740,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "DW Persian دویچه‌‌وله فارسی",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/lsIP27tKkw1YT5jSm_XoXJzb5FOFZoBvO2hOP0C7Wvs8W0fTNnpaomMQi27yFq-RO_zH-EpI1L1iSzwml96SSyJBzlMcfsPYMKvNKA3uPrJUoyFKCfTMPu9bLM2dCXputoPnhTVCKD2F0HA0Ipydl5OTiQrW44GJoUeRXWMXTaawP1wXCg1nKkn3srkact0H675hV2b3ZUd7Tb6Pj1FqzCwwL7fBb8huO3jhWg3I3I6jeCd-6XXxHygcxcuvW-IPks0y3DzOwAQrKijBZkgNU6yTdtDJyMiLEdhZzkxTOKo5cGcMyfn8nO-MLU2TPK_b0lu4hVLHDz_rxaUkrgJyIg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 131187,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B6.png\u0026#39;)\"\u003e\u003cb\u003e🔶\u003c/b\u003e\u003c/i\u003e\u003ca href=\"https://pepurl.com/p/5OEpu?at_medium=Messenger\u0026amp;amp;at_campaign=Telegram\u0026amp;amp;at_channel=DW_Persian\u0026amp;amp;at_dw_language=fa-ir\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eبلومبرگ: قطر برای عبور از تنگه هرمز از تانکرهای قدیمی با چراغ خاموش استفاده می‌کند\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eبه گزارش بلومبرگ، با گذشت شش ماه از آغاز جنگ در خلیج فارس و توقف تقریبی صادرات گاز طبیعی مایع قطر در پی حمله به یکی از تانکرهای این کشور، دوحه راهکار جدیدی برای از سرگیری صادرات و عبور از بحران تنگه هرمز یافته است.\u003cbr/\u003e\u003cbr/\u003eبر اساس مصاحبه با ده‌ها تاجر و مقام آگاه، مدیران شرکت قطر انرژی در اواخر تابستان از یکی از قدیمی‌ترین تانکرهای ناوگان خود به نام \u0026#34;الریان\u0026#34; استفاده کردند. این تانکر با تضمین امنیتی نیروی دریایی ایالات متحده، با چراغ‌های خاموش و بدون فرستنده‌های موقعیت‌یاب از تنگه هرمز عبور کرد و در ۲۰ شهریور (۱۰ سپتامبر) در بندر صحار عمان، محموله خود را برای ارسال به چین، به کشتی مدرن و نوساز \u0026#34;المسحبیه\u0026#34; منتقل کرد.\u003cbr/\u003e\u003cbr/\u003eپس از موفقیت این عملیات انتقال کشتی‌به‌کشتی (که برای گاز مایع در دمای منفی ۱۶۲ درجه بسیار پیچیده و پرهزینه است)، طی چهار هفته حدود ۲۰ نفتکش دیگر نیز از هرمز خارج شدند و سطح تحویل محموله‌ها تا اواخر شهریور به یک‌سوم دوران پیش از جنگ رسید؛ سرعتی که حتی مشتریانی نظیر هند را نیز غافلگیر کرد.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/dw_farsi\" target=\"_blank\"\u003e@dw_farsi\u003c/a\u003e",
+      "date": "2026-10-14T11:47:18Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3500,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "DW Persian دویچه‌‌وله فارسی",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/m5AuzcUFOLYP8OhyR7xl8s2bH61JSu-0qp5aFsUe8z0blv-hWOKnUQjmHbbv_pURVpjRVk520vT7tJbbLsjvzHOWVyHDJNSBSZltC1G8A9FHjO0xLlEW3gOT298DyaRORYymik93GL-zJpXDwQGLBR2TZm_QaEk9UVOlf7zYxhkY_DSaVbw8UB8kIzo6Nnlex5NlqYtG1fWl3blqWm-08R8U3JK_nWx1HltEl3ntuKjZfpdaw3XkbYc7oalyZS-IKPqUSBD18xvQfEgTCkPxQ963ArR0fk1X9Qj1s3Q3HqaRfA2ObAsiSDHne1Jzke_gydKFT3MT3NYj7SSubAoSCg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 131188,
+      "message": "\u003ca href=\"https://pepurl.com/p/5OEsb?at_medium=Messenger\u0026amp;amp;at_campaign=Telegram\u0026amp;amp;at_channel=DW_Persian\u0026amp;amp;at_dw_language=fa-ir\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B6.png\u0026#39;)\"\u003e\u003cb\u003e🔶\u003c/b\u003e\u003c/i\u003eکشته شدن یک فرمانده بسیج زنان و یک مامور پلیس در دو حمله جداگانه در مهرستان\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eروز چهارشنبه ۲۲ مهر، در پی وقوع دو حمله مسلحانه جداگانه در شهرستان مهرستان واقع در جنوب شرقی استان سیستان و بلوچستان، یک فرمانده محلی بسیج زنان و یک مامور نیروی انتظامی کشته شدند.\u003cbr/\u003e\u003cbr/\u003eخبرگزاری فارس، رسانه نزدیک به سپاه پاسداران گزارش داد که \u0026#34;افسانه عقیلا\u0026#34;، فرمانده یکی از حوزه‌های بسیج زنان شهرستان مهرستان، بر اثر تیراندازی افراد مسلح در مقابل منزل مسکونی خود کشتە شدە است. رسانه‌های جمهوری اسلامی در پوشش این خبر، بدون ارائه هیچ‌گونه شواهد یا مستنداتی، این درگیری را به \u0026#34;عوامل وابسته به آمریکا و اسرائیل\u0026#34; نسبت داده‌اند.\u003cbr/\u003e\u003cbr/\u003eدر حادثه‌ای دیگر در همین شهرستان، مرکز اطلاع‌رسانی پلیس سیستان و بلوچستان از حمله افراد مسلح ناشناس به یک خودروی گشتی نیروی انتظامی خبر داد. بر اساس این گزارش، در پی مقاومت و درگیری نیروهای پلیس با مهاجمان، یکی از ماموران به نام \u0026#34;محمدعلی شهریاری\u0026#34; به شدت مجروح شد و پس از انتقال به بیمارستان بر اثر شدت جراحات جان باخت.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/dw_farsi\" target=\"_blank\"\u003e@dw_farsi\u003c/a\u003e",
+      "date": "2026-10-14T11:58:18Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3600,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "DW Persian دویچه‌‌وله فارسی",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/QRC28G32F4bdhHCXGdb4BHB60LYdME1GeoHVUBUghkzyUR72N3MuVTJy7ptvf9PKgWAsK-E5FqlOkKATvcJFAr8DwG3p4_eRlzRxTcW8PZTRYXTaqE0WIbohHWHP7PL4g4EnmOpjk6wAR5PeNYfXmPB2_6AMv4k0IIuTkSkiK8zY_PX7L3lLMiWbJ6zUAp-2CsfvH3f1SDxV1lqNUFLC0R9AMy8YtwAr_ewpqUDtT0vkMY0F3K-Ow-bufNV6yr1jh4Jdh0Xn0gG-bQ92oRdS8t3aS0EOd0LuiSGEkIl3vmKE6vIlvedr8TjI58i4PW-YX_YN7iH287dXUtZuocBWhA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 131189,
+      "message": "\u003ca href=\"https://pepurl.com/p/5OEXv?at_medium=Messenger\u0026amp;amp;at_campaign=Telegram\u0026amp;amp;at_channel=DW_Persian\u0026amp;amp;at_dw_language=fa-ir\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B6.png\u0026#39;)\"\u003e\u003cb\u003e🔶\u003c/b\u003e\u003c/i\u003eواتیکان: پاپ لئو چهاردهم تحت عمل جراحی ریه قرار گرفت\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eپاپ لئو چهاردهم، رهبر کاتولیک‌های جهان به توصیه پزشکان تحت عمل جراحی ریه قرار گرفت. واتیکان اواخر شامگاه سه‌شنبه ۲۱ مهر (۱۳ اکتبر) اعلام کرد که \u0026#34;لوب تحتانی ریه راست\u0026#34; پاپ ۷۱ ساله در جریان عمل جراحی برداشته شده است.\u003cbr/\u003e\u003cbr/\u003e در این عمل ابتلا به \u0026#34;آدنوکارسینوم\u0026#34;، یکی از انواع شایع سرطان ریه، تشخیص داده شد. این عمل جراحی که حدود ۹۰ دقیقه طول کشید، در بیمارستان جِمِلی شهر رم با موفقیت و بدون هیچ‌گونه عارضه‌ای انجام شد. پاپ پس از عمل به‌طور طبیعی از بیهوشی خارج شد و اکنون در اتاق بیمارستان در حال بهبودی است. واتیکان گفته است غده یا توده‌‌ای که از ریه او برداشته شد، بدخیم بوده است.\u003cbr/\u003e\u003cbr/\u003eرهبر یک میلیارد و ۴۰۰ میلیون کاتولیک در سراسر جهان در بیمارستان جملی بستری است؛ بیمارستانی که شماری از پاپ‌های پیشین نیز در آن تحت درمان قرار گرفته‌اند. پاپ‌ها در این بیمارستان بخش اختصاصی خود را دارند که در آن خدمات مراقبتی و پزشکی به‌صورت شبانه‌روزی ارائه می‌شود. انتظار می‌رود پاپ لئو حدود یک هفته در این بیمارستان دوران نقاهت خود را سپری کند.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/dw_farsi\" target=\"_blank\"\u003e@dw_farsi\u003c/a\u003e",
+      "date": "2026-10-14T12:00:43Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4030,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "DW Persian دویچه‌‌وله فارسی"
+    },
+    {
+      "id": 131190,
+      "message": "\u003ca href=\"https://pepurl.com/p/5OEp9?at_medium=Messenger\u0026amp;amp;at_campaign=Telegram\u0026amp;amp;at_channel=DW_Persian\u0026amp;amp;at_dw_language=fa-ir\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B6.png\u0026#39;)\"\u003e\u003cb\u003e🔶\u003c/b\u003e\u003c/i\u003eآیا خارجی‌ها بیشتر از شهروندان آلمانی مرتکب جرم می‌شوند؟\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eبر اساس آمار جرایم پلیس آلمان در سال ۲۰۲۵ نسبت نوجوانان پسر غیرآلمانی که مظنون به ارتکاب جرم شناخته شده‌اند ۳.۵ برابر نوجوانان پسر دارای تابعیت آلمان است.\u003cbr/\u003e\u003cbr/\u003eسوزانه پرتور و یوونه کریگ دو جرم‌شناس، در یک نشست تخصصی با اشاره به این آمار اعلام کردند که شمار مظنونان به جرم به ازای هر ۱۰۰ هزار نفر در میان مردان غیرآلمانی، تقریبا چهار برابر مردان آلمانی است.\u003cbr/\u003e\u003cbr/\u003eاین دو پژوهشگر برای \u0026#34;سرویس رسانه‌ای ادغام\u0026#34; (Mediendienst Integration) داده‌های مربوط به جرایم ثبت‌شده (آشکار) و جرایم گزارش‌نشده (پنهان) را در چارچوب موضوع \u0026#34;مهاجرت و جرم\u0026#34; بررسی کرده‌اند.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/dw_farsi\" target=\"_blank\"\u003e@dw_farsi\u003c/a\u003e",
+      "date": "2026-10-14T12:20:58Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4170,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "DW Persian دویچه‌‌وله فارسی"
+    },
+    {
+      "id": 131191,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EA5.png\u0026#39;)\"\u003e\u003cb\u003e🎥\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://www.instagram.com/reel/DeebTNNlLOF/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eپرواز با یک خلبان ایرانی در آلمان\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eاز عمده‌فروشی دارو تا تحقق رؤیای پرواز؛ در این گزارش با یک خلبان ایرانی بر فراز شهرهای کلن و بن پرواز کردیم؛ تجربه‌ای متفاوت که البته خالی از ترس هم نبود.\u003cbr/\u003e\u003ca href=\"https://t.me/dw_farsi\" target=\"_blank\"\u003e@dw_farsi\u003c/a\u003e",
+      "date": "2026-10-14T13:09:44Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3320,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "DW Persian دویچه‌‌وله فارسی",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/EhJ0QxhLHVUeTXuxkNIPImeTuCH81YckGUMwwBaSjA5-Peke2zehdlTwbdGZqJ0WmqOt6KM_vV0cq1dxadKKUFu7gOHmj3xWa0LjyH42r3KMYTNLPQjnBCGNMXIigQL4XTEfTDGmmRAiLya6_KUXGm_oaFSht12WSs03WhOS8XByJ8LBnSt3oEXt9o2f2YI-0bLdUDtyEuOCcW88WFoo46k5eGKVi2ieZ5VXrwYZkAWONjanFJLJEGVCHfYtgkGpuND81d2dnpHD0N3QdMwnhuLjIQEHLPA9RTlmd12j2CP6N6GS-o3-u9W6l1dtt2RjUHe4SP0gL3GNEf3WMeWRcg",
+          "width": 360
+        }
+      ]
+    },
+    {
+      "id": 131192,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B6.png\u0026#39;)\"\u003e\u003cb\u003e🔶\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://pepurl.com/p/5OF5P?at_medium=Messenger\u0026amp;amp;at_campaign=Telegram\u0026amp;amp;at_channel=DW_Persian\u0026amp;amp;at_dw_language=fa-ir\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eهشدار صندوق بین‌المللی پول: حملات حوثی‌ها به عربستان تهدیدی برای اقتصاد جهانی است\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eکریستالینا جورجیوا، رئیس صندوق بین‌المللی پول، روز چهارشنبه ۱۴ اکتبر در اجلاس بانکوک نسبت به پیامدهای جهانی حملات اخیر حوثی‌ها به عربستان هشدار داد.\u003cbr/\u003e\u003cbr/\u003eاو با اشاره به حمله مرگبار آخر هفته به فرودگاه ریاض که ۱۳ کشته بر جای گذاشت، تأکید کرد که به دلیل جایگاه مهم اقتصاد عربستان، این تنش‌ها می‌تواند پیامدهای منفی و مخربی برای تمام نقاط جهان به همراه داشته باشد.\u003cbr/\u003e\u003cbr/\u003eصندوق بین‌المللی پول در گزارش جدید خود پیش‌بینی رشد اقتصاد جهانی در سال ۲۰۲۶ را با اندکی افزایش به ١.٣ درصد رسانده است. \u003cbr/\u003e\u003ca href=\"https://t.me/dw_farsi\" target=\"_blank\"\u003e@dw_farsi\u003c/a\u003e",
+      "date": "2026-10-14T13:32:25Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2890,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "DW Persian دویچه‌‌وله فارسی",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/pxhDJ_aRNwD0aR4JxDzsLpq2CVFd2na28E9camPyCa2Ttyu-d1zhWCxIoC8IuzWQdPmi1-TYmCR9o-No-_VjiqpnaDVstJDX7vI4Pz9ngrEYTd-KBBwlwk6S0aQJ5TCbE1biXBVqfpkhpmwtfP0Y_bigwhDVQWmQV_R2hdl9MTTWMBtNFg_agdDtLYIGamRfy6Bbr1zZiYNhguo2YXSXce5ThRdA6XCxLxDjy3tBXiA4_Etz9JGLUsoikwl29Mm75o0v_neE6YYSWRxU3JIKFvpPUorWhgr3e0jLO5AYSiv82_nkxRhoBW41NM9l8zd61HiOz1JTOXXnsdu6wJ0m2Q.jpg"
+        }
+      ]
+    },
+    {
+      "id": 131193,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EA5.png\u0026#39;)\"\u003e\u003cb\u003e🎥\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://www.instagram.com/reel/Deef29ekT7z/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eتوقیف ربات به ظن آزار جنسی دختر ۱۶ ساله\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eپلیس آلمان یک ربات را در شهر کلن توقیف کرده است. گفته می‌شود این ربات پشت یک دختر ۱۶ ساله را گرفته و حرکات جنسی انجام داده است. بر اساس گزارش‌ها، صاحب نوجوان این ربات و یکی از دوستانش، این اتفاق را به‌صورت زنده پخش کردند و حتی روی تصاویر توضیح داده‌اند.\u003cbr/\u003e\u003ca href=\"https://t.me/dw_farsi\" target=\"_blank\"\u003e@dw_farsi\u003c/a\u003e",
+      "date": "2026-10-14T13:54:41Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2630,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "DW Persian دویچه‌‌وله فارسی",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/stE45A0K1hp6LO-RlFU6m6PtK1aO3uxEM9HCI_E0qKGF9q8Avd5CTbsnM2p6L6JNvoReyxZ7Eh8mFz81jEcFUOln9hn4m8_xvsHsYxVKOv0DyqmWgiaLgdGS53JiRYrG8tGGOXpG5N6Qra7i6qRzSPytlRutQSZIE9xgSG__P1GrVBD3hjKEGfYz8ZlAnufeZA5HzQ9oYab6YkwwyPQsIFdvjLK4nHhbqiV5nuKxxUpZ8PHvYluKh8D4Y3FDznP5J1Rrhdo77Zolq1gM85hp_SCvoOH-IwCDxd84-Kxi5CmEilSqJ9uy1MLyIeeKljbZR3lmQTc2nR9wYMRF3hzvTg",
+          "width": 360
+        }
+      ]
+    },
+    {
+      "id": 131194,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B6.png\u0026#39;)\"\u003e\u003cb\u003e🔶\u003c/b\u003e\u003c/i\u003e\u003ca href=\"https://pepurl.com/p/5OFIx?at_medium=Messenger\u0026amp;amp;at_campaign=Telegram\u0026amp;amp;at_channel=DW_Persian\u0026amp;amp;at_dw_language=fa-ir\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e انتقاد زلنسکی از نبود هشدار متحدان پیش از حمله روسیه\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eکی‌یف بار دیگر هدف حمله موشکی بالستیک روسیه قرار گرفت و ولودیمیر زلنسکی، رئیس‌جمهوری اوکراین، از نبود هشدار قبلی از سوی متحدان غربی انتقاد کرد.\u003cbr/\u003e\u003cbr/\u003eبه گزارش کی‌یف ایندیپندنت، تنها لحظاتی پس از اعلام هشدار هوایی در پایتخت اوکراین، صدای انفجارها در شهر شنیده شد.\u003cbr/\u003e\u003cbr/\u003eویتالی کلیچکو، شهردار کی‌یف، گفت یک ساختمان ۹ طبقه مسکونی هدف قرار گرفته و آتش گرفته است. به گفته او، در این حمله دست‌کم ۲ نفر کشته و بیش از ۲۰ نفر زخمی شده‌اند.\u003cbr/\u003e\u003cbr/\u003eزلنسکی در شبکه‌های اجتماعی نوشت روسیه با موشک بالستیک به کی‌یف حمله کرده و متحدان غربی بار دیگر هیچ هشدار قبلی درباره این حمله نداده‌اند. او گفت هدف اصلی این حمله زیرساخت انرژی اوکراین بوده است.\u003cbr/\u003e\u003cbr/\u003eبه گفته زلنسکی، نیروگاه گرمایشی (CHP-4) در کی‌یف هدف قرار گرفته و آسیب دیده است.\u003cbr/\u003e\u003cbr/\u003eترامپ همچنین مدعی شد حملات اوکراین به بخش انرژی روسیه در کمبود جهانی گازوئیل نقش داشته است.\u003cbr/\u003e\u003cbr/\u003eاین در حالی است که افزایش شدید قیمت نفت خام و گازوئیل در ماه‌های اخیر بیشتر با پیامدهای جنگ ایران و بحران انرژی در خاورمیانه مرتبط دانسته شده است.\u003cbr/\u003e\u003cbr/\u003eقطع یا کاهش ارائه اطلاعات امنیتی آمریکا به اوکراین به طور رسمی تایید نشده است. با این حال، فایننشال تایمز به نقل از مقام‌های اروپایی گزارش داده بود که واشنگتن تهدید کرده در صورت ادامه حملات اوکراین به زیرساخت‌های انرژی روسیه، ارائه اطلاعات به کی‌یف را متوقف خواهد کرد.\u003cbr/\u003e\u003cbr/\u003eکمی پیش از آن، ترامپ از چیزی با عنوان \u0026#34;آتش‌بس انرژی\u0026#34; میان روسیه و اوکراین سخن گفته بود، اما مسکو همچنان حملات خود به اهداف غیرنظامی در اوکراین را ادامه داد.\u003cbr/\u003e\u003ca href=\"https://t.me/dw_farsi\" target=\"_blank\"\u003e@dw_farsi\u003c/a\u003e",
+      "date": "2026-10-14T13:55:44Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2780,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "DW Persian دویچه‌‌وله فارسی"
+    },
+    {
+      "id": 131195,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B6.png\u0026#39;)\"\u003e\u003cb\u003e🔶\u003c/b\u003e\u003c/i\u003e\u003ca href=\"https://pepurl.com/p/5OFgK?at_medium=Messenger\u0026amp;amp;at_campaign=Telegram\u0026amp;amp;at_channel=DW_Persian\u0026amp;amp;at_dw_language=fa-ir\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e آماده‌سازی آمریکا برای تعیین محل تحویل سلاح‌های حماس در غزه\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eوب‌سایت والا گزارش داد، مقام‌های آمریکایی و نمایندگان \u0026#34;هیئت صلح\u0026#34; قصد دارند در چارچوب طرح ۲۰ بندی دونالد ترامپ، رئیس‌جمهوری آمریکا، یک عملیات بررسی میدانی و نقشه‌برداری در نوار غزهانجام دهند تا محل‌هایی برای تحویل سلاح‌های حماس مشخص شود.\u003cbr/\u003e\u003cbr/\u003eبر اساس این گزارش، هدف از این بررسی میدانی تعیین نقاطی است که از نظر جغرافیایی برای تحویل سلاح‌های اعضای حماس مناسب باشد. این روند بخشی از طرح آمریکا برای پیشبرد بازسازی غزه در برابر خلع سلاح حماس معرفی شده است.\u003cbr/\u003e\u003cbr/\u003eمقام‌های دفاعی اسرائیل از رویکرد واشنگتن در قبال بازسازی غزه ابراز سردرگمی کرده‌اند و می‌گویند، آمریکا می‌خواهد روندهایی را سرعت ببخشد که با تحولات میدانی همخوانی ندارد.\u003cbr/\u003e\u003cbr/\u003eمقام‌های امنیتی آگاه از جزئیات روند منطقه‌ای به والا گفته‌اند، میان رفتار حماس و خواسته آمریکا برای پیشبرد بازسازی در برابر تحویل سلاح‌ها، شکافی بزرگ وجود دارد.\u003cbr/\u003e\u003ca href=\"https://t.me/dw_farsi\" target=\"_blank\"\u003e@dw_farsi\u003c/a\u003e",
+      "date": "2026-10-14T14:48:18Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1830,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "DW Persian دویچه‌‌وله فارسی",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/JWzUgxZJgyeBR17yx_NRCyiZlsxGX7ZOWgRbREyInP8xkSeUq3zeunBcw9K_eP_lV8TlBpIzUpmI1W2sSnet_WO6eFEj5l_0HuvYTauHrCUJTuli94WbcT8kZi5OrOTfPBgSw_pOWG-Li5qJRDqaTmX8lomC3ZXf2WyQT5Quc0fbsfiL-QfjJX_NGI8i1pY4sR5SLg-G6VPgEZ09OUYj-BrEd_ZdlE07Fby07GwNKGe2CwaFnb2c_6a-CmLuunaCxgDPqKwEisohlK1SWW0E0OixWb5_yWt-_OPImZbkAVk7I17he1sg9UhtXcTdUMzQxenYjdEnhvPTBKkU6dSQYA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 131196,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8EA5.png\u0026#39;)\"\u003e\u003cb\u003e🎥\u003c/b\u003e\u003c/i\u003e\u003ca href=\"https://www.instagram.com/reel/DeeptjtFEpb/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e غرق شدن کشتی کانتینربر در تنگه هرمز؛ سپاه مدعی برخورد با مین شد\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eنیروی دریایی سپاه پاسداران انقلاب اسلامی از غرق شدن یک کشتی کانتینربر بر اثر \u0026#34;برخورد با مین\u0026#34; در تنگه هرمز خبر داد. رویترز به نقل از مقام‌های سنگاپور گزارش داد دو کشتی با پرتابه‌های ناشناس هدف قرار گرفته‌اند.\u003cbr/\u003eنیروی دریایی سپاه پاسداران روز چهارشنبه، ۲۲ مهر، اعلام کرد یک کشتی کانتینربر پس از برخورد با مین دریایی در تنگه هرمز آتش گرفت و غرق شد. سپاه این کشتی را \u0026#34;متخلف\u0026#34; خواند و مدعی شد قصد عبور از \u0026#34;مسیر غیرمجاز و پرخطر\u0026#34; را داشته است. رویترز به نقل از سازمان دریایی و بندری سنگاپور گزارش داد دو کشتی کانتینربر ثبت‌شده در این کشور با پرتابه‌های ناشناس هدف قرار گرفتند که یکی غرق شد و دیگری آسیب دید. منابع امنیت دریایی نیز غرق شدن کشتی \u0026#34;جی‌اف‌اس پراید\u0026#34; با پرچم سنگاپور را تأیید کرده‌اند. بر اساس داده‌های سازمان بین‌المللی دریانوردی، این دومین کشتی غرق‌شده از آغاز جنگ آمریکا و جمهوری اسلامی است. تصاویر این حادثه را رسانه‌های داخلی ایران منتشر کرده‌اند.\u003cbr/\u003e\u003ca href=\"https://t.me/dw_farsi\" target=\"_blank\"\u003e@dw_farsi\u003c/a\u003e",
+      "date": "2026-10-14T15:11:38Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1210,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "DW Persian دویچه‌‌وله فارسی",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/dySpEw85lT0mZi3vXSkRm7e3hP11M6OqXU4naa6ZOJd-rdzIdJgJk2iPf1YkqUpM3XjsWt0HcmSEilSwcDQGaTVEObSfF6CmI7FHY0EIn-eurj53m9oUzmo8UYAuJjd_7uqH72T8x_-2580qcR6B9Tb69jZKHHUuX5vS4LV9AUyc-YJ3hkZOrxK4SIRs7FbsIVic2SY6wIinI5cVlQeY30Mxn3OrF4Hj1SBLaVSIyhwbyVh5Wec8yDW6EYn_EX08dTyzUXekcdv2knxNXWGl9rJMp-D9QQfhFMjMXS7j4X33xWoklI0m0S9B3y9fHX9pPXCHfEd7_RdoKbjJfiqQrQ",
+          "width": 360
+        }
+      ]
+    },
+    {
+      "id": 131197,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B6.png\u0026#39;)\"\u003e\u003cb\u003e🔶\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://pepurl.com/p/5OFsO?at_medium=Messenger\u0026amp;amp;at_campaign=Telegram\u0026amp;amp;at_channel=DW_Persian\u0026amp;amp;at_dw_language=fa-ir\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eوال‌استریت ژورنال: حوثی‌ها با قطعات چینی موشک بالستیک می‌سازند\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eحوثی‌های یمن در تلاش‌اند، نسخه‌ای از موشک هدایت‌شونده \u0026#34;خیبرشکن\u0026#34; ایران را با استفاده از قطعات چینی تولید کنند. \u003cbr/\u003e\u003cbr/\u003eوال‌استریت ژورنال به نقل از گزارش \u0026#34;Conflict Armament Research\u0026#34; نوشت، حوثی‌های مورد حمایت تهران در حال استفاده از مجموعه‌ای از قطعات چینی برای ساخت یک موشک بالستیک میان‌برد پیشرفته هستند. بر اساس این گزارش، مدل مورد نظر حوثی‌ها به موشک خیبرشکن ایران شباهت دارد، موشکی هدایت‌شونده و دقیق که در زرادخانه موشکی جمهوری اسلامی جایگاه مهمی دارد.\u003cbr/\u003e\u003cbr/\u003eدر این گزارش آمده است، خیبرشکن ممکن است بردی در حدود ۱۹۰۰ مایل داشته باشد. در صورت تحقق چنین بردی، حوثی‌ها خواهند توانست از خاک یمن اهدافی در اسرائیل و عربستان سعودی را هدف قرار دهد. این مسئله می‌تواند موازنه امنیتی در دریای سرخ، خلیج فارس و بخش‌های گسترده‌تری از خاورمیانه را تحت تاثیر قرار دهد.\u003cbr/\u003e\u003ca href=\"https://t.me/dw_farsi\" target=\"_blank\"\u003e@dw_farsi\u003c/a\u003e",
+      "date": "2026-10-14T15:14:31Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1190,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "DW Persian دویچه‌‌وله فارسی",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/M-XZLyyEPuTvijAFrC8BTuTMli70Nin1XjmtxE0ET58CTrqPbUjHFV9_m5sm1kNOgXkLb8QOqH3_SoxU5h41lrohwrUU8KIly3bjiu83XiL1emRHDFPf3kVYUVnaE_Fmryf7bP6BRpNtXOyUWAENHWwhhgGB8AnVTpANmd7FOYioA1iL_Pspf_onBM6lPTT2qnzXlltNcYLhvIROhOgX8yEFvs3544Ysv9YCVT7k6l4E6WhtRQ2JmoPRzYIDo9pyeKqjBVe0SV8jqrOQvzR5NxiBBqoiNgyyp9eAzBDo2kzk1PM4v7bQuU545MQwG38_4qwWshT8Lv4CawxA1OGe2g.jpg"
+        }
+      ]
+    },
+    {
+      "id": 131198,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F94B6.png\u0026#39;)\"\u003e\u003cb\u003e🔶\u003c/b\u003e\u003c/i\u003e\u003ca href=\"https://pepurl.com/p/5OFGT?at_medium=Messenger\u0026amp;amp;at_campaign=Telegram\u0026amp;amp;at_channel=DW_Persian\u0026amp;amp;at_dw_language=fa-ir\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003e آلمان و ترکیه قصد دارند در تولید و تجارت تسلیحات همکاری کنند\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eهمکاری آلمان و ترکیه در زمینه تولید و تجارت تسلیحات و دیگر تجهیزات نظامی تا کنون نسبتا محدود بوده است اما فعالان اقتصادی دو کشور در \u0026#34;چهارمین کنفرانس اقتصادی آلمان و ترکیه\u0026#34; در آنکارا تلاش می‌کنند، این همکاری‌ها را گسترش دهند.\u003cbr/\u003e\u003cbr/\u003eجنگنده رادارگریز \u0026#34;کان\u0026#34; در فوریه ۲۰۲۴ نخستین پرواز آزمایشی خود را انجام داد. این جنگنده‌ ساخت ترکیه است اما موتور آن هنوز از آمریکا خریداری می‌شود.\u003cbr/\u003e\u003cbr/\u003eصنایع دفاعی ترکیه در سال‌های اخیر پیشرفت چشمگیری داشته‌اند. پهپاد مشهور جنگی و شناسایی \u0026#34;بایراکتار\u0026#34; دیگر تنها محصول موفق صادراتی این کشور نیست. موشک‌های هدایت‌شونده و ناوچه‌های جنگی نیز به محصولات پرطرفدار صادراتی ترکیه تبدیل شده‌اند. این پیشرفت‌ها توجه شرکت‌ها و کشورهایی مانند آلمان را که در بخش تسلیحات سرمایه‌گذاری می‌کنند جلب کرده است.\u003cbr/\u003e\u003cbr/\u003eآلمان در زمینه صادرات تسلیحات به ترکیه سال‌ها با دشواری روبرو بود. برای برلین، \u0026#34;اقدامات تهاجمی ترکیه علیه همسایگان و سرکوب منتقدان در داخل، مهم‌تر از همکاری دو کشور در ناتو بود.\u003cbr/\u003e\u003cbr/\u003eسامانه‌های تسلیحاتی ترکیه اکنون در سطح بین‌المللی توان رقابت دارند و برای کشورهای متحد از جمله آلمان جذاب شده‌اند و به همین دلیل، چهارمین کنفرانس اقتصادی آلمان و ترکیه در آنکارا به‌طور ویژه بر همکاری در صنایع دفاعی و امنیتی متمرکز شده است.\u003cbr/\u003e\u003cbr/\u003eفلوریان گلایش از شرکت آلمانی \u0026#34;رنک\u0026#34;، برای حضور در چهارمین کنفرانس دو کشور به آنکارا سفر کرده است. شرکت رنک که دفتر مرکزی آن در شهر آگسبورگ آلمان قرار دارد، یکی از شرکت‌های بزرگ صنایع دفاعی است و از جمله جعبه‌دنده \u0026#34;تانک لئوپارد ۲\u0026#34; را تولید می‌کند.\u003cbr/\u003e\u003cbr/\u003eاین شرکت در گذشته محصولات خود را به ترکیه صادر می‌کرد، اما بعدا دولت آلمان محدودیت‌هایی برای صادرات وضع کرد. گلایش می‌گوید، از آن زمان تا کنون تحولات زیادی در ترکیه رخ داده است و روابط دو طرف دیگر صرفا رابطه خریدار و فروشنده نیست، بلکه به سمت مشارکت حرکت می‌کند. به گفته گلایش شرکت‌های آلمانی دانش فنی دارند و ترکیه از ظرفیت‌های تولیدی برخوردار است؛ به همین دلیل دو طرف خواهان همکاری با یکدیگر هستند.\u003cbr/\u003e\u003ca href=\"https://t.me/dw_farsi\" target=\"_blank\"\u003e@dw_farsi\u003c/a\u003e",
+      "date": "2026-10-14T15:34:05Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 363,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "DW Persian دویچه‌‌وله فارسی"
     }
   ],
   "last_updated": 0
