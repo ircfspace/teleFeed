@@ -12,7 +12,7 @@
       "date": "2026-10-15T10:49:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4720,
+      "views": 5990,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +66,7 @@
       "date": "2026-10-15T10:49:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5320,
+      "views": 6680,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -85,7 +85,7 @@
       "date": "2026-10-15T12:58:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2650,
+      "views": 4650,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -104,7 +104,7 @@
       "date": "2026-10-15T12:58:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2560,
+      "views": 4880,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -123,7 +123,7 @@
       "date": "2026-10-15T12:58:48Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3470,
+      "views": 6340,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -142,7 +142,7 @@
       "date": "2026-10-15T12:58:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4470,
+      "views": 9220,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -187,6 +187,44 @@
         {
           "type": "video",
           "url": "https://cdn4.telesco.pe/file/D0pli7Ud2b1oi-JvL61uf80eygaQ5RzNe23I2mPIO_hl2WDro0xuDh4ixqIQOr-lEyOjHuNim8It5uq8KM5Dwke5h2HFRM6-zCiYHEiynKLf9_r-aySABc13wszqpRDcrpsVWakk6K0lgOOMS0zogLNGTFU4xaxCUu92qW0G5SWCQuaZDcfG8HiASvxrGQv70qME0fpEkb7NzmdeO-k1NzQYvtFXMbkPwRYEVQ0OxxKre0Md3_ze0DxeTgprDKDnsGqcoB3CH39YxVLzJPxhc_oeQyy705GediUI4Ykktd7RQ-i1P3jhDU0rK2NTdZAVrwH62RXQPQXMr3SvvLz7PA"
+        }
+      ]
+    },
+    {
+      "id": 108461,
+      "message": "روز دوم اعتراض چه می‌شود؟ آغاز یک حرکت جمعی، با ادامه‌دادن آن تفاوت دارد. در این پادکست، چالش دوام اعتصاب، فشار اقتصادی بر خانواده‌ها و نقش همبستگی را بررسی می‌کنیم. فشار جمعی چگونه می‌تواند محاسبات حامیان حکومت را تغییر دهد و هم‌زمان، زندگی مردم و نهادهای ضروری کشور را حفظ کند؟",
+      "date": "2026-10-15T16:18:51Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6270,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/HwB8xsNzupo6NRD3U13Xh4Efj_SmSlfjbk-g4D_PSQCxkxnIxnl2-GASNCS3DtO-pOaWGBjYk1a92HOtxFzQNTkpm_e2eV1izxoy7J5N6XEKtRIjbj609QMW2bl9AWmy_7_qB32zjhGSrRVNZ-0pPqyptDEjBiqpXt35ghVCLT2hxErVKx3ElhiwLjwO8W7oNWnt4pRgUT-NmHnTCmlG84qC_8s92aBXBNkikLXTDpVsBjRnMiuqtQOFiIdvnXe7lpZYn0c5NGek0O6Ql-HDjUTxXmj76Il9XPkpwTgWJlt5YpCs2BXLDY-w0AAtgqT-TJhPLtd0tPgWbwciNXiNqg",
+          "width": 406
+        }
+      ]
+    },
+    {
+      "id": 108462,
+      "message": "فناوری ایرانی، قطعات چینی و تلاش برای تولید در یمن؛ وال‌استریت ژورنال از محموله‌های توقیفی پرده برداشته که سرنخ گسترش برنامه موشکی حوثی‌ها هستند.\u003cbr/\u003e\u003cbr/\u003eقطعات اختصاصی، ماشین‌آلات و مواد اولیه، نشانه‌هایی از تلاش برای عبور از مونتاژ موشک‌های آماده به تولید بخش‌هایی از آن‌ها در خاک یمن‌اند؛ مسیری که می‌تواند مهار این برنامه را دشوارتر کند.\u003cbr/\u003e\u003cbr/\u003eآیا حوثی‌ها در حال ساخت زنجیره‌ای برای تولید موشک‌اند که دیگر فقط به مسیر تأمین ایران وابسته نباشد؟",
+      "date": "2026-10-15T17:21:56Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4530,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/T3TiDaUHt4k9FYkVhQ64zDJEp8AApqe0bJzGA1zY5GkCqSYPKJqagb-_WIzXgGYa81cA37gbh5DFViBq_yuJTHXRWPXE1qXHxSK7F_PWkZpep5IOmYFF0kSJYdZ_Qvr2ZHcWQ2vGXaQE_tAgtvkQCTkm-lQ91uSHN45_AMaRhzekbSZpSZOMRzovo7nHD0eCpayUj9CJb8tQJK0EAd-EHFMSFu96FIQ9a6XDNureyHzkvx4K0_X3sI5CAAf3WA0-pLyqHGMrGB05yqyPxVbLgfrzzpWHWBdXvINANpZ9QPEaSB6d2Apb3I0o2hkmlWmSTA2huwtnghCWh3MWaIfvCA",
+          "width": 720
         }
       ]
     }
