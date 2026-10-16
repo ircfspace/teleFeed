@@ -3,7 +3,7 @@
     "id": 0,
     "title": "تلویزیون منوتو",
     "username": "ManotoTV",
-    "photo_url": "https://cdn4.telesco.pe/file/YBUtPu4QmjkNchj9yW-VUx8vuz0Ueye6UX5QbjM1V5mg3goq7fHfEi7zfmT-PSdOfVpBbCWGtuluGL8Rmu0JLr1Fj9G6huyvw5qZDRuOA4ykmCe1ic1eR7wXRgc6nnOhWDiekgFWdEjaIFcZAgV1rVFKhcdunAJM8FG2OCABEr8nvaJfIUrhbfnvQHEH7S_xlDiBdFciUYUZUBABxUDbcAjYYAfNR-dN-fzN6G4AdvRbU-Mzro-WPwIIIRoeaZVMq5wlD8ulr9i_QwXuohkp2cPhT6RFVhm5c_eR-23Z5kITyGi0zAjINodlIkqwaNoLgrH2qkusT4n-10UOUoctmQ.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/q0oudk7fdQ2VxQIoL5uUQ4aZNrMe-QK5n-KwhW6LQPSUNSQC9lx1HhvFNQy1rbiFiRUmenl9wKPplORjxWaqudvM1JBapXo6bdqSx9Vd61_fB05CgCLtADy9bPHg0KQG_lYATMiDaWdm3Jo3c6a7N1-a9K9tdOWGEr50BrNdDDKIuO5jeThNooVXXPe0yYevivLeilGjzdNQWAEI2pt44qr4a06KHFzkKVT2i50yXEPP35KdGO8kjmGMKKRR9cVjPmFT-LVjyBZJmIwGLeUpDRJQ4NxR1TnHEOxlWnfs9V7f1Iwm4oyfoYzYsDy1JMXErOz9ATDG-VZv2NYl_hNq1g.jpg"
   },
   "posts": [
     {
@@ -12,7 +12,7 @@
       "date": "2026-10-16T10:01:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8860,
+      "views": 9780,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -62,7 +62,7 @@
       "date": "2026-10-16T11:14:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8810,
+      "views": 9920,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -81,7 +81,7 @@
       "date": "2026-10-16T12:23:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8360,
+      "views": 9610,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -100,7 +100,7 @@
       "date": "2026-10-16T14:03:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7030,
+      "views": 8800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -119,7 +119,7 @@
       "date": "2026-10-16T16:59:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3230,
+      "views": 5920,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -138,7 +138,7 @@
       "date": "2026-10-16T17:00:25Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2820,
+      "views": 5290,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -157,7 +157,7 @@
       "date": "2026-10-16T17:00:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3520,
+      "views": 6360,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -176,7 +176,7 @@
       "date": "2026-10-16T17:05:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4110,
+      "views": 8690,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -230,7 +230,7 @@
       "date": "2026-10-16T18:14:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 995,
+      "views": 7490,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -239,6 +239,25 @@
         {
           "type": "video",
           "url": "https://cdn4.telesco.pe/file/WAYoLXf5ZtJxZZ8z5UMotEtCEjE109RtOrqMMLD5jw_VCFjAO6Q--6TUbHSETRjXlfUlVANAHHUaNzK5HKqNdT6z3WhD2WbgT3GcYnPM8XZmTkMsPaRxwdzsoTHkYXCWVgesCZPkt5waDaCkjwKVcG1BXL27UL0teAXp3fEm4znkppZqN3UKiH6U-bzeuTXly93vB7idCq-Oq27czTig3T02Q22SeXeYIDNca0z0_v3W0YQ2vlDXBtNeyeZIhq1NZXukTFviCrX68BltjUJPiP-WQIG-m_TAhLZXCitKE0bdCUnpBVDufbLHIVM5LtuiMWA3VLfMEDXO6_5IKBvoZQ",
+          "width": 406
+        }
+      ]
+    },
+    {
+      "id": 108494,
+      "message": "در ویدئوی ارسالی به گزارشگر من‌وتو، تابلویی کنار جاده دیده می‌شود که برای دریافت صدقه، شمارهٔ کارت معرفی کرده است. در شرایطی که اعتماد مردم به نهادهای حکومتی از بین رفته، چه تضمینی هست که این پول به نیازمندان برسد؟\u003cbr/\u003eجمهوری اسلامی دهه‌ها با وعدهٔ حمایت از محرومان حکومت کرده، اما امروز باز هم دست در جیب همان مردمی می‌برد که زیر فشار گرانی و فقرند. احساس مسئولیت مردم نسبت به یکدیگر، مجوزی برای جمع‌آوری پول بدون شفافیت نیست.",
+      "date": "2026-10-16T20:06:44Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3800,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/lgVRj0EQqLydS-oksh_8UvL4psDH9Pg4a1LakVIjYSI1ZsTLEsUac6IeHxRNEbwWJRInCFo6bn19AqlOyNQT-tnW4SR30z2aiFecWzPPh4KtCPbVp7zt3X6VTAdsNmBK-D6euGvJLx5BeHDYsXrGjJhez00pfLFSzWF0N7RkvJRrKe3pLTE7WZ3ccXpnkuumosbfB3rr-3VaDvH_kIceuP5Iai6eA22EufD2_mgVMn-I1zQG_TK8u2T8Zde8gZtZY_ZZytoQiVKZXh6iZ8K3PcGk3KFRyBErsXNRXEfIg_m_RhePqVsGVlDJYk2fqGrMxMv-EBpDW0qw3cAUHJY3uw",
           "width": 406
         }
       ]
