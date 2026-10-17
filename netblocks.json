@@ -7,48 +7,12 @@
   },
   "posts": [
     {
-      "id": 1549,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e Confirmed: Metrics show a major disruption to internet connectivity in Donetsk Oblast, Russian-occupied \u003ca href=\"?q=%23Ukraine\"\u003e#Ukraine\u003c/a\u003e, corresponding to local reports of a widespread power and telecoms outage \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9389.png\u0026#39;)\"\u003e\u003cb\u003e📉\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-09-18T21:22:35Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25600,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "NetBlocks",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/b5SyKsbmsWpUJz_xqqtNUbwTSlu2e4Q8-Kr-VgTJMbgyIlGBN5SugOohAwGzBqVGHbsHKcKUiO0gyeY3LB34uUZqDRU7tysVFctmVu4Hcul3RZDw2dl3dvxQPhWatLmTcvZNUEHwG1cW-W2Ky_MyUYYn2DilB-35uKk4aHfImHdOpcnURcDCyjvqQ1ZVQr65GdmflxD7iQZlTD6axzgKvGOR-74q_bbyIKWuLLi5M_UhsefKe5Xd-ChKFiXpH2S9ndxgTGC3rRQpFEkSxX0kHxINYgGEQcOOBgezfN_I4j4v1qx0VRtMOzzLCCDGW6SyTFlmGf7etQY18ayHlQCkTw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 1550,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e Confirmed: Network data show a decline in internet connectivity in Odesa, \u003ca href=\"?q=%23Ukraine\"\u003e#Ukraine\u003c/a\u003e, corresponding to power outages following Russian missile attacks on port and transport infrastructure \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9389.png\u0026#39;)\"\u003e\u003cb\u003e📉\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-09-19T02:54:11Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "NetBlocks",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/XtJhL4hlK3VTTyMB19KwbgwABMv_XkNgcMlBGAYAGWd0vE8j-Lo1p6PkeE6uc0mxfmNoLgzAnsKpgqeb69_r3aGgwje8gdwrhahM6SRW2T_2NxTzARrMfLWHTZgDPW5xn6jD-sQqOJrmnQ3IQRQQ6ogFh6IkTDrigrFMQR1l0KnHAwapvckl8kmtT_WtST7igihS2s_w4VCTENylR8cBU4RNAWJWGCbyPLvKsndaM96fI8Bkj1h4pLWfsvqtaYObGDPaK2ZPyg6dPtFkPwwC-RKgV7KvB6cmLXr4pdugpT78dGMvWrRy7tK9iatQ6grrrp_CVODu16fB91JdnJHjmw.jpg"
-        }
-      ]
-    },
-    {
       "id": 1551,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E284B9.png\u0026#39;)\"\u003e\u003cb\u003eℹ️\u003c/b\u003e\u003c/i\u003e ICYMI: At least four Kyiv internet providers and their downstreams serving \u003ca href=\"?q=%23Ukraine\"\u003e#Ukraine\u003c/a\u003e experienced a partial loss of connectivity on Wednesday morning; the disruptions are linked to Russian drone attacks targeting data centers allegedly used by the Armed Forces of Ukraine",
       "date": "2026-09-24T03:01:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21300,
+      "views": 21400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +30,7 @@
       "date": "2026-09-24T22:36:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19800,
+      "views": 19900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +48,7 @@
       "date": "2026-09-25T19:03:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 20800,
+      "views": 21000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -92,7 +56,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/EfVk97vA1XDpdLaHmypKOWiAvR9jPelv-x23jKaQ0hjBb2GHXzdJIrTgKfzl3f5wyAaXjjhoNzRgkFO6QbK9z0_IJ70Gbgtfq7OFwo0TrcUA5puhTxkOPwzq2uxZb3anDaB54U6Yir6sM0Y2c9glp0kDeMECVQFqwUSxaNDEaXIoCbYMFMuWJ744KBwBvZSmW7rQZKMODCScfQ4SyIttjhjumV43Qsr1gqeLVlIccidH-v4YDqlcWCe1ZBthc0fzF54089a8cR6ntQQ3315kQo_J6nN4jfGooIrOKiRS2Y2v_-mq5H-kPzos2mxw5iLdqESnU_ktCviOjcre7duXUw.jpg"
+          "url": "https://cdn4.telesco.pe/file/NMMHnq6-Iyn0PTaTMDULaLZLusHzab_94cCtMI4ugP0HWaIX51GzMFa7hUIQpn982OvfIhtfIZQRlooph9uzhDPyW1OyVAcvXdkZx7zL4cH4XvL3epazwbOXmCmc3KmkfenYd8qyPkhkAgUHg5ZHJXbhVX0XdJUp4Svf9EFyaat584S_7lpWbIwYN6z9SyWbxB94yyNar_Rb0-LbgVNUTU0iFLp1j2tphKnLJd0MEeqOqM3LmvuHrC9ZEVQS62SFtR8G7t14s4WdBK3DsBcFu66tHtKixJ5uHNe_exgDfPVyFthPHBJbr3uKuCcu0IJOS09_aiI75mEl1BnqIGSMuQ.jpg"
         }
       ]
     },
@@ -102,7 +66,7 @@
       "date": "2026-09-26T11:13:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21300,
+      "views": 21500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +84,7 @@
       "date": "2026-09-27T16:16:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 23100,
+      "views": 23300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -128,7 +92,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/kvO_TBY61yeNro0vFjbbkTiihUUnkV0YQdxV5mn1WlPG5sDBiveoFWZ3Oy07sDtBGXDAF2jDpUX_k9NRv6VBYSGoo9nwfGxq-_cnKXc9sX-0sw4OIiZWv0upXMqylj-eO5uzEjffPidArr4Mqw0eqDZcv49nuaDYG4xKpOx4vBtx0Tipei4YIQm84NMrtI2wiIRIX-H0G4sAqybX-JVnIl3kkBFL1jhHnWrwbhSytj5tmiXMA0KrqRTRdlKR6q0LNGTD_kVJY9zruLV_lNMk4m2Rbl7YloXaPquKPL-EF7RTr7QSiBCSeAxGh0cggUBO6mjm0L14y8yFRY3zOXGYvA.jpg"
+          "url": "https://cdn4.telesco.pe/file/FsstsrsXomjc5GQ6fno-Zq53fvmZZq-lHseIek-80mqJ_EKZjSN8gAKtZsNnt1N_GThQMe0BY2OXq6n5xU25ByhVcvDtvScEgOX6qaKMpbKMk1YsKXKd3_dk5szSVS8kE33EgvwcFaHaI2ZNgNBhw6IRHuZIRJIjDCYsEo9Qd5TFf_iE5QlLD_G4LWudpWInoxWxyOP8chx0SQz-wYPgp9QotnT0NsSZ1UUaY3-UcwBlsoiP2y7879YHG327qn-E06xnBRI59qtEOCpw9bRzRQbeCtTamud7-IOTr1OHKRDCDoiJNO2xIIYZ8rttUaUzEhus0WyUXA1eKWPM-6OsyQ.jpg"
         }
       ]
     },
@@ -138,7 +102,7 @@
       "date": "2026-09-27T23:13:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24400,
+      "views": 24800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -156,7 +120,7 @@
       "date": "2026-09-30T17:46:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21900,
+      "views": 23000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -164,7 +128,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/NGYPmQfQSKVI7SucASp-TiDwtEDiH3Lc5JRdMjzWqN1A9Ntrlgq0LDV9ZPDIDIyn1MoEFgxT4mNwSTJQbTrqmPE_KfpDS_FcifD2v6r_B2hlbU9nj-yJciJoJ1LJ9_SmDZpXcLexV5MM6bMsYAhFQ1LaTxPKGDL7rxdTvnXm5Brw96DxL5jzxEHFKkgY2aic58hW3pUIxsYHzkAr6PNFjPx9STKwvtBQab8UY7bgiEJpRHbjNVGM8JveLmlLW6Zh4T9PDrFxDK9LUkIuU3EDwBq9FFfGwRR50-kmlJiE7nH34Gwgbepwh8PRz1RV1q-uGGQB2hfNx5zBjqSi8HYShA.jpg"
+          "url": "https://cdn4.telesco.pe/file/qubeD4vPcKzEkYoU0TkSZb8elmJ08HEjoYEbmqHbqocO-uJYX3ugzoSH4hZS8Zie-go-UC0Gq-Mmbeci8RjNA3RBpdbWn091z4lctYgPXchhbFbyTHxZP9nKB69qSLFqjJjSOHUF67wxOhDKUV-C1ogzCiI8X1Ur9AvyHzUlV2947pf1ysNlQc6LL6YdUnn-ozE1hhxSskiOEcnZKj-79GbSzMS7t0Ikwwv5Ya3KtO1CZk_d_sdsSbIt6VTFZi99vDZ4L_HFtvKUsc_Sp4r6iRUt5rstfv7MqdETz8uWECFjT82-e5v5ihYGYJOWnBuNv6lsfnvloXwUc88nQXPL7A.jpg"
         }
       ]
     },
@@ -174,7 +138,7 @@
       "date": "2026-10-07T17:35:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 16300,
+      "views": 16900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -192,7 +156,7 @@
       "date": "2026-10-08T01:25:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 30600,
+      "views": 30900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -210,7 +174,7 @@
       "date": "2026-10-09T19:05:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19800,
+      "views": 20100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -228,7 +192,7 @@
       "date": "2026-10-10T01:45:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13800,
+      "views": 14200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -246,7 +210,7 @@
       "date": "2026-10-10T11:28:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 13500,
+      "views": 14100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -264,7 +228,7 @@
       "date": "2026-10-11T05:35:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14600,
+      "views": 15100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -282,7 +246,7 @@
       "date": "2026-10-11T18:27:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14900,
+      "views": 15500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -300,7 +264,7 @@
       "date": "2026-10-12T10:42:26Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15400,
+      "views": 16200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -318,7 +282,7 @@
       "date": "2026-10-12T13:46:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 15500,
+      "views": 16500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -326,7 +290,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/mNrY9MnPEykF1qwysbF0ki_hg3g_2Qwh2FmMO-EngMDuLnchOeC47hJCPsoczt7BefOKUXvbJxHfS9kFE5Km2NhMqTQloSafCeklXLTWYdRX1iU633N8gOqQGhWL9vT1AFLSXKLBX9i0z06SLgPgLNPJ_WbBPGOBezYSnlpkQ7JWc9cSMnEU-BZ8_ao_0GDm_IhFqTfw9gO707FxwXDHBFfOMEU7R2kwgnBZcLWQg-oTjB-2T4tjpg7lQN6INmIjQ_DZ9V0F-cTn6ATaW8O_5LQGjRVVQlf4ev5du-miR-dEbt9fY2P6HyNZpW7074gMcg2A1zidYxImfP-ulZASSQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/ZcmYqSx-T1SXx4_HMgy97OEHcGApHfW2RZS_xVVlVYujru9evFGyWW8m3g92VwrP98I8oxIaM3CFXwBfc3SIEg53vgfTqzxCE6S-8F-PjzSJvrV68EM6GYAcKMrqq2A9eIytGvEbRobL_tyN-FvKBfFWoLfKI_ozPMOZrDnbbcXISvBW1JQJj9ZuVINacJ2jedxuI3yJ_Km2BscxhDCxJwVZB9m-1VfC8k-wPumNKTzhEduhf9DONAVjQB-nIfSNSCfLYCtqoez_ByZHdijZH-lTmJ_FF4lOY-42GOHlp92qPRkxW4CsIp2sqt79TH_VL4lhkYThBX549keZTIv5Fg.jpg"
         }
       ]
     },
@@ -336,7 +300,7 @@
       "date": "2026-10-16T09:54:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7800,
+      "views": 8910,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -354,7 +318,7 @@
       "date": "2026-10-17T00:10:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5150,
+      "views": 7150,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -363,6 +327,42 @@
         {
           "type": "photo",
           "url": "https://cdn4.telesco.pe/file/Inde9iYydHce71O_lVfsXWl6Br_GL111DxRLlpJvMwNk6k6DGT2eRw-CJWHBK6z4EMO4xHi0D8bOKk33It2cmO5okRO3efWUD-eDrS-zYCyOju1Z3nX1slLhNF624_0y_pq3fnZfp9be6I8Sema5uv_7AAkbVtEM15fxnRlVUEN66LpZafKZl4GXJPHHF2-74oUfmAiN7pCC-z-w3OXQI2TD7ccu0WetrUmPhEEORpmCQ6AiYgdPk6dIydchxDeWqzhF_c-kuRxvWsC52lnmYc_XDrVlo0bz4_8M6VIWHj_eYku5mYAKmBABThYlNE1F0Wq8bkPy5gl7IO4U0EgzcA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 1570,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e Confirmed: Network data show a significant disruption to internet connectivity in Vinnytsia, \u003ca href=\"?q=%23Ukraine\"\u003e#Ukraine\u003c/a\u003e, following Russia\u0026#39;s latest wave of attacks targeting energy infrastructure, as authorities impose emergency power shutdowns across the country",
+      "date": "2026-10-17T12:02:27Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3900,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "NetBlocks",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/qdxVNqviDljSZG5_EgPUs0nTlKjMu-zjD8bE_r04saD7hM4o6IBuCRpfBLBJBcj5C25Xun36olrLUaPpEpKqu6ZkBgc3o38rfPIDz_2X79p5cpBi7GBcXmYbQ8a0dNyw6iSZhNolR4-uQ91DFXHskLgt7IYAAD3JivGUpsxHaKo7q-YgxO0TP9KCZjMW0r6rNgKWPYZG5_OPsNh4I4oFT_C_RoVjU21SNhsKnDCD0urZE3CmXtbruu7vFJb5KRPuUm6Vl2OHIpXHSpyXYL3F3TmDofi-yki5I8bos9qz6BSxUSVZntp3c8LRYSALfxq-5hj3PQN5vGLwRJYFtv2IwA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 1571,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA0.png\u0026#39;)\"\u003e\u003cb\u003e⚠️\u003c/b\u003e\u003c/i\u003e Confirmed: Metrics show a decline in internet connectivity in Sri Lanka corresponding to a nationwide power outage as energy grid operator NSO reports a total system failure linked to instability in the national transmission network",
+      "date": "2026-10-17T12:51:57Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2590,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "NetBlocks",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/p1PAkTgcgr0piKMbsUb3kHlf0lC8ohf6dNhpMloJkBYRKgJJG1BGSzt4IQcjlz2JJo4m2ypTMYmZXjABMLt7sw4a1HEAKmupewJT51xGk_wh5CsysMDzVFSCYu88Vq_7i4CokylSaSflE1UPX-pI4xsEHxPdKmAkAcQMDkEOQX3vFs-H9pLU21GFBjEwmKK0BX71zmBjOCgOXEumHPqtmgYQiHGyY9psy9ZsiOeU9rbhatkfDXAzbWpkwRGHUTTqm5m9yuncbMcILj9gOHS8rxMHmQkjU9zbP0Ay5H-CM-J3vvztD7MQUbcH-xo76MkU5SFCl8_09bp9eV2DprG-hA.jpg"
         }
       ]
     }
