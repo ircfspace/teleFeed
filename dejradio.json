@@ -3,7 +3,7 @@
     "id": 0,
     "title": "DEJ",
     "username": "DEJradio",
-    "photo_url": "https://cdn4.telesco.pe/file/u6rtrw5M1gi1kFwj_de_czsQRdjHymh_0GkYdwUTzh3SM9BFy9UhUYmRuk7LkH-a-yFe2-Qihy6Iht7vZEQhZzvtzvGAWl93og8UbXGfrW_w-vG70CHyTkzz2DLz7e_syHSPdVzrksL0zj47qmYCNzB-pzDi59fofF30gwFWxN7qc9m3YLkabUwk__nH43g-ccZCKCS8-tZ3nDlanVyRm8NThS4lpEtiVwtLrpIt_zueqJzHwDwbj5P25iemDNT3GfSmAQgpeNK6Kw-72HvYTTgI9pl372zSBDf3IvU86v83T1jIZye8sSYOfXQ9lQ-zn1XuJKRfxGuNIM1L7XLXyA.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/uThRQzjLwhSRgxeZPb1OvI8pZrUGZkuGn_qJKw1TFLhmoHx3530d7ossHy212jVPA4fHLJ6YEzYNqH84y0uCb63iJTqk95J2XIcVTaxfKeBdtZdzBngaQozbOo8MD_GixKfXhAz30yLzCQ32ehpKy755tN92qC0T2r6ww-vqVHGMZX7Dxx2rkqW2wVUQc-zj3ka_0pDc5rQwOi85fmpySnxcF0D-hq3gTAQZOy8SmuBWmY_R6CsC_Zzw-oy1BlFf4AzZexAjJwhsTY2XugyhXRQVz6G37X8ZZHLPjHNmrsAbol92uMHgSWQTm45Yc3I45Rm5qeBysttcUP_xRawBWw.jpg"
   },
   "posts": [
     {
@@ -12,7 +12,7 @@
       "date": "2026-10-19T19:32:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2130,
+      "views": 2160,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -34,7 +34,7 @@
       "date": "2026-10-19T20:22:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2180,
+      "views": 2210,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -42,7 +42,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/VZO-tof-mAG5IwFpV05AzBv0UOQCULH508BlgR7AfuwHKbV3y6dcQBHcpY6zo0eC5c6SN6Xq1cFbdbXDXks7hup8w5UCmYgQw2LJDZtJ_25fyjI9DvcEy6TFff0xgK9axCnWr8Rsb-0odasH-y7k8L7v-GFMaS0c-l3L9x-JUuw5QvhbAzPRKsTgzYjJVB8QUswrNAM3fVllQUzQH-dFtPtjFb2xXoMQ4T2gPmq-vYVxEtZgD9cMtAuoGKGVnNYheI3StgyLF9bwM3WZAOeoe31B96a0qgNQP9QrjzuNkChlaW6eOlNABe1OLxmXUy3K0kp_j7OHd5BB_JIrUWUQ_g",
+          "url": "https://cdn4.telesco.pe/file/FXXp_CXC9p5naA683xdEIHlHvAdYVKLnpZWRYZca-qm8CggKbzsR_gr6hb5Qe2S_l5uP5GYVZeYtfWmTllUhw35O155UB33IcLoW-dhhaquujzxCEGNpKYbWn5Rr-2dMrr4u10X2XSd9wS8YwBgoMVjgdaAbDzgtCQu3TqCFXy7Oxz6JXS6ikBdnDgDlIL2SHyUQCf1l4xnw-pBMFC8Kzd8PsViMsAL3MOP92X74TFQTXRhDW_bYxUBvyMAaQBatJe7-4EEFNzYklzFtY2LiKVI2IrhWGEKH1-kujvvjYichg-r5QIby9jfkrwYEG4pCesprELWzfBp-F4Bc_NwR1A",
           "width": 640
         }
       ]
@@ -53,7 +53,7 @@
       "date": "2026-10-20T07:25:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1900,
+      "views": 1980,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -72,7 +72,7 @@
       "date": "2026-10-20T08:02:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1820,
+      "views": 1910,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -94,7 +94,7 @@
       "date": "2026-10-20T08:31:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1770,
+      "views": 1860,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -113,7 +113,7 @@
       "date": "2026-10-20T11:26:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1740,
+      "views": 1840,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +132,7 @@
       "date": "2026-10-20T11:52:23Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1770,
+      "views": 1900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -151,7 +151,7 @@
       "date": "2026-10-20T12:01:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1590,
+      "views": 1680,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -170,7 +170,7 @@
       "date": "2026-10-20T13:05:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1560,
+      "views": 1670,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -189,7 +189,7 @@
       "date": "2026-10-20T13:15:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1450,
+      "views": 1560,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -208,7 +208,7 @@
       "date": "2026-10-20T13:47:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1390,
+      "views": 1520,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -227,7 +227,7 @@
       "date": "2026-10-20T14:09:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1430,
+      "views": 1590,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -245,7 +245,7 @@
       "date": "2026-10-20T15:30:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1360,
+      "views": 1590,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -263,7 +263,7 @@
       "date": "2026-10-20T15:51:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1320,
+      "views": 1550,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -282,7 +282,7 @@
       "date": "2026-10-20T16:40:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1100,
+      "views": 1480,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -301,7 +301,7 @@
       "date": "2026-10-20T17:22:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 982,
+      "views": 1480,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -320,7 +320,7 @@
       "date": "2026-10-20T17:43:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 825,
+      "views": 1310,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -339,7 +339,7 @@
       "date": "2026-10-20T18:54:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 488,
+      "views": 1220,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -348,6 +348,24 @@
         {
           "type": "photo",
           "url": "https://cdn4.telesco.pe/file/du1Uw6hdqL2pMFEXkhvSI1aTQrFZK0Jd75m3I7YUg4TEIr4nVRk7TEK7h2yUD2_ydl1m0mw76xV_a7Je1f2WUTe00sY2K2T8GmNnocT_ojTDhC3AVIf0l4A2f-k5KlhRuLjLY-x9HKd5kFOYXbGWi2lg02X5yiJcsOS-H29h10-VrazRYznf_8mp7N_0EEYuAQzy2BGiv6s5lAC-2J55rVCgOmmEJWDraToCiYARtUgLl1byaRb6Xm0X7cOLNLyNmiXXjhkzUMIizNLlWaDzVEllguFDYowu9TE07tlbA5IYmqIbt3na_mIzGAlppwBlUQyvy0gYENzoF2-6EGNDQQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 8678,
+      "message": "\u003ctg-emoji emoji-id=\"5213419616725903784\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9AA8.png\u0026#39;)\"\u003e\u003cb\u003e🚨\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5951842387465605469\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E2AD95.png\u0026#39;)\"\u003e\u003cb\u003e⭕️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e \u003cb\u003e بازداشت دوبارۀ دو مظنون به همکاری با دستگاه اطلاعاتی جمهوری اسلامی در بریتانیا\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eپلیس ضدتروریسم بریتانیا روز سه‌شنبه ۲۸ مهرماه اعلام کرد دو مرد را در ارتباط با تحقیقات مربوط به فعالیت‌های مشکوک در اطراف پایگاه هوایی فرفورد،به اتهام همکاری با دستگاه اطلاعاتی جمهوری اسلامی،بار دیگر بازداشت کرده است.\u003cbr/\u003eبه گزارش رویترز به نقل از پلیس بریتانیا،بازداشت‌شدگان یک شهروند ۲۴ سالۀ بریتانیایی و یک شهروند ۲۵ سالۀ دوتابعیتی ایرانی-بریتانیایی هستند. فرد نخست پیش‌تر در نزدیکی پایگاه هوایی فرفورد و نفر دوم در لندن بازداشت شده بودند. بازداشت مجدد این دو نفر بر اساس قانون امنیت ملی بریتانیا صورت گرفته است.\u003cbr/\u003eپلیس بریتانیا در ادامه تحقیقات دو مظنون دیگر را نیز بازداشت کرده بود،اما هر هفت نفر با قرار وثیقه آزاد شدند؛ تا اینکه دو نفر از آنان روز سه‌شنبه بار دیگر بازداشت شدند.\u003cbr/\u003eاندی برنهام،نخست‌وزیر  بریتانیا هفتۀ گذشته گفته بود که فعالیت‌های مشکوک در پایگاه فرفورد احتمالاً از داخل ایران هماهنگ شده است.\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"?q=%23%D9%81%D8%B1%D9%81%D9%88%D8%B1%D8%AF\"\u003e#فرفورد\u003c/a\u003e \u003ca href=\"?q=%23%D8%A8%D8%B1%DB%8C%D8%AA%D8%A7%D9%86%DB%8C%D8%A7\"\u003e#بریتانیا\u003c/a\u003e \u003ca href=\"?q=%23%D8%AA%D8%B1%D9%88%D8%B1%DB%8C%D8%B3%D9%85\"\u003e#تروریسم\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/DEJradio\" target=\"_blank\"\u003e@DEJradio\u003c/a\u003e",
+      "date": "2026-10-20T19:57:13Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 892,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "DEJ",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/bKAXXmyqA1uJA7MkNKU_E63Zx5CyP25pk54ZU4S5j2mNTJ7Blfo5Pwn_tql2yg6IKnROaS3On_CWDC2fdhc16B44iUxD80Rkofjo4G-142hEybgQk1tmg-DyN2CUll-USgI06Ugm7WbnYJiMI2niSjmSNloHjnNwEXhiBKccTRg-hLpCNRLiUtnF0UwULfxaQU8iMbR8-tDPKJBwW3hEstF0GECYlNDo8rNr-LK1DLUu-tPtSkZ350aiotIa_3GZV_0Jq03IeviqhhrVsJBCBJHpKGarKt-48fQ3daXW-qFHAUfgJdE21gSii_aMU2GCAZkxCR9jvyf-wp_RUlvSvg.jpg"
         }
       ]
     }
