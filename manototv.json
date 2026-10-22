@@ -3,7 +3,7 @@
     "id": 0,
     "title": "تلویزیون منوتو",
     "username": "ManotoTV",
-    "photo_url": "https://cdn4.telesco.pe/file/rrCb2_RpHB6NGABwCxbeAjzyuoADEI-NVrnY9y0xia-3mMQ6SPrdxTcq7YtEt6u0zt-Nph-bRW22269_tJeso7C__hpMErW6FdWuboLfnW3MBdqZY8ugfVCIDnDYyLI2kzxbfRv47AWZGHD2-WDrniTStgrnR_HEIe6CmIu3t2ft1LeQhi3YIKCh2J7zHE7V_EiEYLIeoG-Leo9UQU8GG8OMnxLvpRCkTLY5ErXQ2-t-CcB_BO_U12FhBrBvpLIhORfkMoaHASaLLAD3o1NgjWMYP1D76evzINH1RDaxvHRuZipNgKeNbhFXjaUhSf4cEoCUvaOHzDLykW1QugiQtA.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/IXk2Bxz4RLe6WLF5TpgqYpW0G6Qh1lOKPdvz7iC-4sl9t4gwH2F_ZXE9NexVeQRveOfMXgD4jeRNl8l54Tx0KB57VI2fr67dpj1-7Kgi_yAyvAIav2jwotp_4VLMADoiemfY1srMsMK0DqXTRgYpew2UVkQRWcmVqEg5QcnRq6JHdhmQ-QMwrjOwFPdka-EITERAOaxHtWQEVKWaoNZ0nLPEQqBR9B_-Ph0Oy25JNKKdCpOGkgLbgULahDHQYP_fhLIIv2pRM5O6tE0lQvOzs9ucBAhZyubvKDcr6B8B7rNS2jY8-eVXEiOV14hwbReN_l0S4XB5dogO4fF-IO2wJA.jpg"
   },
   "posts": [
     {
@@ -12,7 +12,7 @@
       "date": "2026-10-22T10:06:28Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7410,
+      "views": 8570,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +66,7 @@
       "date": "2026-10-22T12:51:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5600,
+      "views": 7600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -85,7 +85,7 @@
       "date": "2026-10-22T12:51:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7270,
+      "views": 9620,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -139,7 +139,7 @@
       "date": "2026-10-22T14:09:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5470,
+      "views": 8960,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -148,6 +148,63 @@
         {
           "type": "video",
           "url": "https://cdn4.telesco.pe/file/riVDxYtN084vZUtbhwYgd-ED-wFb8olrRzY_vFhqFfsOqLqXtbR7kb2KIRryCF7KQWSLFsxfdzg3--PGMKMTEXkrVOLIVan4U45an5zTKyh6wwh0YWClKB5rnqDzcZ8z0H5doLnkJzGK77oUq7vH6L6k1TZMNQeCyUkgdmaS3X0kkCdH_ah5q60xWFjJa81iKvg7qG0E7SavYdF3bJiD74J0StDCxNrqtTGkHz0ZmfhZEa6V8gQvVGRwlXAXTIBfQ4u8kHqOe93xGLMHJtGrQwkgOnWh9GcKOgtreBBKZoC2I9166R8ohr7laIvZChufkgJ7ntJkfiTRHDcOj2NPNQ",
+          "width": 406
+        }
+      ]
+    },
+    {
+      "id": 108690,
+      "message": "",
+      "date": "2026-10-22T19:03:02Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3790,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/ThRB5KXzevpqdtYmveNrnWsQ41qeNFS55fK3bImpSwOFzqXqUbbM5rPx9RBp4P1wPTj3SUl2_eja_c7VwsgzeryKeDM6i6kB6X354jAyWqhnaa8h0ne5ttfkVTrPVvpFnYxk_WpHxoo2lQbxpJtrbBE4XQJGNLigxBlIKP9D3gRXr0OaDAzGPkU3iB75YPcHWe5BXGtppLccLJ_CBfbs8uyCoQy4Cfk0rEU-0ZQRI4kDA1bibXIqItDVIYOMyuxKO943TWYIPpdjqi52HyG3Lju2IN3aRwT6fOAXz8VJNZgU7df0t_lxa5zfCV9imrnWHqdZMCAIntpNAwnDQ74Otw",
+          "width": 406
+        }
+      ]
+    },
+    {
+      "id": 108691,
+      "message": "جمهوری اسلامی از آغاز استقرارش تلاش کرده مدرسه و دانشگاه را به ابزار تربیت نسل وفادار به حکومت تبدیل کند. از شعارها و تصاویر روی دیوارها تا محتوای کتاب‌های درسی، مراسم اجباری و گزینش عقیدتی، ایدئولوژی حکومتی را وارد زندگی روزمرهٔ دانش‌آموزان و دانشجویان کرده‌اند؛ با روایتی که حکومت را صاحب حقیقت معرفی می‌کند و مخالف را دشمنی می‌داند که باید از او ترسید و نفرت داشت.\u003cbr/\u003eویدیوی ارسال‌شده به «گزارشگر» از دانشگاه آزاد بهبهان در خوزستان، یادآور تداوم همین نگاه است: استفاده از فضای آموزشی برای تبلیغات سیاسی و دشمن‌سازی. بودجه، دیوار و کتابی که باید در خدمت یادگیری و رشد فکری باشد، صرف تحمیل تصویری از جهان می‌شود که در آن وفاداری به حکومت جای تفکر مستقل را می‌گیرد.\u003cbr/\u003eاما نسلی که در همین مدارس و دانشگاه‌ها بزرگ شده، روایت رسمی را به چالش کشیده و علیه همان ساختاری اعتراض کرده که می‌خواست باورهایش را شکل دهد. شکست این پروژه را می‌توان در فاصلهٔ میان آنچه حکومت می‌خواست به جوانان بیاموزد و آنچه جوانان از عملکرد حکومت آموخته‌اند، دید.",
+      "date": "2026-10-22T19:03:41Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4170,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/OsP7EirVdcO5d6H6_1TTLKs0p0w8OMRWj1uKkgQveeeJqRK2fBmxnzvDdLM6N5pk7okjob4DHR448PONKkf3K_aszgHgiuuoS4tmXXTDarDsqqS4iWOZKb3D7fWcvmLDV8INZjujhePbL0i1G9t5M1g-bRLAw-Ro8AY7dpBzNxM1LqGovZIK7V4LqwKXzgROmh3RSeyINCWijtYkvp9M4VBxffkQXGziWZiKIsAG_RPvftGuoBo5gGn4_Ht5Jw4vwy4fMl-UgVfP9uGry0c8YjBIyFU_Xwb4e7mEWPRqY3U3_jECibKjMW8CRtQ4_V7PhmJhZK013e-OcTXEd-J5RA",
+          "width": 406
+        }
+      ]
+    },
+    {
+      "id": 108692,
+      "message": "جاويدنام عاطفه عابد، ٢٣ ساله و اهل مشهد، دانش آموخته رشته حقوق بود وخود را براى شركت در آزمون وكالت آماده مى كرد. او متولد ء١ آذر ١٣٨١ بود وتنها كمى بيش از يك ماه از مراسم ازدواجش در ١٤ آذرماه مى كذشت.\u003cbr/\u003eشامكاه ١٩ دى ماه ٠٤م١، عاطفه همراه پدر و مادرش در جريان اعتراضات در محدوده ميدان معراج مشهد حضور داشت كه هدف شليك نيروهاى جمهورى اسلامى قرار كرفت. كلوله جنكى به پشت سرش اصابت كرد و او\u003cbr/\u003eجند ساعت بعد جان باخت.\u003cbr/\u003eبيكر عاطفه در آرامستان روستاى احمدآباد، در جاده كلمكان خراسان رضوى،\u003cbr/\u003eبه خاى سپرده شد.",
+      "date": "2026-10-22T19:04:48Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4210,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/utji6MGA4skO4_B2jXN4SX6cTAH_KBhvgR829lFzU47Xh-HxoufsHsukPqj83I5zQHN-59_5Sufb1d6_0KYmNZlfL0jVQsP1opgXBdkXStKeSYi_VTNyth9zxO1NABtRru4yvTm5DDtGh5_OAt0NKU0ybYmZlSCb6dmQIC8gNCncyN-69n7HAFlTQiWBEfpVZ3HwPbF6EL_X5wxjRgtMsqizxCbDqolRaScBaXUNqoXiW9bDE2cO9Tz7yKYoKsE3HYsrPBz9CaadUFyHs9zCvvoI2djWhOkhNJT56nquPBe2FRy620J6DIzKMSCWDjoPKjrP8VnFNvr8X6Gq-x_qZQ",
           "width": 406
         }
       ]
