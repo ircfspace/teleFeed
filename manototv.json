@@ -12,7 +12,7 @@
       "date": "2026-10-23T10:40:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10500,
+      "views": 11100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +66,7 @@
       "date": "2026-10-23T14:00:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8420,
+      "views": 9240,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -85,7 +85,7 @@
       "date": "2026-10-23T14:00:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10100,
+      "views": 11000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -104,7 +104,7 @@
       "date": "2026-10-23T14:02:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10600,
+      "views": 11800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -123,7 +123,7 @@
       "date": "2026-10-23T18:13:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7360,
+      "views": 9290,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -142,7 +142,7 @@
       "date": "2026-10-23T18:13:41Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9300,
+      "views": 11900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -196,7 +196,7 @@
       "date": "2026-10-23T21:16:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4260,
+      "views": 9130,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -215,7 +215,7 @@
       "date": "2026-10-23T21:16:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 4550,
+      "views": 9980,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -225,6 +225,25 @@
           "type": "video",
           "url": "https://cdn4.telesco.pe/file/bW1qmft-_6vBJBWxaMYG6Sqlm4qHyeTha6OucoCqvYgBiae-39PU5dGroOBqroI-UpWMr_NFDYwxFqE0kiL5DMJCnnQlKqzycW6OWQ_FNYdK2U1wIyjWDxIeZClUYq1hq8jWJSy5I1XMQYg1SsdLgJQ2auWhnx-_79LE9GutOR7bjueJSUGPjN7NL1Te0diaagM9l0PfISFtRiF9kpu0sJLx5Y4_vd_OelKbNsm0ajhklZfWgOn-zW87ezrMhnAsejUag6qlZpJGRriCzJ8wcb7lOezoK_zWHMfCcxGtZ3yUIgdK6tqsVnDndj1EBbSe6vHU4HvnPQuOudLh0Dj7-g",
           "width": 406
+        }
+      ]
+    },
+    {
+      "id": 108729,
+      "message": "گادی ایزنکوت، فرمانده پیشین ارتش اسرائیل، از رقبای اصلی بنیامین نتانیاهو است؛ ژنرالی با سابقه عملیات علیه جمهوری اسلامی که اکنون خواهان رسیدن به نخست‌وزیری است.\u003cbr/\u003e\u003cbr/\u003eاو درباره ایران چه می‌گوید و اختلافش با نتانیاهو کجاست؟ نگاهی به پیشینه، مواضع و چالش‌های انتخاباتی ایزنکوت.",
+      "date": "2026-10-24T06:39:51Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2590,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/qsRI3u8LgWbj9WkArRFcRoSFdKf3Q5Dvn94svZ74sUZM53Bd0tg5EUIeIustcqu33IddYxP736NoYd4fFwoYVarAkES8LOB0mzh9d4wGUCfj_QB6Um23tyqKYNLYsDRIitrKD1a-Xj416mqe8Dk-Gmr5GtjSK94979MDu_lrpRkRYVrkMqmjNKlDxBTi4ECKA2MAGxR0ttzffKJLwJFYFaOqz0j9REj5zun4L1Aa2jrT--fPK_weRfNwMfz0nUokYK_RdZ5s51F0VkBcRkv4SfIvY2FGgiWuheIEgGm2nOha4lFUvZ6AsieZ_yZx0vPLrgIzI3tLpvhRyFlLG40gjQ",
+          "width": 720
         }
       ]
     }
