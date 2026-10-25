@@ -3,88 +3,16 @@
     "id": 0,
     "title": "IRCF | اینترنت آزاد برای همه",
     "username": "ircfspace",
-    "photo_url": "https://cdn1.telesco.pe/file/Xsk29dtK9Tgqty47_2vuPvvQARq8CrTLR967lpAidyUxJxpWg8wnHTaEo6fzmAtUmUi5uHsPLUYF9pIqIPPuaO9FgX_7_PaZfLh1_ItBJ4J-yu3h6K7jjuHW0vB1_aGLOYcCFCGJzG4LHTGazCWy1vZrIu6lZk4A9A7hEHVSzW5twk7lHTKKsM6IYxTnJ-2SBFU81btwNF0MSMUkpFyuFt5ubwpFUtRln4c6IT7ckfHpuIWkaKsdRxd37ifII3obsD_iQdqth0zSvmgYcIVaPbHs02NmaZz0HVtPhzoZyJNA4958PIo6XrSyydQxaMyqyhwiTD72d7_CLH7CfhaD8A.jpg"
+    "photo_url": "https://cdn1.telesco.pe/file/mAYdvn9wJrCytUYXfGSby1HSAk8HpBLCgsWfhj9EBowJqF5RyimmXAHJVGiGAuBGnWbgbxmurQvqR_I9D5CnkmLI4lxl15Dg63swf5HLOQNcjke0E8ChXvWNHI5yacAGrupcbrVWvjb5yklwck5qQdVnfxitsWUcod7me9suIz_Gt6LunZBvqGYjzePhaRhy0wlviibIACTxKCYp-wNeXLAYOdthWniy-b213zpy9k_VLKyHEYqNhxuAPM9R2Y_IZpb1qS0lt8jtgljDjqA_GYlx7qJ2TNPF24G0UJy77wNx0in2nZJgsYGZOSI0ZZPWpOBUO9Gl5WS1i-rVI_SHgg.jpg"
   },
   "posts": [
-    {
-      "id": 2667,
-      "message": "نسخه CLI ابزار متن‌باز و رایگان GNet برای ویندوز، لینوکس و مک منتشر شده. جی‌نت که قبلاً بعنوان یک اپلیکیشن اندرویدی شناخته می‌شد، حالا با نسخه خط فرمان، امکان اشتراک‌گذاری اتصال VPN با دستگاه‌های دیگه رو هم فراهم می‌کنه.\u003cbr/\u003eبا GNet CLI می‌تونین سیستم خودتون رو به یک سرور پروکسی تبدیل کنین و اتصال VPN رو از طریق پروتکل‌های HTTP و SOCKS5 در اختیار دستگاه‌های دیگه قرار بدین. به این ترتیب، می‌تونین ترافیک گوشی، تبلت، تلویزیون هوشمند و سایر دستگاه‌ها رو از طریق اتصال VPN سیستم عبور بدین. این اشتراک‌گذاری از راه‌های مختلفی مثل وای‌فای، لن، هات‌اسپات، اتصال USB یا ... امکان‌پذیره.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9189.png\u0026#39;)\"\u003e\u003cb\u003e👉\u003c/b\u003e\u003c/i\u003e \u003ca href=\"http://github.com/frank-vpl/gnet-cli/releases\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/frank-vpl/gnet-cli/releases\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
-      "date": "2026-10-12T04:17:55Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21300,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "IRCF | اینترنت آزاد برای همه",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/YxzQLFd-WxKh6X5s0duEWi1qLIoDmeGU2iUyAk1mFQBWWt7lausD0SJfAf6ITuIkBNSr8qE2V-iHM5CYB6w1fXVCKoVAwksxGJytNhBkdFGn1-zT97T0tgjMiaI3-d-d3Mj7ZZUP1kGXux9ARKOYAZY4zzShcqHBIc1AxJ5ImXan0pqnVDhDxd33gPBBIKVaEAaPPt0PCRigGWOLJXSbO0MJmKaaErDJSX4zr42pNL6Be7eUg2TfvTnBz_FSL4SG-tXXjiPE0NorEqtjsuvdsxlokQKVpijPtAZAWJfojcky9yRnVXSI2Gx2IQfw9qXrWCOUKqsybdr29NJIyGEnqQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 2668,
-      "message": "روی حماقت امثال شریعتمداری حساب باز شده!\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003eحسین شریعتمداری مدیرمسئول روزنامه کیهان: آیا حق مسلم ما نیست که برای به زانو درآوردن و قطع نفس این جرثومه‌های پلیدی، مانع عبور کابل‌های اینترنتی از عمق آب‌های خلیج‌فارس و تنگه هرمز بشویم؟ کابل‌ها برایمان دست تکان می‌دهند و با هزار زبان می‌گویند چرا نقش ما را در این جنگ فراموش کرده‌اید؟ /اکوایران\u003c/blockquote\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
-      "date": "2026-10-12T18:14:44Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25700,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "IRCF | اینترنت آزاد برای همه",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/jnIjv3tU2gf8E1E0-zAAywiyqI_xNvhB1rhQc3QcC3UhQ4l9aM6THpBtdOOBQSpOz42QDGQ6EkHRfkjdDBZLiEQg4-Sg2r-pViiAsmCKoOabVT8pAoT_Q3tmIWzj87fEdx6Bw4j1YCZNPZPLZgx8jYHhPDSeozyIOVtUEx4mvXYamSw8OYA8j7GzhdFTEzbJ6hGBxj4KIzL1qerntnJCmcScC3Ai_4bhPGy4DUdnhgXX7-iMvjCw-O3AV9smnJDxfJmlzavktnLzI0oU-WJw4nU_QYT-ghpwI8R_Zw4YL1RuoTLf5tisXXLIEZIzj00HGF-o7RkVB2B9_K07U6YWHw.jpg"
-        }
-      ]
-    },
-    {
-      "id": 2669,
-      "message": "در آپدیت جدید از فیلترشکن متن‌باز و رایگان PyWarp که برای ویندوز، لینوکس و مک ارائه شده، امکانات بیشتری برای مدیریت اتصال از طریق وارپ لحاظ شده. \u003cbr/\u003eحالا می‌تونین بین پروتکل‌های وایرگارد و مسک سوییچ کنین، مسیر اتصال رو هوشمندانه‌تر مدیریت کنین و از تنظیمات پیشرفته برای سازگاری بهتر با شبکه‌های محدود استفاده کنین. امکان مدیریت حساب‌های شخصی و Zero Trust، مشاهده کیفیت شبکه و بررسی خودکار بروزرسانی‌ها هم در رابط کاربری جدید این‌برنامه قرار گرفته.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9189.png\u0026#39;)\"\u003e\u003cb\u003e👉\u003c/b\u003e\u003c/i\u003e \u003ca href=\"http://github.com/saeedmasoudie/pywarp/releases\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/saeedmasoudie/pywarp/releases\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
-      "date": "2026-10-12T18:22:36Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21500,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "IRCF | اینترنت آزاد برای همه",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/cdYN9POnR1Yy6oudOka2OZtKsHmja8qenx5HHqzN9cbQzqL2vU2rxWFv0SnY1A0_eWt_j3yg6fUFPmgaLwWiernte-c3FHoYIOImqmUN-4ex84WIq8WvPPcwl6PTSVLPnjp3r64d9NTu5dmjR7J_TXrxXkM_765mbQIRmntAxqsCmrTdh9qy2cS_mOU2UPreATB7ggSi_pu6gQbtTDiDV-V-I_5NLTIkVQmeYDY8SaSZ_49JZKpnqBk9UzcgWPEE57hjeZjd3UQAW0m8ExmU-qotQL3MlMsh7QgpqcoH8SV-Zwk3yDj0hoy85AFTwn2T5HGFp3MiQLYRwxEhnzcoqQ.jpg"
-        }
-      ]
-    },
-    {
-      "id": 2670,
-      "message": "‌بانک مرکزی تسویه ریالی ۵ صرافی رمزارز نوبیتکس، بیت‌پین، رمزینکس، ارزینجا و تترلند را به مدت ۳ روزه محدود کرد.\u003cbr/\u003eدلیل این تصمیم تخلف از ابلاغیه مربوط به API اعلام شده و می‌تواند فرایند برداشت و تسویه ریالی کاربران را با تأخیر مواجه کند. /شرق\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
-      "date": "2026-10-12T18:29:25Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 22400,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "IRCF | اینترنت آزاد برای همه",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/WuEu59TJgqeAcYRvmolzNwty-Z3rwsNRSxgMDJoOtvcqPBWjCwc5ZsyJkhUenlM76V-HLz685inqC8hKiUemD8iaWSn30rQQnqPJu0r3x3JSy9NcoC4P_gXPzrVtkxTR1Nt_4a4at_4xoaYh0Llw6hvZG-kT9McpGHY-rh9eNrrtYk-PIiy-ymv8_qRcSTIC_R3nLss-HxkZpg4adERg32IxK3xEkKbm9N1GX6JSoMwYXLBJPweGAFwpWTjkinxPy8d9pucGqxE1qB97ZTW6IJxF8QT9bdtWrCr3EPBdU62G11lixyEpWkR4PYV1UYWP-PLqeXdL9BFAHX08DFa70Q.jpg"
-        }
-      ]
-    },
     {
       "id": 2671,
       "message": "نکته‌ای که در زمینه \u003ca href=\"https://t.me/ircfspace/2670\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eمحدودیت\u003c/a\u003e دسترسی ۵ پلتفرم رمزارز به خدمات برداشت غیرحضوری بانکی وجود دارد، اختلاف بر سر نحوه دسترسی نهادهای مسئول به اطلاعات کاربران و ضرورت مشخص‌ شدن هدف جمع‌آوری داده‌ها، حدود دسترسی به آن‌ها و مسئولیت حفاظت از این اطلاعات است.\u003cbr/\u003eپلتفرم‌های فعال در این حوزه پیش از این گفته‌اند که بخشی از فشارها و محدودیت‌های اعمال‌شده به پافشاری بر حفظ حریم خصوصی کاربران و خودداری از ارائه اطلاعات بدون شفاف‌ شدن شرایط دسترسی مربوط می‌شود. /زومیت\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
       "date": "2026-10-12T18:33:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 25900,
+      "views": 26100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -102,7 +30,7 @@
       "date": "2026-10-12T18:42:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29800,
+      "views": 30100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +48,7 @@
       "date": "2026-10-14T04:25:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 24700,
+      "views": 25000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -128,7 +56,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/XO-_u_S0ilTVu7OYH1MEBmFF8NYOan4PEUuPnsv1XH35W1J-xK_RuU1j3CdyH2aWwcH1nb7OksWyXyPaHnq_Y9VDi086GGVsR3-iE-XyA1TkKvdtnxRVU9YaLlvAZHgNTtqUH81yRp7S8riXsa8J8r0yWCDaMC0WNiVHT4NKCb9ktvuwbrC8T3oPggdTWStqwNc1ISNbZHZlvm1HDfnDl_pPqR7Uwtsi0dTpxCmGronj9OgUqJWT_aOORQGC8-4170K18XPMtX5goX62md_f7nWkc1ScXWSJyxDu5Sl7SDDCfDj3fQkpZWE9SCip_qbcfYcjqt0bswwnszXWpqw1iQ.jpg"
+          "url": "https://cdn1.telesco.pe/file/LAvSIGQBgHdpV8rt2d4Explw_oQuMFcgOsDfihcmimeIPDVIUqmLUh3iEfFM3f_zUfXKRhgx542-5OZ4dxTPRzJBJTV528YClvMHSqab8KuCFQj8ymRLpJk5OlIuxrHpEEOZTn-TmAvqTqWvXXowc5L_FeaorGy4oGOO2EdRBIg3WBl7movnOdUkriGhyu8m8m2F-QJhuyWbvytycVBfmRw84XUKFZPZqpDpX5xKVtUqjYr4tgJbQVQDR-gjLKl4PNDUpHcSovxzDI_c4BBPtajmXQyjODC5Sn1kUJYsgdMCob3ycEPzTzad81aCdjygW98eZvZBTswxVpYRXbx54w.jpg"
         }
       ]
     },
@@ -138,7 +66,7 @@
       "date": "2026-10-14T04:31:34Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29400,
+      "views": 29800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -146,7 +74,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn1.telesco.pe/file/OqBaJ75sYnh6fnqvc0vMlmTfEEiR1qV-9RaA5MmrIaOwPL2utfeiGoceRSXSgif68i1meBeKzSdFM2EuaD6i3_1ea4M6xJVTiYY5vDKXL-cqTxBz04KK9y9w8aff42DhdFeOsqCgjXnnqcFiuue87IPQKEjriKMLU74_Is7pYUoHMeit2TZukX6KaRrC3Et3U7hgo0i_a6Um0aUQLY02AY_wtcQjgT3Shcmf5VBHGuDhdBpTJFslX4j8dyoSccGNV0hmrpS5RyReIRc1bGcxeICoshGBNi3Y_JHLvg6IaMWuWCf3c25dMDEteINA0uUBk8vsOgTJfLmInbeXbGqQ1A",
+          "url": "https://cdn1.telesco.pe/file/a1p1h80ulhxkgesz7L8tvAHGOLwj9hEG0M-daLwtmwROOHz5KX2hTN2h9VToZROFTbkGBSlA5D_2uR1SoQoY7JBk-mrX3CYJ3-gnakx2AyHanILXeLvM_NFAplxli_moOJG5YcCK_KAi2jqY2BdHou2PQ90a08-rSSij2Z8F9L3aJKxf_HUV8Y2WQ432t1Uiuxjlyk_RX_5dVZkzLF6OmOEoc_GLL39gdU0Ur86mEnkybejGquaPvnVLuqunAformH68lidRJRsqIEbIAK4raqe2F7NeVm_rgWrQ02T7spHeUWCKsFQCZ_tRlDmiEjPyVVf3XM9b2prKepw4Kf_QaA",
           "width": 384
         }
       ]
@@ -157,7 +85,7 @@
       "date": "2026-10-14T04:36:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 33000,
+      "views": 35500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -165,7 +93,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/l51yV3X5psJ4JZFsij25CbRDirqjp8texCl35xJRYUnaB-TEN8IfXxqfRjrl0TP12-8O75l_-b_fhI4tTdB-zFxqx8SxXTS8ZzgIgDztbh2uNrteXRJpvemHZIUhFApPLz8tqaEnHS59vfO87ddiKnsx05i-MJQZ1_R5wUpRzNF3mvHmwsgAxbB0JYs2VSJrXtXDxTdoKjeAn8g6L-mbu1LUOPaJhBYKmXQ5RSR8r9eEtlUbOG_4Wyavm40_fKPQUX4mu5J3-NJOTEqzBfglu3hUPFE_g1MjWS6P8d5Ifdv-OxzHicGe7KIou7h46Mxt-kwFYjn1zqBi1wT5I5JwjA.jpg"
+          "url": "https://cdn1.telesco.pe/file/lJ0f8wHTv1jojiSZG4DH_CQdBBz9nNF8n1psDc-zGZfrL63bpfk3Cc5S3_2MAQhC6Jg-WaUGmd8rarBLFAusT1aKN6FR-5qDL0WzKFGlrT6NTTPVjGOnQ4XAbykZCdefjJVCTE8yzmnnfNN4-_hzrbv_m6ULodh3OqJTlxSB8wtxiYFxmzrc6WOPR0zLfBagHUMBR9-R17qP9Jd8Myt0MBbD4IHXT-gb7OGZjtRXw6re1kZIzKQzRqk7o-2k_SHPz8DlpSe2gGQ5PUGFUq_Grmif9Z7dCm3GBrSsfIVA6XYFf7eFiE-YdCv2PUA-oHtiJ1AOqsasdtwDVBwjmO7pxQ.jpg"
         }
       ]
     },
@@ -175,7 +103,7 @@
       "date": "2026-10-14T04:52:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 34300,
+      "views": 34900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -183,7 +111,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/CLUsop4YhEjq79IG7CtKQLRaWrTHHzSP7aeAcHFi7g5VEDev4uWGNbZBvYi_akRRuXTgq5cnVJWl8eIxBBJWJE1hMjmYeOFRGxDdT7B1zz0LnCTBxn2aJqMZc0yR2yn5-oGAIMFSq4LViB_GLMOcixdVkb9nYLAdUloU0faQ5VikYUN6tYXYfBV9ctI3z8dakyQu_zCFQbM_ss3Xy1RWYHiNmMP5bQ2Sx7yUhgHZOxj8UPqEKJhSQvqbW0QSayGSw4M_CBkqgk3IG8oTdj98fw6IP_Thcya8YkmYXd68rDsWiRobLAR1Zg5CCWejawnTfZ6KP8Nf1ZdCf8FlrueasQ.jpg"
+          "url": "https://cdn1.telesco.pe/file/MMiPU07d9-lOSCtC4TzvLvdb99Rq4AS5e6L2rnwK8Z0ZEBLw7mbI4XJ6ZLDML4XBLmMoA_8rRZ5pIPsCGhB2ThbDaFq49el9iFZyMZsdtD9-z_ogunQcFKScCN_qPuvbewOk5iblZCLMZEt9IWmzQBIFI-lgfkCqm6j-UCjoE9I7sH2lnGuEMpyuogll77ut5R3FooarUHIy-cs_3WI4dgt-3fhzQn8nxzqwNZDg6Zsg2WYIPWcxxlXbZ4sgfZu3h4n-aTl448Pu1l9PUtF6C27loFdav323NM22LYv21YDYCyjc9O4z6R4e4wG8-l54QUO9QXIw29WI9AHoBrvLeA.jpg"
         }
       ]
     },
@@ -193,7 +121,7 @@
       "date": "2026-10-14T05:02:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 40500,
+      "views": 41000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -205,7 +133,7 @@
       "date": "2026-10-18T18:54:30Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29000,
+      "views": 29600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -213,7 +141,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/peXZLV5w5gw_wUUCzsGjJWtLrVxNgZXRsID5GHcB94CDBlS_pjwYfe8MrqcQinnTpS6KF6lZVBeHOKzoLxDp_1dbtLnpnEfL4Nznq7rAR6Wdy_oQMi1IjLzbILgc17ioNopQdlhMrnUFKPO7QAt66YZZN4NV5i9cedPQAFOxB-Z6p-OrczUESnaMulW-HIiGeUTTV48euWsN6eQ9C6RnAfk8xFm_mSvNiRz8aHErMMiwR3LEbbo8gt4JN674q75QXrkIdjTCO3-DHpUtWERfzqbYUH6frgFGXWJ2Cd6kTWVIGgWXM61KZBG6PIbTSQBeR-RtiiTk13jO-aQc0v7xmQ.jpg"
+          "url": "https://cdn1.telesco.pe/file/hHL0mblXgnEqST8lUZARSkiuY2wiTpQH6ljqJb3zMZaoDjmeo7fiSzhLBMu3M7AvNlvyg04XqDnugPb4STuCJR2vBl5fRQR_P_3mNAqa3Fw3efrGgFAo_aapfe0bElN_fht44_eiB9deUI1kUgL_lKIZLI97nN9FCGwvNRuyvsAwaZBNkB1LWmnhl9O38IA9fsvGi3zHNm8zmwJXnOa9cSerb76liFVNtBMcsKLIAHgTOGkBBhswUXyqXHoxunlg9-t9KfojOYCr2DLVb8X0Y2nnYKPmg12kw-NGGRRDpzYiSqnir5ouc5mnOmViwe7TboSKik5BqlTspcJa4M8iEg.jpg"
         }
       ]
     },
@@ -223,7 +151,7 @@
       "date": "2026-10-18T19:00:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 29700,
+      "views": 30200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -241,7 +169,7 @@
       "date": "2026-10-22T04:19:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18500,
+      "views": 19400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -249,7 +177,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/E67B7uI3M1aQeqELjvpQng0ZPf2k5yXnkMUPC222Jzk5ZbvuvVAYPsXyWgfO4AdLBiMR6R4f_KQ-Zn49M3bbk1KQeUULUKG9yCP6jat2RbfGE4qrrqpMP5A-EZ4emZCOlVXD-uycYa_vRHMUd6cqUA7h92JnEshgd1Tdx4pgCtSo9HEYY94mAsFD9H1Q3-SpfNc899Z8n5xa2syUj4VefSXXrfpOMhqhhVEA_eehnmzaSa_ZnzPMM0x42dM-unxnxNmvHPVDG0g6lZGZuKkZTqNLM5n6i0V81BBUrn6ZhD188S0b041JHHZKuzHX6FS4SFIR7-txPNsoAnrbUj0wKg.jpg"
+          "url": "https://cdn1.telesco.pe/file/DhbtDlzRg0tefaS9SLp8yN1wmLOzperwvj3CbVJnGwWN3ijTA0Hpm5kItzCWSS-Edbj904-EDKBo_ARgW5ES6asBKDUOJOrkNAc6kG_pPBVcUX_42TmPIsGmWNjpyN74OFjErqOteKN9tmDz4R_f7XTZveSGJrhoZIaNjCJ1DMr0bjfRrecnVUDZkZhlXqDGj1ttpxBVHFrQYySln08i6abnRkyXaw17lzWT2fau_JCYYokwHsNKc2FzyNsz5kixP5c8zD1_QDqRTHmssUwa_EJz7pvhrX8hGBSQFFH1kObYjfXP6WrJtVopor_Bg31-WpGJ0adWNV6pU6b0w0Cwcg.jpg"
         }
       ]
     },
@@ -259,7 +187,7 @@
       "date": "2026-10-22T04:26:24Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18900,
+      "views": 19400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -267,7 +195,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/DkvAFIkD5B10hYHy4iHThfuj-bJjDjpSgqxKHz73Gl9fY0kQAL6_RJEvA6QvJh1dbtRYWHyQu-A-zIrVL7ktpcNJzNXb1ly3Kvd7aTzaLlC-dnNpFfCqRZVDkU_0fytQI1puRxVQystvij5mX1_AldhKzc0QRmykNkHo0kKatgDYBZEbDQD0WLZGssHdz5lkVTv1FjfeFre51SnfGYvyq6MoqpODVaLiR-rii2pOKlhNzDAUIhJ1iPMIsZ8BiIsrfQ7KQxTm7-OG9m4HA-wQQJUoZP_mM4_pnJkaiemDDlVFfoBk66jUGxO3FG9uaCYKCxga2G-JxdpptshVeROl0w.jpg"
+          "url": "https://cdn1.telesco.pe/file/kC4sOS_xjarqPck8xsBmCwo7dDwMGRmw0zhfw6iDERJMrINffp2SfohKdcUTEt78zxOKBOMqNJHLRtlJix_p9m3Y0aWxO728ug03-ZYm4-CvAOjyNrHYgFaDeuXJgDnHl50XZHiwUrRj6FoYYWBzKgxN37usArqne7y2WdbFR7UWjF9oBQhKtyk-tfJ-sz-Lcy1TELv0znw0DZtD0MI8Oo0N-6t04w_hj6PMOZQylCcIGe3CjBf7IVFzP6doE6RV_RChvoLI9Mx8l7X96XerctVvSwXY0AKI7CFtMU3DxncF_osLWOqNHdIHK02k3_MjNYHV8ty-UtS17BD19-lxug.jpg"
         }
       ]
     },
@@ -277,7 +205,7 @@
       "date": "2026-10-22T04:32:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 19800,
+      "views": 20400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -285,7 +213,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/RdEE03AggSejjaJS1uFKAru2VGkAx6r-e3otSoZLccy3lEVdkgzdy1Ep1LTaKH2-fKonw-jBe_IDAGaqEn4yElgfSmOnFd5-Cr8u6zCstDzYj0jwvuUcslwdPtM-LY6eYq370OB6rkLuIl1JTCV_5t8AU3l5MXNexY6EU9Jw_ikkYfA_TjRe1cklbJxS0n8QuyH0f9hULtTstARxH56aRrLHURp7-P7ezfxActekPMObSN2miafuj5MIJOl0aHENwDJkQCvUXsBaGsAog-CPZZtl2swvZJtOW3QMN_16nuImYoNZ7Yqc2uKtdNF2GEX0mv7MnFxBQlxiBoFVQhNm3w.jpg"
+          "url": "https://cdn1.telesco.pe/file/dBk7ZvGgzpln9GhfFqxBUdvZxzJ3a4zf-97gPdvRNG6dhRxqRHLnuknVgA1NFoq6EjlAj5AbSfTKD4hfrxTbTokkWdWLkeqZmZMfP1TLE73cnrZSSe3L8Qc_o-YEx4WIuQVBtRZoYROtw5Z5SnTFUhgGWHWs8TdBzVzf0dSSncCbMztcp7Up2PaiX1flSV7SVUfoEQpIUExiMjJ2IBh9rkfqaQ-07zs2jXTQGQ3SMV4lqnyMbyQopSjaAt_lVOjBoo4IS68_lJZcMckXfu8ooQ642wlA3-R6tQmGAxBr3JHVr_GhP1S9xDlDgqK2MgljL5U0Fam5PScqe5YGTpxj3Q.jpg"
         }
       ]
     },
@@ -295,7 +223,7 @@
       "date": "2026-10-22T04:44:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 26400,
+      "views": 27400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -303,7 +231,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn1.telesco.pe/file/eEq0VmCU0D9Ixee6r_akkFT9J9hRkrCcsIoAZ7414HuPc-42SFqd8e-cbBX-sPuWhE0QZ6s8yghAcK_vBWk0z7ZYe962EWqXZ97R5bG0d3PdM7ef2rYq_0Eyr5NuDrg_zieKdJ0AEXjt3ESu1V4km1VLgGF79SN13s4uHve0pWAVnczT7cATj8J1tFei-s9I-KHLHdC50b83njuz4rqTr9wKioPeOTpd3EbbZAHt5dTvvCDELnNilnbuqF2A3sxOw-b9Pn4O5genrIzzhTh_e4vZAryaV2Km-gQV4PdKwVhBmNMDVIxwAMD0aNAG_GVt4Skklm-rdygRnM-qE1Wfzw.jpg"
+          "url": "https://cdn1.telesco.pe/file/sloduJeV8Sx91sBIFZD0wFvb15-4aDQ52cwCH_Xb2wRSVfw7LGlaMTEYcw3piwUMSzjeohYUYGNT84iZH43BZXMv0sSGhWXXOy5eDjqYmQTbRsnBoHw4CZwa2OBK0XgGqQv4-PynE4FKHTiM_rMj30irlTCPdbFT5xjynqSIvz7fcHcyg7-n12cXuiVnID69PA_d8veDBXokkQTWt2rohgz5ObYL8VdY0DOF89TLMrjm989kCGKQp26fFiI0XNS3qUGmXilMddXul_Rzh0A07DLP0oCXBWBvvQrHWTxZQPaNMxS418gaaNVb3Bsq0j_tJUVqq7oMTPqk-EllrqNMIg.jpg"
         }
       ]
     },
@@ -313,7 +241,7 @@
       "date": "2026-10-22T13:17:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18900,
+      "views": 19900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -331,7 +259,7 @@
       "date": "2026-10-22T13:33:37Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 21800,
+      "views": 23200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -349,11 +277,83 @@
       "date": "2026-10-23T10:49:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 17700,
+      "views": 19800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "IRCF | اینترنت آزاد برای همه"
+    },
+    {
+      "id": 2687,
+      "message": "در آپدیت جدید هسته Aether، مشکلات دریافت کلید وارپ برطرف شده و با اضافه شدن روش جایگزین دریافت کلید، اتصال روی اینترنت‌هایی که با روش قبلی مشکل داشتن بهتر شده.\u003cbr/\u003eهمینطور فلگ --fragment حالا برای درخواست‌های دریافت کلید هم کار می‌کنه و امکان تنظیم SNI برای روش اتصال مسک اضافه شده. علاوه بر این، مشکل بررسی گواهی در Zero Trust برطرف شده و تغییرات مربوط به فینگرپرینت TLS امکان شبیه‌سازی دقیق‌تر رفتار کلاینت‌های واقعی رو فراهم می‌کنه.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9189.png\u0026#39;)\"\u003e\u003cb\u003e👉\u003c/b\u003e\u003c/i\u003e \u003ca href=\"http://github.com/CluvexStudio/Aether/releases\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/CluvexStudio/Aether/releases\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
+      "date": "2026-10-25T04:07:15Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7010,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "IRCF | اینترنت آزاد برای همه",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/K8bIRfVws0M1cX6ae3aeEN8xvTbrFwNDPoepuawQ2_aUsS0_oY3Fp0DcFJkv1n0bUilZ5zY5_5hvZYesquT9lMdjOhfkrKmw04bs3v-Pyy9qCqwo4cqC4Gkb2WI-NgT7im25T8AV704P0A4NTrEJX2-OjTa7CeuvttuFe9Iqp7coP5jKLn0MvfpKvefbCfoifOfxMI-lT8VUOOqgtk46rq7zocSWZOBdRMiIKBdZB9wssVfWXkR-5gmyaiUaqcdoylhR1hcqUJuFxWlCyXwPN-MAJJQi0ll9HCNk4ljc79fkAioNFCY1s0DBoqGwCi4TszcJ_3TRInhzdtzOoJXwgg.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2688,
+      "message": "کلاینت دسکتاپ WProxy یه ابزار متن‌باز و رایگان برای ویندوز و لینوکس هست، که با استفاده از هسته ایکس‌ری از پروتکل‌های VLESS، VMess، Trojan و Shadowsocks پشتیبانی می‌کنه. \u003cbr/\u003eامکان مدیریت لینک‌های ساب، مسیریابی ترافیک، پشتیبانی از حالت تانل و قابلیت کنترل اتصال از پنل سیستم در GNOME و KDE Plasma 6، بخشی از امکانات این برنامه هستن.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9189.png\u0026#39;)\"\u003e\u003cb\u003e👉\u003c/b\u003e\u003c/i\u003e \u003ca href=\"http://github.com/Aliazadi-1776/WProxy-v2ray/releases\" target=\"_blank\" rel=\"noopener\"\u003egithub.com/Aliazadi-1776/WProxy-v2ray/releases\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
+      "date": "2026-10-25T04:14:37Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6640,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "IRCF | اینترنت آزاد برای همه",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/kOFbMAElIdDnXJyv2V7O20B7BtSxXLUUpei37on0d3d45XR8QECBSXv-_6BZKpRKfLZmZVrZ3Qceq1HCeXa-McNcy5AjJFNaHmFp80XUuOXZwTOadypQqAigBx3h-t8-ZS8WFYPYrGrtBgiaXtZBRmaYkqUTP432ShKKifOYhuCR4j-1xZS5Rq2007_bRDWCgAF-dfBEINaLifKgnrTU1kBqCnrr-uqTMvzzGbjJ7hciTM4q00n-dWzhUhgCLg6bgLKh-WichYPrB72xwPzgGd6dU2R_6lOafS_b0k04V1m2GCNEo7-zbSH4sUwdVZ2PytkkFGlkVIkZ6TvsA1T1TQ.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2689,
+      "message": "رویترز به نقل از ۲ مقام ارشد امنیتی گزارش داده که جمهوری اسلامی در صورت شروع دوباره جنگ با آمریکا و اسرائیل، برنامه‌هایی برای حمله به کابل‌های اینترنت زیردریایی در خلیج فارس داره. به گفته این مقام‌ها، اونها حتی ممکنه مانع تعمیر کابل‌های آسیب‌دیده بشن تا اختلال ارتباطات طولانی‌تر بشه. \u003cbr/\u003e\u003cbr/\u003eالبته کارشناسان میگن کمتر از یک درصد ظرفیت ارتباطات بین‌المللی اینترنت از تنگه هرمز عبور می‌کنه، بنابراین تأثیر جهانی چنین حمله‌ای ممکنه محدود باشه، اما کشورهای منطقه همچنان در معرض اختلال اینترنت و خدمات مالی و ابری قرار می‌گیرن.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
+      "date": "2026-10-25T04:20:37Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6890,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "IRCF | اینترنت آزاد برای همه",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/lbUcjJiXdnPtB04wdHxZc0gHF25L8aBxXrJPMfCfazt4DW5nQratyqRMYPznwa64Skf_t4efAtxBK9DzSC4fNuyWeK3I8V5swrRX2WQRpPILD5zSARGbcDTSJZrUqet5T2H7d3p6JsXDkkGB-D7KZ8q6z8Xo9dmPaZggHRbMWbVkA2xC6Q-MJrK9_L-wUm1ENC6Q7qpuJNpfmZ67CaG4Lvb5i2g5PGDK84PyHYjyPavHTeTU4DEqVYGZp7G27x3UmpiuWMXOXD41yJULFJ1bfnXVxnKyt3wuSf4hR3TgIspBxSps9MlQOIHlzBSaU7eHTHA-3ySV65giiz9vxdZT0g.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2690,
+      "message": "بعد از حدود ۲ ماه وقفه، بالاخره آپدیت جدید فیلترشکن دیفیکس برای آیفون، آیپد و مک از طریق اپ‌استور منتشر شده. \u003cbr/\u003eاین همون نسخه‌ایه که قابلیت آزمایشی تانل‌کردن کل سیستم رو برای ویندوز و لینوکس اضافه کرده و عملکرد کلی تانل رو بهبود داده بود.\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9189.png\u0026#39;)\"\u003e\u003cb\u003e👉\u003c/b\u003e\u003c/i\u003e \u003ca href=\"http://apps.apple.com/us/app/defyx/id6746811872\" target=\"_blank\" rel=\"noopener\"\u003eapps.apple.com/us/app/defyx/id6746811872\u003c/a\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F92A1.png\u0026#39;)\"\u003e\u003cb\u003e💡\u003c/b\u003e\u003c/i\u003e \u003ca href=\"http://defyxvpn.com/download\" target=\"_blank\" rel=\"noopener\"\u003edefyxvpn.com/download\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9497.png\u0026#39;)\"\u003e\u003cb\u003e🔗\u003c/b\u003e\u003c/i\u003e \u003ca href=\"https://ircf.space/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴡᴇʙꜱɪᴛᴇ\u003c/a\u003e • \u003ca href=\"https://t.me/persianvpnhub\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eᴠᴘɴʜᴜʙ\u003c/a\u003e • \u003ca href=\"https://t.me/PersianGithubMirror\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm(\u0026#39;Open this link?\\n\\n\u0026#39;+this.href);\"\u003eɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://t.me/ircfspace\" target=\"_blank\"\u003e@ircfspace\u003c/a\u003e",
+      "date": "2026-10-25T04:37:06Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "IRCF | اینترنت آزاد برای همه",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn1.telesco.pe/file/ubxZyts8BncuHxhTbKrFpR7qWB5SIetigN7eO_5Irev3kp475ZMIikQBajNH-HR1Lx3lOaJQ0z6QvogiJpESiJLOnyseojX1NPikds8iS9QabBGr5zq7AZM7PciMin8sin32TOifzIHyTTbP_LKGzwXoX52HKwk0xzSJjHRdgiUB6Hb_hUW3F0L3iMbJWa1rugm8-z73WQGH7sAKRcCZ67j7JebeOlNq-iM0bwjYV1evWufg9wQGcRpLAecr6taGuAagIoTPF8iMkfO9X3lKOvEiELnMFvlKGaWrCfqct8-UMFDqfY4gmR7TvTGe1gVOTRiPBaj1I10-WjkkZkbB9g.jpg"
+        }
+      ]
     }
   ],
   "last_updated": 0
