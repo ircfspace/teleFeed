@@ -7,66 +7,12 @@
   },
   "posts": [
     {
-      "id": 108777,
-      "message": "ایران از نگاه جهان: دوشنبه ۴ آبان ۱۴۰۵",
-      "date": "2026-10-26T11:01:00Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6820,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "تلویزیون منوتو",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/GC5dzrAucmmrrargzQtR1T-9SehPgvqzwGOZ6WUJFyOAphLE8meCVtLcYKk9JA0qmMzZMd7UUIS8qzmFIZIkeygzwkKl1ajJOERLQ7ulMRlXEB05wxfsi46G7Jp02AqPqtQLmc0p8310eQs2w_0p5pn_JhaF-xIrA5IMIi177Jw_1N_XpDQICE2hUnulIKU4tPMshbarNJ6qxDTUFxuM3SdiG9wLAXiNPfb9Mi57R45kGTQNzoECLdrHnxiNX-dpjxvFM5McpSxUvgQgvhz7jg4-q3O5Uic7mBAUaiJitwOhE462HnbOC9Vslhl75qZRJpyYyRGMfrwj6_sMbSOGkg.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ZtxolqP19I9wcvoE9lE1ymnmrlZTUbiHFft6MoD_k1XAD9fmCP0T32EJM6fYtfyC8fBLpMj4rlgOCbKZyUUp4enPrH4-aWwTzZD_Gqnr1kws_IfhAMhfYfMTvqLmLfzTShP32P4-DOu1RfFTIIdzF82rebBWTr0A02gVrtxv64Ha09yGgztassnG0Tm23IvkAbWTalpP8Et0ka2bmhud9s866llSBQ37L6avYPUEi9DHoK5XxPWxZwxVUziOMkCUi_ZetYcMbcReOGbN5CSCuispLqOyQ7g3iDb22Vnuv1gMIVluHGyuTfwAmDSbbtV4G2OGHTBCDaG3sc0Rfc9pTw.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/FnxXVvSwNRIOrxCFw_dh13dnpUKNPgscaeEiHi5ivM28Cl2kIOeXIN4PytPQ2zoeo9QrAtn00kpWoaiDrvqRmX6eks1Zl5sFhVBG3rdUJxoXdogmTgb3uZzeVs2V8vhSBz6XmVKVc8b3qSIR4j8Ev4UXqZcE8nMM1ilMvjh-WGMa11W6-ZRpxfPRAgDM7pQtPArzUcFKX5oHfrV_V-yuWyUVdhivL1POk0lvFmQ99hG1T77qphW2rMSW5WCEvaJDJeb9aYrtswHB8Ms8omWy-uJ0xMuGzlhhzTgTAH1NP1enwVD0snzoNCm4F1a2uJZFSV1Gro9fyDPj3Nzb42ttDg.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/pox1bp6fFYtsTyq37BgLPyv4rxjyaEM6uc-zHHnDSFIVyYdB5UG-0ZyfuWWJYQYrJXg04dhkSdzvxgeST4kjvfbUsfng86U2E_SaZPWZoB9A0p0tHEogSR1WkdHctqdHO285Mg9B_38XEoWhu9Xs4_RgwmqTKEpFxphCSyAnGbvxShUIT0n5U8pDX4bIswMkUZmiupBFM3EsDGsoqXqw-THvEZkiGIjn8Wr2yrSLgOIiIkYgh7jw47KUOogCtSJH9ds6Bt5Gv_THDjbbB72hOb5sj-UzGxSnDwEuAl_KPrRguAnQ_F2Ow82yiBeCynKZGRNAjBu3Zo37TW40ue2e8w.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/qiFl0mlEke0z04rDiaz5E1UxXme9OtcAzhCB78EmhpAVi694mWACkVNVP_IqrWOFyepVEem6QRn1sZgE1gXay-9cZNBs6tFqQbgbLsQPxFn2msYY0Uaqz9fc8braYYXpdSi2CsegTlWvUGOf6tKn3JNlzwVPo81YxsUsD8Bl9zCy8Uc-ChWsxOQluLLEyHlSfq-MXcuZRygNvDNtMl2Yn5ZlYIXC2GFaSlea2zhpD-kpfBsyxZ9dJmjOunKgpjEIo8n6zua9GiEqCSfgb0EonnUhh128Z17FT1-E0MXCe8BUExcpmJG_xantUZbdCGzGshVSnkT2q_3EYHhPzah30g.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/QhVnZqjnzY2Njcfqpql0hVwXFgaBckjD0aihqpVUAB5EDKyllX9gmPCACPywB4C2QngAYOM8x-mn2GsjtgOaRW8_GTQvUQQrVHOMQu0Wn1d3rvU4bKXH2NNxwIFa5ioOcaBpiK_z0R3FGEQpr30LntC7YHht27Qs3HbK9qJDOtLNA8xWtg68sDuX_8PgzGpLYl6HLx0wdnRnvQ2VHYilhdrh-CoWAj7ozDVbBI8m5q77r05kW6yXgjepGy2KXEAt9UPnMCNkalGH-pQq-D3J1rK5dypYh7X25EsISOdGGJYXcOziDC0s9MhD3oVAs4rMEXyBbpQBVkTJ84xuTadZ_A.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ADBu59U6_FolwcUtESEMvwchOSWInrbEq0Ge03KesAshFdjHVR0mqW5PgQcgVmw-iay6Oc6yXWT10byiMI_W0y2OmtRTFJI-FbjRhgqspH-cQiQ3URetn8VJV20dK8vnhvzhXtzNRCu4nn47zQ37mpr5L7GXbEcplVJ0r8YPYk8v8nuhOakIn7eXyiaIpYhUnFK_BhE9fnHkEuBsD8k5UfMwB_2bUy5CGKcJZu-ROOKFsdtkitaZICb9bbKxTX_e_mlyC4fhBHiaHmwl2ymIlHAb3MVpwGqCjSyuYKIDTIhT_JtSImlr6UU_ME7Ak6xM5Zc7PK9uxx8NT3ZPXng5tg.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ardq6VgEhqyw7b5B-1QyVOOerS5E5JpaVAOkJhObZMmKf7rVEsfNR15CIc9743kE-fGhOU0GBO2IacnB_NAtUnwPZOlmbdSCGyWGyfoQr0YZIZSZh6nDtCDVDGz-7JVwPOjfBM_FRbj0DKNfwIIOAcZ9BrQYYerPRcagC_FklHMaO_R5uzlXCUqFr80XFPkFQRSLXqmSX6yz4dYW8Z8pVtg8fo-qKanrf6ojHdM1Ff-2uIQ5TtVL1gHuzC5QHL8GWolaVPM7R5ht06IvdBom-99FOwDQzXeJi16hAAtSSJT5me90znY0jXDQDr-LRyolRbbBOe3-tdHc9QRbh-jubw.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/bLhu1Z0x3QXj9hX_BUM9Ue1RJI5TNTB2yvPP11LMTrt0PjP4g8UpbZNFpSeHVg2G4h6rfdmatrwVueSUdzN8D77Grkv5Om8Rwp9mYMpXZqWXmzc1cVGoMiCtWKx8dDKVmwwPfVWbeMA02BDFq5EWf5JsAxRdnCSjtE_bHwFWQquBplVXDlTgCQSfOLYSxnxXPxpSkwZYnAuTEfbZoJb7bcXxI9ECBvEFnyrbLbi-2LvxdSOx4O3jKdlE3Y19fKjXN-szUMatCGBcY_pg9Xpdesi24Zdf9Wzd-XQLGA_goVz9F6Uv0D-eW2mDvZjzbxlT0EpOgAqDj1_XT_EcYMSMRQ.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/FaudRxUF-PjuqFzT3l1JbdUyrAMIhcSI66i-w7On60ln_nJ86_YJlznkhocDwIw24EaJ2Z3OPds43jREFPmIpIEmHc-Ke090VBj9qh3w5EZ-WfwocYtT_zXvRJrUhfVxdhZXYxCshm9a_k_iqsMV8khdJLxm9LAdZX7-cJREddMLubJ_XkWBCHuorYpfhOVbBpkeHJt8RF3j0hY5a1xSfGDPRYU1A0_tzlg5z6uoSpGgr7Wo9PBacym0GbSim89gOB_Xqu8lMhHBgZDUu40U7qPbEcRG3xxG8HIW_8nkBjuveTJ2NiR2h1ZPMeavUQvqa2uZTQiC_Vb6EmIrGyIzYw"
-        }
-      ]
-    },
-    {
       "id": 108787,
       "message": "جاویدنام سجاد اصغری، ۳۳ ساله و اهل فردیس کرج، شامگاه ۱۹ دی‌ماه ۱۴۰۴ در جریان اعتراضات، با شلیک دو گلوله‌ی نیروهای حکومتی کشته شد. او با دیدن نزدیک‌شدن نیروهای سرکوب، به دیگر معترضان هشدار داد که فرار کنند و خود را سپر آن‌ها کرد تا بتوانند جانشان را نجات دهند.\u003cbr/\u003eساعاتی پیش از خروج سجاد از خانه، خبر کشته‌شدن پسرخاله‌اش در تهران به خانواده رسیده بود. خانواده از او خواستند بیرون نرود، اما سجاد نخواست در آن شرایط مردم را تنها بگذارد. نیمه‌شب، پس از ساعت‌ها بی‌خبری، تماسی از یک درمانگاه، مادر و خواهرش را به محل نگهداری پیکرش رساند.\u003cbr/\u003eسجاد دانش‌آموخته‌ی کارشناسی مدیریت صنعتی بود و در زمینه‌ی راه‌اندازی کافه و رستوران فعالیت می‌کرد. او تنها پسر خانواده و در آستانه‌ی ازدواج بود. پیکرش پس از پیگیری‌های دشوار خانواده در آرامستان بهشت علی کرج به خاک سپرده شد. پیکر سجاد پس از پیگیری‌های دشوار خانواده در آرامستان بهشت علی کرج به خاک سپرده شد.",
       "date": "2026-10-26T11:01:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7990,
+      "views": 8090,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -85,7 +31,7 @@
       "date": "2026-10-26T12:01:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7850,
+      "views": 7970,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -104,7 +50,7 @@
       "date": "2026-10-26T12:01:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8820,
+      "views": 8990,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -123,7 +69,7 @@
       "date": "2026-10-26T13:41:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9520,
+      "views": 9730,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -142,7 +88,7 @@
       "date": "2026-10-26T14:00:03Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11500,
+      "views": 11800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -196,7 +142,7 @@
       "date": "2026-10-26T17:10:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9740,
+      "views": 10200,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -215,7 +161,7 @@
       "date": "2026-10-26T18:09:14Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9600,
+      "views": 10100,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -234,7 +180,7 @@
       "date": "2026-10-26T19:02:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7270,
+      "views": 7920,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -253,7 +199,7 @@
       "date": "2026-10-26T19:59:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5260,
+      "views": 6220,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -272,7 +218,7 @@
       "date": "2026-10-26T21:44:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2220,
+      "views": 3470,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -282,6 +228,25 @@
           "type": "video",
           "url": "https://cdn4.telesco.pe/file/XK0s6hrtmdUcEZa3PTpFCbmoFLvTxRZlbeNdqP9t6vjS1o9Tzx9iumek04DCHRfw4JcpGbqPwDQVrgZsZ8zDefNoUTzqMIWMSUboxwY-ldK6vMeDbprl8SA3SqRFqe-MULJuc89-w6bc-M0rZYTHH333kEXNYwrfIvheFx7O2_yjHaBFVPznqXZ-uZxe1mz_GtYyJ8BWUyKxEnWBHYq36iDCl0sIv35zY-CiC2L1xL6vkL8J-65KQSajrm4M5NmibjCKC0huHhB9y53MhT0RoP5mfKOXE0SU6jBaN4SplvVF8B3dm9NQt1CQvKoAu1280NJbSPdzohLF8dA_Z6Qypw",
           "width": 406
+        }
+      ]
+    },
+    {
+      "id": 108806,
+      "message": "از کوروش تا پهلوی | جایگاه نهاد پادشاهی در نگاه محمدرضاشاه\u003cbr/\u003e\u003cbr/\u003eبرای محمدرضاشاه پهلوی، پادشاهی تنها یک مقام سیاسی یا میراث خانوادگی نبود. او شاهنشاهی را نهادی ریشه‌دار در تاریخ ایران می‌دانست. سنتی که از روزگار کوروش بزرگ، با وجود فرازونشیب‌های بسیار، در شکل‌های گوناگون تداوم یافته بود.\u003cbr/\u003e\u003cbr/\u003eشاه باور داشت که نهاد پادشاهی در طول تاریخ، یکی از پایه‌های حفظ استقلال، ثبات و یکپارچگی ایران بوده است. او همچنین بر «پیوند معنوی پادشاه با مردم» تأکید می‌کرد. پیوندی که می‌کوشید با اصلاحات انقلاب شاه و ملت، مراسم تاج‌گذاری و جشن‌های ۲۵۰۰ ساله شاهنشاهی تقویت کند.\u003cbr/\u003e\u003cbr/\u003eاما فاجعه ۱۳۵۷، این پیوند تاریخی را با بحرانی بی‌سابقه روبه‌رو کرد. محمدرضاشاه ایران را ترک کرد، حکومت پهلوی سقوط کرد و جمهوری اسلامی جای نظام شاهنشاهی را گرفت.\u003cbr/\u003e\u003cbr/\u003eبا این همه، شاه حتی در تبعید، با وجود بیماری، فشارهای سیاسی و از دست دادن قدرت، هرگز حاضر نشد رسماً از سلطنت کناره‌گیری کند. از نگاه او، پادشاهی نهادی فراتر از شخص پادشاه بود. میراثی تاریخی که سرنوشت آن را نمی‌شد تنها با سقوط یک حکومت یا امضای یک سند تعیین کرد.\u003cbr/\u003e\u003cbr/\u003eمحمدرضاشاه پهلوی دیگر بر ایران حکومت نمی‌کرد، اما تا آخرین روز زندگی، از مقام پادشاهی کناره نگرفت.",
+      "date": "2026-10-27T01:13:58Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 984,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/bLec7PkZQpxrrDV0uqiHe0O2y0cd9fPTI3-Fie3P-ULGi5uaCsFFZPt2RxJ_WPHfvVcpd3T2hcLdeez2tvAnPs42GHxk-3yIFZlJm79mh6vF1P0cCeZwXoEjk4ljy3PEpzgcgsTOOayaTXSkeYpMf72UtwF0qqMNff1G-IJgkXgUK3IPwv-pJw5-VC8h3gTBdeXYYK0vUzozV-UJfR0F_0lxe_-Riuq10SqzQThZgInxwFVqF049IHZfDEIQmq-DijOEu4MUjk88d_yjquNPajtJDikKV8b6d59frXDwPi1uw1JqLFWq3rOxAnzDsDhW7Z6SLKHUIyxKeenLFGu7QQ",
+          "width": 400
         }
       ]
     }
