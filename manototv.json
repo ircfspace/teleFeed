@@ -12,7 +12,7 @@
       "date": "2026-10-30T17:05:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7790,
+      "views": 9060,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +66,7 @@
       "date": "2026-10-30T18:31:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6550,
+      "views": 8600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +120,7 @@
       "date": "2026-10-30T20:29:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1880,
+      "views": 4870,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -129,6 +129,25 @@
         {
           "type": "video",
           "url": "https://cdn4.telesco.pe/file/Eu6-UbF8YCCHe1s6bWGXyJzUIvXvbG0FHRXfaMD_g2AZf_Sx6oUkgdNawc8V50h6xCxwe6_LqQZytJMZpbO8ad1vV_fj786CgBOeW6RRhnpitAlAbGLr9ypJ-_d7k0p5jf2M6SgJg4B1jAUz_1HwBHB2wFq7NlyacQYEjtHrIQ4MgmQPf0v-P932aEvTdw9tKnuix1TgEfcpsR_asE5VecnQdc9iWF0yFStrR1ZNNnqFdg9MdfHH7yphD_qjQUeGGkFN-9aRoMgeQ3yr4PGwCNmvb5t6e6PLzxqt_8KoWUGKCubp3Auksq8aWicjbkQTTuri4E22VOpE9eIbiPVxzg",
+          "width": 406
+        }
+      ]
+    },
+    {
+      "id": 108982,
+      "message": "خواهر جاویدنام رضا اسماعیلی، پس از حضور بر مزار برادرش، نوشت: «من برای تو آرزوهای دیگه‌ای داشتم… من برای داداشم یه عمر زندگی می‌خواستم، شما ازش یه قبر به جا گذاشتین…»\u003cbr/\u003eرضا اسماعیلی، ۲۴ ساله، روز ۱۸ دی‌ماه ۱۴۰۴، در جریان اعتراضات در قیام‌دشت، با شلیک مستقیم گلوله جنگی مأموران امنیتی جمهوری اسلامی از پشت سر کشته شد. او ساکن تهران بود و کافه داشت. پیکر رضا در روستای چلرود به خاک سپرده شد.",
+      "date": "2026-10-30T23:11:09Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1170,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/OfBQTY0FdqQltUQiwOXu2-qmcs_zBJHheAPwWP7iZYTf1BwyUYyGWvav8YN1xNmRau-mK9dylZWRcKdEFxjjqxNSofaLZLQ4ViOqhgT5zQCsr74-qScgsm2eXEHayHcZTx7MSlbsucTKjwlxq1-rbscvrYyWwLtvfE6aDFRaw5-DTi1RsmT-VEBGVaPF2Pt5S1gq_6i3DXs8r8BggAsb_akdhP10gNklMDsNHEj0kzXXtb9PwWBT3CkYrTR4RG8tB5srGHvl5-OrXxN8jYJ2yzSWXm8apxSukHDeSc84xrZHQ_vi_bbefdApV2sVNsHhzCfx7z7PvA_SxkDwkA9d-Q",
           "width": 406
         }
       ]
