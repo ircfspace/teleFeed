@@ -12,7 +12,7 @@
       "date": "2026-10-30T17:05:33Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10900,
+      "views": 12400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +66,7 @@
       "date": "2026-10-30T18:31:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11100,
+      "views": 13300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -120,7 +120,7 @@
       "date": "2026-10-30T20:29:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9020,
+      "views": 12700,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -139,7 +139,7 @@
       "date": "2026-10-30T23:11:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6400,
+      "views": 11400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -149,6 +149,59 @@
           "type": "video",
           "url": "https://cdn4.telesco.pe/file/OfBQTY0FdqQltUQiwOXu2-qmcs_zBJHheAPwWP7iZYTf1BwyUYyGWvav8YN1xNmRau-mK9dylZWRcKdEFxjjqxNSofaLZLQ4ViOqhgT5zQCsr74-qScgsm2eXEHayHcZTx7MSlbsucTKjwlxq1-rbscvrYyWwLtvfE6aDFRaw5-DTi1RsmT-VEBGVaPF2Pt5S1gq_6i3DXs8r8BggAsb_akdhP10gNklMDsNHEj0kzXXtb9PwWBT3CkYrTR4RG8tB5srGHvl5-OrXxN8jYJ2yzSWXm8apxSukHDeSc84xrZHQ_vi_bbefdApV2sVNsHhzCfx7z7PvA_SxkDwkA9d-Q",
           "width": 406
+        }
+      ]
+    },
+    {
+      "id": 108983,
+      "message": "شهروندی در ویدیوی ارسالی به گزارشگر، با نشان‌دادن یک پراید واژگون‌شده، به کیفیت خودروهای داخلی و اظهارات جنجالی مصطفی میرسلیم درباره تفاوت‌نداشتن پژو ۲۰۶ و لندکروزر کنایه می‌زند. کیفیت و ایمنی خودروهای داخلی سال‌هاست محل اعتراض است؛ از ضعف بدنه در حفاظت از سرنشینان تا نگرانی درباره عملکرد تجهیزات ایمنی. در برابر هزینه‌ای که مردم برای خرید خودرو می‌پردازند، انتظار برخورداری از کیفیت، دوام و امنیت، ابتدایی‌ترین حق آن‌هاست. خودرویی که خریدش بخش بزرگی از پس‌انداز یک خانواده را می‌بلعد، باید هنگام حادثه هم از جان آن‌ها محافظت کند؛ مردم نباید هزینه ضعف کیفیت را هم با پولشان بپردازند و هم با جانشان.",
+      "date": "2026-10-31T10:08:47Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 4550,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/glbXAjHW8RFsktx3rh6NexX6IpMSAgskgUYeCeSJxMKdZRGdVkGntxM2O3h30dR6-_BO2ZHhPoC_1CoVnnz_9YsScGqr4N5Xd5wKmPqn7R2clYgTTAvFbMVsylB0k0CSCignqUeof7Z4cTih0_A3ZlXK0ZEfKHUPUXCl8I26WeGvJ9ij2ak3ivU0vy1vhZQN6d-penVFoTjxyLxiaBQ5WJXLI0SKSl-d5_0gIlTu-kf8k-TAhltFN7CPZ8SQ4XD8RZYm_zEiQuawJFbzauRmJunSgHBYBwo6v0PrZa0F1Q-Y_Z90cjUl0enC4Vj94OGN5fc-Uyfa0DsDrLV0e1nu5g",
+          "width": 406
+        }
+      ]
+    },
+    {
+      "id": 108984,
+      "message": "دونالد ترامپ، رئیس‌جمهور آمریکا، گفت مذاکرات با جمهوری اسلامی در جریان است و جنگ ایران را «جنگی غیرمعمول» توصیف کرد. او گفت درآمد ونزوئلا ده برابر هزینه جنگ ایران بوده است. ترامپ چند ساعت بعد، با اشاره‌ای ضمنی به تکرار این رویکرد در قبال ایران، تأکید کرد تنها هدفش جلوگیری از دستیابی ایران به سلاح هسته‌ای است.",
+      "date": "2026-10-31T10:58:32Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2820,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/IEY4ntxxh64atthHusKQUQMroFklzu_Y063xWi3e2SvOwOKNee_QlnVEgqivpt3sap7-lRfoalTnyC0I3txG9slG0afotz8L0ma0I5uKsSbPbcwh--xEWcitFJKVBxnLLN70cYxmoxWbCmrIGs0UaKg0YGmi0fsMRpwyMrsArKDf3mFivZFVZfoU0RzynY9NOd6YJA67gNg7tIVXfHj7MhUJiy5GKkh4c3hvhUwn9XqqYAvSn_ODzaTOfQ2OAiKmYlsSF39GoTyu95i-sPLCInz5hSryfECxDIdWI5yK28bCHHfvHJAE0LA1ZaINQ4x3hSLERWororQrPrHTGX61oA.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/L-VxaLICiNHF6QvdiNlnsjQof04dOqnJ1L-Lnv3qpGHy5-yOCjOEendtgDv5PKwsNyxKDzPc3Wnl48VD0p0ldOxaWkS6SgM0yzwJXIODDIsDHXu2pcuEp3vAHfli2CY0srX_BfXpEDtfQ2wwUpf2bwPa4iM5Q1HToPiSHZB1Soy4t_FPA71dugL02WETzfBKKofFWAaMBl-ULb0IKo4bqe7O63nlQ6YevLfP9osxrqfFlg-lCwHkjotXVmKl4hyZDeanXi4PvHMdLxqKWhSFLCROHnAO4FTEgc2-_hVIbm4EBoA05O8d1CBG3OYV5ALdQVKQtT8D7TqsgOKklqr4cg.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/k014qaECVU_0vUVarNUjUyKkhfvcWNqx0tddGBxVHAtjvxM5vjsVrNsZEJkj0Eg73MD3VMpjS1wHTqFrWt_bshIZnatDfX4Hcr5zKYIuIB81fd4ChI_g94r_WSz9pWkcpDbIXOqzd6eifKgzWGiNBkO6NCkTXPMuYnKRdHDUJIo_aCE2LHfBAin7C0ishWey19EwMN_F1ozunbIhDRJb0wECVZwMxR9X1xziEXNxUPHt0jdF2OeC1H800EXlMhAMNfWDPn7XZ3CGKEnkhiM84mnTXYT9_FphawrCRVUZaZqBWg8U0yV3vKzQ7L_Z9IJmizNeThNgI9uroo3rmNzT8A.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/LwwJVbem6QczHgPGsCV09Is6wfywkacivUS5hx548IayWsNp4_tRsoslDzfMvl1gQ3_zJM3eTDvvVtXnM1ppjeMeKngp34-R3dnGpUjr3vA1o3U4OIG1NpfjXRHzQPDmQ7Q0EtRghnkygqkbFCxPVOtTlP6-XtXACsTQEglB7MM_K3NW27xjWgAahlUWUQfyQJzA8gQDc4I0M0OI4mDSxq_iCJHA1n2P6pVCY655RF-y0CpLC96tdJRGXthpEEQUGQ2Z8OT1k3KUKhZQ6n_wVYxWemWAW0ugaaqGqxwjYc278IELwDW8MxAh_p-RB5pctgh2zZnur3AVkxHYgMW0_g"
+        },
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/c1RVpxmi3jkYUKbfzH6pG0zvsxy0pX2gvvedmaYCqmTfhYA5e2KaBgpN6CahuLvPcqfSeWBTt6KVsqcv-Rbp--KHxml9AuiaqE0x_CS5h4vs4OzbCX1isnP6D8l1levcbrj3_vBxcSwn-yXIoISVzztG5V02qgVT3aMMSXihJCO1OxQE8SvYYkEA-Va0SaVKR5ErZ1bkEr2L70rKhuSN71-EuQ0HSUb5l6zaAwJKpCwGDwe3tkf9tNvG6PpIeSlnKymCOwt0IZUrXt-Iv3dCgeyXzx3aAdaJjJLB_Gkd_mmC4PEQZzILUDGtzhIazyLftOs5iyasujkWK8znb3DLgA"
         }
       ]
     }
