@@ -7,34 +7,12 @@
   },
   "posts": [
     {
-      "id": 2119,
-      "message": "Ну вы поняли.... \u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9882.png\u0026#39;)\"\u003e\u003cb\u003e😂\u003c/b\u003e\u003c/i\u003e",
-      "date": "2026-10-30T04:55:03Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 127,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "УЮТНАЯ ЮТА | UTAH MAMMOTH | NHL",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/fXt6kBUZ85j0UESLViGb1XcF8mr8fqB9KYAlKvy3HMpA7OhFKqIsjrescx3r6SUbjsilRRmZ0MyavSnRl91D8bmxWUzcJzBNWc0gTpCdriHDoI3Fi27Ghsj6jhYAOYpZbO4IyZWeVJuyDo0WrI2lES-RY_hkA_RAsnPREjhiPE1mC6_fh7IrjDotnYWgASQgKYz4m_3ukhJdCmrOmmwu76kbPRjyJ8GvDzEzNWw_KcjuxYb843xFJ0YRXCsyxE9hGOsXPQ-rDxeMZQwd4GvhnpHszNDVwHlBClB6dmt5q6vb1_ICL9Ul0NgwZUIkFTXhqgaFAvwCQDZUmGNZHZ6pzw.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/sEyabZ0sPlwPNnSxMSxZb1UERrT6ispukc-VGPQNuAYinUnTFDEoBdI6FqrXvbdxKo-yeKpBP23yrAQdkgPRIe1o_CDNO7Wk0roCeiK35USRqS4mkG1Zb8IpPb2vUxPgGnJf_DS9_Zskj_aftzBN3AnhryYHTAyjfAFHzU7V_bhAXf0up7RvMTSP7K6-tvsW1M5ELsI7xvZ8Kj7KEgNmT43oSNM-tr70s0nZ1M_PocCr2YPhgiuVezNSC3eB6f3WI7smpALBTaaelx9DR44UXe5W-mDA1WkzJ28Z6X50IAuWry8yRmL6BYpxvsL-Fxeat-9BpHN1xO6n3K4sJ3GgxQ.jpg"
-        }
-      ]
-    },
-    {
       "id": 2121,
       "message": "Duda",
       "date": "2026-10-30T04:55:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 130,
+      "views": 132,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -42,7 +20,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/k1EcbYBM-lsQ8X8jkHv0nUssOShtZ7nheXMukFWzMKIic4ZudZAe7He9ORROnj7MUu-2RIO2d8Ppi0_szx4jpdsEEuMB7mmdMcnK70dVfcXSMVaULM8gjl4iUlYdY_x-uOdhVaPbDKl22PO326bYMnruEnIM_apD38SUo7_SH4oazuawUiLQmXALBjvG5apDwk9ISASpZm7qIbMKFPq-WhOgNLHCclo0v4GWnVesJIMaE0hEpXo4ddfD-zH1-VuZjv-VM79rt-NI_hYaKOXBlVV1HgROhru307OrD9MjK-u9Scqg_udgyB4oyrPNz8zbP1v2lGht7yU1LyovBePtkQ",
+          "url": "https://cdn4.telesco.pe/file/EPROV_F-lka3lsUQR8w0cfNxNbnLYQxRPOsiCcnkB_3dlXdbLgBrR4f0zdT70fbA6ixG7uUkILCfWaIhW_3BZwLorW-2zfXGGBsFn3Fw6kIPSMeQRUgX6hW783kdcKtss977TXkggSL64O0fYf-8_inYHk7ml3OQ0Jf8oCjfmKIveqYRd34NQFOIivR4IMbONCayhjpYQHvulNdWum0SZbGg-OnN2sJ93RRa-F7Ork-BY0ExjiyEHIVPicJeCVdZVnVJHWvPQN-ktaVNELxA5fh6HsiYcJ4QVCnhBe2v3WSIkclHB68Veaow_eyEYWElsqmGqcwI9jeyKk2Sl_ln9w",
           "width": 720
         }
       ]
@@ -53,7 +31,7 @@
       "date": "2026-10-30T04:57:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 172,
+      "views": 174,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -72,7 +50,7 @@
       "date": "2026-10-31T04:46:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 150,
+      "views": 151,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -84,7 +62,7 @@
       "date": "2026-10-31T17:11:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 132,
+      "views": 135,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,7 +74,7 @@
       "date": "2026-10-31T19:03:20Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 119,
+      "views": 124,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -122,7 +100,7 @@
       "date": "2026-11-01T08:53:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 108,
+      "views": 115,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -134,7 +112,7 @@
       "date": "2026-11-01T12:20:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 103,
+      "views": 110,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -146,7 +124,7 @@
       "date": "2026-11-01T12:58:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 104,
+      "views": 113,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -158,7 +136,7 @@
       "date": "2026-11-01T15:20:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 93,
+      "views": 104,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -176,7 +154,7 @@
       "date": "2026-11-01T20:42:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 58,
+      "views": 87,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -188,7 +166,7 @@
       "date": "2026-11-01T21:40:04Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 46,
+      "views": 87,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -200,7 +178,7 @@
       "date": "2026-11-01T21:50:18Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 42,
+      "views": 84,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -218,7 +196,7 @@
       "date": "2026-11-01T21:54:11Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 67,
+      "views": 139,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -237,7 +215,7 @@
       "date": "2026-11-01T22:00:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 36,
+      "views": 97,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -249,7 +227,7 @@
       "date": "2026-11-01T22:38:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 32,
+      "views": 81,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -257,15 +235,37 @@
     },
     {
       "id": 2138,
-      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9A80.png\u0026#39;)\"\u003e\u003cb\u003e🚀\u003c/b\u003e\u003c/i\u003e\u0026#34;Филадельфия\u0026#34; - \u0026#34;Юта\u0026#34;\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9098.png\u0026#39;)\"\u003e\u003cb\u003e🐘\u003c/b\u003e\u003c/i\u003e -- 6:3.",
+      "message": "\u003ctg-emoji emoji-id=\"5371032147551354350\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AB.png\u0026#39;)\"\u003e\u003cb\u003e▫️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5372861975418142321\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AB.png\u0026#39;)\"\u003e\u003cb\u003e▫️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5370549693874994712\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AB.png\u0026#39;)\"\u003e\u003cb\u003e▫️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5370565207296865954\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E296AB.png\u0026#39;)\"\u003e\u003cb\u003e▫️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5370968547675636409\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C88.png\u0026#39;)\"\u003e\u003cb\u003e✈️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5370834896883316060\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C88.png\u0026#39;)\"\u003e\u003cb\u003e✈️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5371037065288908967\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29C88.png\u0026#39;)\"\u003e\u003cb\u003e✈️\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5368692004555360442\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/36E283A3.png\u0026#39;)\"\u003e\u003cb\u003e6️⃣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003cbr/\u003e\u003ctg-emoji emoji-id=\"5368802922085778153\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA6A3.png\u0026#39;)\"\u003e\u003cb\u003e🦣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5370630606763882744\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA6A3.png\u0026#39;)\"\u003e\u003cb\u003e🦣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5368703141405558930\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA6A3.png\u0026#39;)\"\u003e\u003cb\u003e🦣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e\u003ctg-emoji emoji-id=\"5370712400121069684\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/33E283A3.png\u0026#39;)\"\u003e\u003cb\u003e3️⃣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
       "date": "2026-11-02T00:12:19Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 18,
+      "views": 75,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "УЮТНАЯ ЮТА | UTAH MAMMOTH | NHL"
+    },
+    {
+      "id": 2139,
+      "message": "2 и 3 гол в ворота \u003ctg-emoji emoji-id=\"5305599858395073666\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9086.png\u0026#39;)\"\u003e\u003cb\u003e🐆\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e",
+      "date": "2026-11-02T06:07:04Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 49,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "УЮТНАЯ ЮТА | UTAH MAMMOTH | NHL",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/Q5N_SKCZ5d10KoMnS162ySKOMslSBcylmWyJ7TkDaMnAR__8E68RtA6pCtFL-naiDmwLD8IS5hde6AEugFPGK4uskk-9ISoJl2RZv5SiNWZ4AkUyNRsbFIY98ig97F6zDW1Evhe28WQFvcjp1lsesl6ZxykCB3L6-FozYYHOFVJOy2ep9WYRKt8yJfRy9_F2_pkPMTNc3K9O0zW_qbKurY7mek6gwI1TQ3oU5YhYhDR_XLMkJok4bTYFJlfAAqtQkiu2_iqP6Xb7dSekGupzqaolx0CGK52shdiApQumgmuQcA8jBfyWtqbi3extjQFVKTSN2MzQF4vKdHLqnEUQrA"
+        },
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/VGjAL93wfWZMhnLiG0lASg5bcCNaNeBiw8mXsSQUOGIsoUcfQlSIxjkQeLZ0O6k570oCEkS-fxgBDfmVxWjamnOYFDv1VXJkIId2O87m9YOhnXw8Jo1ljidZ5rM0twbHKttcuclSigoIQHEot0KFYxw07nQQgPYVk4gDyQrxZpAVuGJVfns7xIefX5-CIphjnG-Ih1t7z_jA6ccc6yQOeHKYai7u31eH9gB3VjP5pBEshtF8hlN1HuHiQMZQt-c3c5K2boJiKL4y613W-lJIUOar0e-7O7CzFBT6gTXQsfS1ZdalGjL35bp0TaVRXVDrPndrogfLPrguuEr-_onPzA"
+        }
+      ]
     }
   ],
   "last_updated": 0
