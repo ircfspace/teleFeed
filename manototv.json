@@ -12,7 +12,7 @@
       "date": "2026-11-03T15:40:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 10700,
+      "views": 11500,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +66,7 @@
       "date": "2026-11-03T17:37:00Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9910,
+      "views": 10900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -85,7 +85,7 @@
       "date": "2026-11-03T17:37:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11600,
+      "views": 13000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -123,7 +123,7 @@
       "date": "2026-11-03T18:50:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8990,
+      "views": 10900,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -161,7 +161,7 @@
       "date": "2026-11-03T21:29:53Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3050,
+      "views": 6210,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -170,6 +170,25 @@
         {
           "type": "video",
           "url": "https://cdn4.telesco.pe/file/HQIz4Nx2rl0VXHH1n15m4IYDLtTnNfTGiZznGlaVD2FyrV_uK4rfvMS9x2_5hzbs5tAyek_jsSc_7AiGYKqC0aRAKwcT3B7O7iMW8A38zSxtvEUzQ6zSgu_2OL6DC5M4WB0naz4-wUZF-deA7EW_wYJmb7FKprEx5eeJDROFAugAP9kYr9bwjOKXl0phR7Td4U60Xx3RstDRtF6yzS4TGHMxnLFMaHC75MSnI_exhtGZVnXcajxCb3NyeQZ9zmhRcmidei_mgOIoflWmfCJROg1a6vfAVgJvAm0iPUC0oZqY9-3WQhl7d4Guw4Unr41zza-YYLVNF5f0gh8oM9sy6Q",
+          "width": 406
+        }
+      ]
+    },
+    {
+      "id": 109127,
+      "message": "جاویدنام علی‌محمد مرادی، ۲۶ ساله، ورزشکار و اهل مرودشت در استان فارس، شامگاه ۱۹ دی‌ماه ۱۴۰۴ هدف شلیک مستقیم نیروهای حکومتی قرار گرفت و بر اثر اصابت گلوله به گردنش جان باخت.\u003cbr/\u003eپیکر علی‌محمد ساعت‌ها در خودروی نیروهای امنیتی نگه داشته شد و سرانجام سپیده‌دم، تحت تدابیر شدید امنیتی، در قطعه ۷ آرامستان مرودشت به خاک سپرده شد.",
+      "date": "2026-11-04T01:01:34Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3390,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/UuDDNVkXr6NPqG9AKVgLpcB3ZIhRSZg87jbyvc-NKMFy05l9czEmampVItBQSYItHaXjAwfxxA7BGMBwVEtlAbs5rqQXDeCLjLKTUju7BU7lD8vMnu0puhQo8i50d-JWbOjZIXaNFNInw0U_avawsmVr-kjyfAGdoK3YPutJlt9bNBXFnjhFfeJ31bwODScZ9N2R0lSeqQbyfHg_Vd2qFkFzOOqLKuDyxQEJYcxIplOClHp6ZQCEZfPKUq6oV-GdBjskUr4NlmF9ht4-3cfBRB0Ytg3UzkatTyufM8dfmQrD-CgaXVVbGVvo7GV4dNSwmVTKbiP4HUWXzyEZbvlakg",
           "width": 406
         }
       ]
