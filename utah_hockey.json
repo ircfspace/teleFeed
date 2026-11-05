@@ -7,31 +7,12 @@
   },
   "posts": [
     {
-      "id": 2142,
-      "message": "Пока все обсуждают Кучерова и его возможный переход в Юту. Мы смотрим новые джерси Hometown Remix.",
-      "date": "2026-11-02T15:07:37Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 121,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "УЮТНАЯ ЮТА | UTAH MAMMOTH | NHL",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/S5TH7nSLekiHGzyp4PTSHdxaHBp2_qJ2lHw2ksxD5Ka80Yf6tTwZGIuMsPXTUrJfxh-aGrkglQ_Umcu_fBjGpt9i5-5-A2XWD9dC61GTQMcjmuPzEFaCNLswkDiDsGUoAyp2pOy6xLMGkjFJvpko6fvIl9YKn5wdwo9tvO4pKcbeZW68kSq0rTo1WrnCV7S_IHVdkmPCZGI_oms6Hn_BjgJwDFKbgrx8NuF5b2UyF8JNTTOqp_8OnnIz9u9kfX61s8865r0vwEyvsWrV9mwyzDxT2HS2w9zmrLuD0elX8LRg-gyiLanYpGHoCbx5RCJ42ZfKH5IipMYjf-i1lhT2pQ",
-          "width": 720
-        }
-      ]
-    },
-    {
       "id": 2143,
       "message": "",
       "date": "2026-11-02T15:28:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 140,
+      "views": 145,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -43,7 +24,7 @@
       "date": "2026-11-02T23:24:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 120,
+      "views": 122,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -61,7 +42,7 @@
       "date": "2026-11-03T13:55:43Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 115,
+      "views": 117,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -73,7 +54,7 @@
       "date": "2026-11-03T21:29:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 112,
+      "views": 115,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -81,7 +62,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/W-xtdtRCB7z-UBnfJ0iKg3y8t_JNO7X10aRujNJNnKrlNB02bm34PC_VZrMj_2FG7k-kBLJ4Nf0Vm9JH6MnEvs2uyaPECcEkPQIzU0VkevhI8pgqNLfW-m2hSH72T4HGPET77wSymdwuLLrs24q_pX4NXB7BW600oIbJl2zGeCUUgZBH8Rt5zmU9VdIg48AueM551VcPDkho9YRSNcNF2uWI-V8PG88YtOYFloJGAwI1otZWzbiNm7bSdF59dsCdnwWdHCURd9E-cXGkt88UGsAq2cnC6krlcutkmBSTZgGREo_CnVfnwkVFW6cTPjP5x0-KFllfZjpLjC6gxqCLTw.jpg"
+          "url": "https://cdn4.telesco.pe/file/JmCQulLFcTH1w8yX1fRv6z4w2OD7hAldyJg6gXmdzryup46Heu55PQEHL7MLGgOK35hJjat1vkRVu9bRjBETJNoM-p8pvRdLHCZt074Iwshc7zaqQVD7hXFWNKfiwNSc9nBs5nE_kgwCA7Mg_QyZC5IBiIocrRoITS1KSFG5IrSCaZ_WkIzQMCMwdHUwv0DWl51DIxxhMkYmTZOUrfY9z0ga1BbDJqydOGIGJ2m5rbXqihAd5-m8olWIxmWXjK2VehfmhKj7GJkGKzDWmX0NhJPJWnhkPprKryNS8x9MqhAM7ygncrWrRqUufmqhI2CBEJ1wTDwylSIP1rbYDEBmfQ.jpg"
         }
       ]
     },
@@ -91,7 +72,7 @@
       "date": "2026-11-04T03:46:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 89,
+      "views": 93,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -109,7 +90,7 @@
       "date": "2026-11-04T04:01:12Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 92,
+      "views": 96,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -121,7 +102,7 @@
       "date": "2026-11-04T05:21:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 92,
+      "views": 98,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -143,7 +124,7 @@
       "date": "2026-11-04T05:24:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 95,
+      "views": 101,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -162,7 +143,7 @@
       "date": "2026-11-04T06:25:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 100,
+      "views": 108,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -174,7 +155,7 @@
       "date": "2026-11-04T06:41:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 107,
+      "views": 114,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -182,7 +163,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/A3tmH4aH2t7sw_RHYaICRSRo7Ua9YMo0Yu5W08VlXvGHsN6Z8upaE2oOsOX1Zx7gSn2MX5h-vvjOBfOZzRdKqJPrDtZ3ppzdmpIS-wYKGWGpcfRB3ef71b4pbJXEpGfzatkmPOsv9VVcbaw1bnEcz34rmEW1bKlplKtB8ncO3YRGSj5c_Bn3fAihRT_CMTSa7rdP3Z-YWXYDI6MasE9v6npYVlgHkZ0vnWHp1CD3OXY0IfwXY1h6RiEIBYSgrC5r8sag4ZgSepv1Zaj63k2qI-HoXV1HMy1o8laQBp8lilFoUHMZmVerRK3dd6RmZgBv0AuDo_DbK_12rFIr50-NyQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/tloSvluM9yODu71l7yTrg-oXSdt6xMsyVgoUX2gQh2EnI4chsXUPsftJOBu0gqh5ldcND2igUEm3Sp4bqx6nbxS2aF4pSrNzqMJbFbUbo9uamWM46aSduFp1vNPViT1Xbv7F9jEDqorXcNh2jUM1Gb_YqMeH107S-QmgwR4FPTrQyJGo_-kGeoRUGM25KvCCnqmpr12xmHFGz_MxXbwUH5rQgOEDX7p5lO3wy6uFsdbCWeZnXLgQ8oQTD7f5PqwLv6ppSRt28TGQLI1ZsRIRXzEW9-BiDTbPiJBLCllFyOUqaXrhMGmKT2aTP6TOpAZv8RAnlWufpIMkjqkFlhbodA.jpg"
         }
       ]
     },
@@ -192,7 +173,7 @@
       "date": "2026-11-04T07:26:01Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 109,
+      "views": 116,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -200,7 +181,7 @@
       "media": [
         {
           "type": "video",
-          "url": "https://cdn4.telesco.pe/file/Qi_rcWvE9XpHNimPuEVwWCirPeC0bCJaHXNGF8hyUSM8FQ5iYhEdkRHPiZZ7P3g2vD5RAtBwzilzuJbMCeGLK4GlG_DRl0al6b0jt-3y7CiOsRgjvsvGj5AFLoOsxuIlfNT8eSntiMwBbq9sWGglwG_M-rHcHHrrbsIuy5gS15SQVW73mst82zlLJKmFBVJEUiHbBezifBYHUtnkZlS5D_bzCsrmJl0_oSChcfcLy1LZz4RjmFbnVYlK8azHIYrCsxKNPQQFkMqJyoKRVVznrk-lc7v_Q0xxsNfLAN8dDHqsNZ1XB_2UlrKpJJo0EB8oMuQlpUdxNXULfchkabwGzA"
+          "url": "https://cdn4.telesco.pe/file/bd6hdq6uGChuoXxiYrVYVLyy9UcY9OgcA2w_tHySvgAXlb1SVwiuNTehBqYe37rtS55rjkiDPjkQpeyf88FCgEUZtHwSHBNroEN4O7rroTQ9mC6blNg67eiTydW3TO8avYfFl_4W0vyUfdiEKigZ3aSzIvfda--KI1MbZYYHZXzkab6O4713i0J46S6jK-LmpsvORkVw2m-JJEPqD7NzMQ0u2QZh3eot_1aIF7lNpPxWnhx6Ay2RowAyCAyZateaE8I31MS_m9Aqc-DgFzpgG-aits_DY6sR-kv0-yuHAOmlW4BV3Gv7y3i66W25sHk1pLmbpttkl-UeGeMDqPAULw"
         },
         {
           "type": "video",
@@ -214,7 +195,7 @@
       "date": "2026-11-04T10:58:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 111,
+      "views": 120,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -232,7 +213,7 @@
       "date": "2026-11-04T17:00:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 95,
+      "views": 109,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -244,7 +225,7 @@
       "date": "2026-11-05T09:54:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 64,
+      "views": 92,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -256,7 +237,7 @@
       "date": "2026-11-05T09:56:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 63,
+      "views": 92,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -268,7 +249,7 @@
       "date": "2026-11-05T11:34:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 59,
+      "views": 94,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -280,11 +261,29 @@
       "date": "2026-11-05T11:38:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 44,
+      "views": 81,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "УЮТНАЯ ЮТА | UTAH MAMMOTH | NHL"
+    },
+    {
+      "id": 2163,
+      "message": "\u003cb\u003eMAMMOTH (10-6-0) at CANADIENS (9-3-3)\u003cbr/\u003e\u003c/b\u003e\u003cbr/\u003e\u003cb\u003eMammoth projected lineup\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eClayton Keller -- Barrett Hayton -- Anders Lee\u003cbr/\u003eLogan Cooley -- Vincent Trocheck -- Lawson Crouse\u003cbr/\u003eNick Schmaltz -- Jack McBain -- Dylan Guenther\u003cbr/\u003eMichael Carcone -- Kevin Stenlund -- Liam O\u0026#39;Brien\u003cbr/\u003eMikhail Sergachev -- Mackenzie Weegar\u003cbr/\u003eNate Schmidt -- Andrew Peeke\u003cbr/\u003eDmitri Simashev -- Nick DeSimone\u003cbr/\u003e\u003cbr/\u003eSebastian Cossa\u003cbr/\u003eKarel Vejmelka\u003cbr/\u003e\u003cbr/\u003eScratched:\u003cbr/\u003eBen McCartney, Artem Duda\u003cbr/\u003eInjured:\u003cbr/\u003eKailer Yamamoto (upper body), Maveric Lamoureux (shoulder), \u003cbr/\u003eJohn Marino (upper body)",
+      "date": "2026-11-05T18:56:51Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 37,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "УЮТНАЯ ЮТА | UTAH MAMMOTH | NHL",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/mzCuvNUhOWHLvkThRq3P83kP7gvj_Zpgz9799mozK9i1BY0vz9USrzy1QwEV_4GvnV6Okq5TOPwsgC67nRDfCxChIcIG8vXCSW3SzjYi18eh86u4ZiJLJJgo0ixPlqHJzHaiQYhfW6j2wR5i7n-LmrzL_qmJDTOs8U7fA8aznsjX_ydGpqNP2Kl3bL95o48rC7FVd15QF59OgfrtToj__5scNdWRXc36FdGWEsm-uivVVsaNK5fwo6c_JlmzzXEcfYEY6R7NSA5GxXfZw1aQU_006Q93OwQ5KWNM6ZSY0FVMVxmLPBKo-nMZHrarc4jJSeZwL6kJriz1sfF4afNsqw.jpg"
+        }
+      ]
     }
   ],
   "last_updated": 0
