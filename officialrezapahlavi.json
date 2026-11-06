@@ -34,7 +34,7 @@
       "date": "2026-10-02T15:03:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 681000,
+      "views": 682000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -71,7 +71,7 @@
       "date": "2026-10-07T09:25:38Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 516000,
+      "views": 518000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -89,7 +89,7 @@
       "date": "2026-10-09T10:05:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 728000,
+      "views": 730000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -111,7 +111,7 @@
       "date": "2026-10-11T14:34:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 575000,
+      "views": 578000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -129,7 +129,7 @@
       "date": "2026-10-14T09:29:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 579000,
+      "views": 587000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -147,7 +147,7 @@
       "date": "2026-10-18T15:47:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 523000,
+      "views": 526000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -177,7 +177,7 @@
       "date": "2026-10-27T10:35:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 183000,
+      "views": 185000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -218,7 +218,7 @@
       "date": "2026-10-29T08:32:31Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 739000,
+      "views": 746000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -236,7 +236,7 @@
       "date": "2026-11-01T18:01:49Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 458000,
+      "views": 469000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -244,7 +244,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Uf4tKCHgMhI0M9tT0XanAaJ0gqfy9KRunTPXNDYNo_tIF7d_PTV7p6gzX92-xEgJj7ghRVkmNapJe9jfzYpIiyOR6bG2YhzlHOy6kYxTNrQuOlRCAvQcXnLPwojA3Z9JKrqZobLvOgNMsyHDGYtXkKftJeKXX2Pa3RJdXrAecg73TF98rml5k9CSkZdMc8L0keOgIlKLctvTbx7ezLO-K7nuakADzNYUTt9Roo8vQxQYnKEAaUXlV2kw_QR2Imj7WvY9fCjty01u_R1dT5oFlGtF0wJ9k91GflHLDoaIQk0KIka6kbP1auyxoYU9aLjKXjAWl8RzgFQTCnXn9qn5fQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/Zhkpwt0_5Y00Ef1YECl2vm4FFavkgkir7g2jyaWdoM7YbH9eKJH1_n1Kn2k0lrMVTvHotiOoEfLpMGQ12scQP_n_F5DKFprgodqNyNoMja0Vhe5LtEqfhkLoL3zJ8DstLe1Vlv8fEY0i-OTtT0lZDs9HznEIvVU-jR2VgaeEjyOi8XoSm_P214rKzfjlCvWdZAcL8HhTFOmOlGtGzEQVDdiQetF45WoIzIbmcY2S-AjTrv0GDoH-Ar0oXcw2mplHJWDtDcq2TgfothYskxrBwqVJqrsd68muI6IHLIONTBrdsPneKZunXp95Pgu6Qdd82aX_1RLLAdOfe3Wpx634oQ.jpg"
         }
       ]
     },
@@ -254,7 +254,7 @@
       "date": "2026-11-03T08:47:02Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 476000,
+      "views": 498000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -272,7 +272,7 @@
       "date": "2026-11-05T16:02:59Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 488000,
+      "views": 525000,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -284,6 +284,18 @@
           "width": 1080
         }
       ]
+    },
+    {
+      "id": 1911,
+      "message": "در پاسخ به پرسش‌های رسانه‌ها و نگرانی‌های ابرازشده از سوی هم‌میهنان، به اطلاع می‌رسانیم که شاهزاده رضا پهلوی همچنان در مراسم اعطای جایزه آزادی فریدریش نائومان شرکت می‌کنند و مصصم‌اند که پس از آن، در گردهمایی بزرگ ایرانیان در Ostpark فرانکفورت نیز حضور یابند.\u003cbr/\u003e\u003cbr/\u003eاین گردهمایی همچنان طبق برنامه برگزار خواهد شد و تیم شاهزاده در همکاری نزدیک با مقامات امنیتی و پلیس، تمام تلاش خود را برای فراهم کردن امکان حضور ایشان به کار گرفته است.\u003cbr/\u003e\u003ca href=\"https://t.me/RezaPahlaviComms\" target=\"_blank\"\u003e@RezaPahlaviComms\u003c/a\u003e",
+      "date": "2026-11-06T20:53:06Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 25200,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "Reza Pahlavi | رضا پهلوی"
     }
   ],
   "last_updated": 0
