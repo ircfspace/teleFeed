@@ -3,7 +3,7 @@
     "id": 0,
     "title": "تلویزیون منوتو",
     "username": "ManotoTV",
-    "photo_url": "https://cdn4.telesco.pe/file/NO7shawHOUuSXbZBXWqQ-1gBhhl1Lo1PzOdvWz8p6bjwz53FlIT21NYlT4zXXGjK-HmHIan2OaEb4RIzeJGpY7JzAs56kTCj0b4wYR5SsY4uPDyiiH_QfhM9p35MOMuM5HeoycDBWpx8sSH3sIF-UD6E_SzAX7_n7NXGxgSkwsrBYB9XNZW2zNQ5_rb_ykilY_xwafMFGVKImGVMrKTgYhwDKUM00qKmeM1asVnWNM-wl2808iCTqgAkqltqSv7ba6lfQxyn_cpP30_XCekhw4BSBX18rvt4TQ3b24qS8J14ENnzouEP3-MBvL0eN3Wo0b2DhK4JwCi-1jLpKOrRyQ.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/aowrB-3PN7vM9HYG3XJgGVXAAJIbcWz_W4_QK51oFxzTnGHzAylUpA7BZvf5LwJZ8_dfJozrbhShBZd50Vs22DZPuSoJk8XyLXmy7DHXW8Aeork_w3hs9QkbbC2mkpMBlpcgoQyif1SJ2Bm7wr2sS1492OppbXPxi50Aq_OYNklkqz6jzQv3ms4e66FL4ZHkbP_UQ27Sroxm13AXLcjBRjXpjJ-rO8N6ZRq03oeTB83VgZE6dPxfqyyEuiFj5kKqHUEdUn_XhY4d6UTGLg9lqjXqVfdVjoHu_yospB-3urboPw74hn7-VpPcEqtQhaSxPfgAUPJbPv0pAcak8MlqMw.jpg"
   },
   "posts": [
     {
@@ -12,7 +12,7 @@
       "date": "2026-11-07T17:11:57Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8790,
+      "views": 9880,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -54,7 +54,7 @@
       "date": "2026-11-07T18:01:56Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 9780,
+      "views": 11800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -62,7 +62,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/fGQFqisRAosTLjv9s1ghWQFGCtrT0x0A4DZoWlOsCdFPNJa4ycz5S1jvOLTXUUJNl9dzNovkst6yU7rCge6nUyq4BlU6M5a-GKgS6sUPTWI3A53MohiGd5o5MCKjOQk-1XNS1EDDyB5rGTDfOHofR1B5FAV2cvbNaeyZR5z8l6joPiicvzWlbud1vfSPCK1yaVy4ZnpEv1r1XLxT1U1uH1AbboDVUiwMlNWZlTn8WWIIYeHlILgL2twEIUxewVM0pevxtTFCmEgr0Uh_DYR7A9IUxH0fghppLQ4wGThozDVIrcqhAjkd2XYjXZEvTkcOwBDWuHtNELq4EUbqnoRqjA.jpg"
+          "url": "https://cdn4.telesco.pe/file/QcvMQpL1-TN-U1TGpKZdSDzhuNd3O8fIADY8ycmclVtZG8UP4i0xE-KrnSTFgW4bmUXNw4-_OS0bOdSWzb0gQ9uh2f8bUFAVkGxg0oRR0NFfx8iWf0HAGlczESGe36PQfOajHuyKX9TmUG8-B6x3ZOYsu05Gejmtl9teG3yylvpxS8nR1gfpu4YdCrZIcHz1M-LWzX-uMoWdr6AQ7wlF7WB7WFm-5vb5s9-6RAh0mhopAhE5HWMj_VCQ_4sfdoC6DMKAsnktEQjh7WN06LCu0NKqaz5PL8BqWlJNS5BW67MA6OZfGHkzV-VWmPkheR0LMH9ZQk1BkeihUrj2M-gZcg.jpg"
         },
         {
           "type": "photo",
@@ -100,7 +100,7 @@
       "date": "2026-11-07T18:02:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 11400,
+      "views": 13800,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
