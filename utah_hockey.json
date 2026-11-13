@@ -3,28 +3,16 @@
     "id": 0,
     "title": "УЮТНАЯ ЮТА | UTAH MAMMOTH | NHL",
     "username": "Utah_Hockey",
-    "photo_url": "https://cdn4.telesco.pe/file/IiOvQqYU5pch7yBIXosScU09_2SZItgknVyekBXvouQvkpVpXLtHADwXi5yE7cCIEqGRk1hJkrw5UX-KRQ5Ja8KqnnOFTFPwB_4Gor8nCW1X4jSom2W4y7xHcBTbI-R5jWbja8MrlbcwV3gJxesba6wFq_Qx2ogrp4kAn_Lo9SrEOu2FO9CPhkFRo-KjXlGOy6IuWMPebycdVsoZ91oyzZyMaULZD49wyI4y-eOS8_RUsZe_a9log4AIfuxQwjNoJLzXxxAl8Ep1_XJM7ZSr-jl9649jaCY9cjGrVMN0L0bY7sOzXTIAXE79obGrTlJmKibYFcdrbC3ZBGNyrZxMOg.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/n7vzP5Vro1D_uc2VJnLmgS21N84hmikFLmuKOp17i_hYGBDyceKvvA4k0WqEW_RoXD_hNwp6tl1WkFjl11dHm1LRiCWqnX8syS7HtFiw_GJchJBeLxKDzcwZLKHJKg_EK9j_TuJeNtR8-pxfAwEQgn7sYjqkC44ZraMsjrbrrb4ZMsJLJJD2KUpOtSIZv4lpVQBB1SSf0abwzWR_Vi6LhXA-L_7iGCmsZ_X9KJ3pzRWXerV5bBr-kBFgdjN1hU4cSFhFyl32sLri-DA75OLcxtJK7Dx_A7Qd0PIDOwoJdL8qZdz6F3nmkQz4_SKiUs3LQWanLcrlinundwfsT7LXcA.jpg"
   },
   "posts": [
-    {
-      "id": 2160,
-      "message": "Напишите в комментариях ваш прогноз на матч Монреаль - Юта, а именно точный счёт и кто победит!",
-      "date": "2026-11-05T09:56:36Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 182,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "УЮТНАЯ ЮТА | UTAH MAMMOTH | NHL"
-    },
     {
       "id": 2161,
       "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/E29AA1.png\u0026#39;)\"\u003e\u003cb\u003e⚡\u003c/b\u003e\u003c/i\u003eМихаил Сергачёв на третьем месте по результативности среди защитников в этом сезоне. Он делит третью строчку с Фоксом и Джонсом. Все трое набрали по 19 очков.",
       "date": "2026-11-05T11:34:05Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 190,
+      "views": 193,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -36,7 +24,7 @@
       "date": "2026-11-05T11:38:54Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 157,
+      "views": 160,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -48,7 +36,7 @@
       "date": "2026-11-05T18:56:51Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 180,
+      "views": 183,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -56,7 +44,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/FsX5mp7_-mawsMZcWvQUFC03pNMSswlJVOA_c2RTWgpbc5cd-bc2Jq_OIS1Kau2v_4vQpjdWO5wTkC2dmwvCgqI1FNxbbH8nn7aAsMpeYiK_hlAT--ef-ZgBa5e8xofxBthwsIQ2Qv1ukzz3KXGMwseZSlDzWyda92Ah8XjSec23aUrKWz8EV_H8D2nvMLi8HzOCP2dhPZ3IIX00sbvTM-eG74X9HN95WDvlIrc-MSJJ8Sfpiaz1G7aUlTlRmyGBydMYolzGz1OfSohpsliwm4jRcefYrWC3ufy7Lmx-LUX3U4mO_0wtB1_Q6AUpEdDgHW13VqLrr5j4SKsdP3pAfw.jpg"
+          "url": "https://cdn4.telesco.pe/file/m1MoFpiv-eH7Tt9LaJZEj8L5garuUCIBnUGEehGUxYDcwNIOMswT3e4ifMfF4uUK62bhW9HZ8g63xOtbn0dik7pwHEkVBR8LrpGbnfcenoHYlasLhNZrVUtBmfEHISxbvDhE9pNsxSd2PVpwsm4bNcpdZdEzxo35gc--57QvJ4UnGeu556yyJ8PixPHMJylVmvJLSSOrpsOITOPKiqgQa19c-HW0532ktGQdNi8KRp4w-E1doYhnpIJ0uPV1n5LuqHvVVQfigSLltoUzy0ZXWq-_H4YayH9HrOwKR3u3w0bvk1ymreyE6DUemSQbyolB92xcI7pz8mr38Wc736yNng.jpg"
         }
       ]
     },
@@ -66,7 +54,7 @@
       "date": "2026-11-06T03:06:36Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 161,
+      "views": 164,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -78,7 +66,7 @@
       "date": "2026-11-06T06:21:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 157,
+      "views": 163,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -90,7 +78,7 @@
       "date": "2026-11-06T08:18:46Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 151,
+      "views": 155,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -102,7 +90,7 @@
       "date": "2026-11-06T09:08:13Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 161,
+      "views": 177,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -110,7 +98,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/UGJhu3EqMNaGbQDRlvzkfFhVmrCorPYWiRJQg_OvimgkMHEPrFg31E2fM2DsFh8XKbJRysJ-FaZlat-QHR0cx5wG0Vrr8yxgeFBqPQsghq6AmQ8lMQXKRBS1n5_cfpHA0OQjwUrBn_C7Lg2R_3W_WZI6ebvC0Z1OflHGMsatlDfSG9-d0EVlp0dAukqrXeeSZ0giQW0M-1NxiXVuvHexrnrcNdjTkiMTci9HeHHe-jFPGc-9f9bqTHSFuiqXvQjdY4kUe2fyrP-xTZZBLO7MhVq-DYkzb6KuQWf5jrIpPVJRDcoZD3ZibLjcKH3oaxMiM50qjs3hQALLzhCtWut8Tw.jpg"
+          "url": "https://cdn4.telesco.pe/file/SH5TDp4s_-pjOrakljpp1rITTwr0T8h_k7OqvajZ02C4FrUzOMOMM4uYduBeAE95Dp82mPgO1grAL22aw5fw84vu3wD0AWxa6leB9w3YNOcbAA_3xtiWgcpegJDeD3b34N6487aPyHqr4oaUBYxuj1HfmOxH0c4LR4xj-DY8V-Ivjmwz81inPNqiyzGHuwrTpKEIY8gWqbtuxs6zeiCVuo2wjt9m3I96AJgxmJBoc9dfVs5mXx2PL6nyd8mME8T0MkFNhLo8d_076N6px35JwDb_cps55YaU9JGv40pm3FeHcQeBlwaI3T7MficfC9k4ynYEQmXhEerptQbvvIM3aA.jpg"
         }
       ]
     },
@@ -120,7 +108,7 @@
       "date": "2026-11-07T13:55:10Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 133,
+      "views": 152,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -132,7 +120,7 @@
       "date": "2026-11-07T17:37:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 140,
+      "views": 143,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -144,7 +132,7 @@
       "date": "2026-11-08T06:36:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 139,
+      "views": 142,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -163,7 +151,7 @@
       "date": "2026-11-08T08:26:40Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 151,
+      "views": 155,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -175,7 +163,7 @@
       "date": "2026-11-08T08:29:47Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 170,
+      "views": 174,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -183,7 +171,7 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/NnxNanr-74SfJ4vRaUC7ptrV71DHJ76Kh80ZOM1YMHl9Wr6mpGPOWEMMrJN50rzx6tSR-GJVUKHUDEhtDwuKPYttwyZxJK8d2v4HBriNbQ2JK5t2Hv0nGGB5VQ0y8pNsLljH4GP2NghjapQw0Yliac0LumG0Au4466lfrSwxfuo76_AXPrWHNgLTE4wx4umqJdKoMArjG1PqF2KO9zs_eQz_vvCCXpP2B3eK7XKuyVVq8Frhj__e-L9qhyLW7znPhFj0kB8ncwaZQv5VaiVEo6n160f-6x6N-jfWMRVBtYE8bAmvaE0fSP3LQvyS4L9kjoJz8J1usJKFX63QRh1VqQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/DQQnnfK04SjYtuNON6cDCSJHJEsm0YmUw9LmMBVjlI7mSHRtbPGJ2Ytt6fZYesNtjy8ONcTyWfXbZ3g2D4vIgpWrig337sEXc_jFNQPFR_i5tO6wrKgo7MZwzKxCF_uf1aLS9fjcK6ZwTakt4MgDR5guAUWt6_errbQhr8bEByWoynaeNt4cF5kDmymfMjUE4Vw6X-jKaItId17EqJtBfY-qeUjyv8rV0Z4zCykVu37IgSBEinDCil67tFxW_6qpN-xIlpV9Sa4ULcynvArWtN4UFzBhwsSp8tgO3SFkhlK76F1mNLm_OERsyIveXQYcK5WWTsv28-yhvQTkrqjHLA.jpg"
         }
       ]
     },
@@ -193,7 +181,7 @@
       "date": "2026-11-09T05:49:58Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 151,
+      "views": 159,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -205,7 +193,7 @@
       "date": "2026-11-09T11:30:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 155,
+      "views": 161,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -217,7 +205,7 @@
       "date": "2026-11-11T08:17:42Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 125,
+      "views": 130,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -229,7 +217,7 @@
       "date": "2026-11-11T20:48:52Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 130,
+      "views": 137,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -241,7 +229,7 @@
       "date": "2026-11-12T16:49:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 108,
+      "views": 121,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -253,7 +241,7 @@
       "date": "2026-11-12T18:38:21Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 99,
+      "views": 119,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -265,7 +253,19 @@
       "date": "2026-11-12T19:32:15Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 85,
+      "views": 109,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "УЮТНАЯ ЮТА | UTAH MAMMOTH | NHL"
+    },
+    {
+      "id": 2180,
+      "message": "\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8F86.png\u0026#39;)\"\u003e\u003cb\u003e🏆\u003c/b\u003e\u003c/i\u003e \u003cb\u003eЮта в таблице:\u003c/b\u003e\u003cbr/\u003eМесто в лиге: 15\u003cbr/\u003eМесто в дивизионе (Central): 5\u003cbr/\u003eОчки: 22 (И: 20, В: 10, П: 8, ОТ: 2)\u003cbr/\u003eРазница шайб: -3\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F8F92.png\u0026#39;)\"\u003e\u003cb\u003e🏒\u003c/b\u003e\u003c/i\u003e \u003cb\u003eПрошлый матч:\u003c/b\u003e UTA 0 - 1 STL\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9191.png\u0026#39;)\"\u003e\u003cb\u003e👑\u003c/b\u003e\u003c/i\u003e \u003cb\u003eТоп-3 по очкам:\u003c/b\u003e\u003cbr/\u003e1. Clayton Keller: 25 (5Г + 20П)\u003cbr/\u003e2. Logan Cooley: 21 (11Г + 10П)\u003cbr/\u003e3. Nick Schmaltz: 20 (9Г + 11П)\u003cbr/\u003e\u003cbr/\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09F9385.png\u0026#39;)\"\u003e\u003cb\u003e📅\u003c/b\u003e\u003c/i\u003e \u003cb\u003eСледующий матч:\u003c/b\u003e\u003cbr/\u003eSJS\u003ctg-emoji emoji-id=\"5303507303083824424\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA688.png\u0026#39;)\"\u003e\u003cb\u003e🦈\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e @ \u003ctg-emoji emoji-id=\"5251221801446438504\"\u003e\u003ci class=\"emoji\" style=\"background-image:url(\u0026#39;//telegram.org/img/emoji/40/F09FA6A3.png\u0026#39;)\"\u003e\u003cb\u003e🦣\u003c/b\u003e\u003c/i\u003e\u003c/tg-emoji\u003e UTA\u003cbr/\u003eВремя: 15.11 05:00",
+      "date": "2026-11-13T11:28:31Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 72,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
