@@ -7,12 +7,12 @@
   },
   "posts": [
     {
-      "id": 109510,
-      "message": "اکسیوس گزارش داد رومن گوفمن، رئیس موساد، برای گفت‌وگو درباره جنگ با ایران به واشینگتن سفر کرده است. این سفر همزمان با تلاش نتانیاهو برای متقاعد کردن ترامپ به ازسرگیری حملات نظامی انجام می‌شود؛ در حالی که ترامپ تاکنون در برابر این فشارها مقاومت کرده و سیاست فشار اقتصادی و محاصره دریایی را ترجیح داده است.",
-      "date": "2026-11-13T17:04:00Z",
+      "id": 109552,
+      "message": "در روزهای اخیر، خبرهای مربوط به قیمت و سهمیه بنزین بحث‌های زیادی در شبکه‌های اجتماعی به راه انداخته است. دولت چه گفته و در جایگاه‌های سوخت چه می‌گذرد؟",
+      "date": "2026-11-14T14:16:32Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 14900,
+      "views": 6180,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -20,41 +20,45 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ocOkT1pVWlCY98aDL3e6G3UOdGvSLa0xJJ3u2M5W5ZZ-b28R0UcPxkxeBc9lht0uAemLrexJEsvlKDyS-6Ur4KHNwvVN0ht4GAVJjQLUkzbk-uuNrjf-19tB2KWcYfal2SYCljRxG8SVcGtGCiCxAU23Y8hkDxjY17Ksv12HyJAIz9ENkzRIPb7nBGqFBQZRoJPeDdwPIERdvhRIEqYtMQYAMECgVszco3r-K4RmWLdtMBFneBiTvjL9f5JloZD4iUcI-16iTWChmC6EB9wHxnG_f3RSUGcVG-_GdYgg_h4KFgXI28nU1dnnBclj2Sk2ZZnlidZTaTK6TNYlddUHqA.jpg"
+          "url": "https://cdn4.telesco.pe/file/lbjO1CJn5hcNH7de2gmRiPBSkq_igxN1brXwKVFxlBFqvrCqek1kvT-T3XNQfiln6Rc1BznkGrm0COZB8iWTO3GuXXw31VzKBoCcCEATKn6iYBt9R01WCCJL4uX3tYbFfTUaMaHtXU4xHU79s3xSnLIaQphq3dfcuEbsH2z1SbmAzyiKXNGCejxs1hkuqr9wODnXaJEG7vImrokXb6DeaUk23WUvkMar0kjCzRPyqT_kk7EkEmderd_UoB-QS7msbJaa_HCsbUwUNmkYBEpCgxQd84miGe5OWKC1FoR6p3__XZnnLhrTgL_22aZBGsX4lnEx8iJzL2agXKUcGtTRXw.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ImiCEg5aGpYxov4HaAXGkOrHh2URNn0YkTs1r9jQ0ZZVugsDwB802GTYN3jrZHLOnqog1TbW53QJ06_W29rkz2LqVe0HDFPoH35_XrV66Si-WCJ0ub-E9NBJfLTlRBZdG2uayFDO7t5RkTvkcGLZ7nTtoAuLLcoRumvNwsoRRGEOa9hNfaCjdQEcUFcCU0GucbLsHKBhcaOnMDwOF4EGMXYkClZM2c28hs6ml1TDrB49Rry8VTFy0z4VTl_WCkKiCyWL-QYeVkyqAXHiYEwW_OgjxY67CsKatY_lmABbDe2jYNUXpjqgf-R7cYLF2haG82cyUbnUve5jzXtzCY-77Q.jpg"
+          "url": "https://cdn4.telesco.pe/file/X3FF5-WOWW4iK46txN-uszZh8eRlOaosvnH4hXqpF2XOJajkG56EuVprPZXmZSswipo10_1tUps1S9f4vwfuhp1RUXanq_bItt5BL26RId1d3wipKibbjZocinVNXwGtv3vIqqBjm9KNQicx7fUh99nVH8hu1WRMCndEJPWitnDCpuGVxkUAGHzem6SeTJKA7EVrm27M-GMIXI3-ux55kYfJ-l-Macg1ZaJdmXbc1vb5W4de_EnhksHfdOKUMiBe36GD2s9ZCbfddKo4eJNNZNZUsn6blQYVsd1Wc4paBH8cZ92VTbqxfeiwrqxPPF7rEabXObxvC78_3YXa8NYGgA.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/t0qP-XqdBryySTtPGuyv31TN7sx8tnn3B9dVnNc0ocd6NjVXL1qL5qO4jSnBDBnjgYATKv6vxmDm4ie3nzEyqbxeIH1zJqpcOfQbJZu4l4KuAHzSls9h8qvHhwGWuRRYuNXKcSq58yx4la_vbs-LpMMMQD3kFNxEj60YKf_RPt8f-_KChg36EO5J0Zgj-YjDjcGkztNUddEXSJr1DQnuXLvoSzXuvQNyWLDUxhOMzPgBz006ACbeyu3Drd3bxr8x5Atjd8NcJoqNNoU8j3F-GOlTPM-NWQLAuCgpkG8N3fx1EIdDmAVFfuoBeLSbZhBi6JCQqfKaML0-UsUxsvVznA.jpg"
+          "url": "https://cdn4.telesco.pe/file/c_X7hROZ91s8I0UBhRY7ixK-KezI9Rx_lGMn5ZsXQG1QDN37EhFk6bBXMlVNmNf3OBRjDJgEr6zxWBfW5iXVVrMdho6BO6Rx8O6uGPMJ5ZIHbfZc1pclZpzcJtgH3anTInIEazpyRWUG1KwDtBw1cy1EtXThkcV-BIu4nlfFJw5_ZiKhqMLAudgs2VJRKa2twvIpfvkMEEjatoEFZ8cmVOwlXLR0OhOUoWwqBiSjpzKAagUy7X4dPB0W1pZHd_WQQjfWyYLNi3HiXIpiHbP15bcpuLNLS5Cl7Cun-QjcL3q1_O_PjkH8rrBSD6hd3ZJLYENVC3T2VssFNOhZ12yfqQ.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Qz_oB_RJzKQrUhtICFGKENFcBT5lG98SJf4DBpjWPPH3A6FVZKmodKsw2YGeqJNAQnL918azklG_czVcG-nN3Rlx4e42iZQl31KccOeuyu1vGGUevT7-ABqfOlWaxV8-DAfwI59fZuvLg26hu-Sdjy7PUKrgEOl5PGnh4GmC1WKEJG0Rw2Mw0MntbPy_nfLUqAl3XxjomODtvv0p1lylBP5HuKNvKWUMA1HMCKLyhr1fEDh_1ve2CQhdYUuV2wW3E0wT65va-kwh8YCjHnDIceLVuxHifZXdwTL4bq-T-PTcYaoD3am72vnyyyN_9Y2x2NKbJqzZeJImjyUzPKK2_w.jpg"
+          "url": "https://cdn4.telesco.pe/file/j6Anau_ONtgU3v0j3TtVNA8B1thlpIuY3NZgO-ryvlAUGq-yV6i6-YbiNPLR_x03yOguOPBbmvC1cA4TBEStG3_gjHQeFQGy6gHmYMw_s5TapbK6ahiCeOLvLOp7O68OvZXvUU2GgaBZ3_izTIYsLbOrNAG71hYHujk_SVW6Z9lds8PkSUoobf3Ub3YRjFAsgDz4OS4oQKJDuiWc6g4gsHdF08SrJG8GehirB4WP-Uq3vdqtkpCSayqD8ReDs_-WZDzMKK8dQKCaL4usqRHExfwtDSZjYQsuoiWog2mkSdRgSBdUpL0ErTUg88S_W2Zo3Myn74U_2ayD6wSDKE1TTQ.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/XtuKD-H7sZURiQVL-ro1Wm5TcGwZ04sGxh_IuUSA4mlBdp5ehLVXMm2vxkgOC4xcE_zYNnbN86bhYft1iu_xzierVQ09GQg8nwZ6IsNOpQjZVwTnHEbBBEqG3eNjHnlyh6fJdq2mS2IW30KOBlZCUPhQGjQAllE0m7GO8VabvNkMHuV0s0X38wrGieWAOARTobtg7C00doiKGzc1Lh1EKu-HGM7Ap-Afpi6hjKDUKXekhaEImtHGFe7BjH1K-yGxz66hIr36Lw2ST2mSu_z1IHQ7XgGrFzcxlsxTw_PtpjLoBTt1aVya70pF29mPJx3AnlSRR6oVidGYcm09ro3Gww.jpg"
+          "url": "https://cdn4.telesco.pe/file/HGHexwBRWuAgehmguMJcg8pDQ6x8TTKaPu53AzdCNPgsqdseQzmiLeYyZVjgnNqJiORGvGMPLoyw9CWIOXsww7C3jARJl5cc1xQPe1zjNf1X1PNzB8yZVLN2tUL4M0zOfn-GNpjDgsBRRPG9uBGB7AHtWSdyOf0HE6QwWpqDH3mAU78DAj1iBQbkxj8xo_yESuw2lh-Nm8XTylbDeRwcUAAHOdZJUpJXud5EbtssRy1q9wo81WGXWYY33e7Ab8S5Y0ePMX_j5h2EO8slujWWzlMnvQh0elAFMoDor4ney8uu8SfJdtfAKIKRNm0dOqiHdOXsKC8O69_62tThXmpnpw.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/tV4PkYD08dwEMNa3b_5yOcmGWTDVMz0nGjCSlBEpTAWUHTMiZ0UdPO39xJu2wQT9p7wSSSNGljgNKsv00LvkvnYPymqTAoW0PZfCzqIwDDgrK7Zkrg8_4KacHnQaYkIn1eIAAr5BCkBL9768x8Od-YcyiBJqkVd1QU7yAq-HCsf_I4d6_DGCiHv8MWvpSBUtB3JkYm3CZzqAU2xm2crcRHtZ2sRyMbVrkjbTd0mft2YzZ_0bwkcQ4OHXrTVNFog90ZhKrJ6ARdzuVay2uoTbkvcx0qjqOZTy0BMwXVeJQoq0ivd4YaxyZLivq7gwrJhi65EcWFwuy-pjDk1kIt3HMw.jpg"
+          "url": "https://cdn4.telesco.pe/file/BYyOhWSVuwUJCPxqEL4Q3MEJIrpyWwRFzZp5iKD8fcYiCRPH3jULTfNoHlv5ZHjeCgd6_oUQ9ra6aAGweaCgE1q6N7OMxAnRAr3optJAvi8S1P_x0N_rq1CWPqJAcjYw38oLd8O46aIT-B9XdKn8xtoteMdQqvXn0oJbx6EsYOT5cbhWpU6fvyvigZdooF4B-Nd0ywH99V09Y9W5IePmybL66wkVUI1ytRJ0j_JgreHFNQJJ7nX_FajGjQ1FH6bx4xGDTF1hdPGpeKSvT99QM7YT4Js-SL6krW_enu2E2Teh6sOdwVHDBwWb6w78y2f_i3c1Q1xmtS6q2Ny6QW5-uQ.jpg"
         },
         {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/MGk-c3PbjPysArglmmLUporrNE6B7wY0E-qVAfV4W7x1aw_5yOPcdoR0jJWmb6qq7-t-zsYoXPiJjMskVqtPO7frNpjkqrUbOWl3Q8WXpLkpkjtbWz5TdWcwLZhcpjgGQDn0Jy1g3pik9dVQcXi0lufC7bnHAUnRpcWn80nsrMBjMXa7bOXZFpWK7MJMW-c0zx68WNGrdXXpZpczii6cun3wDYv6w2e5OJpxjflUgWKba3vuRd9D14Znd3ioyfsyMVDsL2cohuRr_pmRxWP9GR5Bv5_37NIKmGtt8TJvl2L_7VvkHc9In4lgGr73rwYmcWBVgRRi4TrHOV6TahbiVQ"
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/nWaba5j7ZGRmDj8EVy16vdq69EHJMrKTx68KVWsLMaQLmLoUhySFpNdCocy9N5PZNlomUIcZdiACGkTgI0j76tI0f9ZXGeLMBC-gHaXSni0g_bL09gdakv3WLsHhUkIa5ezGaFwVPXEJywb8AMV6OOjcMAUOmrksDUqfasDif29j7JU4lkEPHo1kOpllvoeRuHTgOeiYDxWt3HEnz6rytRy0pmPDuLP5VsTdnv-uGQflWT4B5JhH9_zLAeHNLik7P73d_-LrxJIWc6HbKIGeFyPXi8aG2ti8pDBHQN4_mOLmYn3-XKFV2Y2KwOXaISzGzpoPPI72j0hbqgdKDxrHcw.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/MyPJ0I-KEcsG80NDGEpr6Y_NK9ySCTlY8el0qpaabEanlxiUMeOefkxIkNKI-C6WbRLXUAwIwFMveTlcrsztdtEMP4R6YTWa_Jvbn6kME2_QdtLGMo84g3FOVVH60rzSJ85EDmQRZObFBQ7a2NHXwrSlDOJt3Nn7hW6-fYpltNfuVsXLwnT32DO7-EGR6f23TEX7UILsCDecmG11LDPUTxePaK2RxWCE1asj2h1ITRJEC63Dd-PB3Bza-kpRIJzS3t4lt52SNkcoOAd5DLKRxAwzZ2lhtiDsW_VU-GVr7Wz7bCtP2fqsOM4F9dRw_O7l471_JbmX1wPhXbOBdH4YhA.jpg"
         }
       ]
     },
     {
-      "id": 109517,
-      "message": "اداره هوانوردی فدرال آمریکا در اقدامی کم‌سابقه، دستور توقف تمامی پروازهای خروجی در سراسر این کشور را صادر کرد. وزیر حمل‌ونقل آمریکا از اختلال گسترده در ارتباطات مراکز کنترل ترافیک هوایی خبر داده است.",
-      "date": "2026-11-13T21:57:29Z",
+      "id": 109560,
+      "message": "شش کشور عضو شورای همکاری خلیج فارس از جمهوری اسلامی خواستند تمام خسارت‌های ناشی از حملات موشکی و پهپادی به خاک این کشورها را جبران کند.\u003cbr/\u003eجاسم البدیوی، دبیرکل شورای همکاری خلیج فارس، روز جمعه (۲۲ آبان) در نشست شورای امنیت سازمان ملل اعلام کرد که جمهوری اسلامی از ۲۸ فوریه تاکنون هزاران موشک و پهپاد به سوی کشورهای عربی شلیک کرده است.\u003cbr/\u003eبه گفته او، این حملات فرودگاه‌ها، بنادر، تاسیسات نفت و گاز، نیروگاه‌های برق، آب‌شیرین‌کن‌ها و مناطق مسکونی را هدف قرار داده‌اند.\u003cbr/\u003eالبدیوی تاکید کرد کشورهای عضو شورا طرف جنگ نبودند و پیش از گسترش درگیری‌ها برای جلوگیری از تشدید تنش تلاش کرده بودند.\u003cbr/\u003eاین کشورها همچنین خواستار اجرای قطعنامه ۲۸۱۷ شورای امنیت، توقف فوری حملات مستقیم و نیابتی جمهوری اسلامی و تضمین تکرار نشدن آنها شدند.\u003cbr/\u003eدر مقابل، غلامحسین درزی، معاون نماینده جمهوری اسلامی در سازمان ملل، کشورهای عربی خلیج فارس را متهم کرد که با تسهیل حملات آمریکا علیه ایران، در جنگ مشارکت داشته‌اند.\u003cbr/\u003eهنوز رقم مشخصی برای مجموع غرامت درخواستی اعلام نشده و درخواست کشورهای عربی نیز به معنای صدور حکم الزام‌آور برای پرداخت غرامت نیست.\u003cbr/\u003eبه نظر شما درخواست غرامت کشورهای عربی می‌تواند به یک پرونده حقوقی بین‌المللی علیه جمهوری اسلامی تبدیل شود؟",
+      "date": "2026-11-14T15:58:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 12000,
+      "views": 5110,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -62,29 +66,37 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/k7gyTZqEz2743QG7sEt5UIKJN9sejknORnvc5hDXgunyGOGdL-i8CzcNLxtv93DmxTTD_z0uZk0vlCYvPj_0comesylvkrGZlU0J04GsZ1b68MIPOz0dBVaZkRWjq42CAIvpup5iGHn8Raf0K0h6DTcb63_MT443UgwFQzJ0nuMIVX8sovCyLnkujWJbL-hwpgw7aVsvTTnsydS29ouRkO-Ful04vMdrfcT5adJ2kFdgezaalfVtULapNuaXuoBfFYG9KWG0FquFdT6etQu60ZkFCM9wfMcS_wzzkCtaflD3T5jdbla5wOSXSlnFT2MPRXDW1Xs-od7FGL0vpFBFHg.jpg"
+          "url": "https://cdn4.telesco.pe/file/tLVCRsov18eqtJPk2udWQDc3Wdq05mPpARN7txN1aAI08B4ma1ay0PcqzwA7dPfnMLCoE5cSMP0Bo3qOnNPsOSBNAAVvnf2JJ-jx8TK6dJbkSgHJMmdRY_brUcrlWdxQSwhGIl7fOqedce1g3LBeeZPnwd3No3bPgVqMriAi0s3J0xX5ZXceee2_sZ-QbnGdwW4uS8ewH4k8QatbRl7QIjdNpuskTLVOR69ZgNq5MllpE8KYK2DLwymzx3Koxxj_Uh16HuRbrSSxpg1Mzpat6VUIL34xnRx7Tw7o3kzDB6DmZ4NJT1SOS-jcIX07U6_51TUSLCo-mufgvGZlYO2SOw.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/WsPcmU3SNtREbdVSKpMWPKwGlz4rEnTF7lQ9H6q7Iqt5yAPLWwhmHe_6F6dLtRAEICfkW1U1P13FPzLOnOaaMZuX93mcYFYq_7mVsfJjx0xayVNQI0JGMNr-0-AtGvyQPR11LFsQrz0EvSgrYKLttfS8pHcb_gk2CAXdmd1vFundUiIJMsA4nnzp1x13m6I-ms9cWBroUsxzJabLJ61Z3VDCsO9MIWd4tkyeAlUIJj-HgdvIECmiTrJEPLaoOz4VPuBxGppe0vJYAbAW1ee2bJRGGhkx9fojhAGMzFnxOpP2i8K4zkVh67xnVGgaZRsfVcae8W_NqFljPnt_gUwtaQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/VpuPKxh-YKzff3Xqx-zbVm09VwZaWQV8VEo4KC3zWArUrCb0TNKdpphUZiPZMeAtJCyKtryz2QZFBm8HVMAFdxopuDAupx3_xA-U24pJzx8HFqMuBW76J1whgp4w8P9EjC7DoHUhdRkLY2EHyfXsn-wjp9DKb8EkLOqfD-3kEIPmo2F520eOhiVrAiuR27mt0DlFTx_lpvxDP1PIVurPm2lGYjuwCqLf7F69EdIVahryztC_JpCoApYqmLbY8M3bdtMBIxIyKn0fF2eRWJqHixijyVXWuLaWJPFu2tGuP2ENEkWDoNCEWLD-WWxSdH5UB-4vnUCPe05QiEYpne5D1g.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/DW7v98NGXYBRmC6itCU3-1R_paOug5JU7DHCu84DDjUQbcmYMWIeWCwuVsOHZFA1VnIiq-a2r6enZx4IW1CTSD5x-Rhsj0NEViLG7iUUO3uAF3R3Wz6mb_qQtaNCCLAdyeebxHC35U-xSGDvyUZEYAdsIIMFx5tUErWbeJJ3Evmpu0R_CsP-LvpLzl8_e4KuvVPYDEw2GaQ6-uGc7oaNNWGm8emXRlMw60n7VuwpodYiFbzXAlD6ERDZGSe-bpaBprhMxXfX3TRjPjaWWJ1oZ0AA7Jwfppmkb3ICZwPdoUFRb9aAScz1w4fHhrEVx2TV6BIa8cxu1bccvWSr5A-dOQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/fZQldONWzwL28NQXHb09autO0ZhXhv7ohFm2gmFZb6KPehlcydeGohRQAodXiwPwTimaLel7g5UczkIjRmsX1WCvCEJ2wXjOS139EpHJc84oij_6aiLm_38CWgzLRpBKxME86xqm0WmpUA9e76qCjyDFmwiQN5QF1RQssDuYzDGd6ZKOhXdhTWrMgbdQm0MxQnyqpzh-XLP0JU_2kJ7cPIPIcH76uaH_N1TJFz4GcD6Re3ZD9qqtaKbYugIVAOHJmV06Ms83maZ6XF2RsT-pIfFERl5v1kbDYWFCB7MnyMh7CkZMZ_Q_IUNRAVnIg-qEvVq_3R0cQNsDWVA82SUkvQ.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/i1anzBsDsyyGnNzBoVBuEVbWT3gcHZdQj5bkn5hk1SjzuyKTYhO4gaC9hhOhv4BMa1zPj03n-toEkRN2eMqq9X59NMbLxX4vymvYShApdNMiXXTufjh3I9oMq-uqN4vFpj9_FCO4IGKyqliswFUU6FzJphGBlxs384fHzlw79EPBYIYqnBxjJ86o2D3JMrUbtQTgLExyyIfvNDY3TjmHwqJRI35s2VZRA7xeYb_YtAcWMjrxkGIOfFC7O4FT_r5-qAsGEz_1JxROG2mK31TQSmzq6eIummvsFsWrgPvKPhY2D-514IvdLPCHUTxrXRFjhwh81rWj-1-37zXR74vZ5w.jpg"
+          "url": "https://cdn4.telesco.pe/file/rcUIkhYVR60TlUB4c0SdpG2t5B3vVSX91bLX90kHMu92VNV6h5hgyOuo1jmjGgC1T1y7m1mt8hN2AM4RIHTlT5Vob6RAIGutUMxx1y0lkd17XyRUNRKnc1-T8IcqXhdMMhgLGvOGpsFAqXJpAPE16-x5ZwdibrEuZwb_iDDFBSfOGQ7_DWHtsTL_9Mwz6jil6ah6-U0Dt0axkSuPxflaWG-9r6MS1EyZpI-7OQu_DB5l723vzMhggTuqFhNdImuauVGImYnegGEgjVLF0pDQD42zhIMFosPEZqCji0ijITy13RDAqr-1WRYZGv5vxXOyFTOUPl0jr3B2m2mEjk6m_Q.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/Xqk4RsD0EIuYpLbhuSwNRKuJQ4UliIX73y7g0-GKTswPVyHoxnmMFKSZjRay2YrDKUQl9CmcROsbbIKaTbtpf70EOjNnfSW8vjS2b7CuFi4Z-cevrhqfIj6vKBeSVxQU_mymKCeaecdotUXkgRTrECoOVpAtjIIcAtcIoOs6cKfCfKckFIyZWblapMP0FQgtb3gRfnx3sFCNyAE8sK0bfbEfy6aNCw55UNYGE3S3mJWqDHjkRfzd0cn3Ua7ZItlJdLzXZXcXDEhk3w8aHxF389C5e9qkVAaD9VZO1gcT1qK-3JQgJOlfE5p7G5d-6YELxPyrGrH7QBzpvCxR7BhDJw.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/K2AOxEmu9vighnDrZtM5_tnkKPJ1jYqIull8tBW0pnm5SoLOjighGNsPXStAzXjbSHTBfY2gssvqh5BK3vCfQcm98ntzufCTBsDOtPJsaSRetvRu-SQutjqkmjZDxvPu1wSTtc7YFmBJFpVD6oVJDuweaS8or6ac9NMo7XDZiVmiZN3gqANJQTNHdtCqUFOECIe4chOvxoYE0FBJ4oQb28hDP2EduKKnF9h7LtjXWxLaFa3vzmUJ_Ixx_-9YlP249_0MRwdfpwwBZ0Hcg-gEdqxhei3l0Uc_A9MqXea_mx3STdOCHnbv20K7VxTlC2Gzh76An24DbE38kpD8xFLlRg.jpg"
         }
       ]
     },
     {
-      "id": 109521,
-      "message": "سازمان ملی هواشناسی آمریکا از اختلال سراسری در اینترنت و سامانه‌های ارتباطی خود خبر داد؛ اختلالی که دسترسی به اطلاعات هواشناسی را مختل کرده و علت آن هنوز مشخص نیست. این اتفاق تنها چند ساعت پس از توقف سراسری پروازهای خروجی آمریکا به‌دلیل مشکلات ارتباطی رخ داده است. تاکنون ارتباطی میان این دو حادثه تأیید نشده است.",
-      "date": "2026-11-14T06:09:03Z",
+      "id": 109566,
+      "message": "از استقبال خانواده‌ها در فرودگاه مهرآباد تا تظاهرات ایرانیان در سن‌آنتونیو، این عکس‌ها گوشه‌هایی از تاریخ دانشجویان ایرانی در آمریکا در دوره پهلوی را ثبت کرده‌اند.\u003cbr/\u003e\u003cbr/\u003eدر سال ۱۹۷۷، حدود ۲۵ هزار دانشجوی ایرانی وارد آمریکا شدند. این رقمی است که واشنگتن‌پست به نقل از اداره مهاجرت آمریکا گزارش کرد.\u003cbr/\u003e\u003cbr/\u003eآمار ثبت‌نام هم از رشد سریع شمار دانشجویان ایرانی حکایت دارد. در سال تحصیلی ۱۳۵۶–۱۳۵۷، ۳۶٬۲۲۰ دانشجوی ایرانی در مراکز آموزش عالی آمریکا ثبت‌نام کرده بودند و بزرگ‌ترین گروه دانشجویان خارجی آن کشور را تشکیل می‌دادند. این شمار در سال تحصیلی بعد، هم‌زمان با انقلاب ۱۳۵۷، به ۴۵٬۳۴۰ نفر رسید.",
+      "date": "2026-11-14T17:03:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7270,
+      "views": 3600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -92,65 +104,31 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/MHmtSAm6DKDSV4g3ESigSBslAoHCr761FWc4OhXf48MtOdGKf5I9-Xe8ndtwvrrPHRVnYYcezZjkuuxNTVAW9pe-Uh3IZKZSX4Xz502ky1dArVQlf55dWH-5p9-_-7Pl-YCYlVwEeaFDDHvCWi4X7XkCtKY0ASEqNLFCV13GxAUipx5wmK0mtSW6H6FwTDjvYeWjMuneM-W6c_67HLvcDkDwzz_Jaf-ShCUos1BpST6qGLdIee8I_L7z237zFCrTuJqWQ54ZH9N722M7bxoaDaQ36rOod-2DSFaH7tAfr0CU97wfP0Rdb9cq2ZiCiX7MJj3YN5JBLXpkY_A8AOuPwg.jpg"
+          "url": "https://cdn4.telesco.pe/file/dz-T0uHJ1b8eM3cf0CgJs7jKnfY-HdiJVKZhwt0Oj1DLzDE4bgAA5MIxKXBKSwOyFWyE1sAhGIwcMhGxSeUPxIJctaDXaG69eSnCAIJLK9XCxZn5hIGb3uvKZ4YAlI9wAL0l-oCq-p6jCVMlrE0LL3TsuqUDfNMhVN7D0hXh9QHge6INhp1ZqXFAr5f_sirGqrzS4b6hTQG10br90xTCiF0NWWWbwTGYo84-dEfYCN-hs0uWMMOAHNlFJxr2S-n_bCYy91K9T0myqeXpi4zSwhQCML6dRbpJQWTCxXivg7DRzIhawaQ80_tmVNVbCQ3mOoAdKn4BLEdSxiQwTfmHyA.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/TIt2XYgRj622XFuEge6FBdc30j4RN-YYZbFmKWVkHSvX5BWFHwWBKCAaCEE1ghteSu6mtc6j99Od8k31Uxsm4YJC8zv8wU37Qg7F4b8G7LSOnQfxvWofMgEOwWMzW00PyKLk-1PRYaYjIiKqrJetwAPrFkXSyflX6lUggFQhejzMX2Z7ihATuFdsLKABo9HBeJP3xunQaXXJNrfl6jGa04Aj9DHqNtlaDUwsEGX5SsUkLNtxRHhDqJVli40x8EontYZ30iHBXm7dz8mafL7nsn1xxQxtxqFDeVzOWhfB98abuLWWdcgR0whAbtT5e32kOuToRos8UmjArsQh_RT11A.jpg"
+          "url": "https://cdn4.telesco.pe/file/dsh5rIe1GaQQ5hxAbq5rTTE_PuU1kNMR2IJChq7fFXA05MZJhn3siBmZ4gkWl--WwPgTHb9it77yGpwjFMK9rkIjjOpHbPDS34taKCxLfKIVtINOLItHD7Enad8jdg9QbrSsbMBljC_Hy7r_A4YEibZfgkahgDXaJRZH8Btyd2iulCki2kj-Qsb5gTBAp7VSCb-34lABtHIuH2qgvhycf2gsGgzMe6-eJ08GYiEjN-THeLPEc-36BOxQAiAc91Rhi18DuzABHFTPjjlemY04IIzIrNrFRewzUcIa09HPZMKjc8rgOrG0XzqTZwO0IBg2kQ_Ac3xXE56AtxOSjUctMw.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/XopsrgRDAwQQDGd4P-ChPV4sfFHPn-FYbbrVtHlkponzSUQjw2F8Saf6o6UULBr85Y42MPZ8A9ZVd16gpecHwobSU5E5LiTE12utcXeHAPuJANP1aAvVXFJ4kd-jCqY18P2IOovRa4EcFCc0b9N5yOsZdIy1NFDqX5Yg6fYFjCxWk128Gky5MVMAkVlFLdGfGveMSFwKPEDTw0wM1g8eW_5kdROxfqHVoUPGdL2OAwz9wWVdcWPkRI1305YQC2LRZ2YpKrxMKNI9q9LESn2bPhL0tWQ5Xxu_o0C3aFJbxX8bS0IvR-s21ONxWTCdtZKgzy69A7xGg5Fzt59N9jE9GA.jpg"
-        }
-      ]
-    },
-    {
-      "id": 109524,
-      "message": "جنسن هوانگ، بنیان‌گذار و مدیرعامل ۶۳ ساله انویدیا، پس از ۳۳ سال از مدیریت این غول فناوری کناره‌گیری کرد. استعفای او در پی افشای روابط خارج از ازدواج و آغاز تحقیقات امنیتی درباره ارتباطش با زنی مظنون به جاسوسی برای چین صورت گرفت.\u003cbr/\u003eهوانگ پیش‌تر به خیانت به همسرش اعتراف و عذرخواهی کرده بود. یکی از زنانی که نامش در این پرونده مطرح شده، آلیس هوانگ، مدیر پیشین یک شرکت فناوری در سنگاپور است که مقام‌های آمریکایی درباره ارتباط احتمالی او با دستگاه اطلاعاتی چین تحقیق می‌کنند. پکن این اتهام را رد کرده و جاسوسی آلیس هوانگ هنوز اثبات نشده است.\u003cbr/\u003eهم‌زمان، گزارش‌هایی درباره روابط هوانگ با کارکنان انویدیا منتشر شده که فشار بر هیات‌مدیره این شرکت را افزایش داده است.\u003cbr/\u003eسهام انویدیا روز پنجشنبه ۱۲ نوامبر با افت ۴/۳ درصدی بسته شد و مجموع کاهش ارزش بازار این شرکت طی یک هفته به نزدیک ۵۰۰ میلیارد دلار رسید. البته بخشی از این کاهش با نگرانی‌های گسترده‌تر سرمایه‌گذاران درباره بازار هوش مصنوعی ارتباط دارد.\u003cbr/\u003eاکنون کولت کرس، مدیر مالی انویدیا، موقتا هدایت شرکت را بر عهده گرفته است.\u003cbr/\u003eآیا این رسوایی تنها به پایان دوران جنسن هوانگ منجر می‌شود یا می‌تواند اعتماد سرمایه‌گذاران به صنعت هوش مصنوعی را نیز متزلزل کند؟",
-      "date": "2026-11-14T07:12:27Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6680,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "تلویزیون منوتو",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/At4-LZAPHaGTW_6gWP_KkYTWvBZBKIz9a_R_bO9Z1iLSlcUoNOggemUZKYY7nPP1U8fRsN5HmVt01iW4VMNb16y13KZq406zY1GYFv_F_-E91gqvf4uKsiSg-0oAnsB5GXq12VPWBlO_c3PUwkPYJPimpUPgtSx4JSgBADwZzXG2JhAML3a99_t6MDnpyQ9SOl3S6Zy7bP5D6qWTvRignN16aiE0VgNSK-5Fs5oCpeKXpWRovwLcxbBnMuXLwn6gAXuptTuCPhaS-GPRjtBKOputr-NF8xnDHTlbp4XOhu33CVp6an-w4RS5CtgNEBXp-qZcTMbpOfDA0-UwS32JlA.jpg"
+          "url": "https://cdn4.telesco.pe/file/fBROqUaZhd6g--c-RtU64xyJFzzBAe-7xSClwAxyUqrCAoKzkrfdf1qwse8qNCzEV_DNGcnT9RrlCjbEJ_YoKCB_BpsNBCzsx0wS6sgPp7aAwcEPA6vuVoBEVVChPIUAlVv4JpQbM3kPzfj2rYz13-EVoxBhgHMvUGmh1OFzwr5bV1UG2QOhuoEPD2CBcQ7Wj1NBisUyXXxRmkC8Ij-JpP7p7ZfQtsmA0vOamICUBbYNV7SO587HXGFatECSKyk1R6AlmnJpfjHyXFtpy_ZJ0vTofkVZXIVSAaon7HPcqwmi9QXdPFh8AkJCpxiaD3STfLJGMdzPRiJ_7GajVuGgAQ.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/MfxiP0-8GeF_b5u7kXmEFaxG_oKXpFjUs7F2HV1QVoBjKZVl3O8_AisDRZn9A_lC04wf94fazox6J7Kglf63A0KvTwdHpnOHGinIU_uwu8Aw22vxHrqRFTZUUTs4Z_jl2VVuDdBaX7ujWWGtUCUGNvjV6TDu5z6iaeyRLniGdSv73qCQRiYZllwPMjswhFYIIALOCN_AgbghMJhXdyojDd9dAtxSoIqHTlyMflWg5Em399R2VQxBlvalKcH13Pl_QV_c7F9NLfwzX68sHSrPn7W6UNbMvR8EPLHVsGjvljJVn-pfAv6V3CtKeV9PbtrISbuULLWIFtHlpt1Ajm12yQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/seUL5UcxCHWAPzLyB_YLU8KwpzTBlxYa5-cmme1B0sOQ2lMmyZpFGXZQlgh3XVcZwg-4KRho8VJFFZw4E5LLVVhMq5YmiABcyJWqyy-OPZpJ1hn_anBiujjPD8meo1Bnj94pYrOLghN4ipVMkqIiW-1prM6CV1GvbYSOP2iPINHO0JOvbAarJBHsiwUpToPHJDzTPBOhChR9ysT2xX_pkfTZb5birX0QUEyZpSUvIAB0ZE_45mLfFwXwqTAZG3Ao2TsmFViDI6xrAZvgqW-83zsmHNA4v2Y8m24NZNnZnTo-5_vWpfLd7WTuTGrow-Bfp_FY-NmEq4wXkAAfTM0XXQ.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/gbJeWtMzsl5PhQdrTjad6usaEQ5-FEeCiLmSLoBOQeknrhCCgPtbRK2M23TJPCOD7DDD_JgwvSEJFlkBZEr6latyzAew-7ucn_lQDbK4FekmZGGYRyuT2DmiUJNDJdoPjhdQoWGWd5ZfkLh3qfEIe2hiR7vMTovcVrXmzcM9mUtDsg0b4nEhL9EXeKU1qW_AReRC_oohAHVocTKlPklbYx1xrM6st90yOHGH1HG_8QwmZo_Af_o5-0k3OdqyCyd5JtaIG2Yrvz3wKQPJhIzmi7kQzUMY7pIWUQHLHEXZFvDDkvwDP7xL1wtvuTPmEqzXs3SVrrwlkDrLgXxVjxnTYQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/kD74U-kBoHJoNL5QGN9VaUnnF09U4PcIpxiFKu2ro2Bzc5rDJz1xSGqXnWb4fYBqZPpQB8L2rXlwNJII5tw5sbnXY2kDHlA3ssa2sFnfEUeY1TtAZrrWQFW7UConLYb1Je2dk6Knoxk9S3D8Z2jywO5dOSSV3HmrM1B4SbdG5r2y-uPgG6S0TsGjNY7WOCnkiI4xEmDKRzsWyvFex5PjzFDG4c4ORxNpSlwpd7QbY_b-wMGmiOOPaqjfovooHvomOJdAqkbwxp02oiuBz2tSSWhRWYhjrRilezVuuzX5aVsRh7SnHHtbpJJlHRJRGukfYZSPpgQgcDSlvF2sltwBUg.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ftHF8_u-6isXE-qfkm3MqxRW1MJPWpCUpuPsP9du_JMYL692zvtfPTeNsDkvJIrPkHk6-VRlXdC14Kj5km20baFuhNkOPYebwbBhxpwoPdAYy3fbeY4bkeI9rwJoiLwsv-eiql2vHLEUJfJWZ_4IzGfSbXJ7Ly9jc70D_MYV1crh3eRG3ldkcPMgARGPk5h4_fgnxV2LT4QDEJ1Po6Acjn7ow-_WdvwguOK2pFWu3X8Lqpk3_qy68NuyQZBhot5i4du6cBU0jJLtLJEmbjsPBz7jWPADIwGaYcU4sOVu2OjYLD7taS2QCMgkXm-l_EozXIU5_aAqHGTW3artB5iehQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/TDwECkrn2e3UzSuGrUu53REmn53TjKU1xpDWfIuKvwr-XDQqzfWC72RFzspShvI1M3w9zI0k4rSfWFRItO3BR9dmmmlcysWPUVItH-ldRMEZk7VwuSHTRqxeg123YHg9QEs2vwWfYJ1e3Lsj1kTH5hlwUqSV_BMBEpXzJ2SrFUKb1iEv8q358-KP9yjKXk3pe-zpA1pc7JOXF1pSizWuMX1dWPMZtpUPJm3zmEWm91aumnoxe6S1FTyt1wBDtOs11FphGo-pCnTsZMyB_o2mfOeOsube8WurIOCaWXmalEKU6YQxelJNspzROzTRwye977F7c1XR6yP69NWGPvzXmA.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ik1zW6BfalS05OVLT_jSUR6kyQXKyvyX7oHrX-h5m1FoqOccEORfGQQUhXr1LVmPGlo3iHFcI5bsi_FeKHbbadOlqDYirvnGa5O2Fh8MY1pz4Wd-3J29icyDZa1FDt7CGAyGcrjoP5Vin4x3EexHtMyO-kYimz0PDmNWa02qQt5jOUkZ1WwHmyil1o0fX6Q4u6mnMsKNeQZZpb8lASi6AFin5q63DSQHcdBvGBglPwEPPG_rqvDTbK5dfRawpV3x-UY_ayswfOjy-dOHQBJmXixum-Gi7D2O0HwHtZ_Vu2DxtDKEZrgL2yB78vdvsIcZ2a2npIc2JGxcYob4-8IRRg.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/m20qmSXSteiXW-7YoDDbj8CtdVeI08_fIVBScROu-NNaC6soK5GoATK5QeYfIy7SEqhV_3-YUeEXiwaThV3eBL99wjX80zrzCdSMq7IQpKRbxeSahxFWQkvfG_FTAlUQqmOFZEWH-yEYSxNYPsGmlzx5-DtbGjxscEviegM_S_osjRqDgp0yXfZhYT8kbZnJb8ZM9mwJTjF1KRT_qTTTBX3GD1kXVwEGQIIjIP-PYdF6l8NBPXbplgD31s_6meNiYu7Cf-rJUZqQEkIHJ1voXzhTYnLmfje2tWEy4iADrEOYtYErH7rOHefYZpmxYpitSIOzvGFQLz72-Yoc8YKfQQ.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/R4MXdvFKZPO6A02Rd61jkO98dh6SgiWeyJfRxQuFq2UoQ0V4ny8FOQUjJGGs8YDZO_IOVGjk_pErezL9XfKHQ314akKaWqeFhcfwnRaFoeGW0Hzytxn1B1KxX0WusyzgAmaqJWC3vEUKVwM3b-sarH3-69UY_gQQ8t-_zFOphl98dP2MFAMXsx0iNZjACMfQi3rNZvnIe_eDDR4024S4H2dbFRg9TK1-KQqy_n8d9vkXOt9r_KIpXkWachx0wTggZ15zOgfI02ndpi_PBC0E84F6eGg608lKXV39JKYrdDZQpCAhI0usCYa8pMw4bcchVYABxZ0kVGgu2D17Lp7dmQ.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/qwkjexVgYroEDSjk46evqfwmRcLu-LaYrG8knJ9y1bw_9THkaTLbwBtBO9xfk5t4KFRhLcYq-kUQhyr2XEPs3GXVgr9Y0ftrlgZ4i19XZR5c5l1T9O5VPEWPGc8duYWXgJIpfDXT1A-HexjogSgz9ZRZ3RtPbNQx7Rajv9F_F8he5wS1PXCrAr-U2HUQ4iHX_yNbU6tELVpIZzMeXyazfDhhHtvBw1oyXh0leVA_KPX5dbCtPSxpX5aeznL9i3laIIQ-evRU_xWAOYiBY2r9KlWnspZV6gh5ea3sahcp3xpaok6RdqRPamJ3J1DNlxPlRPQfg9i2X06pz3I9iFQfEg.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/K2enyKCKpgfibP8iMnM6uehE2YO7oHVFYjitk4rZpFWOmxnYqndYrxYGDpdM5iTZLvBA9xHvCbISC3qeXbSpGr2L1a1-HlGJphGvhZiAcT6SS3fwsuQ1XUj549jkz1BmQW8BYNTC3_WoKxUC2encPVsDCAApxz94sNwU0vkunC3jzWWHxASG9K5qsiNRq6YBsoC8EkqplqvXi0GUPXn8ZFQRJn6j48udKxGaVq2g0BsqNXHWvr1d6jPLnSnsZQPuZ8Iydq8rY7HBiNssbK-NHXfQhkq20M9wISinbU2H51V8xkx_K2kqCdpTW1_au2yj7dk3qh81y6FQcAQr3hzKDQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/PBXtXS7GeZGA84Aci7bs_HorwmUniVsCXB46EGTvVmZSfm6VO6wTFKPmUY0So4LvzSi2HR1rYW4mZrzfpd-8jQ5xR0WY2sLVxQJOgWVhH-Zm1b1dOQljF2hHQV_e_IXe2qjxC9onPtOOy3Xses-XQejEPObTeFuSHR9rHWnKUCEGGZyp0gFiKcNghFv-7WOfrNnSjOh7LMOEi7Q8MtsBUpwVu_Ru9U86tIaAjvSUoJZBypdr7HAl7U_xwaVJLTBfSv1dGJ0sCtXWaCoaD3sJeC_vi9R4aslmeTwH3HJMYz_TblCrr_BR5bhR2zAVuOFqj3LojhD8p47fipsKzq4d1A.jpg"
         }
       ]
     }
