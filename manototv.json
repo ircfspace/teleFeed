@@ -7,50 +7,31 @@
   },
   "posts": [
     {
-      "id": 109842,
-      "message": "جهش تاریخی سهام آنتروپیک، سازنده هوش مصنوعی کلود (Claude)، حدود ۴۰ میلیارد دلار به مجموع ثروت هفت بنیان‌گذار این شرکت افزود. ارزش آنتروپیک در آغاز معاملات بورس به حدود ۲ تریلیون دلار رسید و ثروت هر یک از بنیان‌گذارانش به حدود ۲۰ میلیارد دلار افزایش یافت؛ پنج نفر از آن‌ها زیر ۴۰ سال دارند.",
-      "date": "2026-11-20T07:52:21Z",
+      "id": 109877,
+      "message": "«این ماستی رو که ملاحظه می‌کنید خریدم  ۲۲۰ هزار تومان» ـ گزارشگر",
+      "date": "2026-11-20T17:58:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7730,
+      "views": 5830,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
       "sender_name": "تلویزیون منوتو",
       "media": [
         {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/FiLQqERABg10LfqnhqyWZa6OxUqCRtQ7W-nMVXeknX4RXrSZqiKVQu0umwC0mNqNw4oYXpbaOu0MRCJWAmyfRTTBpKz1hRCthKRftT5SbJ98qWKkNl01WP5iE_YYEfPOP76OG9OlLjBduVzbaGvbeVxJE-fijkiNLwFzO0C9lx9kAxxXij_OcuwJvYaNqeJ3UwbYQu5nbL7r8QoTOTuBsE9rd0mjXuVdUV3LKbR3IsIWLhXbOCkrFaGal9E6da8FbU3XphABJw-N8YVsf_IRLvQmyxREtSqPGD6i1ZEZ4bsoNSrx_237WWzXk521fLRLGgYR2W-IlBbfFiPkLaubzg.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/QTZqu56-pLzGtDGqdQanXOXrLSWMjC450awc3UkKQBJg59MsnHTKKibZoDSz98WMTx8rzsic9EZn_ub0lLbC-6BnC8nQzIsMarwUPG3mY2rzTItWJ7FH-U0xEb871PIX7CE9X1RXyS5knUhhnTr80zkGYJH4wgQc30zS-BCeWewaSu9vEXUTnQbQTheGxpLMZfyyT4yQh-yolmsxAMKY44WP20Gqm9VQ3Qzh-SiRiWIqLbgae_M758b6z6Cz7DnZpoj02nEOrcusakaQbxfgYyxIznum4NJzfREwyYnAFzDG3cZcnBDacszqMaNl6SzViAshuqQKcwLtyT_YgohhdQ.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/DKis6xAQtaEG47bipQUxHTNaO9cBZAtRuY_G0E4c5d2KC1hPqLuXv7Z1s1rat9x7_vWbT34_Tm0qA6uWNTgRAe4NBPHMJ7mKClRjWQkD1C3MDN_ypKQmq6kdJ3DqkkAGURwjBBa1xB810bZ4kheoEiRMTGVx2y2kSC_kUhiwvDtJdh3Gvj4DfA3VA57ByFqxJRhpPYJKEOnf3f2avIvOuUitJKH0VXjrErh0Tcm0Luc_p_PVT8wpPVjGn3EtaV8JSBeHXa2aN4q5p_YqYdqAhpfZ9zs_FIB2H8IzA72mvjoE6JrQhGie0e3tqFDYrpLM6qoH5RX0GV3iBk311005lg.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/BskUaFofQjdi8JJ045Tja-mEt3U7a-ircY6HkLYKEJHGQKv8WDfhooHD1JWHnVLL3zraedK2qt7WQ46SmPud2p1R6Eomj7ZmO2kvZaKkJz4F1EGNOSlvzdUg3-a2Z4EQdYm2iSOp9y80Fb-ZmLy68NoLs97M0afvcM7lV95Me8wtMNk_HLgc1dL7GfRR8mleHsAIhin1Ps8JrU2Hx9SZvFLW4ph1q51ypIte-g-XgT6l5r-SATnJ4wN4ipt-2eD61qPnXbzlO1V68ISM2OhXzX8GsyftZmLO8ezCO997QrkFn-7OQYJLRSSUcpFpMcxtnNBjhX4y7uGeF9qZzl3iMQ.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Vkci32VWxmnWtZrXf_AnQT7DXHN9L7RDS1DxnVCj124TnSE2PNfLSiCFAeLZKHFoK2bDJUR05q3d61IueYBsGLmbmDj79E_dvmcqqSm3QQWM86oeAqO9lT1g8z6BhNAab-R_OIG2yxQxJ2YmY4voVkw1RvPrQyiEF5oD-6spbfFMFGPJC44I8ThwXuV25UlbAJrsl_3-txv4jjkntKEqFqyQ6O99QSSY4E58EigM-Rm9tRrAGxVcbm73U3DSa2ZwkFcfs0PNDQL7Om-AwHTp8h4n3NFZFy2zoSgPQ9M2aUrXu62wdhKGW6hLjU8YmHjQ09JcqVdx91zxU3SOyp_gPw.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ReOmPVnAwQuSvmZOBa5GUtZXOtfcOjBr_6dA6p1dsBU_GXsv5c6MPXuWl2IqfA86r2e57KkVFi4lmU2IMXQOn2fVexVTFb3JE6M1P23qCDHgDsiSldhJEokCUFjB-XrmSj0stLzmMqr3bWGgR_flMHcjM88lMCwHxARR1rSeZUBw3y6Sq6NVoANCZt_kQ8oe_o7VFs-OADbEa5Df7djGYCFDr_GL8uzCl0WQa6rOeVpi2-J4iHb583sFQq9YpjcFFiEWpGV14OJtVxLRk2O3P6853kEaBEJWY70hrPRloI6pNCuXCPXV1bBmcZeMMew2wYB5BO3Le0HNyfzUAmbAAA.jpg"
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/qm6ltLi50nERp0xKU6jd8upLIG4XdamqOEQUgfzkU3HcAFBzRkmUKujcu011ynvQCMjkyK2bUx4WrFwY2a_7Vu3tIPD2STcMkJSTMRQ5Gb5REnuw1toQFBoK3khM0zP8UOofgkglsMS4JmnZtgS3krayGiztvtD8720R9PX6-0b0w7444dFoQDWKwQgv3fzoksuLFjztzP3vk3yKg9lclG9rCqIKiGjUc2dTSGjtTg4bBz3I5_7cnoVSgsFhm-W88mCpGYT4OZ-gfRd7dfRwkM6bsKHYIzJbbL_AQnPy0dFcwtiAKAFC7Msp-M_56gOM_wmBYjnxNVuDw_h50e0UKA",
+          "width": 406
         }
       ]
     },
     {
-      "id": 109848,
-      "message": "بر اساس گزارش رسانه‌های آمریکایی و اسرائیلی، بنیامین نتانیاهو، نخست‌وزیر اسرائیل، خواستار مشارکت آمریکا در عملیات نظامی تازه‌ای علیه جمهوری اسلامی شده است؛ عملیاتی که قرار است طی ۴ تا ۷ روز، با حملات هوایی فشرده و گسترده انجام شود.\u003cbr/\u003e\u003cbr/\u003eگفته می‌شود اهداف احتمالی این طرح شامل تاسیسات هسته‌ای، مراکز نظامی و زیرساخت‌های مرتبط با توان موشکی و پهپادی ایران است.\u003cbr/\u003e\u003cbr/\u003eمقام‌های اسرائیلی مدعی‌اند جمهوری اسلامی در حال بازسازی توانایی‌های نظامی آسیب‌دیده خود است. با این حال، برخی ارزیابی‌های اطلاعاتی اسرائیل با تردید مقام‌های آمریکایی روبه‌رو شده‌اند.\u003cbr/\u003e\u003cbr/\u003eدولت ترامپ هنوز با اجرای این عملیات موافقت نکرده و در حال بررسی پیامدهای احتمالی حمله و واکنش جمهوری اسلامی است.\u003cbr/\u003e\u003cbr/\u003eیکی از نگرانی‌های اصلی، گسترش درگیری به کشورهای منطقه، حملات تلافی‌جویانه به پایگاه‌های آمریکا و زیرساخت‌های انرژی و تشدید بحران در تنگه هرمز است.\u003cbr/\u003e\u003cbr/\u003eاما پرسش اصلی این است: اگر جنگی با برنامه‌ریزی ۴ تا ۷ روزه آغاز شود، چه تضمینی وجود دارد که در همان مدت پایان یابد؟",
-      "date": "2026-11-20T10:58:24Z",
+      "id": 109878,
+      "message": "بر اساس پیش‌بینی‌های تازه مرکز تحقیقاتی پیو، ترکیب مذهبی جمعیت اروپا طی پنج دهه آینده با تغییرات قابل‌توجهی روبه‌رو خواهد شد.\u003cbr/\u003e\u003cbr/\u003eسهم مسیحیان از جمعیت اروپا که در سال ۲۰۲۰ حدود ۶۷ درصد بود، احتمالا تا سال ۲۰۷۰ به ۵۲ درصد کاهش خواهد یافت. در مقابل، پیش‌بینی می‌شود سهم مسلمانان از ۶ درصد به ۱۳ درصد برسد و بیش از دو برابر شود.\u003cbr/\u003e\u003cbr/\u003eهمزمان، جمعیت افرادی که خود را پیرو هیچ دینی نمی‌دانند، از حدود ۲۵ درصد به یک‌سوم جمعیت اروپا افزایش خواهد یافت.\u003cbr/\u003e\u003cbr/\u003eاین تغییرات در کشورهای مختلف یکسان نخواهد بود. برای نمونه، پیش‌بینی می‌شود سهم مسلمانان از جمعیت فرانسه از ۹ به ۲۰ درصد و در آلمان از ۷ به ۱۴ درصد برسد.\u003cbr/\u003e\u003cbr/\u003eمهاجرت، تفاوت نرخ زاد و ولد، ساختار سنی جمعیت و فاصله گرفتن نسل‌های جدید از هویت مذهبی، از عوامل اصلی این تحولات هستند.\u003cbr/\u003e\u003cbr/\u003eاین ارقام پیش‌بینی‌های جمعیت‌شناختی هستند و آینده قطعی اروپا را نشان نمی‌دهند.\u003cbr/\u003e\u003cbr/\u003eبه نظر شما، مهاجرت یا فاصله گرفتن نسل‌های جدید از دین، کدام‌یک نقش مهم‌تری در آینده مذهبی اروپا خواهد داشت؟",
+      "date": "2026-11-20T17:58:50Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5260,
+      "views": 7190,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -58,37 +39,37 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/mYYFufXuG-FwWbrEOfqz8Pmv7zR8Ot_QCgPdtmkJPRcot0rBtTJf53PwwjhE7IifozhoRE5807Z3Gp6uZ0NFfqeNzKFKhrY7uqiz4logoNipnWqWnIHmy1DW7rRUGmdaXSBxMk8a9IMM9p-bepw0WibZdLo3x_AIky81XGP3YxGA_MPfZ7XNBk3dtZcfjoLBqqvPMMCg626pdIva38sqItLFnC-RAmTKtp9dUJcpf1r_ujkZaokj5oiFoeii5keCs9ygJUEiHXODRDfX-pXtC5yjt2XlHwsENhlQCjXDRBebEd0A44G8PZiS9ll0NUCAIijTTgUQX909pAM4_VCGzA.jpg"
+          "url": "https://cdn4.telesco.pe/file/g4hsbxefjV1n2qDHaZadG5grnLG8j1eCedgOqLY1ix48yB9ZAu4bzQS7m92I9Bndk16yR14Dr8ML2lcEV3_ham3YLJdxXWp95wsthPnzm2HhFG0awuGRNJAr82Q5VW6nsdg5JBkH-eTmRwAUtmfaPXsARYSfxZ6bYK0dQkBZdan3Phh6yc-MDEppOW3IkTlwKn0swG9c1m4am-LJRSFMRszjSz2RvdO_L3lqaL2ynJr5fq3NG6Ld4Ya1vmL44yeC2OOKApMfvl34ySnzN07uHMzw7Fvoofjg1UwgRa2uTYouixv4ger2vT9JBvEcMr42s4jaaDMJlXQ279dX0lPHTQ.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/QELXovZuaZAwy9mvn7s4Ehk0M95wwbN01ushzfTIa7ttCy01ZeFFdcwX-8K2UXno36sNYgIEzh0lT_rLJYwY5VCilT_HMv05MTdUHQ7MWCZh4ZGREoXG--bu-mOEJhQodG4f1puE2U43LPsF76PyeCgLRx2cYbXUurLmHutZd3PT3QoOqS4fwW12zvwExBBLUlXAVdDmPfZ3Sp5T3g1ky8Sqa4_AptQWY6Tptlt6bTDWk_fPHHEiDvz7KfymEdP-V92fwfHcDN6pVhxz2WxSLFdG1D89T4Vd3q6y_r2xEQrjrxqGqydKiSq8R23MnAgNlAJKnSY-Pv1IYbtfaIRUrA.jpg"
+          "url": "https://cdn4.telesco.pe/file/YL7GoWLezYyVhwis4grUmHaaxwZJnlrljlpGo4RfcgozEkb0cJEH3KyLVDLe6E0FgDx6Yf-Rn7St0iuSfy-q2zXUvTCpb6Q0Fe8HBY8uy6h9kRlT53F4dxYbSln9NzZOh2wMP2pUQJLW9y-vlyF1UnriwlIksIGWvzYKlHGjJ9JRzl47eU6LQ65kMD8f2xYo73a9T3oFHvAdO8dprQ3v5gDsFrwVf8TEOp2UfvF5KNPdh7NmyNBD5owdRzgB0DrtdhKwEheZLtvBcfTTGRm8oo3wSpki08JSVL-3Bp0N3Rxzu8GLUt_t2_4g6nIDsA1Tt_Y_eHQxCivyslnfkp338w.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/EoXQlHBqR9PVic9ylGOGTe3CtGZu8ypR5chsleiWhsq9hj_teiUR6V7-uxPBNO_a02IFdoOlDr3iNgVFDBPH2KC2rFEbxF_hbq4TppT9bg7LpGxrROurl1X3lqtNG_zJcjS9KmA6aLahx_W-eNU1Rhjm49VD6FEkfgSaJj3PmrEUMOXBQBuayInbyt9KModVrD2_zGbM4Ow869ZDissHL8SjYJarlSy5DHiCboZ0u9ItCL61EqCSIvx72pVNDtRBq0PqOjGDioYm8lZy9roSSa6-ylSLi8NDhId5OsiApROj0rVl0DrOLjQMFFv5NrT8fTb3w1Wdrqe7xwIJwUaeAg.jpg"
+          "url": "https://cdn4.telesco.pe/file/Bjh5SQVlCigm8p6TC3cc_Tdg5jGAVrQYTi7TqpwftrXfr6lm57dPb-zSpLXFDO9rgn5BtcxqNlYRPSNKsTJ0VtE9SuoXnW5oyYaQ-uUEW7Iw_ZNSkL1oUlNJMSC0f-zwYWiyyWBcSirwZde7RrDCiMXsYO9xynNVWbhTbAbRao35SG8DERlgWKDiiM1ZGylUCttpL6CCBHJc-61u9DzNEFnxTFcNpQoM1zPx0TXSjjHo9ROG7KevQKQYJiHqKQ1VOuiPcKZMaugRdjv7YX8JiBrxS8GFiqwdlPKKC2dy_CiRg3F1cLCj2O-wqEf06-pmoNabklF_SQVB47GLoHcNig.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/gALI9xknjkVRn_bt8KLozKBXuhuBNuC04IW4xCJB1aUGgSEGLLTu7nFJgWb8yOT6U223xNufz0SiKob7KJPnRo23avOgjTkV_XUt0ADD4Dc6iYeZ0nwbF4lIFyCfSXPIx0MsI6kb_HEYWfqe6xLVQmR4DARTREPB_tVMmfr6tKm6R7P5VJ4N-oQW_sf9njpn8ltNSEJ37xKJyjPKoRATa5df7de8tzilmOOhPUnnjCG0mrR4ktd_9nlUmbs3MziIajjoJEk4fl-3euChiqtm0vfez2S8zde4rDTzUn3GT-kjRSg7GZX5JhYSInsFWpInAM_eyD8dUpr9iL-LgEcMFQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/jgFvPNDxDMwTSZOrjsQL7_PyvcP1RGz3tkwcaK1nAayBs6Pe4lPItW2fWbKdNmBBi4vc5VPhms3-dRsHyEz3Mlu6M952LwIvAQLozphQoyQPq4Xbq0cmjSPk3wvJ6hbrVqEtYVRyhYyH6182WPRtP44VwzaSpKQ_l_WGm_mY77B7uNA27K5KdjVtgnqpUwOCNuGLECpiPoO-7LY4K_Aw82f6to37luwF6_YdG75hRx_7CeyoYq7D5lve9MVhio-tTIZ5bc2Pq7Q11UqnCsOOVdl6s3oClqFe1AJv-bTUvyb_xMjARmcsasecBcLtP_-jdN_AOvT4D69MmD04kw8lgw.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Zu4l2BQH8YudrrmgxXLHfeak5dVLGq8CO9GdWvaHrV3ou06D3w6oLYXs52PFL_CwOd6vMdUfPDL4fedftJzGj5U3_euGtvXKySjgS1I5WU4aGHVXOgEEkNH-8uJ9wKd650QioV8NNcziAxjpVyKojpvW7fHf-gaBDsMNG6oIk5Mbb5-GwGFEc8U1YvHwWQxJztp7ZT1YzUPKnqLeITl9iIDHPxcdol3Tw_GY02EWXRNj_IWS7LeK0A-jILKne4uvKT-0euv-nx6NPzBDKZlpGnvCac6LsOhWKicNdU3h_w9RnJ91k1QCI5UZat50BlmDvY31FfFiA7A7uSuQxeqAGQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/DnyhczbgOQB5ThMW3PnUr78oNMPnlcNObF9jVjLXUGETkn2-sDopVFwH_pSF0HPvB0IMtzNWZiSBcdhFPfnCQZmGJElJ1D9vHuBu98Oedq9GYW1YphBlFLuAOPH8_GcqWALh37M2ERUHsT7Zq7FFmEolfu-kwWU7Ulnx8EmMpczvE-V_WS4oB5P9O6aF65JUTtUyPWEQyqFv3J4Sc8k7WFdUAEDpdhS6-7nNBHemWUxtOq1myumR5kdfvZExVh3g4TOxuzzh9uJBOp9n8YrxDp6mluoGSjv1K53m1Eyfbm4VgDi_EyJWC92AVGcJAv_6XZaFm86TFNB7pnMgQwGYEw.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/smvsx6WNlIpWLpCWDSkGrGlKC8yfQa1naqD0QCGlUYCCVYGm2vP9XJIpKdD-1Kwex07luUbVC3luH9VxlxeUe47ZnLZS2SinN-d2Iegzu0NOfgkghKJ9qwYJDEZg9EYzY-5RFjJ9dBGrAmNc6liKeIYgI2T_IEkfz3YRHs7jhGipjfwc63aoufA7ARkUJU7VSV7nxvXK4z7ZvSZSId6X5etO7zyMnui_zJqLlEv4cmuBGcB5En2614dzh2LB-dbta13Z4HHKl605f2CEEDVoS29LQ43ebvH9rKYK2YfE7LTEd2W2_P97U9Nfk2M71lER8NHtiPKeF3sXrTXyGYQlHQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/YPSQPrTBScMpuEUo01dSvB9-tyGnAQxFh_BsNHCyoWvuBoHnHQO_kDpYPDhHkP5he7ZxdRgvXE3JayZU3eheKCoXRExaLB7Rd-dC4BbCPh0UU0qUdW428kdW_lUmonpzmuq7ys7edhEnRFtZw38gm9MEKATgGTC2kl2UJRhypzipWB1ufhh56ha-_z1iymvAnZAjXPfOj6ElreA5i_X2sxZ98Ve1hFS0UlfU4Yb8nWlu3f5ncPajPrExhNqZ25WIZuJaxClwlRKOSEMcZ_7XoMGgJCmTQGrB_qFrzL8Mmha4pfQ_Cy8w7J3CTjyO_v8fKF6Sopp1Hcg3qJjF_iGY-w.jpg"
         }
       ]
     },
     {
-      "id": 109854,
-      "message": "ژنرال سر راب مگوون، فرمانده عملیات سایبری و ویژه ارتش بریتانیا، در گفت‌وگوی اختصاصی با اسکای‌نیوز تأیید کرد که لندن علیه دشمنان خود، از جمله جمهوری اسلامی، عملیات سایبری تهاجمی انجام می‌دهد. او جمهوری اسلامی، روسیه، چین و کره شمالی را تهدیدهایی علیه بریتانیا خواند و هشدار داد فعالیت‌های سایبری آن‌ها بی‌هزینه نخواهد ماند.",
-      "date": "2026-11-20T12:28:42Z",
+      "id": 109884,
+      "message": "بر اساس اطلاعات ارائه‌شده از سوی پنتاگون به کنگره آمریکا، هزینه عملیات نظامی واشنگتن علیه جمهوری اسلامی تا ۱۳ نوامبر ۲۰۲۶ به ۴۸ میلیارد و ۳۰۰ میلیون دلار رسیده است.\u003cbr/\u003e\u003cbr/\u003eاین رقم شامل هزینه عملیات نظامی، مهمات مصرف‌شده و جایگزینی تجهیزات نظامی است، اما خسارت ناشی از حملات موشکی و پهپادی ایران به پایگاه‌ها و تاسیسات نظامی آمریکا در خاورمیانه را دربرنمی‌گیرد.\u003cbr/\u003e\u003cbr/\u003eدفتر بودجه کنگره پیش‌تر هزینه جنگ را تا اول اوت حدود ۳۸ میلیارد دلار برآورد کرده بود. رقم جدید پنتاگون ۱۰/۳ میلیارد دلار بیشتر است، هرچند تفاوت روش‌های محاسبه، مقایسه مستقیم دو برآورد را محدود می‌کند.\u003cbr/\u003e\u003cbr/\u003eدر همین حال، ادامه محاصره دریایی ایران روزانه حدود ۳۲/۵ میلیون دلار برای آمریکا هزینه دارد.\u003cbr/\u003e\u003cbr/\u003eبا گذشت نزدیک به ۹ ماه از آغاز جنگ و در شرایطی که هنوز توافق جامعی برای پایان درگیری حاصل نشده، هزینه‌های نظامی و اقتصادی این تقابل همچنان در حال افزایش است.\u003cbr/\u003e\u003cbr/\u003eاما هزینه نهایی جنگ برای مالیات‌دهندگان آمریکایی چقدر خواهد بود و ادامه این فشار مالی چه تاثیری بر تصمیم‌های دولت ترامپ خواهد گذاشت؟",
+      "date": "2026-11-20T21:13:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3030,
+      "views": 1300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,33 +77,41 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/oTBtUddGjHiSqncbPBKgX-sEMMMzXxpYtneyQTaN8ucCUdN9dwJutpYIvmMCBUCuOOqeh1wlvhTFR2n7l9qUF2tDIwtshspjchlai-dA8M1vW7IS0aykeIhV6-XXa5qLJeDrIPF65iJlGCtR9sfSrthh6K_aqwyD5hlneR52y1m2ZJs0qBZQzod-R55PX7vdj6LUnPpgHgyNg0pUUmGtgWVa1hohbQ6ddBY0mpYQByJ-hQ1wyuNRkcaLtE1JayeMQ2ThXqFfL2yYdBRGbwnoqGJ59VGdmFGqEZqAF-gOuUUJdiRrIz3i3-3UpXBrm2hh73enWdfCAXDFqA-s7aO1VQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/ltn0wYSQsf8YkHKYrb3r1hY6clAdDNQEpPVqFWqfh-OgoWnxRyXQtq_7HsLLZal4cZ4GBQ1jeSDq-rSQHYKrVsPkS2HVYoS2szUnuHD4NrLhbnC6p_3qMjlgIwBNnstipTPQGI-MDACxjzof9-ttDiXbAT9r-mu6vFxRG4CUMDyk-fsGYRsOmq-bi9blccmux7hINajuG5BQxiqUw3g58lSXlDT2bvq8-BdXc1SAD-uM-p__ZVcDhlBYIedZW-2NVrJjsQHZ5ZU0Cvrb24tPSp4aV4dXNWdRcDOEQTasOaHq0cbbbIkk_CmuciouWAQsnIpFiED_16SPuGAJlvGynw.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/aAWCn4FyiEYt8SqQ3ULThIsNj87hu3NiTl34EaOlfNxDs1ppuXWdYJnk4i-98G2RXWfRpS-DrmdR0R_tDvzO_v1nBYRvZN5Bn1xEkKAcGP0Aahtg3pfMofAfUz5JWlT0sCyUBPISMisDOf0FWOqk3jMi6J9yER8AiglbstojdX8iNhfxZq5zqal4qUC0xRSyJaghWN6GOlaMmmzM5nYkG_zwt1KxKfIW_D4mPDwOJrdJKpCtG4R6IfzjkSbypIT8A6bvgv9speZlb1gZ2EGNhVr6ruORfkf375TObm7ELlawo2LtwiGS_mx2XCoLDAcFSjH_wgrFJCUbqfOGzi323Q.jpg"
+          "url": "https://cdn4.telesco.pe/file/D5VIYVBt-OFHPLr6R5ka9UjEIwomKvKClDDNmVrVr75v2lqZwCMdMrjP6f2b8njCC94FTEiI4JtuOJMWFZ3DbOHoXTxBKVQzF7D7How2hGh6CrKsDTLcIMOEL28N5RJu8itLMUZZgYbukjnnCt5s5c4YgOuiLLQNGL5MRevrjqk5pd25MBfQ45EYYHj2Q_gT7pbVFNJmppkKQT6ESSEThWj5Y2_stwN_TgOCMkZonemkl5s3K-czfGBQjqTfM9pwhomOQFsHuwOP9EFLy8pLSHivpiNPHaTus4JnxjQs3lSl0h6syVqeDPaMmOThGLpMjZ1NCcE3y2NNuQxselYGPw.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/sgTDwwO1hanV1EJ7NJDHHb8IYwT5KCp7gwNaQrqRAetp0RYKLf_JeOECIaDbneuwTb230_DqMquuLNYzDj7FrvmgM6Dq6YPQERpq0J6ZXn6X-CuLDr-EHb8qh-vNW9mYoekkoVowT9Al20_N_pSJ0_0NF76LI4O7AOEs6T6R4KrddOEJP_JjFRy5hO4zpPSsFh7CHxb_pX3TWSQa2JX_XgvOW_a_TASAR9Na6U2yk0tv8GfVqYQaBAviSnI-WmlEmmhaQtzQgm6IBAuR17X2uT4ThAbRx56Z-AsSuPJwXEBOipa1iGH2ULEAx4lwEEsjndrAZaXcQNjEgBitkIgQiA.jpg"
+          "url": "https://cdn4.telesco.pe/file/L2Vl4w1Xmm3Bb1jU8hPijbcamBg9aasFKQNiyPdk4bi_iAi2bQSqdkorh03YcgrSpJjedoUWqDOSHGvY_iDJkhDpnrhBFwIIVVkdS3qvvj_9_VRFGpdln99VtqXYJuGuB7IZnV-T_A8w2C53UvGH9yI3_XYWEY_h6he97yRW0uLG1tgHdaS8BNA2qox4HikunQ7VxrEy0NDx2kCJSswumL-3KYQHIcXn7GGzNvz-EncVW6ViEdr143Eg9pgMQykPSwqvN08NvxZUEsDAxTwPHGRSZTi1Fp0gmnkE5m22JUWmBTgO1jzX-t3CkOQZpdYUGvY45IKhV4uaOp_79-1J6w.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/vBLcmjBr3mOMdbmC35M8SFgjSam63OgolNgiF7lxqNlrFylszlNHUYGbBp8THaN_rSjQhfmv1FAUcVlTnTWSrv7zNb_QiI64fnG-ObkFOVdJTxiZRlUBiSletWVP_1VcBRBPWSzfPBSroBghRuQofsYq1CxK9a_6hcruvnjhFx8i05B6ycTiYtL4unrZPl_m-0hCGlhYO5Wp17Zjjesomahx6X1sbYwHnzsqqOBNNK1hsNQZ728eRS6kbc18grlTJPfpyRvesxGYDr-8JOS_xYzyxG3HWzz6Iq56aDc3i7MH8Bisw1zGQQGDwMsDJDcqIrzpKE1zPgykuFdY0kW9eA.jpg"
+          "url": "https://cdn4.telesco.pe/file/uq8iOc8lBzE2jcewCUKIs__RH1moa_85ax1NNJmL-M8mYNxRbnni71zbXsrdiOpiK9xJBJlDrvBd1XlgJp_Ny3EcTcYif5INSFqoCUVuJ6-MmC-4zR87fBE6i5aZvaxCxebDaNNILe6s-P4XO_JWm-viFxQY5Bsm5CFSjXcTr3_dduX_qOGu2DwAV_-Efz5P374OXS9k1WVg7k8DwtG19vAfwKRMQ_VGqUEomGQBPxY9MRJbQw-gDZzutl3Sl-LguXc2kSlX3p9gmCnsrYoBMO-y7vd2mUjeaxTT2ADoarbuscub_F_y29RNcplasJsqZB20CKgLPQFLm9cHVR5pRw.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/MeNjqF8Gq-ZrW0F5uKizdh1TGdCcY8kOQ09ZbV0B-tH_V9UEw6P061g_q4rlfnfN8D9wSegcIkRDN2mz9B_f0FOlbkKa0DZGGmtR253mzy2Ba7uud0W3k2aEtywB5YTmnDnF8cqQBKK1kec36l26UNfHPays8W9Ma_jKH3umQA_8PZyIIPSRAUW18Ngx8RHEFLfia1tcly4fqii74HuPlCMy35sj3aHtu5HNT45UUwHyFeH4rxe4ibwPSN4IhtON8ThV88f64xxLh9NnR-O5a8QA1iEbwR8d9P3dZ1G5_zg8ohYV0p0iATUTfKBeikBkqUjz6t3OCbmA6Wx9ydI78Q.jpg"
+          "url": "https://cdn4.telesco.pe/file/BFULSJjRjD0CjbW7z8sNhE7Cj_BFBFygPOkAMQfR6QgyvFjvju14Cb0P3L2NUzljFJL9Hkbtx1Z70ofcRAIenmOwmCGa1OK6CszzFzmIT6iP9sAEDLpvyO7iRik4pn45Y4X6mzl2Ctged84CfMELCZ-rfnpFLkHPZ8LCphNsiYIt8WExc83ptXdjYrDD6h3UvGXFlQFXh_gsAOekEW6JRB6gs23PnJXnv5QNsfNrAd5EZ4199KSzOVrkOG5a7OCqE6FZ2hzqb6zjXzS3Siutj96QDtlHRvn3HiPG2ezqEJcKtOnDqmnAMyJPIdPl54yX809G-4oAatcVqbEhBXISkQ.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/tWAuoqwLWiqgeW3tw1ZsXtBSLXyF6NPPAHWq-VKlBEg_rCtlQ-LCcC6OM-evxLVzwtcpLFh725QRkaeMqpUvINoJrjzttrewE8vtFh77N03MO3HKPipBY2UOsTQxlMUWg8wrnt1PBEF1Lk4V8lIgVbSXXBNHcu0cLYv9jnorbY_PFFNhaa-jUPkUVcp-yiw6-_2-za66Lgvo11-ETEuTCxBMy9C6OHLC0ZdSktWgg7rFx1K8K3Q8S5Iad_AeVSE7ht5_kwIOzMMr7wGMuuyIgp_4YqF1AF27K0D2T9kRxfQ-M6UGN4uJ0zedITSHvC3XdzajzpGH9XXCbpfxNo29Xw.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/nuKx_1E6ugkxPqG3r0GzIxdc0lC9pm75nUkCtwwha3UxxbU5TtexVYsf0GTGpkVftGbDUYpSXvEsAuQrmp9q2Ps0avOF589hp1MMe27T4PBu8NjubjRyaH6hrgsiw1ePM7diFg60TqriMmGVnBThOI5kIozLthKLc8nDzfFwsceaHwnBqnia45a_WGHAEUniZUG0dbf5tx0Ei5jh7XJIPUT9H-LYJ1TAcGGEzNUOZs04tf7cTlT79i_DH6UAnQZ9z9UktHbDhBhpWK9-AXGRFzxhexxXeg7VjCFZ3Ir6O-kk47shgEaCTYaAebOQwilJAiuJtke7xkFXcQJrGdrqvw.jpg"
         }
       ]
     },
     {
-      "id": 109859,
-      "message": "در پی افشای پرونده قاچاق نفت به ارزش صدها میلیون دلار، دولت عراق برای بازپس‌گیری کنترل منطقه جرف‌الصخر از کتائب حزب‌الله وارد عمل شده است. با وجود میانجیگری اسماعیل قاآنی و آغاز استقرار نیروهای دولتی، هنوز مشخص نیست این توافق تا چه اندازه نفوذ شبه‌نظامیان وابسته به جمهوری اسلامی را محدود خواهد کرد.",
-      "date": "2026-11-20T12:58:52Z",
+      "id": 109891,
+      "message": "پژوهشی تازه نشان می‌دهد فعالیت بدنی منظم و آمادگی قلبی و تنفسی ممکن است در کاهش خطر مرگ زودرس نقش مهم‌تری از کیفیت رژیم غذایی به‌تنهایی داشته باشند.\u003cbr/\u003e\u003cbr/\u003eبر اساس بررسی چند دهه تحقیقات علمی که نتایج آن در نشریه Mayo Clinic Proceedings منتشر شده، رژیم غذایی نامناسب با افزایش ۳ تا ۲۰ درصدی خطر مرگ مرتبط بوده است. در مقابل، کم‌تحرک‌ترین افراد در مقایسه با گروه‌های فعال‌تر، با خطر مرگی ۴۶ تا ۱۶۳ درصد بالاتر مواجه بودند.\u003cbr/\u003e\u003cbr/\u003eالبته این ارقام از مطالعات مختلف به دست آمده‌اند و مقایسه مستقیم آنها محدودیت‌هایی دارد.\u003cbr/\u003e\u003cbr/\u003eپژوهشگران تاکید می‌کنند این یافته‌ها به معنای بی‌اهمیت بودن تغذیه سالم نیست، بلکه نشان می‌دهد حتی بهترین رژیم غذایی نیز نمی‌تواند جایگزین فعالیت بدنی شود.\u003cbr/\u003e\u003cbr/\u003eبرای بهره‌مندی از فواید ورزش، نیازی به تمرینات سنگین یا عضویت در باشگاه نیست. پیاده‌روی سریع، دوچرخه‌سواری و فعالیت‌های روزمره نیز می‌توانند به حفظ سلامت کمک کنند.\u003cbr/\u003e\u003cbr/\u003eسازمان جهانی بهداشت به بزرگسالان توصیه می‌کند هفته‌ای ۱۵۰ تا ۳۰۰ دقیقه فعالیت بدنی با شدت متوسط داشته باشند و دست‌کم دو روز در هفته تمرینات تقویت عضلات انجام دهند.\u003cbr/\u003e\u003cbr/\u003eشما برای حفظ سلامتی و افزایش طول عمر، بیشتر به تغذیه توجه می‌کنید یا ورزش؟",
+      "date": "2026-11-20T21:13:55Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 2009,
+      "views": 1600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -130,23 +119,27 @@
       "media": [
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/HWaX9ymvepRJ2liF4l5eO1GvKWB8OuDeROIEdtpjcHjjttPdXgEsWsGPEJ3UvzKAywgiU9PbZm1NrGkqCiehb90OeCmWX_2Uo4tEqnfgM7Fg4z3VSBU-0vtto1lMR4bqyUBi0A9QHX5lak47KvtAWYpgPyYF1A7NR-77NukO4YCyRlBevuJHI7CMf7nNRSffIw0p8lYc1PbHrMZFzlavDNFj_phrB_xynXsnhY2Rc8wHiy-Hq1tVLasNvHH1Fz-hiCTzK2mH_ydgQZFQPQp5NkXBRtkXz4aABqPqYOPOQ56rSN7uopl5ei1XE4XIb78vdqJ8wmyN2h_5zf2385UTFg.jpg"
+          "url": "https://cdn4.telesco.pe/file/v1_2A1zY8IB6TgpFYf0cUqtfznVVX5AWTmCdxxae1Jq1I7-ZUJMmr2-UI45Vc0UrPoA_ujjnVcEmcmudzVpQF5GH4FtjY1NmnHetboxWz2qxtG5LtSCFszKl2oFrYZDPObXg4tai9zqBQOWT9by4Qk2WRsSn2AfN9RyGsj96M1TnGOSQ6WSCO97sR0hgKMxGgoqPdZ1VvkXBKPiGxP7HvyjPRQY4OhYl_v2bdYUBhBnWGnK2KK3EwWUvr8ANSYhSh9Hw-ur-9RBv5HeRlxwblMMKxs88DhXU-anY_OD00w46DtmEd6KgkQFMsSzejSw4uZBJmluSD5sMZ3tOGKsfAA.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/M5J32yzCD-Fby2-nyFK2WoHeTKeLWQC34mFV0ITDL9Z1n3BForzqruVF26CIAKNNpkf3_7RVSiMw_Eev4FciYC0uj3mpHGn8_jJBs1CsY-PkTrmBwkDz1xu2fwnEWcgJrkbIul3Ma6kMVsFzwu6FgpZG2fofeyoW8KpXkD0mLY9RvK5z0TkSINE0e5nCwZgtBpWvr0P1iPCC7-zo8VPY8MeT84zwjqgg5CKxtxExX2bqz5wYmanEdDbJCTNeyIV6wLQN3Xtxd7Ok2_bKwBzRDAVPXDolvDgmLNqjQcPqSeO4RSBf0tG7zOzpRO9FdscjYMm4MFOq3dQno4C4cmnxPA.jpg"
+          "url": "https://cdn4.telesco.pe/file/YQkYpBX_HgD5Y0b4DC5qj4Pc_UR52Ab9hFoDnHwu_V7GIPHbfI-mRQ2LfrpUWaBzMOUc7MHXjZXFvMz1agu67t5WEATkOziBIWmQNEnmxfjRZ4-kslkmauihHBfT7ZvSvH-aUBtol9etEehXcNhR45fKLOm8lPRSvmdYUr4TXobtMG6__O9hkvYqtzSXb8dLbidXAYXGRHLZHqqjjdQYA4YtTgb6Z8TCUZ5E2Bl9pz33ktXCIsmZiYStKcjvC2sSk4nCAKR2udShCjdM4Y6RK08wsECcPV4tGyl-6NZjxCnglzARts0rzsFiPTL2q4bzz5H1JAdFu07tNkmA2ZnQ3g.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/Z4-cU0JKGZkZOjOkmmlyVDVt9PbdC0-vvzWSnaPLN6qm9mCuJ8wcLAVgGPxr2lfx8KuVqnR45ShCcaxBQt4eJ76eG8xhLiHrEqb3Qf4rdnwfdMrkpDhZ_xe_ElABIWlG5cLeI563DkwA0q_BopzcyyfB5VPGjivJ4CI8N-BoWwhUz8nbpX5dFHc2v3l58uzAAleNmr7aFHBkCEdMdSPCYh6IwDxTGbvSaReIzmuDPcLwueIXv3J4giD0gYbwEeqUOUnmKgu9011Bd_EADJ5dDSXf85RV1TQ0wdWWTZDY17G7JSQ14uVqa5ZAxXacA6eiE_pWMcFdbj5cU9ygi9DAQA.jpg"
+          "url": "https://cdn4.telesco.pe/file/rfxxtSbc_oyJZy-fibr0fiDE-UOzKeZqLlyr-Uqcxt5W7xxvFBFHF83EP2UAp_Rr6TcNzfjhnRRhhWeBVu6upPnQeQjJXEHWtxzyAW6tNIFmYwHOvLnovziQOBXxibFh5kKiPbGj8kZRYI4CffyhKmd5LI6me3WRRo-qDntrDIK6LSyqDCKoNPJVudQ2Tnxem7YuQtS7L5oYUPZ-CuN9wZ-d1Vyy4V5T8Ezm69j2-2vFgFZLlR0hz3dM7sFx0mnHOav6l-JYbtxlpBoKy5pb03qW2nBdd-MLRnTve_NdNPamp3IbOvZYD3DXArcdG9kL4IMxAkrRZTd3WBjCtkNQaQ.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/l3TTjjvcBSpHo2M9hibwRmd2qxrHwxCRweuIzbFrM-Iwvuw36U1cq0d5rRnNO4OggElEdgIu5OGXExrG_c7KOwZhtZVCSccdWpsOpygcGa2YBQgROi2PchyMV6mrtrKSRm17_vqD7LeUSMM55X-tUUzJDSQoSxXXYxPNk_08QzaISithaGmruSSNQYCGSCxbveFlprpQUxOJ9Ql3oXu4jjamTMmz9XVzn2YkDP4QBN0ogbd6rmyRx8bBuOmKu-jAU3Fp50vhKAQT-UD0sm6FK7wHKLYg7gmCuZ27OXAxwCvP9BHRyYEqdrfW5UM7lOqqmds0f8Twdvbntd0hKBqV6w.jpg"
+          "url": "https://cdn4.telesco.pe/file/Zvh8ScsK9VBsMeDn_04MFXProwPGd2XJnBAZ0isyN3To88z5Ikkdih2mlIGZpwCbJVHZJasZumxpFqVgE2FDEUfprKtjE4q-hfh1F6Gt94zKJoOjUFk_YtpqA5NrEAgr6jBWkA4Zm9mqrv_hyI8VCpM9bLB-82_zMiJMe0GjLSuNdI9rcMAVUvJo2lG5jzD1cmuGdCIolQQVmloBAGPIpA04snBxr2e_HSIO_5IcmE4uRzxcUz8nKLERHizQ001DJpFxKSqaeMDrD7cgLKMb9guZMK5kltMd166ONC-U5EREasxmuu_KIi7WbNhzn1eTvodhzv5ZH9JKig_cVJiKfw.jpg"
         },
         {
           "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/NK84BDdc4_KyQjAfggoSmFfsG7Wsv4kJEkrZGMI6Dfkmt5NHU7yemSnbEE2Qa5THOL-TgA1FAz2ugPpmfdooGmUFoZES02oKqgdRpwgXwHtGgjTOUqrrvc4SwjETL2YnEDFcYEvzI3t5TQFoUZ_FWQuPEmiKJ-SCQnYbLVZykIoXtS1Pw-h3SC0G5hbg6kOOh-l33HJ52Gfxofv9kBZpj2ZgoBupoAvXLE7ZStygVuIgfGgnyG5PCDU5IsoXSOuN8A1Ztd6Y_3c8ht5C-xbcuT5D4MGpxvxl1tu5LH2d__5v25jCltZjSgCZBE1e5pttKuZg8kZGCXeN0N7vDlltkQ.jpg"
+          "url": "https://cdn4.telesco.pe/file/TtKr8vMJAhwNqV5zxxhAeBYAOYomD0mdKNFShgV3goC6_TqlpAZ-kj8xolL1X9XrlL3v_3zOsefa-D8Un6SPNgIJLPwqNEUFeOFVgCZ5CtgiBWGQkLO6Cj7esGOJMMu59MSE-U1vkDfURJ28cT-xRXd5VoFa0lFMsNPi-6jOV8aGKunPxUojsAE0noGFA8Op2hXC4DD5OiUpB_ueVk39-rl7ZIt8qdINhf2774NrifJcHtDV4hYx0OeMgGMXTsT9sHXx2aE9GnMZsGXVLPk_iy-kGc0X3qb_Ce-b8CbgryLRqtMDadW6isgfQee7a4NqTR3l67P2mKqbr1BYbp8byA.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://cdn4.telesco.pe/file/idZurwOcl3qQXvxdfPF4M88WlaOXabH2t7RsOObsCnG0kAeYZp-dCgByu42eQ_AUFkI7KLDE1fjXI1yEXlD1zHwpSre6aEKNbGFxSSaClkBtUXAP6mfS2-TVWbqR_KiB3Sr6eoiEiR74ohRgeQqVizMNg-08dnt19HxrfsiiuubdVZqy0_0weayfu1GnsUr5ZGWwMKo77C4nIyXY6Q8D8yd_0E4vf0nOxxEodlNTJpfgAs4n0BvnKL27WHWbhYENEcZRr3wfbAgwu9vcwiu6ToXH6855DPJp-lyGMlop-fK40esNz6wOK1Re9wUMots8ZFQHgO5NPRbEJtrFWa2oWw.jpg"
         }
       ]
     }
